@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --ink:#10231f; --ink-deep:#081512; --paper:#f6f8f5; --paper-2:#e9ede7;
+    --green:#17624a; --lift:#8fd9bd; --owed:#9e3220;
+    --rule:#c9d1c7; --rule-dark:#2a4740; --soft:#44564f; --soft-dark:#a7bcb4;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:#555}
+  .slide{
+    width:1080px;height:1350px;position:relative;overflow:hidden;
+    padding:96px 92px;display:flex;flex-direction:column;
+    font-family:"Instrument Sans",sans-serif;
+    background:var(--paper);color:var(--ink);
+  }
+  .slide.dark{background:var(--ink);color:var(--paper)}
+  .slide.deep{background:var(--ink-deep);color:var(--paper)}
+  h1,h2{font-family:"Bricolage Grotesque",sans-serif;font-weight:600;letter-spacing:-.025em;line-height:1.0}
+  .mono{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+
+  .body{flex:1;display:flex;flex-direction:column;justify-content:center}
+  .top{display:flex;align-items:center;justify-content:space-between}
+  .foot{display:flex;align-items:baseline;justify-content:space-between}
+
+  .kicker{font-family:"IBM Plex Mono",monospace;font-size:26px;letter-spacing:.02em;color:var(--soft)}
+  .dark .kicker,.deep .kicker{color:var(--soft-dark)}
+  .mark{font-family:"Bricolage Grotesque",sans-serif;font-weight:700;font-size:30px;letter-spacing:-.03em}
+  .page{font-family:"IBM Plex Mono",monospace;font-size:26px;color:var(--soft)}
+  .dark .page,.deep .page{color:var(--soft-dark)}
+
+  .h-xl{font-size:132px}
+  .h-lg{font-size:104px}
+  .h-md{font-size:84px}
+  .sub{font-size:44px;line-height:1.32;color:var(--soft);margin-top:40px;max-width:21ch}
+  .dark .sub,.deep .sub{color:var(--soft-dark)}
+  .tag{font-family:"IBM Plex Mono",monospace;font-size:34px;letter-spacing:.01em;margin-top:52px;
+       display:inline-block;align-self:flex-start;padding:16px 26px;border:2.5px solid var(--green);border-radius:6px;color:var(--green)}
+  .dark .tag{border-color:var(--lift);color:var(--lift)}
+  .tag.red{border-color:var(--owed);color:var(--owed)}
+
+  .swipe{position:absolute;right:92px;bottom:96px;font-family:"IBM Plex Mono",monospace;
+         font-size:28px;color:var(--lift)}
+
+  .rows{margin-top:16px;border-top:4px solid var(--lift)}
+  .row{display:flex;justify-content:space-between;align-items:baseline;gap:40px;
+       padding:34px 0;border-bottom:2px solid var(--rule-dark)}
+  .row .lab{font-size:38px;line-height:1.25;max-width:17ch}
+  .row .fig{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;
+            font-size:48px;font-weight:500;white-space:nowrap;letter-spacing:-.03em}
+  .fig.red{color:#f0836d}
+  .verdict{margin-top:56px;font-family:"Bricolage Grotesque",sans-serif;font-weight:600;
+           font-size:64px;letter-spacing:-.025em;color:#f0836d}
+
+  .big{font-family:"IBM Plex Mono",monospace;font-size:184px;font-weight:500;
+       line-height:.9;letter-spacing:-.06em;color:var(--green)}
+  .dark .big{color:var(--lift)}
+
+  .cta-name{font-family:"Bricolage Grotesque",sans-serif;font-weight:700;font-size:92px;
+            letter-spacing:-.035em;line-height:1.02}
+  .cta-role{font-family:"IBM Plex Mono",monospace;font-size:30px;color:var(--soft-dark);margin-top:28px}
+  .cta-list{margin-top:64px;font-size:40px;line-height:1.5;color:var(--paper);max-width:24ch}
+  .legal{margin-top:auto;font-size:26px;line-height:1.45;color:var(--soft-dark);max-width:34ch;
+         border-top:2px solid var(--rule-dark);padding-top:30px}
+</style>
+</head>
+<body>
+
+<!-- 1 -->
+<div class="slide dark" id="s1">
+  <div class="top"><span class="mark">The Property Accountant</span><span class="page mono">1/7</span></div>
+  <div class="body">
+    <h1 class="h-xl">The bright-line<br>test is two years.</h1>
+    <p class="sub">Almost everyone counts those two years from the wrong day.</p>
+  </div>
+  <div class="swipe mono">swipe</div>
+</div>
+
+<!-- 2 -->
+<div class="slide" id="s2">
+  <div class="top"><span class="kicker mono">When you buy</span><span class="page mono">2/7</span></div>
+  <div class="body">
+    <h2 class="h-lg">The clock starts the day the title transfers to you.</h2>
+    <span class="tag">= settlement</span>
+  </div>
+</div>
+
+<!-- 3 -->
+<div class="slide" id="s3">
+  <div class="top"><span class="kicker mono">When you sell</span><span class="page mono">3/7</span></div>
+  <div class="body">
+    <h2 class="h-lg">The clock stops the day you <em>sign</em> the sale agreement.</h2>
+    <span class="tag red">not settlement</span>
+    <p class="sub">That gap is where people get caught.</p>
+  </div>
+</div>
+
+<!-- 4 -->
+<div class="slide dark" id="s4">
+  <div class="top"><span class="kicker mono">How it actually counts</span><span class="page mono">4/7</span></div>
+  <div class="body">
+    <div class="rows">
+      <div class="row"><span class="lab">Settled your purchase</span><span class="fig">1 Mar 2024</span></div>
+      <div class="row"><span class="lab">Signed to sell</span><span class="fig">15 Feb 2026</span></div>
+      <div class="row"><span class="lab">Held, in plain English</span><span class="fig">2 years</span></div>
+      <div class="row"><span class="lab">Held, for bright&#8209;line</span><span class="fig red">1 yr 11 mths</span></div>
+    </div>
+    <p class="verdict">So the test applies.</p>
+  </div>
+</div>
+
+<!-- 5 -->
+<div class="slide" id="s5">
+  <div class="top"><span class="kicker mono">The margin</span><span class="page mono">5/7</span></div>
+  <div class="body">
+    <div class="big">14 days</div>
+    <h2 class="h-md" style="margin-top:92px">A fortnight's patience would have changed the answer entirely.</h2>
+  </div>
+</div>
+
+<!-- 6 -->
+<div class="slide" id="s6">
+  <div class="top"><span class="kicker mono">What to do about it</span><span class="page mono">6/7</span></div>
+  <div class="body">
+    <h2 class="h-lg">Check the dates before you list.</h2>
+    <p class="sub">Not after you've signed. By then there is nothing left to decide.</p>
+  </div>
+</div>
+
+<!-- 7 -->
+<div class="slide deep" id="s7">
+  <div class="top"><span class="kicker mono">&nbsp;</span><span class="page mono">7/7</span></div>
+  <div class="body" style="flex:0 0 auto;margin-top:40px">
+    <div class="cta-name">The Property<br>Accountant</div>
+    <div class="cta-role">Chartered Accountant &middot; Auckland</div>
+    <p class="cta-list">Rental property and contractor tax, explained plainly.</p>
+    <div style="margin-top:92px;border-top:4px solid var(--lift);padding-top:48px">
+      <p style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:58px;
+                letter-spacing:-.025em;line-height:1.1;max-width:17ch">Selling a rental this year? Get the dates checked before you list.</p>
+      <p class="mono" style="margin-top:44px;font-size:32px;color:var(--lift)">@theaucklandpropertyaccountant</p>
+    </div>
+  </div>
+  <p class="legal">General information about New Zealand tax rules, current for the 2025&ndash;26 income year. Not advice for your situation.</p>
+</div>
+
+</body>
+</html>
