@@ -43,6 +43,17 @@ Colour meaning is not decorative, so keep it honest: emerald `--green` /
 `--lift` for what the reader keeps or gains, red `--owed` for what they owe or
 lose. Never colour a neutral figure red for emphasis.
 
+## 2b. Where the topic comes from
+
+`queue/` holds the next posts already drafted — slide copy, caption and, for
+each one, a **Verify before building** list naming every figure it asserts and
+the Inland Revenue page to confirm it on. Take the top item whose status in
+`queue/README.md` is `queued`, verify its figures as section 7 below requires,
+then build from its draft. Mark it `posted` in `queue/README.md` when done.
+
+Nothing in `queue/` is pre-verified. A drafted figure is a starting point and a
+pointer to its source, never a number to copy onto a slide unchecked.
+
 ## 3. Render
 
 ```bash
