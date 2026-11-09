@@ -43,8 +43,31 @@ sentence, or skip the post and take the next one — do not publish it unverifie
 | 11 | 2026-12-04 | The bach that sat empty: mixed-use asset rules | Property | queued |
 | 12 | 2026-12-07 | The withholding rate on your invoices is a choice | Contractor | queued |
 | 13 | — | The depreciation you claimed comes back when you sell | Property | bank |
+| 14 | — | Entertainment is half. Your own lunch is nothing. | Contractor | bank |
+| 15 | — | Paying GST on money you have not been paid | Contractor | bank |
+| 16 | — | What underpaying actually costs | Contractor | bank |
+| 17 | — | The invoice that never got paid | Contractor | bank |
+| 18 | — | Investment Boost: 20% off the top of a new asset | Contractor | bank |
 
-Property leads 7 of the 10 drafted, which holds the two-in-three balance.
+### Keeping the mix right
+
+Of the 10 slotted posts, 7 are property, which is the two-in-three the brand
+asks for. The bank is the other way round: 1 property and 5 contractor.
+
+**Do not work through the bank in order.** Five contractor posts in a row is
+two and a half weeks of a property-led feed talking to tradies, and it reads as
+a change of direction rather than a run of good posts. Take a banked contractor
+post when a slot needs filling and the posts around it are property, and
+otherwise space them. If several slots need filling at once, draft property
+topics rather than emptying the bank.
+
+Rough deployment notes, where a post has one:
+
+- 14 (entertainment) — late November or December, Christmas functions.
+- 17 (bad debts) — February or early March, while there is time to act before a
+  31 March balance date.
+- 16 (interest and penalties) — just after a provisional tax instalment date.
+- 15 and 18 — no hook, use any time.
 
 A row marked `bank` has no slot. It has no seasonal hook, so it can go out any
 time a slot needs filling — a held post not yet due, a topic that turns out to
@@ -70,8 +93,8 @@ The task runs every three days, at 6:36pm Auckland, on days 1, 4, 7, 10, 13, 16,
 gap across a month boundary is one to four days rather than three. The dates
 above assume no run is skipped.
 
-**The slotted queue runs out after 7 December 2026**, with post 13 in the bank
-behind it, so the first run with nothing drafted is around 13 December. After
+**The slotted queue runs out after 7 December 2026**, with six posts in the bank
+behind it, so nothing is drafted only from about 25 December. After
 that a run falls through to picking its own topic and says so in its report —
 the designed fallback, not a failure, but a deliberately chosen topic is better.
 Topping up in early December avoids the question.
