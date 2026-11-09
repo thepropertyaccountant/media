@@ -1,0 +1,77 @@
+{
+  "slug": "top5-treks",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Everest Base<br>Camp is a<br>queue.",
+      "sub": "Not a trek. Five long walks with nobody standing in front of you. Opinion.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Snowman Trek",
+      "where": "Bhutan",
+      "note": "347 km over eleven mountain passes, topping out at 5,230 m. Wikipedia rates the difficulty as hard and leaves it at that.",
+      "source": "Snowman Trek. Source: Wikipedia.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Kungsleden",
+      "where": "Sweden",
+      "note": "467 km from Abisko to Hemavan. Huts every 9 to 22 km, except for one stretch of about 130 km with none at all.",
+      "source": "Kungsleden. Huts operated by STF. Source: Wikipedia.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "The full circuit",
+      "where": "Torres del Paine, Chile",
+      "note": "Everyone walks the W: 50 miles, three to five days, shoulder to shoulder. The full O is 81 miles over seven to nine days, and the back half is empty.",
+      "source": "Torres del Paine National Park. Source: Wikipedia.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Alta Via 1",
+      "where": "Dolomites, Italy",
+      "note": "125 km from Pragser Wildsee to Belluno, seven to twelve days, through limestone towers that look computer-generated.",
+      "source": "Alta Via 1. Source: Wikipedia.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Overland Track",
+      "where": "Tasmania, Australia",
+      "note": "Only 65 km and five or six days, but you book a start date and walk north to south. The rationing is what keeps it worth doing.",
+      "source": "Overland Track. Booking system since 2005. Source: Wikipedia.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Everest Base Camp is a queue. It is a famous walk to a car park of tents at the bottom of a mountain you are not climbing, and you will do it in single file.\n\nFive long walks where that does not happen:\n\n01 SNOWMAN TREK, Bhutan — 347 km over eleven mountain passes, high point 5,230 m. Wikipedia rates it hard. It is the one on this list that can genuinely beat you.\n\n02 KUNGSLEDEN, Sweden — 467 km from Abisko to Hemavan through Lapland. Huts every 9 to 22 km, run by the Swedish Tourist Association, apart from one stretch of about 130 km with none.\n\n03 THE FULL CIRCUIT, Torres del Paine, Chile — everybody does the W, 50 miles in three to five days, and it is busy. The full O route is 81 miles over seven to nine days. Same park, same towers, a fraction of the people on the far side.\n\n04 ALTA VIA 1, Dolomites, Italy — 125 km from Pragser Wildsee down to Belluno, seven to twelve days, through the most improbable rock architecture in Europe.\n\n05 OVERLAND TRACK, Tasmania — the short one, 65 km in five or six days. You book a start date and walk north to south, and the limit on numbers is exactly why it stays good.\n\nThis is opinion. The distances are not — those are Wikipedia's.\n\nTell us which one we got wrong, and which trek you would put at number one.",
+  "tags": [
+    "trekking",
+    "hiking",
+    "snowmantrek",
+    "kungsleden",
+    "torresdelpaine",
+    "dolomites",
+    "overlandtrack",
+    "longdistancehiking",
+    "adventuretravel",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

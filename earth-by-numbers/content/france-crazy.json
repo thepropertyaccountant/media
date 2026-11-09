@@ -1,0 +1,69 @@
+{
+  "slug": "france-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "France's<br>longest border<br>is with Brazil.",
+      "sub": "Five stats about a country that is not where you think it is."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "730",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km — the France–Brazil border",
+      "title": "Spain comes second, at 646 km.",
+      "size": "h-sm",
+      "source": "Borders of France. The border runs along French Guiana. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "83,534",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "km² of France in South America",
+      "title": "French Guiana is a department, not a colony. That makes it EU territory.",
+      "size": "h-sm",
+      "source": "French Guiana: 83,534 km², slightly smaller than Austria at 83,871 km². Source: Wikipedia. Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "12",
+      "numsize": "s2",
+      "bg": "",
+      "label": "time zones — more than any other country",
+      "title": "UTC−10 to UTC+12. Thirteen if you count the Antarctic claim.",
+      "size": "h-sm",
+      "source": "Time in France. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Europe launches its rockets from South America.",
+      "sub": "The Guiana Space Centre sits about 5° north of the equator, which takes substantially less energy to reach geostationary orbit. ESA owns the launch infrastructure; CNES manages the land.",
+      "source": "Guiana Space Centre, also called Europe's Spaceport. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "France's longest land border is not with Spain or Germany. It is with Brazil.\n\n730 km of it, along French Guiana. The Spanish border is 646 km. Nothing in metropolitan France comes close.\n\nFRANCE BY NUMBERS\nLongest land border — 730 km, with Brazil\nSecond — 646 km, with Spain\nFrench Guiana — 83,534 km², slightly smaller than Austria\nTime zones — 12, more than any other country on Earth\nRange — UTC−10 to UTC+12\n\nFrench Guiana is not a colony or a territory. It is an overseas department and region of France, which means it is part of the European Union. The euro is legal tender in South America. The European Union has a land border with Brazil.\n\nIt is also why Europe launches its rockets from the Amazon. The Guiana Space Centre at Kourou sits about 5 degrees north of the equator, and the closer you are to the equator the less energy it takes to put something into geostationary orbit. ESA owns the launch infrastructure. Europe's spaceport is in South America, and that is a deliberate choice about physics, not history.\n\nTwelve time zones is the part people argue about. It runs from UTC−10 in French Polynesia to UTC+12 in Wallis and Futuna — thirteen if you count the Antarctic claim.\n\nWhich country did you think had the most time zones?",
+  "tags": [
+    "france",
+    "frenchguiana",
+    "kourou",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "southamerica",
+    "europeanunion",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "bolivia-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Bolivia has<br>a navy and<br>no coastline.",
+      "sub": "Five stats from a country that has never accepted the loss."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "5,000",
+      "numsize": "s3",
+      "bg": "",
+      "label": "naval personnel, in a landlocked country",
+      "title": "They patrol a lake and the rivers that feed the Amazon.",
+      "size": "h-sm",
+      "source": "Bolivian Navy, figure as of 2018, citing the CIA World Factbook. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "1879",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "the year the coast was occupied",
+      "title": "Chile took Antofagasta in February. Bolivia accepted it in the 1884 truce.",
+      "size": "h-sm",
+      "source": "War of the Pacific, 1879–1884. The lost province was the Litoral. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "3,812",
+      "numsize": "s3",
+      "bg": "",
+      "label": "metres above sea level — Lake Titicaca",
+      "title": "8,372 km², the largest lake in South America. This is where the navy sails.",
+      "size": "h-sm",
+      "source": "Lake Titicaca: largest in South America by surface area and by volume. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05 — the myth",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Titicaca is not the highest lake in the world.",
+      "sub": "It is the highest NAVIGABLE lake, and that claim is generally taken to mean commercial craft. The crater lake on Ojos del Salado sits above 6,400 m.",
+      "source": "Lake Titicaca. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Bolivia maintains a navy of roughly 5,000 personnel. Bolivia has no coastline.\n\nIt lost the coast in 1879, when Chile occupied the port of Antofagasta without resistance and took the Litoral province with it. Bolivia signed a truce in 1884 and has been landlocked ever since. The navy was not disbanded. It was reorganised, and it is still there.\n\nBOLIVIA BY NUMBERS\nNaval personnel — about 5,000 (2018)\nCoastline — 0 km\nLand area — 1,098,581 km²\nLand neighbours — 5: Brazil, Paraguay, Argentina, Chile, Peru\nLake Titicaca — 3,812 m above sea level, 8,372 km²\n\nThe fleet patrols Lake Titicaca and thousands of miles of navigable river running into the Amazon basin. Wikipedia puts the purpose plainly: the navy exists to keep alive the hope of recovering the coast.\n\nTwo other things worth knowing. Bolivia has two capitals — Sucre is the constitutional capital and holds the judiciary, La Paz is the seat of government. And since independence the country has lost more than half its territory to its neighbours.\n\nOne correction, because it gets repeated everywhere: Titicaca is not the highest lake on Earth. It is the highest navigable lake, and that claim is generally understood to mean commercial boats. The crater lake on Ojos del Salado sits above 6,400 m. Titicaca is still the largest lake in South America, by surface area and by volume, which is impressive enough without the upgrade.\n\nShould a landlocked country keep a navy?",
+  "tags": [
+    "bolivia",
+    "laketiticaca",
+    "landlocked",
+    "geographyfacts",
+    "southamerica",
+    "didyouknow",
+    "worldfacts",
+    "sucre",
+    "lapaz",
+    "earthbynumbers"
+  ]
+}
