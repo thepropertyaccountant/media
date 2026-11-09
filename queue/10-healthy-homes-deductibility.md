@@ -1,6 +1,10 @@
 # 10 — Healthy Homes work: deductible repair or capital
 
-**Audience:** residential rental owners. **Suggested:** 2027-02-01
+**Audience:** residential rental owners. **Status: HELD until 2027-03-16**
+
+> Held back from the three-day run order: this post only works close to its
+> date. Move it to `queued` in queue/README.md when the slot comes round, and
+> re-verify every figure then — a parked draft goes stale faster, not slower.
 **Source guide:** guides/rental-property-deductions.html
 **Why now:** leads into the 31 March year end, when the timing and
 classification of the spend both still matter.

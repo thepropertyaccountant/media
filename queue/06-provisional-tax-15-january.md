@@ -1,6 +1,10 @@
 # 06 — The 15 January provisional tax instalment
 
-**Audience:** contractors and sole traders. **Suggested:** 2026-12-21
+**Audience:** contractors and sole traders. **Status: HELD until 2027-01-07**
+
+> Held back from the three-day run order: this post only works close to its
+> date. Move it to `queued` in queue/README.md when the slot comes round, and
+> re-verify every figure then — a parked draft goes stale faster, not slower.
 **Source guide:** guides/provisional-tax.html
 **Why now:** this is the whole point of the post. The second instalment for a
 standard 31 March balance date falls on 15 January, in the middle of the

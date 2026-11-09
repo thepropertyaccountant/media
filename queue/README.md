@@ -1,8 +1,15 @@
 # Post queue
 
-Ten drafted carousels, in order. Each run takes the top unposted item, verifies
-the figures listed in its **Verify before building** section, renders, inspects
-and publishes, then marks it posted here and appends it to `POSTED.md`.
+Drafted carousels, in order. Each run takes the top item whose status is
+`queued`, verifies the figures listed in its **Verify before building** section,
+renders, inspects and publishes, then marks it `posted` here and appends it to
+`POSTED.md`.
+
+A row marked `held` is **skipped** — it is drafted but deliberately parked until
+its date is closer. Do not take a held item just because it is next in the
+table. A row marked `to write` has no draft file yet; if a run reaches one,
+treat the queue as empty for that run and pick a fresh topic as the task prompt
+describes.
 
 ## Why these are drafted and not pre-rendered
 
@@ -23,33 +30,45 @@ sentence, or skip the post and take the next one — do not publish it unverifie
 
 ## Run order
 
-| # | Expected slot | Topic | Audience | Status |
+| File | Expected slot | Topic | Audience | Status |
 | --- | --- | --- | --- | --- |
 | 01 | 2026-11-10 | The $60,000 GST test is a rolling 12 months | Contractor | queued |
 | 02 | 2026-11-13 | Ring-fencing: why a rental loss will not cut your salary tax | Property | queued |
 | 03 | 2026-11-16 | The chattels schedule nobody set up at purchase | Property | queued |
 | 04 | 2026-11-19 | Home office: the square metre rate against actual costs | Contractor | queued |
 | 05 | 2026-11-22 | The main home exclusion to the bright-line test | Property | queued |
-| 06 | 2026-11-25 | The 15 January provisional tax instalment | Contractor | queued |
-| 07 | 2026-11-28 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
-| 08 | 2026-12-01 | Vehicle claims: kilometre rates against actual costs | Contractor | queued |
-| 09 | 2026-12-04 | The intention test outlives the bright-line period | Property | queued |
-| 10 | 2026-12-07 | Healthy Homes work: deductible repair or capital | Property | queued |
+| 07 | 2026-11-25 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
+| 08 | 2026-11-28 | Vehicle claims: kilometre rates against actual costs | Contractor | queued |
+| 09 | 2026-12-01 | The intention test outlives the bright-line period | Property | queued |
+| — | 2026-12-04 | *(replacement for the held provisional tax post)* | Property | to write |
+| — | 2026-12-07 | *(replacement for the held Healthy Homes post)* | Contractor | to write |
 
-Property leads 6 of 10, which holds the two-in-three balance.
+Property leads 5 of the 8 drafted, which holds the two-in-three balance. The two
+slots still to write should be one property and one contractor to keep it there.
+
+### Held back
+
+Both are fully drafted and ready; only their timing was wrong at this cadence.
+Move each back to `queued` when its slot comes round, and re-verify its figures
+then as usual — a draft parked for months is more likely to have gone stale, not
+less.
+
+| File | Hold until | Topic | Why held |
+| --- | --- | --- | --- |
+| 06 | 2027-01-07 | The 15 January provisional tax instalment | Only useful in the week or two before 15 January. At the three-day cadence it would have gone out 25 November, seven weeks early. |
+| 10 | 2027-03-16 | Healthy Homes work: deductible repair or capital | Written to lead into the 31 March year end, when the timing of the spend still matters. Would have gone out 7 December. |
 
 The task runs every three days, at 6:36pm Auckland, on days 1, 4, 7, 10, 13, 16,
 19, 22, 25, 28 and 31 of each month. Cron restarts that count at the 1st, so the
 gap across a month boundary is one to four days rather than three. The dates
 above assume no run is skipped.
 
-**At this cadence the queue is exhausted around 7 December 2026.** Two of the ten
-were written for a date that no longer matches: post 06 (the 15 January
-provisional tax instalment) now lands in late November, far too early to be
-useful, and post 10 (Healthy Homes, written to lead into the 31 March year end)
-lands in early December. Both should be held back and re-slotted nearer their
-dates, with something else taking their place in the run order — or re-angled so
-the timing hook is dropped. Worth deciding before the queue reaches them.
+**The drafted queue runs out after 1 December 2026.** The two slots after that
+are marked `to write` and have no draft behind them. If nothing has been written
+by then, the run will fall through to picking its own topic and will say so in
+its report — that is the designed fallback, not a failure, but a deliberately
+chosen topic is better. Topping the queue up before late November avoids the
+question entirely.
 
 ## Build notes learned from earlier runs
 
