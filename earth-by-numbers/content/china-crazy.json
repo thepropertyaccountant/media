@@ -1,0 +1,68 @@
+{
+  "slug": "china-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "China spans five<br>time zones and<br>uses one.",
+      "sub": "Five stats from a country that treats the clock as a political question."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "5",
+      "bg": "",
+      "label": "geographical time zones, one clock",
+      "title": "Beijing Time, UTC+8, covers all of them.",
+      "size": "h-sm",
+      "source": "Time in China, which calls it the largest sovereign nation officially observing only one time zone. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "UTC+6",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "Xinjiang Time — unofficial",
+      "title": "Two time standards run side by side out west. The offset is shared with Kyrgyzstan.",
+      "size": "h-sm",
+      "source": "Time in China. Listed by IANA as Asia/Urumqi, marked unofficial. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "14",
+      "numsize": "s2",
+      "bg": "",
+      "label": "sovereign neighbours, not 16",
+      "title": "The dataset lists 16. Two of them are Hong Kong and Macau, which are China's own.",
+      "size": "h-sm",
+      "source": "Dataset: mledoze/countries (CC-BY-SA). Wikipedia's Russia article names 14 for Russia. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Third largest country on Earth, measured three ways.",
+      "sub": "Wikipedia's infobox says 9,596,961 km². Its own lead rounds to 9.6 million. The countries dataset says 9,706,961. They are measuring different things.",
+      "source": "China. Dataset: mledoze/countries (CC-BY-SA). Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "China is about 5,000 km wide and runs on one clock.\n\nBeijing Time, UTC+8, applies from the Pacific coast to the Pamirs. Wikipedia calls China the largest sovereign nation in the world that officially observes only one time zone. It had five until the end of the Second World War, and geographically it still spans five.\n\nCHINA BY NUMBERS\nGeographical time zones — 5\nOfficial time zones — 1, UTC+8\nXinjiang Time — UTC+6, used unofficially and in parallel\nSovereign neighbours — 14\nCapital — Beijing. Largest city by urban area — Shanghai\n\nOut in Xinjiang, two time standards run side by side. The official clock is Beijing Time; a lot of people keep Xinjiang Time, two hours behind, which happens to be the same offset as Kyrgyzstan next door. Both are in use. Neither is wrong there.\n\nOne correction on the neighbour count, because we nearly got it wrong ourselves. The country dataset we check borders against lists 16 for China. Two of those are Hong Kong and Macau, which are China's own territories, not countries. The real figure is 14 sovereign neighbours — the same number Wikipedia's Russia article lists for Russia.\n\nAnd the area, which has no single right answer: 9,596,961 km² in Wikipedia's infobox, \"9.6 million\" in its lead, 9,706,961 in the dataset. Different definitions of what counts, not a mistake.\n\nIf your country had one time zone, who would be getting up in the dark?",
+  "tags": [
+    "china",
+    "timezones",
+    "xinjiang",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "asia",
+    "beijing",
+    "earthbynumbers"
+  ]
+}

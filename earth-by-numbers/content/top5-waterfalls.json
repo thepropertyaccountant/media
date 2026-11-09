@@ -1,0 +1,77 @@
+{
+  "slug": "top5-waterfalls",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Niagara is a<br>car park with<br>a waterfall.",
+      "sub": "Opinion. Five falls where you are not queueing for the viewing platform.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Angel Falls",
+      "where": "Canaima, Venezuela",
+      "note": "979 m total with an 807 m plunge: the world's tallest uninterrupted waterfall, though its own article concedes Tugela Falls may be taller. A flight, then a boat.",
+      "bg": "",
+      "source": "Angel Falls, in Canaima National Park. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Kaieteur Falls",
+      "where": "Guyana",
+      "note": "A 226 m single drop and one of the most powerful single-drop waterfalls in the world. The airstrip is a fifteen-minute walk from the top.",
+      "bg": "ink",
+      "source": "Kaieteur Falls: 660 m³/s in the infobox, 663 in the body. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Iguazu Falls",
+      "where": "Argentina and Brazil",
+      "note": "The infobox says 275 drops. The body says the number runs from 150 to 300 depending on the water level. Either way: 2.7 km of edge, drops up to 82 m.",
+      "bg": "",
+      "source": "Iguazu Falls, inscribed 2013; the two parks in 1984 and 1986. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Dettifoss",
+      "where": "Iceland",
+      "note": "Only 44 m high and 100 m wide, but 193 m³/s goes over it. Reputed second most powerful in Europe, and only second largest in Iceland by volume.",
+      "bg": "ink",
+      "source": "Dettifoss, behind Urriðafoss on volume. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Ban Gioc–Detian",
+      "where": "China and Vietnam",
+      "note": "A 30 m drop straddling the border, 272 km north of Hanoi. Called the fourth largest waterfall along a national border, after Iguazu, Victoria and Niagara.",
+      "bg": "",
+      "source": "Ban Gioc–Detian Falls. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Niagara is a car park with a waterfall in it. Enormous flow, genuinely impressive, and you will see it over four hundred shoulders from a railing with a gift shop behind you.\n\nFive where that does not happen. This is opinion; the numbers are Wikipedia's.\n\n01 ANGEL FALLS, Venezuela — 979 m total, with a single plunge of 807 m, which its article calls the world's tallest uninterrupted waterfall. It also admits there is still uncertainty over whether Angel Falls or Tugela Falls in South Africa is taller. Reaching it means flying to Canaima camp and then taking a river boat.\n\n02 KAIETEUR FALLS, Guyana — a 226 m single drop over a sandstone cliff, described as one of the most powerful single-drop waterfalls in the world. Average flow is 660 m³/s in the infobox and 663 in the body. The airstrip is about a fifteen-minute walk from the top, which is the best access-to-spectacle ratio on this list.\n\n03 IGUAZU FALLS, Argentina and Brazil — the infobox says 275 drops and the body says the count fluctuates between 150 and 300 with the water level. There is 2.7 km of edge and drops of up to 82 m. The falls were inscribed by UNESCO in 2013; the Argentine and Brazilian parks in 1984 and 1986.\n\n04 DETTIFOSS, Iceland — 44 m high, 100 m wide, 193 m³/s. Reputed to be the second most powerful waterfall in Europe after the Rhine Falls, and only the second largest in Iceland by volume, behind Urriðafoss. Small numbers, serious noise.\n\n05 BAN GIOC–DETIAN, China and Vietnam — a 30 m drop that straddles the border, 272 km north of Hanoi. Its article ranks it the fourth largest waterfall along a national border, after Iguazu, Victoria and Niagara. Which does put Niagara back on a list, fairly.\n\nTell us which one we got wrong, and which waterfall you would put first.",
+  "tags": [
+    "waterfalls",
+    "angelfalls",
+    "kaieteur",
+    "iguazufalls",
+    "dettifoss",
+    "travelinspo",
+    "naturephotography",
+    "geographyfacts",
+    "worldfacts",
+    "adventuretravel",
+    "earthbynumbers"
+  ]
+}

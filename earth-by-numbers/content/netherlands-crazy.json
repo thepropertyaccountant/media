@@ -1,0 +1,69 @@
+{
+  "slug": "netherlands-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "The highest point<br>in the Netherlands<br>is in the Caribbean.",
+      "sub": "Five stats from a country that is partly 7,000 km away."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "870",
+      "numsize": "s3",
+      "bg": "",
+      "label": "metres — Mount Scenery, Saba",
+      "title": "The highest point in the Kingdom, and in the Netherlands itself since 2010.",
+      "size": "h-sm",
+      "source": "Mount Scenery, on Saba, Caribbean Netherlands. The Netherlands Antilles were dissolved on 10 October 2010. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "322",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "metres — the Vaalserberg",
+      "title": "The highest ground in the European Netherlands. Saba is more than 500 metres higher.",
+      "size": "h-sm",
+      "source": "Netherlands, which gives 322.4 m for the Vaalserberg. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "26%",
+      "numsize": "s3",
+      "bg": "",
+      "label": "of the country is below sea level",
+      "title": "The name means lower countries. It is not a figure of speech.",
+      "size": "h-sm",
+      "source": "Netherlands. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "There are 22 Belgian exclaves inside the Netherlands.",
+      "sub": "Baarle-Hertog is 26 separate parcels of land. Dutch enclaves sit inside the Belgian ones — the article says seven, then describes an eighth.",
+      "source": "Baarle-Hertog. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The highest point in the Netherlands is a volcano in the Caribbean.\n\nMount Scenery, on the island of Saba, reaches 870 m. Since the Netherlands Antilles were dissolved on 10 October 2010, Saba has been a special municipality of the Netherlands, which makes that summit the highest point not just of the Kingdom but of the country.\n\nNETHERLANDS BY NUMBERS\nHighest point — Mount Scenery, 870 m, on Saba\nHighest point in Europe — the Vaalserberg, 322.4 m\nBelow sea level — 26% of the country\nBelgian exclaves inside Dutch territory — 22\nLand borders — 2: Belgium and Germany\n\nThe European high point, the Vaalserberg, is 322.4 m. Saba is more than 500 metres higher. The Caribbean Netherlands is Bonaire, Sint Eustatius and Saba, classed in Dutch law as public bodies rather than municipalities, which is a distinction the law cares about more than anyone else does.\n\nThen there is Baarle. The Belgian municipality of Baarle-Hertog is 26 separate parcels of land, 22 of which sit entirely inside the Netherlands. Inside those Belgian exclaves sit Dutch enclaves. Wikipedia says there are seven, and then in the next sentence describes an eighth. Its own table lists eight. We are not going to pretend to settle it.\n\nOne figure we will not give you is the total area. The article says 41,865 km² in the infobox, 41,850 in the body, and 41,543 for the European part alone.\n\nWhich country's highest point would surprise you most?",
+  "tags": [
+    "netherlands",
+    "saba",
+    "caribbeannetherlands",
+    "baarlehertog",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "europe",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "norway-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "The most remote<br>island on Earth<br>is Norwegian.",
+      "sub": "Five stats from a country with territory in both polar regions."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "49",
+      "numsize": "s2",
+      "bg": "",
+      "label": "km² — Bouvet Island",
+      "title": "Ninety-three percent glacier, uninhabited, 1,700 km from the nearest land.",
+      "size": "h-sm",
+      "source": "Bouvet Island, called the world's most remote island. The nearest land is Queen Maud Land, Antarctica. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 03",
+      "bg": "ink",
+      "size": "h-sm",
+      "title": "Norway claims 2,700,000 km² of Antarctica.",
+      "sub": "Queen Maud Land, held as a dependent territory. In June 2015 Norway formally claimed the gap between it and the South Pole. The Antarctic Treaty System suspends all such claims while it holds.",
+      "source": "Queen Maud Land. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "196",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km of border with Russia",
+      "title": "Norway's shortest land border. Sweden is 1,619 km, Finland 727 km.",
+      "size": "h-sm",
+      "source": "Norway; the border article gives 195.7 km of land border. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "28,953 km of coast. Or 100,915 km.",
+      "sub": "The first is the mainland including fjords. The second adds the islands, of which Norway has 239,057 registered. Both figures sit on the same page.",
+      "source": "Norway. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The most remote island in the world belongs to Norway, and nothing lives on it.\n\nBouvet Island is 49 km² of rock in the South Atlantic, ninety-three percent of it under glacier, uninhabited. The nearest land is Queen Maud Land in Antarctica, about 1,700 km south. Wikipedia calls it the world's most remote island without hedging.\n\nNORWAY BY NUMBERS\nBouvet Island — 49 km², 93% glacier, uninhabited\nNearest land to it — 1,700 km away, and it is Antarctica\nQueen Maud Land — 2,700,000 km² claimed\nBorder with Russia — 196 km, the shortest of three\nCoastline — 28,953 km, or 100,915 km with the islands\n\nNorway holds three dependencies, all of them polar or subpolar: Bouvet Island, Peter I Island and Queen Maud Land. Queen Maud Land alone is a claim on 2,700,000 km² of Antarctica — eight times the Norwegian mainland. In June 2015 Norway formally claimed the wedge between it and the South Pole, closing a gap left open since 1939. All of it is suspended under the Antarctic Treaty System, which parks every territorial claim for as long as the treaty holds.\n\nThe land borders are Sweden at 1,619 km, Finland at 727 km, and Russia at 196 km. The border article gives the Russian land section as 195.7 km, plus 23.2 km of marine border in the Varangerfjord.\n\nThe coastline figure depends entirely on what you count. The mainland including fjords is 28,953 km. Add the islands — there are 239,057 registered — and it becomes 100,915 km. The coastal baseline, which is the straight-line version, is 2,532 km.\n\nWhich is the honest way to measure a coastline?",
+  "tags": [
+    "norway",
+    "bouvetisland",
+    "queenmaudland",
+    "antarctica",
+    "arctic",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

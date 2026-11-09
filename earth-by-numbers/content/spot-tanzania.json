@@ -1,0 +1,105 @@
+{
+  "slug": "spot-tanzania",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "A crater with<br>25,000 animals<br>living inside it.",
+      "sub": "Tanzania, where the famous mountain is not even the best statistic.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Dodoma"
+        ],
+        [
+          "Land area",
+          "945,087 km²"
+        ],
+        [
+          "Land borders",
+          "8"
+        ],
+        [
+          "Official languages",
+          "Swahili, English"
+        ],
+        [
+          "Currency",
+          "Tanzanian shilling"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Ngorongoro",
+          "note": "The world's largest inactive, intact and unfilled caldera. 610 m deep, floor 260 km²."
+        },
+        {
+          "name": "Kilimanjaro",
+          "note": "5,895 m, and the highest free-standing mountain above sea level in the world."
+        },
+        {
+          "name": "Lake Tanganyika",
+          "note": "The world's longest freshwater lake, holding 16% of its available fresh water."
+        }
+      ],
+      "source": "Ngorongoro Conservation Area; Mount Kilimanjaro; Lake Tanganyika. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Kilimanjaro has nearly lost its ice.",
+      "size": "h-sm",
+      "sub": "Almost 85 percent of the ice cover disappeared between October 1912 and June 2011, falling from 11.40 km² to under 1 km². The article's projections for the rest do not agree with each other.",
+      "source": "Mount Kilimanjaro. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "Ngorongoro Crater",
+          "note": "About 25,000 large animals live on the floor, most of them ungulates."
+        },
+        {
+          "name": "Kilimanjaro",
+          "note": "Three cones: Kibo at the summit, Mawenzi at 5,149 m, Shira at 4,005 m."
+        },
+        {
+          "name": "Lake Tanganyika",
+          "note": "1,471 m deep, second only to Baikal. Tanzania holds 46% of the lake."
+        }
+      ],
+      "source": "Ngorongoro Conservation Area; Mount Kilimanjaro; Lake Tanganyika. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "There is a crater in Tanzania with about 25,000 large animals living inside it.\n\nNgorongoro is described as the world's largest inactive, intact and unfilled volcanic caldera. It is 610 metres deep and its floor covers 260 km², and the roughly 25,000 large animals on that floor are mostly ungulates. They are in there because the walls are 610 m high, not because anyone put them there.\n\nTANZANIA BY NUMBERS\nLand area — 945,087 km²\nLand neighbours — 8\nNgorongoro — 610 m deep, floor 260 km², about 25,000 large animals\nKilimanjaro — 5,895 m\nLake Tanganyika — 1,471 m deep, 16% of the world's available fresh water\n\nKilimanjaro is the headline and it is a strange mountain: not part of a range, rising 4,900 m above its own plateau base, and described as the highest free-standing mountain above sea level in the world. It is three volcanic cones — Kibo at the top, Mawenzi at 5,149 m and Shira at 4,005 m. Surveys have put the summit at 5,892 m in 1999, 5,902 m in 2008 and 5,899 m in 2014, which tells you something about measuring mountains.\n\nLake Tanganyika is the one that deserves more attention. It is the world's longest freshwater lake and the second deepest, after Baikal in both cases, at 1,471 m. It holds 16% of the world's available fresh water, is shared between Tanzania, the DRC, Burundi and Zambia, and Tanzania has 46% of it.\n\nThe ice is the sad number. Almost 85 percent of Kilimanjaro's ice cover went between October 1912 and June 2011, from 11.40 km² down to under 1 km².\n\nCrater floor or summit — which one would you spend the week on?",
+  "tags": [
+    "tanzania",
+    "ngorongoro",
+    "kilimanjaro",
+    "laketanganyika",
+    "safari",
+    "eastafrica",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

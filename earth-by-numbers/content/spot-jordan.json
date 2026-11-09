@@ -1,0 +1,105 @@
+{
+  "slug": "spot-jordan",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The lowest point<br>on Earth is<br>getting lower.",
+      "sub": "Jordan, where the lowest land in the world is also shrinking.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Amman"
+        ],
+        [
+          "Land area",
+          "89,342 km²"
+        ],
+        [
+          "Land borders",
+          "5"
+        ],
+        [
+          "Official language",
+          "Arabic"
+        ],
+        [
+          "Currency",
+          "Jordanian dinar"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Wadi Rum",
+          "note": "721 km² of protected desert, a UNESCO site since 2011, and Jordan's largest wadi."
+        },
+        {
+          "name": "The Dead Sea",
+          "note": "Salinity of 342 g/kg in 2011, which Wikipedia puts at 9.6 times the ocean."
+        },
+        {
+          "name": "Jerash",
+          "note": "Greek and Roman architecture on a scale the article says is unmatched outside Italy."
+        }
+      ],
+      "source": "Wadi Rum; Dead Sea; Jerash. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "The lowest land on Earth will not hold still.",
+      "size": "h-sm",
+      "sub": "The Dead Sea article gives its surface as 439.78 m below sea level in 2025. Jordan's own article says 420 m. The lake covered 1,050 km² in 1930 and covers 605 km² now.",
+      "source": "Dead Sea; Jordan. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "Petra",
+          "note": "The Nabataean city, and the reason most visitors come to Jordan at all."
+        },
+        {
+          "name": "Aqaba",
+          "note": "Jordan's whole coastline is 26 km, on the Gulf of Aqaba. Otherwise it is landlocked."
+        },
+        {
+          "name": "Jerash",
+          "note": "Absorbed into the Roman province of Arabia in AD 106. Nicknamed the Pompeii of the East."
+        }
+      ],
+      "source": "Jordan; Jerash. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The lowest land on Earth is in Jordan, and it is getting lower.\n\nThe Dead Sea article puts the lake's surface at 439.78 m below sea level as of 2025, and calls its shores the lowest land-based elevation on Earth. Jordan's own article says 420 m. Both are on Wikipedia. The reason they disagree is that the lake is receding fast: 1,050 km² of surface in 1930, 605 km² today.\n\nJORDAN BY NUMBERS\nLand area — 89,342 km²\nLand neighbours — 5\nCoastline — 26 km, all of it on the Gulf of Aqaba\nDead Sea surface — 439.78 m below sea level in 2025\nDead Sea salinity — 342 g/kg in 2011, or 9.6 times the ocean\n\nThat salinity is why you float. It is also why the water is 304 m deep and holds nothing alive, which makes it, in Wikipedia's words, the deepest hypersaline lake in the world. The article gives 304 m in the body and 298 m in the infobox, so take your pick.\n\nWadi Rum is 721 km² of protected sandstone desert, a UNESCO World Heritage Site since 2011 and the largest wadi in the country. Lawrence of Arabia was filmed there in 1962, which the article credits with kick-starting Jordanian tourism, and Rogue One was shot there more recently.\n\nJerash is the one people skip. It is described as one of the largest and best-preserved sites of Greek and Roman architecture in the world outside Italy, absorbed into the Roman province of Arabia in AD 106, and nicknamed the Pompeii of the East. Settlement on the site goes back to human remains dated around 7500 BC.\n\nPetra or Jerash — which would you give the extra day to?",
+  "tags": [
+    "jordan",
+    "petra",
+    "wadirum",
+    "deadsea",
+    "jerash",
+    "middleeast",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

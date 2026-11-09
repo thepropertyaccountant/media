@@ -1,0 +1,105 @@
+{
+  "slug": "spot-ecuador",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The point farthest<br>from Earth's centre<br>is not Everest.",
+      "sub": "It is in Ecuador, and it sticks out 2.1 km further.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Quito"
+        ],
+        [
+          "Land area",
+          "276,841 km²"
+        ],
+        [
+          "Land borders",
+          "2 — Colombia, Peru"
+        ],
+        [
+          "Official language",
+          "Spanish"
+        ],
+        [
+          "Currency",
+          "US dollar (USD)"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Chimborazo",
+          "note": "6,263 m above the sea, and 6,384.4 km from the centre of the Earth."
+        },
+        {
+          "name": "The Galápagos",
+          "note": "127 islands, 19 of them over a square kilometre, out in the Pacific."
+        },
+        {
+          "name": "Quito",
+          "note": "At 2,850 m, either the highest or second-highest capital, depending on Bolivia."
+        }
+      ],
+      "source": "Chimborazo; Galápagos Islands; Quito. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Ecuador's money is the US dollar.",
+      "size": "h-sm",
+      "sub": "Adopted on 13 April 2000, with the sucre eliminated that September. Ecuador is also one of seventeen megadiverse countries, with 1,600 bird species on the mainland and 38 more endemic to the Galápagos.",
+      "source": "Ecuador. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "Chimborazo",
+          "note": "An ice-capped inactive volcano. Last known eruption around AD 550."
+        },
+        {
+          "name": "The Galápagos",
+          "note": "A World Heritage Site since 1978, carrying UNESCO reference number 1."
+        },
+        {
+          "name": "Quito",
+          "note": "Its historic centre was among the first sites UNESCO declared, in 1978."
+        }
+      ],
+      "source": "Chimborazo; Galápagos Islands; Quito. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The farthest point on the Earth's surface from the Earth's centre is not Everest. It is a volcano in Ecuador.\n\nChimborazo is 6,263 m above sea level, which is nowhere near Everest's 8,849 m. But it sits almost on the equator, where the planet bulges, so its summit is 6,384.4 km from the centre of the Earth — 2.1 km further out than Everest's summit, at 6,382.3 km. Measured from the middle rather than from the sea, Chimborazo wins.\n\nECUADOR BY NUMBERS\nLand area — 276,841 km² in the dataset, 283,561 km² on Wikipedia\nLand neighbours — 2\nChimborazo — 6,263 m high, 6,384.4 km from Earth's centre\nQuito — 2,850 m above sea level\nCurrency — the US dollar, since 13 April 2000\n\nHuascarán in Peru is a very close second, by either 20 or 40 metres depending on which footnote you read, and the article admits the margins of error in both summit elevations make the question hard to settle outright. We will take the claim as stated and flag the asterisk.\n\nQuito is the other place the numbers get slippery. At 2,850 m the article calls it \"either the highest or the second-highest national capital city in the world\" — if La Paz counts as Bolivia's capital, La Paz tops the list; if Sucre does, Quito does. Its historic centre was one of the first sites UNESCO ever declared, in 1978, alongside Kraków.\n\nEcuador also uses the US dollar, adopted on 13 April 2000 after the sucre was eliminated that September, and is one of seventeen megadiverse countries, with 1,600 bird species on the mainland alone.\n\nDoes height mean above the sea, or out from the centre?",
+  "tags": [
+    "ecuador",
+    "chimborazo",
+    "quito",
+    "galapagos",
+    "andes",
+    "southamerica",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

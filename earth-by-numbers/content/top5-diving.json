@@ -1,0 +1,77 @@
+{
+  "slug": "top5-diving",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The Barrier Reef<br>is not the dive<br>you think it is.",
+      "sub": "Opinion. Five places where the water is doing something a brochure cannot.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Raja Ampat",
+      "where": "West Papua, Indonesia",
+      "note": "1,508 fish species and 537 coral species recorded; Konservasi Indonesia calls the diversity here the highest recorded on Earth. The same page says 600 and 1,700 elsewhere.",
+      "bg": "",
+      "source": "Raja Ampat Islands. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Sipadan",
+      "where": "Sabah, Malaysia",
+      "note": "The only oceanic island in Malaysia, rising 600 m straight off the seabed, with a limestone cave beneath it called the turtle tomb. Entry needs a Sabah Parks permit.",
+      "bg": "ink",
+      "source": "Sipadan, closed for a month in November 2023 to let the reef recover. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Silfra",
+      "where": "Þingvellir, Iceland",
+      "note": "A rift between the North American and Eurasian plates, filled with Langjökull meltwater at 2–4 °C. In the Cathedral you can see nearly the whole 100 m fissure.",
+      "bg": "",
+      "source": "Silfra. Dived in a dry suit. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Revillagigedo",
+      "where": "Mexico",
+      "note": "Socorro and its neighbours: a UNESCO site since 2016 inside a 150,000 km² protected area. No tourism facilities and no fresh water, so you live on the boat.",
+      "bg": "ink",
+      "source": "Revillagigedo Islands. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Palau",
+      "where": "Micronesia",
+      "note": "The Rock Islands became a World Heritage Site in 2012, and in 2015 Palau protected 80% of its waters — the first country to do it.",
+      "bg": "",
+      "source": "Palau. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The Great Barrier Reef is not the dive you think it is. It is 2,300 km long, most operators work the same accessible fraction of it, and a lot of people come up having seen a bleached patch from a day boat full of snorkellers.\n\nFive places where the water is doing something specific. Opinion; the numbers are Wikipedia's.\n\n01 RAJA AMPAT, Indonesia — 1,508 fish species and 537 coral species recorded, and Konservasi Indonesia is quoted saying marine surveys suggest the marine life diversity here is the highest recorded on Earth. The same article elsewhere says more than 600 hard corals and more than 1,700 reef fish, so even the inventory cannot keep up. It sits in the Coral Triangle.\n\n02 SIPADAN, Malaysia — the only oceanic island in Malaysia, rising 600 m straight off the seabed on an extinct volcanic cone, with a limestone cave underneath known as the turtle tomb. Green and hawksbill turtles nest there. Visiting requires a permit from Sabah Parks, and the island was closed for a month in November 2023 to let the ecosystem recover.\n\n03 SILFRA, Iceland — a rift in the Mid-Atlantic Ridge, the boundary between the North American and Eurasian plates, filled with groundwater that started as meltwater from Langjökull and seeped through porous lava rock. It is 2 to 4 °C, dived in a dry suit, and in the section called the Cathedral you can see almost the full 100 m of fissure end to end.\n\n04 REVILLAGIGEDO, Mexico — Socorro and its neighbours, inscribed in July 2016 and sitting inside a protected area of 150,000 km². There are no tourism facilities and no reliable fresh water on the islands, so visitors stay aboard expedition vessels. Cetaceans, sharks and manta rays.\n\n05 PALAU — the Rock Islands became a World Heritage Site in 2012, and in 2015 Palau officially protected 80% of its water resources, which the article says made it the first country to do so.\n\nWhich dive have you done that ruined every dive after it?",
+  "tags": [
+    "scubadiving",
+    "rajaampat",
+    "sipadan",
+    "silfra",
+    "palau",
+    "socorro",
+    "divetravel",
+    "travelinspo",
+    "worldfacts",
+    "adventuretravel",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "denmark-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "In 2022 Denmark<br>got a new land<br>border. With Canada.",
+      "sub": "Five stats from a kingdom that is almost entirely somewhere else."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "1,280",
+      "numsize": "s3",
+      "bg": "",
+      "label": "metres of Canada–Denmark border",
+      "title": "It crosses Hans Island, 1.3 km² of bare rock in the Arctic.",
+      "size": "h-sm",
+      "source": "Hans Island: agreed 11 June 2022, signed 14 June, ratified by the Folketing 19 December 2023. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "68",
+      "numsize": "s2",
+      "bg": "ink",
+      "sea": true,
+      "label": "km — the border with Germany",
+      "title": "Until 2022 that was the only land border the kingdom had.",
+      "size": "h-sm",
+      "source": "Denmark. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 04",
+      "bg": "",
+      "size": "h-sm",
+      "title": "Denmark is 43,094 km². Greenland is 2,166,086 km².",
+      "sub": "Same kingdom. Wikipedia puts the whole realm at about 2.2 million km², and calls Greenland the world's largest island.",
+      "source": "Denmark; Greenland. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "The dispute was conducted in bottles.",
+      "sub": "Danish crews left a flag and a bottle of schnapps. Canadian crews left a flag and a bottle of Canadian Club. It ran for decades and was called the Whisky War.",
+      "source": "Hans Island. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Denmark acquired a new land border in 2022, and it is with Canada.\n\nHans Island is 1.3 km² of bare rock in the Arctic, claimed by both countries since the 1970s. On 11 June 2022 the Danish, Greenlandic, Canadian and Nunavut governments agreed to split it. The agreement was signed on 14 June and ratified by the Danish parliament on 19 December 2023. The result is an international land border 1,280 m long.\n\nDENMARK BY NUMBERS\nCanada–Denmark border — 1,280 m, across Hans Island\nGermany border — 68 km, and until 2022 the only one\nDenmark — 43,094 km²\nGreenland — 2,166,086 km², the world's largest island\nThe whole kingdom — about 2.2 million km²\n\nThat last set of numbers is the real story. Metropolitan Denmark is an archipelago of 406 islands and a peninsula, and it is about two percent of the kingdom it governs. Greenland is the rest.\n\nThe best part is how the dispute was run. Danish naval crews landing on the rock left a flag and a bottle of schnapps. Canadian crews came back and left a flag and a bottle of Canadian Club. This went on for decades and got called the Whisky War, which is the most civilised territorial conflict on record and probably the only one anybody misses.\n\nWe left out one number on purpose. Greenland's ice cover is 81% on the Greenland article and 79% on the Kingdom of Denmark article, and we are not picking a side.\n\nWould you rather settle a border dispute in court or in bottles?",
+  "tags": [
+    "denmark",
+    "greenland",
+    "hansisland",
+    "canada",
+    "arctic",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "top5-deserts",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Everyone names<br>the Sahara. Few<br>see any of it.",
+      "sub": "Opinion. Five deserts with something specific to look at. One of them is not a desert.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Dasht-e Lut",
+      "where": "Iran",
+      "note": "The hottest land surface ever recorded: 70.7 °C by satellite in 2005. That is the ground, not the air, which may have been 30–54 °C at the time.",
+      "bg": "",
+      "source": "Dasht-e Lut: MODIS on NASA's Aqua satellite, 2003–2010. 51,800 km², UNESCO 2016. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Lençóis Maranhenses",
+      "where": "Brazil",
+      "note": "Dunes that fill with freshwater lagoons from January to June. It is not a desert: the rain is about 1,200 mm a year and deserts get under 250 mm.",
+      "bg": "ink",
+      "source": "Lençóis Maranhenses National Park. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Simpson Desert",
+      "where": "Australia",
+      "note": "The world's longest parallel sand dunes, some ridges unbroken for 200 km, topping out at Big Red at 40 m. No maintained roads cross it, and it closes for summer.",
+      "bg": "",
+      "source": "Simpson Desert, closed over summer since 2008–09. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Taklamakan",
+      "where": "China",
+      "note": "337,000 km², which its own article calls slightly smaller than Germany. Below −20 °C in winter, up to 40 °C in summer. Two highways and a railway cross it.",
+      "bg": "ink",
+      "source": "Taklamakan Desert, 15th largest desert by area. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Wadi Rum",
+      "where": "Jordan",
+      "note": "721 km² of protected sandstone, a UNESCO site since 2011. Lawrence of Arabia was shot here in 1962, which the article credits with starting Jordanian tourism.",
+      "bg": "",
+      "source": "Wadi Rum Protected Area. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The Sahara is the desert everyone can name and the one you are least likely to see properly. It is 9 million square kilometres and most trips are a camel, a camp and a dune you share with a coach party.\n\nFive deserts with something specific to go and look at. Opinion, except the figures.\n\n01 DASHT-E LUT, Iran — the hottest land surface temperature ever recorded, 70.7 °C, measured by the MODIS instrument on NASA's Aqua satellite in 2005. Read that carefully: it is the temperature of the ground, not the air, which the article says could have been anywhere from 30 to 54 °C. As of 2020 there were no permanent weather stations in the desert at all. 51,800 km², a World Heritage Site since 2016.\n\n02 LENÇÓIS MARANHENSES, Brazil — the ringer. It looks like a desert and it is not one: the rain is about 1,200 mm a year and the definition of a desert is under 250 mm. Between January and June the valleys between the dunes fill with freshwater lagoons, and about 60,000 people a year go to swim in them.\n\n03 SIMPSON DESERT, Australia — an erg containing the world's longest parallel sand dunes, some ridges running unbroken for up to 200 km. The biggest, Nappanerica or Big Red, is 40 m. No maintained roads cross it, four-wheel drives must carry extra fuel and water, and it has been closed over summer since 2008–09.\n\n04 TAKLAMAKAN, China — 337,000 km², which its article helpfully describes as slightly smaller than Germany. Winter can drop below −20 °C and summer reach 40 °C. Very little water, hazardous to cross, and now crossed by two highways and a railway anyway.\n\n05 WADI RUM, Jordan — 721 km² of protected sandstone, a World Heritage Site since 2011 and the largest wadi in Jordan. Lawrence of Arabia was filmed there in 1962, and the article credits those desert scenes with kick-starting the country's tourism industry.\n\nWhich desert did we leave out that belongs at number one?",
+  "tags": [
+    "deserts",
+    "dashtelut",
+    "lencoismaranhenses",
+    "simpsondesert",
+    "taklamakan",
+    "wadirum",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "adventuretravel",
+    "earthbynumbers"
+  ]
+}

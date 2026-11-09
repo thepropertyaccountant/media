@@ -1,0 +1,68 @@
+{
+  "slug": "papua-new-guinea-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-lg",
+      "title": "840 languages.<br>Or 839. Or 832.",
+      "sub": "Five stats from the most linguistically diverse country on Earth, which cannot settle its own headline number."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "840",
+      "numsize": "s2",
+      "bg": "",
+      "label": "known spoken languages",
+      "title": "The lead says 840. The infobox says 839. A prime minister said 832 in 2006.",
+      "size": "h-sm",
+      "source": "Papua New Guinea; Languages of Papua New Guinea, citing Ethnologue. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "4",
+      "bg": "ink",
+      "sea": true,
+      "label": "languages with statutory recognition",
+      "title": "Tok Pisin, English, Hiri Motu and PNG Sign Language. No law actually proclaims an official language.",
+      "size": "h-sm",
+      "source": "Languages of Papua New Guinea. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "14%",
+      "numsize": "s3",
+      "bg": "",
+      "label": "living in urban centres, 2023",
+      "title": "462,840 km², one land border, and almost nobody in a town.",
+      "size": "h-sm",
+      "source": "Papua New Guinea. The land border is with Indonesia. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Highlands valleys were unseen from outside until the 1930s.",
+      "sub": "Prospectors exploring them found valleys holding over a million people. Aerial surveys in the 1950s found more. Some tribes were uncontacted by Westerners until the 1960s and 1970s.",
+      "source": "Papua New Guinea. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Papua New Guinea has 840 languages. Or 839. Or 832. Its own encyclopedia entry cannot decide.\n\nThe lead of the Wikipedia article says 840 known spoken languages, \"making it the most linguistically diverse country in the world.\" The infobox on the same page says 839. The languages article says 840, citing Ethnologue, and then quotes a former prime minister saying 832 in 2006 — languages, he specified, not dialects. The spread is not sloppiness. It is what happens when you have to decide where a dialect ends and a language begins, eight hundred times.\n\nPAPUA NEW GUINEA BY NUMBERS\nKnown spoken languages — 840, or 839, or 832\nLanguages with statutory recognition — 4\nArea — 462,840 km²\nLand borders — 1, with Indonesia\nUrban population — 14% in 2023\n\nThe four recognised languages are Tok Pisin, English, Hiri Motu and Papua New Guinean Sign Language. There is a footnote worth reading: no specific legislation actually proclaims official languages in Papua New Guinea at all.\n\nMount Wilhelm, at 4,509 m, is the highest point, and the summit is where three provinces meet.\n\nThe geography explains the languages. Prospectors exploring the highlands in the 1930s found inhabited valleys holding over a million people that nobody outside had seen. Aerial surveys in the 1950s found more of them. Some tribes remained uncontacted by Westerners until the 1960s and 1970s. Put enough mountains between enough valleys for long enough and you get eight hundred languages.\n\nHow many languages are spoken in your country, properly counted?",
+  "tags": [
+    "papuanewguinea",
+    "languages",
+    "linguistics",
+    "tokpisin",
+    "geographyfacts",
+    "didyouknow",
+    "worldfacts",
+    "oceania",
+    "melanesia",
+    "earthbynumbers"
+  ]
+}

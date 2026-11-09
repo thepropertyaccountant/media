@@ -1,0 +1,105 @@
+{
+  "slug": "spot-montenegro",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Montenegro uses<br>the euro without<br>being in the euro.",
+      "sub": "A country smaller than Northern Ireland, with a canyon over a kilometre deep.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Podgorica"
+        ],
+        [
+          "Land area",
+          "13,812 km²"
+        ],
+        [
+          "Land borders",
+          "5"
+        ],
+        [
+          "Official language",
+          "Montenegrin"
+        ],
+        [
+          "Currency",
+          "Euro (EUR)"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The Bay of Kotor",
+          "note": "A ria — a drowned river canyon — 28 km long, with 107.3 km of shoreline."
+        },
+        {
+          "name": "Durmitor",
+          "note": "Eighteen glacial lakes called the mountain eyes, under Bobotov Kuk at 2,523 m."
+        },
+        {
+          "name": "The Tara canyon",
+          "note": "1,333 m at its deepest, which is a serious figure for a country this size."
+        }
+      ],
+      "source": "Bay of Kotor; Durmitor; Tara River Canyon. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "The Tara is not the deepest canyon in Europe.",
+      "size": "h-sm",
+      "sub": "Its own article says deepest in continental Europe, and second in Europe behind the Sulak Canyon. The depth is 1,333 m in the infobox and 1,300 m in the body. Durmitor's page drops the hedge entirely.",
+      "source": "Tara River Canyon; Durmitor. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past the coast",
+      "bg": "",
+      "items": [
+        {
+          "name": "Kotor",
+          "note": "The Natural and Culturo-Historical Region of Kotor, a UNESCO site since 1979."
+        },
+        {
+          "name": "Durmitor",
+          "note": "National park founded in 1952, World Heritage Site since 1980."
+        },
+        {
+          "name": "Podgorica",
+          "note": "Capital of a country that voted itself into existence on 21 May 2006."
+        }
+      ],
+      "source": "Bay of Kotor; Durmitor; Montenegro. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Montenegro spends euros and is not in the eurozone.\n\nIt adopted the Deutsche Mark in the late 1990s and then moved to the euro along with Germany, without ever joining the currency union that issues it. Wikipedia's phrasing is flat: it \"adopted the euro, although not part of the Eurozone.\"\n\nMONTENEGRO BY NUMBERS\nLand area — 13,812 km² in the dataset, 13,883 km² on Wikipedia\nLand neighbours — 5\nBay of Kotor — 28 km long, 107.3 km of shoreline\nTara canyon — 1,333 m deep\nIndependence referendum — 21 May 2006, 55.5% in favour\n\nThe independence vote is worth the detail. The EU set a 55% threshold, and the result came in at 55.5% — 230,661 votes for and 185,002 against. The electoral commission reckoned the threshold was cleared by about 2,300 votes. Parliament declared independence on 3 June 2006.\n\nThe Bay of Kotor gets called a fjord constantly. It is not one, and its article does not even use the word: it is a ria, the drowned canyon of the vanished Bokelj River, 28 km long with 107.3 km of shoreline and a maximum depth of 60 m. The Natural and Culturo-Historical Region of Kotor has been a World Heritage Site since 1979.\n\nInland, Durmitor has eighteen glacial lakes nicknamed Gorske Oči, the mountain eyes, and a high point of 2,523 m at Bobotov Kuk. The national park dates from 1952 and was inscribed in 1980.\n\nAnd the Tara canyon, which everyone including us wanted to call the deepest in Europe. Its own article says deepest in continental Europe, second in Europe behind the Sulak Canyon in Dagestan. We will take 1,333 m and leave the title alone.\n\nWhich small country punches furthest above its weight?",
+  "tags": [
+    "montenegro",
+    "kotor",
+    "durmitor",
+    "taracanyon",
+    "balkans",
+    "adriatic",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

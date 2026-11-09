@@ -1,0 +1,77 @@
+{
+  "slug": "top5-volcanoes",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Vesuvius is a<br>day trip, not<br>a volcano.",
+      "sub": "Opinion. Five that are actually doing something while you stand there.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Mount Yasur",
+      "where": "Tanna, Vanuatu",
+      "note": "361 m, erupting nearly continuously for several hundred years. Its glow is what drew Captain Cook to the island in 1774.",
+      "bg": "",
+      "source": "Mount Yasur. The government publishes alert levels 0–5, and an eruption may occur at any level. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Stromboli",
+      "where": "Aeolian Islands, Italy",
+      "note": "Almost continuous eruption for the past 2,000 to 5,000 years, which earned it the name Lighthouse of the Mediterranean. A hiker near the summit was killed in 2019.",
+      "bg": "ink",
+      "source": "Stromboli: 924 m in the infobox, 926 m in the body. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Ijen",
+      "where": "Java, Indonesia",
+      "note": "Blue flames up to five metres high, from sulphuric gas igniting at up to 600 °C. The crater lake is the largest highly acidic one in the world.",
+      "bg": "",
+      "source": "Ijen. The lake was measured below pH 0.3 in 2001. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Villarrica",
+      "where": "Chile",
+      "note": "2,860 m, and one of only a small number of volcanoes worldwide with an active lava lake in the crater — intermittent, in this case. Guided climbs go from Pucón.",
+      "bg": "ink",
+      "source": "Villarrica. Climbs are suspended for cloud or volcanic activity. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Pacaya",
+      "where": "Guatemala",
+      "note": "Dormant for over 70 years, then erupting vigorously from 1961 and frequently since. One of Central America's most active volcanoes over the last 500 years.",
+      "bg": "",
+      "source": "Pacaya, 2,552 m. Increased unrest reported from early 2026. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Vesuvius is a day trip. You take a bus to a car park, walk up a gravel path, look into a quiet crater and go and see Pompeii, which is the actual reason you came.\n\nFive volcanoes that are doing something while you are standing there. Opinion; figures from Wikipedia.\n\n01 MOUNT YASUR, Vanuatu — 361 m, and erupting nearly continuously for several hundred years. The glow is what attracted Captain Cook to Tanna in 1774. It is easy to reach and usually safe to approach, and the Vanuatu government publishes alert levels from 0 to 5 with the note that an eruption may occur at any of them.\n\n02 STROMBOLI, Italy — in almost continuous eruption for the past 2,000 to 5,000 years, which is how an island gets called the Lighthouse of the Mediterranean. Treat it seriously: a hiker near the summit was killed by flying debris in July 2019, and the highest alert level was issued again in July 2024.\n\n03 IJEN, Java — the blue fire is ignited sulphuric gas emerging from cracks at up to 600 °C, with flames up to five metres high, and the article calls it the largest blue flame area in the world. The crater lake is the largest highly acidic one on Earth, measured below pH 0.3. Two hundred miners carry 75 to 90 kg loads 300 m up to the rim, which is the part of the trip worth thinking about.\n\n04 VILLARRICA, Chile — 2,860 m, one of a small number of volcanoes anywhere with an active lava lake in the crater, though an intermittent one. Guided climbs run from Pucón and get suspended for cloud or activity. In 2015 an eruption forced 3,385 people out of nearby towns.\n\n05 PACAYA, Guatemala — dormant for over 70 years, then erupting vigorously from 1961 and frequently ever since, and one of Central America's most active volcanoes over the last 500 years. Unrest picked up again in early 2026.\n\nWhich volcano have you actually stood on, and was it worth it?",
+  "tags": [
+    "volcanoes",
+    "mountyasur",
+    "stromboli",
+    "ijen",
+    "villarrica",
+    "pacaya",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "adventuretravel",
+    "earthbynumbers"
+  ]
+}

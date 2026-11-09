@@ -1,0 +1,77 @@
+{
+  "slug": "top5-castles",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Neuschwanstein is<br>a fantasy, not<br>a fortress.",
+      "sub": "Opinion. Its foundation stone was laid in 1869 and the fortifications were left out on purpose.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Malbork Castle",
+      "where": "Poland",
+      "note": "The world's largest brick castle on completion in 1406, enclosing 21 hectares — four times the area inside Windsor. Built by the Teutonic Order.",
+      "bg": "",
+      "source": "Malbork Castle, a World Heritage Site since 1997. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Himeji Castle",
+      "where": "Japan",
+      "note": "Eighty-three buildings, intact for almost 700 years. Himeji burned in the Second World War and the castle survived. Earthquakes have left it virtually undamaged.",
+      "bg": "ink",
+      "source": "Himeji Castle, inscribed 11 December 1993. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Mehrangarh",
+      "where": "Jodhpur, India",
+      "note": "Walls up to 36 m high and 21 m wide, standing about 122 m above the plains. Founded in 1459 by Rao Jodha of the Rathore clan.",
+      "bg": "",
+      "source": "Mehrangarh. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Hohensalzburg",
+      "where": "Austria",
+      "note": "250 m by 150 m, which its article says makes it one of the largest medieval castles in Europe, and one of the best preserved. Construction began in 1077.",
+      "bg": "ink",
+      "source": "Hohensalzburg Fortress. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Alcázar of Segovia",
+      "where": "Spain",
+      "note": "Its page says this silhouette inspired the castle in Disney's Snow White of 1937. Neuschwanstein's page claims Sleeping Beauty and Cinderella instead.",
+      "bg": "",
+      "source": "Alcázar of Segovia, part of the Old Town of Segovia, UNESCO 1985. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Neuschwanstein is a fantasy, not a fortress. The foundation stone went down on 5 September 1869, it was commissioned by Ludwig II as a retreat and a tribute to Wagner, and its own article notes that real fortifications — the single most important feature of a medieval aristocratic estate — were dispensed with. It is a 19th-century historicist palace that looks like a castle, visited by 1.3 million people a year, or almost 1.5 million, depending which paragraph of the page you read.\n\nFive castles that were built to be fought over. Opinion; figures from Wikipedia.\n\n01 MALBORK CASTLE, Poland — on completion in 1406 the world's largest brick castle, and still the largest brick complex in Europe. The outer walls enclose 21 hectares, four times the area inside Windsor Castle. Built by the Teutonic Order; a World Heritage Site since 1997.\n\n02 HIMEJI CASTLE, Japan — 83 buildings of storehouses, gates, corridors and turrets, with defensive systems from the feudal period. It has stood almost 700 years. Most of the surrounding city burned to the ground in the Second World War and the castle came through intact; earthquakes have left it virtually undamaged. Registered on 11 December 1993.\n\n03 MEHRANGARH, India — walls up to 36 m high and 21 m wide, on a hilltop about 122 m above the plains of Jodhpur. The foundation was decided on 12 May 1459, under Rao Jodha of the Rathore clan.\n\n04 HOHENSALZBURG, Austria — 250 m long and 150 m wide, which its article says makes it one of the largest medieval castles in Europe and one of the best preserved. Construction began in 1077 under Archbishop Gebhard von Helfenstein.\n\n05 ALCÁZAR OF SEGOVIA, Spain — and a loose end. Its page says this castle's silhouette inspired the one in Disney's Snow White and the Seven Dwarfs of 1937. Neuschwanstein's page says it inspired Sleeping Beauty Castle and Cinderella Castle. Both are stated flatly. They cannot both be the castle people mean.\n\nWhich castle actually impressed you in person?",
+  "tags": [
+    "castles",
+    "malbork",
+    "himejicastle",
+    "mehrangarh",
+    "hohensalzburg",
+    "segovia",
+    "neuschwanstein",
+    "travelinspo",
+    "worldfacts",
+    "history",
+    "earthbynumbers"
+  ]
+}

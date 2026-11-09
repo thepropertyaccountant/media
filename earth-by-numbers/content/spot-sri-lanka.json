@@ -1,0 +1,105 @@
+{
+  "slug": "spot-sri-lanka",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Sri Lanka has<br>two capitals and<br>neither is obvious.",
+      "sub": "One makes the laws. The other does everything else.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital, per dataset",
+          "Colombo"
+        ],
+        [
+          "Land area",
+          "65,610 km²"
+        ],
+        [
+          "Land borders",
+          "None"
+        ],
+        [
+          "Official languages",
+          "Sinhala, Tamil"
+        ],
+        [
+          "Currency",
+          "Sri Lankan rupee"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Sigiriya",
+          "note": "A citadel on a 180 m granite column, built under King Kashyapa in the 5th century."
+        },
+        {
+          "name": "Adam's Peak",
+          "note": "2,243 m, and holy to Buddhists, Hindus, and some Muslims and Christians at once."
+        },
+        {
+          "name": "The endemism",
+          "note": "27% of its 3,210 flowering plants and 22% of its mammals exist nowhere else."
+        }
+      ],
+      "source": "Sigiriya; Adam's Peak; Sri Lanka. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Colombo is not the legislative capital.",
+      "size": "h-sm",
+      "sub": "Sri Jayawardenepura Kotte is. Wikipedia lists Colombo as the executive and judicial capital and the largest city, and its neighbour as the legislative one. The dataset we check against lists only Colombo.",
+      "source": "Sri Lanka. Source: Wikipedia. Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past the beaches",
+      "bg": "",
+      "items": [
+        {
+          "name": "Sigiriya",
+          "note": "Inscribed by UNESCO in 1982. The site sits 349 m above sea level."
+        },
+        {
+          "name": "Adam's Peak",
+          "note": "Climbed between December and May. The pilgrimage season peaks in April."
+        },
+        {
+          "name": "Pidurutalagala",
+          "note": "The highest point in the country, 2,524 m, above the hill-country tea towns."
+        }
+      ],
+      "source": "Sigiriya; Adam's Peak; Sri Lanka. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Sri Lanka has two capitals, and the one you have heard of is not the legislative one.\n\nSri Jayawardenepura Kotte holds the legislature. Colombo is the executive and judicial capital and the largest city, and the article calls it the political, financial and cultural centre of the country. The countries dataset we check against lists only Colombo, which is how this sort of thing quietly becomes wrong everywhere.\n\nSRI LANKA BY NUMBERS\nLand area — 65,610 km² in the dataset, 67,240 km² on Wikipedia\nCoastline — 1,585 km\nLand borders — none\nHighest point — Pidurutalagala, 2,524 m\nEndemic share — 27% of 3,210 flowering plants, 22% of mammals\n\nThe endemism is the real reason to go. Sri Lanka and the Western Ghats of India were among the first eighteen global biodiversity hotspots named, on the strength of species found nowhere else, and the article claims the highest biodiversity per unit area of any Asian country for flowering plants and every vertebrate group except birds. On birds it is honest about the dispute: some ornithologists accept 33 endemics, others only 27.\n\nSigiriya is a citadel on a granite column about 180 m high, built out into a city and fortress under King Kashyapa, who reigned 477 to 495 CE. UNESCO inscribed it in 1982.\n\nAdam's Peak is 2,243 m and is revered by four religions at once. The footprint at the top is the Buddha's in Buddhist tradition, Hanuman's or Shiva's in Sri Lankan Hindu tradition, and Adam's or St Thomas the Apostle's in some Islamic and Christian ones. Climbing season runs December to May and peaks in April.\n\nWhich country's second capital city caught you out?",
+  "tags": [
+    "srilanka",
+    "sigiriya",
+    "adamspeak",
+    "colombo",
+    "biodiversity",
+    "southasia",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

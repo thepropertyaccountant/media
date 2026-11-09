@@ -1,0 +1,105 @@
+{
+  "slug": "spot-laos",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Laos is the most<br>heavily bombed<br>country per head.",
+      "sub": "Wikipedia's framing, not ours. Also the only landlocked country in Southeast Asia.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Vientiane"
+        ],
+        [
+          "Land area",
+          "236,800 km²"
+        ],
+        [
+          "Land borders",
+          "5"
+        ],
+        [
+          "Coastline",
+          "None — landlocked"
+        ],
+        [
+          "Currency",
+          "Lao kip (LAK)"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The Plain of Jars",
+          "note": "Over 2,100 stone jars across 129 confirmed sites, placed as early as 1240–660 BC."
+        },
+        {
+          "name": "Luang Prabang",
+          "note": "A World Heritage Site since 1995, for Lao architecture beside colonial streets."
+        },
+        {
+          "name": "Si Phan Don",
+          "note": "The name means four thousand islands. The article will not commit to a count."
+        }
+      ],
+      "source": "Plain of Jars; Luang Prabang; Si Phan Don. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Eighty million bombs in Laos never went off.",
+      "size": "h-sm",
+      "sub": "Between 1964 and 1973 the US dropped more than 2 million tons on Laos, nearly as much as all the bombs dropped in the Second World War. The leftovers still kill or maim about 50 people a year.",
+      "source": "Laos. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Vientiane",
+      "bg": "",
+      "items": [
+        {
+          "name": "Luang Prabang",
+          "note": "Thirty-odd Buddhist temples in a town small enough to walk end to end."
+        },
+        {
+          "name": "Xiangkhouang",
+          "note": "The Plain of Jars. UNESCO inscribed the megalithic jar sites in 2019."
+        },
+        {
+          "name": "Si Phan Don",
+          "note": "Mekong islands in the far south, half of them submerged when the river floods."
+        }
+      ],
+      "source": "Luang Prabang; Plain of Jars; Si Phan Don. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Laos is, in Wikipedia's own words, the most heavily bombed country in history relative to the size of its population.\n\nBetween 1964 and 1973 the United States dropped more than 2 million tons of bombs on it — nearly as much as all the bombs dropped during the Second World War, and The New York Times is quoted putting it at nearly a ton for every person in Laos. Some 80 million of them failed to explode and are still in the ground. Unexploded ordnance kills or maims about 50 people a year.\n\nLAOS BY NUMBERS\nLand area — 236,800 km²\nLand neighbours — 5: China, Myanmar, Thailand, Cambodia, Vietnam\nCoastline — none, the only landlocked country in Southeast Asia\nBombs that failed to explode — about 80 million\nStone jars documented on the Plain of Jars — over 2,100\n\nThat is the context, and it is also why the Plain of Jars took until 2019 to become a World Heritage Site. There are over 2,100 stone jars across 129 confirmed sites, and dating by optically stimulated luminescence puts them in place as early as 1240 to 660 BC. Nobody knows who made them or why. One site alone holds 392.\n\nLuang Prabang has been inscribed since 1995, for a mix of Lao architecture, French colonial buildings and more than thirty Buddhist temples in a town you can cross on foot.\n\nIn the far south, Si Phan Don means four thousand islands. The article declines to count them and notes that half go under when the Mekong floods, which seems like the honest position.\n\nWhat is the most interesting country you have never seriously considered visiting?",
+  "tags": [
+    "laos",
+    "luangprabang",
+    "plainofjars",
+    "siphandon",
+    "mekong",
+    "southeastasia",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

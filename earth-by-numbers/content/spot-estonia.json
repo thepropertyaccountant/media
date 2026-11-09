@@ -1,0 +1,105 @@
+{
+  "slug": "spot-estonia",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Estonia has<br>2,355 islands and<br>318 metres of hill.",
+      "sub": "The flattest genuinely interesting country in Europe, and the most online.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Tallinn"
+        ],
+        [
+          "Land area",
+          "45,227 km²"
+        ],
+        [
+          "Land borders",
+          "2 — Latvia, Russia"
+        ],
+        [
+          "Official language",
+          "Estonian"
+        ],
+        [
+          "Currency",
+          "Euro (EUR)"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Tallinn Old Town",
+          "note": "A UNESCO site since 1997, and one of the best-preserved medieval cities in Europe."
+        },
+        {
+          "name": "The forest",
+          "note": "48% of the land was forest as of 2012. Bogs and mires cover another 23.2%."
+        },
+        {
+          "name": "Saaremaa",
+          "note": "2,673 km² of island, with a meteorite crater at Kaali 110 m across."
+        }
+      ],
+      "source": "Tallinn; Estonia; Saaremaa. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Estonia put voting on the internet in 2005.",
+      "size": "h-sm",
+      "sub": "Wikipedia calls it the first country in the world to introduce nationwide binding internet voting, in the 2005 local elections. In 2023, 51% of all votes were cast online — the first time more than half were.",
+      "source": "Estonia. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Tallinn",
+      "bg": "",
+      "items": [
+        {
+          "name": "Lahemaa",
+          "note": "747 km², established 1971, the first area designated a national park in the USSR."
+        },
+        {
+          "name": "Saaremaa",
+          "note": "The largest and most populous Estonian island, out in the Baltic."
+        },
+        {
+          "name": "Suur Munamägi",
+          "note": "The summit of Estonia, 318 m. Only a tenth of the country clears 100 m."
+        }
+      ],
+      "source": "Lahemaa National Park; Saaremaa; Estonia. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Estonia has 2,355 islands and its highest point is 318 metres.\n\nThe island count is specific: 2,355 in total including internal waters, of which 2,222 are in the Baltic Sea. The lede of the same article says \"over 2,300 other islands and islets\" and does not reconcile the two. There is also a reference titled \"Estonia gains 95 islands, but loses 4 square kilometers with updated map,\" which is the most Estonian headline imaginable.\n\nESTONIA BY NUMBERS\nLand area — 45,227 km² in the dataset, 45,335 km² on Wikipedia\nIslands — 2,355, of which 2,222 are in the Baltic\nHighest point — Suur Munamägi, 318 m\nForest — 48% of the land as of 2012\nBogs and mires — 23.2%; protected areas — 19.4%\n\nOnly 10% of the country's terrain clears 100 m. What it has instead is cover: nearly half of it forest, almost a quarter bog and mire, and 19.4% of the land formally protected.\n\nTallinn's Old Town has been a World Heritage Site since 1997 and is described as one of the best-preserved medieval cities in Europe. At its medieval peak the city had about 8,000 people, city walls and 66 defence towers.\n\nThe other thing Estonia is known for is being online. It was the first country in the world to introduce nationwide binding internet voting, in the 2005 local elections, and the first to offer e-residency, in 2014. In the 2023 parliamentary elections 51% of all votes were cast over the internet — the first time anywhere that more than half were.\n\nSaaremaa, 2,673 km², is the largest island, and it has nine meteorite craters at Kaali, the biggest 110 m across. The impact is dated either to around 4000 BCE or as recently as 660 BCE, depending which estimate you prefer.\n\nWould you vote online if your country let you?",
+  "tags": [
+    "estonia",
+    "tallinn",
+    "saaremaa",
+    "lahemaa",
+    "baltics",
+    "eresidency",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

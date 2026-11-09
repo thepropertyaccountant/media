@@ -1,0 +1,69 @@
+{
+  "slug": "kazakhstan-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Russia rents a<br>piece of Kazakhstan<br>until 2050.",
+      "sub": "Five stats from the largest landlocked country on Earth."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "2050",
+      "numsize": "s3",
+      "bg": "",
+      "label": "the year the Baikonur lease ends",
+      "title": "Russia operates the spaceport inside Kazakhstan for US$115 million a year.",
+      "size": "h-sm",
+      "source": "Baikonur Cosmodrome. Lease agreed with Kazakhstan in 2005. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "1961",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "12 April — Gagarin launched from here",
+      "title": "Sputnik 1 went up from the same place. The pad is now called Gagarin's Start.",
+      "size": "h-sm",
+      "source": "Baikonur Cosmodrome. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "6,846",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km of border with Russia",
+      "title": "Kazakhstan is the ninth-largest country and the largest landlocked one.",
+      "size": "h-sm",
+      "source": "Kazakhstan; Landlocked country. Area 2,724,910 km². Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "About 4% of Kazakhstan is in Europe.",
+      "sub": "The Ural River is taken as the dividing line. Wikipedia calls Kazakhstan one of only two landlocked countries with territory on two continents.",
+      "source": "Kazakhstan. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Russia rents a piece of Kazakhstan, and the lease runs to 2050.\n\nBaikonur Cosmodrome sits inside Kazakhstan and is operated by Russia under an agreement ratified in 2005, at a rent that has stayed fixed at US$115 million a year. Sputnik 1 launched from there. So did Vostok 1, carrying Yuri Gagarin, on 12 April 1961. The pad they both used is now called Gagarin's Start.\n\nKAZAKHSTAN BY NUMBERS\nArea — 2,724,910 km², ninth in the world\nRank among landlocked countries — first\nBorder with Russia — 6,846 km\nShare of the country in Europe — about 4%\nBaikonur lease — to 2050, at US$115 million a year\n\nIt is the largest landlocked country there is, and it stays landlocked despite a long Caspian coast, because the Caspian is in effect a lake with no route out for ocean-going ships. The Volga–Don Canal connects it to the Black Sea but cannot take large vessels.\n\nThe Ural River is conventionally taken as the Europe–Asia dividing line, and about 4% of Kazakhstan lies west of it. Wikipedia calls the country one of only two landlocked states with territory on two continents.\n\nThe capital has been renamed more often than most countries manage: Aqmoly in 1830, Akmolinsk in 1832, Tselinograd in 1961, Akmola in 1991, Astana in 1998, Nur-Sultan in 2019, and Astana again in 2022. It became the capital in December 1997, while it was still called Akmola.\n\nOne number we cut: the Kazakhstan article calls the Russian border the world's longest land border, which does not square with the 8,890 km Canada–US figure. We give the length and leave the ranking alone.\n\nShould a country be able to lease territory to another one?",
+  "tags": [
+    "kazakhstan",
+    "baikonur",
+    "astana",
+    "landlocked",
+    "spaceflight",
+    "geographyfacts",
+    "didyouknow",
+    "worldfacts",
+    "centralasia",
+    "earthbynumbers"
+  ]
+}

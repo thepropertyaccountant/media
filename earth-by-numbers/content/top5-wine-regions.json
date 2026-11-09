@@ -1,0 +1,77 @@
+{
+  "slug": "top5-wine-regions",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Bordeaux is a<br>brand with<br>vineyards attached.",
+      "sub": "Opinion. Five regions where the wine is the point, not the label.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Douro",
+      "where": "Portugal",
+      "note": "A royal charter of 10 September 1756 made this the first wine region in the world with a formal demarcation. The Alto Douro has been a World Heritage Site since 2001.",
+      "bg": "",
+      "source": "Douro DOC. The 1756 demarcation covered Port. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Mosel",
+      "where": "Germany",
+      "note": "The Calmont at Bremm is the steepest recorded vineyard in the world, at a 65-degree incline. Riesling was on 59.7% of the region's vineyard surface in 2008.",
+      "bg": "ink",
+      "source": "Mosel wine region: 9,034 hectares in 2008. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Tokaj",
+      "where": "Hungary",
+      "note": "Home of aszú, called the world's oldest botrytised wine, and supposedly the earliest wine appellation — a claim its own page disputes with Chianti's 1716.",
+      "bg": "",
+      "source": "Tokaj wine region. The decree is dated 1737 or 1757; UNESCO 2002. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Langhe",
+      "where": "Piedmont, Italy",
+      "note": "Barolo and Barbaresco come from here. Part of the Langhe was inscribed on 22 June 2014 as the Vineyard Landscape of Piedmont.",
+      "bg": "ink",
+      "source": "Langhe. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Mendoza",
+      "where": "Argentina",
+      "note": "Seventy percent of Argentina's 1.5 billion litres of wine, made at the foot of the Andes by around 1,200 wineries.",
+      "bg": "",
+      "source": "Mendoza Province. The 1,200-winery figure is from 2005. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Bordeaux is a brand with vineyards attached. The wine can be extraordinary and the visit is a chateau car park, a tasting room priced off a label, and a region that long ago worked out it does not need to be interesting.\n\nFive regions where the place is the reason. Opinion; dates and figures from Wikipedia.\n\n01 DOURO, Portugal — a royal Portuguese charter dated 10 September 1756 defined the production region for Port, which its article says made the Douro the world's first wine region to have a formal demarcation. The Alto Douro Wine Region has been a World Heritage Site since 2001. Terraces cut into schist above a river, and nobody has made it convenient.\n\n02 MOSEL, Germany — the Calmont vineyard at Bremm is, at a 65-degree incline, the steepest recorded vineyard in the world. In 2008 Riesling was planted on 59.7% of the region's 9,034 hectares. Slate, river bends, and wine that argues with everything else on this list.\n\n03 TOKAJ, Hungary — the home of aszú, which its article calls the world's oldest botrytised wine, made from individually picked botrytised grapes. It also claims \"supposedly the world's earliest system of wine appellation\" and then immediately notes the claim is disputed by Chianti, whose territory was defined in 1716. Its own founding decree is dated either 1737 or 1757; the page does not choose. World Heritage Site since 2002.\n\n04 LANGHE, Italy — Barolo and Barbaresco. Part of the Langhe was inscribed on 22 June 2014 as part of the Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato. Also truffles, which is not a coincidence.\n\n05 MENDOZA, Argentina — about 70% of Argentina's 1.5 billion litres of wine production, from roughly 1,200 wineries at the foot of the Andes.\n\nSo who really was first, Douro in 1756 or Tokaj in 1737? Both pages hedge. Tell us which claim you believe.",
+  "tags": [
+    "wine",
+    "douro",
+    "mosel",
+    "tokaj",
+    "langhe",
+    "mendoza",
+    "winetravel",
+    "travelinspo",
+    "worldfacts",
+    "vineyards",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "russia-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Russia has the<br>same surface area<br>as Pluto.",
+      "sub": "Wikipedia's own comparison. Five stats from the largest country there is."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "11",
+      "numsize": "s2",
+      "bg": "",
+      "label": "time zones, UTC+2 to UTC+12",
+      "title": "Kaliningrad Time at one end, Kamchatka Time at the other.",
+      "size": "h-sm",
+      "source": "Time in Russia. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "14",
+      "numsize": "s2",
+      "bg": "ink",
+      "sea": true,
+      "label": "countries on its land borders",
+      "title": "Norway at one end of the list, North Korea at the other.",
+      "size": "h-sm",
+      "source": "Russia, which names all fourteen in a footnote. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "15,125",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km² — Kaliningrad Oblast",
+      "title": "Russian ground with no land route to Russia. Poland south, Lithuania north and east.",
+      "size": "h-sm",
+      "source": "Kaliningrad Oblast, which calls it a semi-exclave because it has sea access. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "The fourth-longest coastline on Earth.",
+      "sub": "Over 37,653 km, plus 850 km on the Caspian. By land area Russia is bigger than Australia, than Antarctica, and than Europe — most of which it is in.",
+      "source": "Russia. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Russia has roughly the same surface area as Pluto. That is Wikipedia's comparison, not ours.\n\nRUSSIA BY NUMBERS\nArea — 17,098,246 km², first in the world\nTime zones — 11, from UTC+2 to UTC+12\nLand borders — 14 countries\nCoastline — over 37,653 km, fourth-longest on Earth\nKaliningrad Oblast — 15,125 km², with no land route to the rest of the country\n\nEleven time zones means Kaliningrad Time at one end and Kamchatka Time at the other, a twelve-hour spread inside one state. Two zones were abolished in 2010 and later restored, so the number has not been stable.\n\nThe fourteen neighbours run Norway, Finland, Estonia, Latvia, Belarus, Ukraine, Lithuania, Poland, Georgia, Azerbaijan, Kazakhstan, Mongolia, China, North Korea. Note Norway and North Korea on the same list. There are also maritime boundaries with Japan and the United States — the Diomede Islands, one American and one Russian, are 3.8 km apart.\n\nKaliningrad is the strangest piece. It is 15,125 km² of Russia on the Baltic with Poland to the south and Lithuania to the north and east, and every land route between it and the rest of the country runs through NATO and EU members. Wikipedia calls it a semi-exclave rather than an exclave, because it has its own sea access.\n\nThe line we liked most is a footnote: by land area Russia is larger than Australia, than Antarctica, and than Europe — a large part of which it occupies.\n\nWhich of the fourteen neighbours did you forget?",
+  "tags": [
+    "russia",
+    "kaliningrad",
+    "timezones",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "borders",
+    "pluto",
+    "earthbynumbers"
+  ]
+}
