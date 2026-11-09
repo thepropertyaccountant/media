@@ -1,0 +1,102 @@
+{
+  "slug": "spot-portugal",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Portugal has<br>one land<br>border.",
+      "sub": "And it has barely moved in seven hundred years.",
+      "size": "h-lg"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Lisbon"
+        ],
+        [
+          "Land area",
+          "92,090 km²"
+        ],
+        [
+          "Land borders",
+          "1 — Spain"
+        ],
+        [
+          "Official language",
+          "Portuguese"
+        ],
+        [
+          "Currency",
+          "Euro (€)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The coast",
+          "note": "Atlantic the whole way down, from cold northern surf beaches to the Algarve's sea caves."
+        },
+        {
+          "name": "Value",
+          "note": "Still among the cheapest countries in Western Europe to eat and sleep well in."
+        },
+        {
+          "name": "The food",
+          "note": "A country that takes salt cod seriously enough to claim a recipe for every day of the year."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "One of the oldest continuously defined borders in Europe.",
+      "sub": "Portugal's frontier with Spain has been substantially unchanged since the late 13th century.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Lisbon",
+      "bg": "",
+      "items": [
+        {
+          "name": "Porto",
+          "note": "Steeper, rougher and cheaper, on a working river."
+        },
+        {
+          "name": "Alentejo",
+          "note": "Cork oaks, wheat and whitewashed hill towns. Almost nobody goes."
+        },
+        {
+          "name": "Azores",
+          "note": "Nine volcanic islands in the mid-Atlantic, closer to nothing than to anywhere."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Portugal has exactly one land neighbour, and that border has barely shifted in seven centuries.\n\nIt is one of the oldest continuously defined frontiers in Europe — substantially settled since the late 1200s, while almost every other border on the continent was redrawn repeatedly by war.\n\nPORTUGAL BY NUMBERS\nCapital — Lisbon\nArea — 92,090 km²\nLand borders — 1 (Spain)\nOfficial language — Portuguese\nCurrency — euro\n\nThat single border is the whole story of the place. With Spain to the east and nothing but Atlantic to the west, Portugal went outward by sea instead — which is why Portuguese is an official language on four continents.\n\nWHERE TO GO, past Lisbon:\nPorto — steeper, rougher, cheaper, on a working river.\nAlentejo — cork oaks, wheat, whitewashed hill towns, almost no visitors.\nAzores — nine volcanic islands in the middle of the Atlantic.\n\nLisbon or Porto? Pick one and defend it.",
+  "tags": [
+    "portugal",
+    "lisbon",
+    "porto",
+    "azores",
+    "alentejo",
+    "traveleurope",
+    "geographyfacts",
+    "travelinspo",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

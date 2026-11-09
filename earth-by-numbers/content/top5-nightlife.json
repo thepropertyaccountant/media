@@ -1,0 +1,72 @@
+{
+  "slug": "top5-nightlife",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Ibiza is<br>finished.",
+      "sub": "It became a venue for people who can afford tables. Five cities where the night is still the city's own. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Berlin",
+      "where": "Germany",
+      "note": "Still the reference point. Industrial spaces, no photos, no dress code you can buy your way past, and nights that run into Monday.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Tbilisi",
+      "where": "Georgia",
+      "note": "A club scene born out of protest, built inside a Soviet-era stadium. Political in a way almost nowhere else is.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Belgrade",
+      "where": "Serbia",
+      "note": "Floating clubs moored on the Danube and Sava. Summer nights happen on the water, which changes the whole physics of it.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Medellín",
+      "where": "Colombia",
+      "note": "Salsa, reggaeton and a city that treats dancing as a basic skill rather than a night out.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Mexico City",
+      "where": "Mexico",
+      "note": "Everything from mezcalerías in Roma to warehouse parties, across a city too large to ever be fully colonised by tourists.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Ibiza is finished. It stopped being a destination and became a venue — a place where the experience is now priced by proximity to a table.\n\nFive cities where the night still belongs to the city:\n\n01 BERLIN — still the reference point. Industrial spaces, stickers over your phone camera, a door policy you cannot buy your way past, and nights that end on Monday.\n\n02 TBILISI — a club scene that grew directly out of political protest, operating inside a Soviet-era stadium. It means something there in a way it doesn't anywhere else.\n\n03 BELGRADE — splavovi, floating clubs moored on the Danube and the Sava. In summer the whole night happens on the water.\n\n04 MEDELLÍN — salsa and reggaeton in a city where dancing is a basic competence, not an event.\n\n05 MEXICO CITY — mezcalerías in Roma through to warehouse parties, in a city far too big to be fully colonised by visitors.\n\nThe pattern: the best nightlife is in cities where locals outnumber visitors and the scene answers to them.\n\nWhich city would you put above Berlin?",
+  "tags": [
+    "nightlife",
+    "berlin",
+    "tbilisi",
+    "belgrade",
+    "medellin",
+    "mexicocity",
+    "clubbing",
+    "citybreak",
+    "traveltheworld",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

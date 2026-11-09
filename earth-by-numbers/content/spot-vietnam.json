@@ -1,0 +1,102 @@
+{
+  "slug": "spot-vietnam",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Vietnam is<br>1,650 km long<br>and 50 km wide<br>at the middle.",
+      "sub": "Which is why the north and south feel like different countries.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Hanoi"
+        ],
+        [
+          "Land area",
+          "331,212 km²"
+        ],
+        [
+          "Land borders",
+          "3 — China, Laos, Cambodia"
+        ],
+        [
+          "Official language",
+          "Vietnamese"
+        ],
+        [
+          "Currency",
+          "Đồng (₫)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The food",
+          "note": "Regional and specific. Pho in Hanoi is a different dish to pho in Saigon, and people will tell you so."
+        },
+        {
+          "name": "Value",
+          "note": "Still among the cheapest serious food cultures in Asia."
+        },
+        {
+          "name": "The coast",
+          "note": "Over 3,000 km of it, most of which sees very few foreign visitors."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Hanoi and Ho Chi Minh City are 1,100 km apart.",
+      "sub": "Different climates, different accents, different food. Treating Vietnam as one destination is the standard mistake.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Ha Long Bay",
+      "bg": "",
+      "items": [
+        {
+          "name": "Ha Giang Loop",
+          "note": "Limestone mountains on the Chinese border, ridden by motorbike over three or four days."
+        },
+        {
+          "name": "Phong Nha",
+          "note": "Cave country, including some of the largest cave passages on Earth."
+        },
+        {
+          "name": "An Bang",
+          "note": "Hoi An's beach, minus Hoi An's crowds."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Vietnam is about 1,650 km from top to bottom and narrows to roughly 50 km at its waist. The shape explains almost everything about the place.\n\nHanoi and Ho Chi Minh City are around 1,100 km apart, with different climates, different accents and genuinely different food. Treating Vietnam as a single destination is the standard mistake.\n\nVIETNAM BY NUMBERS\nCapital — Hanoi\nArea — 331,212 km²\nLand borders — 3 (China, Laos, Cambodia)\nOfficial language — Vietnamese\nCurrency — đồng\n\nNorthern pho is clear, restrained, herb-light. Southern pho is sweeter, cloudier, piled with herbs and sprouts. People hold firm views. Both are correct.\n\nWHERE TO GO, past Ha Long Bay:\nHa Giang Loop — limestone mountains on the Chinese border, by motorbike over three or four days. Probably the best thing in the country.\nPhong Nha — cave country, including some of the largest cave passages on Earth.\nAn Bang — Hoi An's beach without Hoi An's crowds.\n\nNorth or south — which Vietnam is better? Choose carefully.",
+  "tags": [
+    "vietnam",
+    "hanoi",
+    "hoian",
+    "hagiang",
+    "phongnha",
+    "travelvietnam",
+    "streetfood",
+    "geographyfacts",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

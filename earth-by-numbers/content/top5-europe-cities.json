@@ -1,0 +1,72 @@
+{
+  "slug": "top5-europe-cities",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Prague is not<br>on this list.",
+      "sub": "It stopped being underrated about twenty years ago. Five that still are. Opinion.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Tbilisi",
+      "where": "Georgia",
+      "note": "Sulphur baths cut into a cliff, Soviet concrete beside carved wooden balconies, and wine made in buried clay pots.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Porto",
+      "where": "Portugal",
+      "note": "Steeper, cheaper and less polished than Lisbon. Tiled facades falling apart beautifully above a working river.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Ljubljana",
+      "where": "Slovenia",
+      "note": "A capital you cross on foot in half an hour, with the Alps and the Adriatic each about two hours away.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Gdańsk",
+      "where": "Poland",
+      "note": "A Hanseatic port rebuilt brick by brick after 1945. Amber, shipyard cranes, and the exact spot the war began.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Valletta",
+      "where": "Malta",
+      "note": "A fortified limestone city on a peninsula, small enough to feel like a single neighbourhood.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Prague is not on this list. Neither is Budapest. Both were genuinely underrated once; neither has been for about twenty years.\n\nFive European cities that still are:\n\n01 TBILISI, Georgia — sulphur baths built into a cliff, Soviet concrete next to carved wooden balconies, and an 8,000-year wine tradition using buried clay qvevri.\n\n02 PORTO, Portugal — steeper, cheaper and rougher than Lisbon, with azulejo tiles peeling off facades above a working river.\n\n03 LJUBLJANA, Slovenia — a capital you can walk across in 30 minutes. Alps one way, Adriatic the other, both about two hours.\n\n04 GDAŃSK, Poland — a Hanseatic port rebuilt brick by brick after 1945. Amber, cranes, and Westerplatte, where the Second World War started.\n\n05 VALLETTA, Malta — a fortified limestone city on a peninsula, compact enough to feel like one neighbourhood.\n\nThis is opinion, not data. We're not pretending there's a formula.\n\nNow tell us why we're wrong about Prague.",
+  "tags": [
+    "europe",
+    "traveleurope",
+    "tbilisi",
+    "porto",
+    "ljubljana",
+    "gdansk",
+    "valletta",
+    "hiddengems",
+    "underratedtravel",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

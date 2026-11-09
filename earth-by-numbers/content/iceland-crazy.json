@@ -1,0 +1,65 @@
+{
+  "slug": "iceland-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Iceland just<br>lost the last<br>thing that<br>made it unique.",
+      "size": "h-md",
+      "sub": "For centuries it had no mosquitoes. That ended in October 2025."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 02",
+      "bg": "",
+      "title": "Iceland was essentially mosquito-free until October 2025.",
+      "sub": "Greenland has them, and it is colder. Scotland and Norway have them at similar latitudes. Iceland, somehow, did not.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "~1,300",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "insect species known in Iceland",
+      "title": "Worldwide, over a million have been described.",
+      "size": "h-sm",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "~100%",
+      "numsize": "s2",
+      "bg": "",
+      "label": "of Iceland's electricity is renewable",
+      "title": "Roughly 70% hydro, 30% geothermal, and almost nothing else.",
+      "size": "h-sm",
+      "source": "2025 figures: 70.5% hydro, 29.4% geothermal, 0.1% fossil. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "title": "90% of Icelandic homes are heated by the ground itself.",
+      "sub": "Geothermal district heating. It also keeps Reykjavík's pavements free of ice in winter.",
+      "source": "Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Iceland spent centuries as one of the only inhabited places on Earth with no mosquitoes. That ended in October 2025.\n\n01 — Iceland was essentially mosquito-free until October 2025. What made it strange is that it shouldn't have been: Greenland has mosquitoes and it is colder. Scotland and Norway have them at similar latitudes. Iceland had the standing water, the summer and the wildlife to feed on.\n\n02 — Only around 1,300 insect species are known in Iceland. Over a million have been described worldwide. Midges, though, are everywhere — Mývatn literally translates as \"midge lake\".\n\n03 — Effectively 100% of Iceland's electricity is renewable. In 2025: 70.5% hydro, 29.4% geothermal, 0.1% fossil fuel.\n\n04 — About 85% of ALL energy used in the country — not just electricity — comes from domestic renewable sources.\n\n05 — 90% of Icelandic homes are heated geothermally, straight from the ground. The same system keeps Reykjavík's pavements clear of ice in winter.\n\nA country that runs on heat from under its own feet, and has just inherited the world's most annoying insect.\n\nDoes this change whether you'd go?",
+  "tags": [
+    "iceland",
+    "travelIceland",
+    "geographyfacts",
+    "reykjavik",
+    "geothermal",
+    "renewableenergy",
+    "didyouknow",
+    "worldfacts",
+    "geography",
+    "earthbynumbers"
+  ]
+}

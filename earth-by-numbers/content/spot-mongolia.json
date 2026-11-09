@@ -1,0 +1,102 @@
+{
+  "slug": "spot-mongolia",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Mongolia has<br>exactly two<br>neighbours.",
+      "sub": "They happen to be China and Russia. There is nobody else.",
+      "size": "h-lg"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Ulaanbaatar"
+        ],
+        [
+          "Land area",
+          "1,564,110 km²"
+        ],
+        [
+          "Land borders",
+          "2 — China, Russia"
+        ],
+        [
+          "Official language",
+          "Mongolian"
+        ],
+        [
+          "Currency",
+          "Tögrög (₮)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Space",
+          "note": "Among the least densely populated countries on Earth. You can drive for hours and see nobody."
+        },
+        {
+          "name": "The steppe",
+          "note": "Grassland to the horizon in every direction, still worked by herders on horseback."
+        },
+        {
+          "name": "Gobi",
+          "note": "A cold desert of dunes, canyons and dinosaur fossil beds."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "A country the size of Western Europe, squeezed between two superpowers.",
+      "sub": "1.56 million km², and the only two land routes in or out belong to China and Russia.",
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three that justify the drive",
+      "bg": "",
+      "items": [
+        {
+          "name": "Gorkhi-Terelj",
+          "note": "Granite formations and ger camps, close enough to Ulaanbaatar for a first taste."
+        },
+        {
+          "name": "Orkhon Valley",
+          "note": "UNESCO-listed grassland that was the centre of the Mongol empire."
+        },
+        {
+          "name": "Gobi, South",
+          "note": "Khongoryn Els dunes and the Flaming Cliffs, where the first dinosaur eggs were found."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Mongolia borders exactly two countries. China and Russia. That is the entire list.\n\nIt is 1.56 million km² — roughly the size of Western Europe — and every road and rail line in or out passes through one of two superpowers. There is no third option. No port. No neutral neighbour.\n\nMONGOLIA BY NUMBERS\nCapital — Ulaanbaatar\nArea — 1,564,110 km²\nLand borders — 2\nOfficial language — Mongolian\nCurrency — tögrög\n\nIt is also one of the least densely populated countries on Earth. Grassland runs to the horizon in every direction and a significant share of the population still herds livestock on horseback.\n\nWHERE TO GO\nGorkhi-Terelj for granite formations and ger camps near the capital. The Orkhon Valley, UNESCO listed, which was the heart of the Mongol empire. The southern Gobi for the Khongoryn Els dunes and the Flaming Cliffs, where the first dinosaur eggs known to science were found.\n\nCould you handle a week with no phone signal?",
+  "tags": [
+    "mongolia",
+    "gobi",
+    "steppe",
+    "travelmongolia",
+    "geographyfacts",
+    "adventuretravel",
+    "offthebeatenpath",
+    "worldfacts",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

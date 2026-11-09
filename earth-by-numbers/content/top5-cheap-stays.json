@@ -1,0 +1,72 @@
+{
+  "slug": "top5-cheap-stays",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Thailand is<br>not cheap<br>any more.",
+      "sub": "It is good value. That is different. Five places where a month still costs very little. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Georgia",
+      "where": "Caucasus",
+      "note": "Many nationalities get a full year visa-free on arrival — among the most generous policies anywhere. Tbilisi rents stay low.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Albania",
+      "where": "Balkans",
+      "note": "Adriatic and Ionian coastline at a fraction of Croatian prices, and a capital that has become genuinely interesting.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Vietnam",
+      "where": "Southeast Asia",
+      "note": "Still the cheapest serious food culture in Asia. Da Nang and Hoi An cost a fraction of Bangkok.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Colombia",
+      "where": "South America",
+      "note": "Medellín's spring climate year round, no heating or cooling bills, and a strong local currency story for visitors.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Türkiye",
+      "where": "Anatolia",
+      "note": "Outside Istanbul's tourist core, costs drop steeply. Izmir and Antalya run far cheaper than anywhere comparable in the EU.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Thailand is not cheap any more. It is good value, which is a different claim. Bangkok and the islands now cost real money.\n\nFive places where a month still costs very little:\n\n01 GEORGIA — many nationalities get a full year visa-free on arrival, which is among the most generous entry policies in the world. Tbilisi rents remain low and the food is excellent.\n\n02 ALBANIA — Adriatic and Ionian coast at a fraction of Croatian prices, and Tirana has become genuinely interesting rather than merely cheap.\n\n03 VIETNAM — still the best cheap food culture in Asia. Da Nang and Hoi An run far below Bangkok.\n\n04 COLOMBIA — Medellín sits in spring weather all year, so you pay nothing to heat or cool anything.\n\n05 TÜRKIYE — outside Istanbul's tourist core, costs fall steeply. Izmir and Antalya undercut anywhere comparable in the EU.\n\nCheck current visa rules before you book anything. Entry policies change more often than prices do, and we are not a visa service.\n\nWhich of these is already too expensive?",
+  "tags": [
+    "budgettravel",
+    "digitalnomad",
+    "georgia",
+    "albania",
+    "vietnam",
+    "colombia",
+    "turkiye",
+    "slowtravel",
+    "traveltheworld",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

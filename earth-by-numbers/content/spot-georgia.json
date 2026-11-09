@@ -1,0 +1,102 @@
+{
+  "slug": "spot-georgia",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Georgia borders<br>Russia and<br>Türkiye.",
+      "sub": "And Armenia, and Azerbaijan. Four neighbours, no two alike.",
+      "size": "h-lg"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Tbilisi"
+        ],
+        [
+          "Land area",
+          "69,700 km²"
+        ],
+        [
+          "Land borders",
+          "4"
+        ],
+        [
+          "Official language",
+          "Georgian"
+        ],
+        [
+          "Currency",
+          "Lari (₾)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The wine",
+          "note": "An 8,000-year tradition using qvevri — clay vessels buried in the ground. UNESCO-listed."
+        },
+        {
+          "name": "Its own alphabet",
+          "note": "Georgian script looks like nothing else on Earth and is used by almost nobody else."
+        },
+        {
+          "name": "The Caucasus",
+          "note": "5,000-metre peaks and villages reachable only in summer."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Many nationalities can stay a full year, visa-free.",
+      "sub": "One of the most generous entry policies anywhere — check your own passport's rules before booking.",
+      "source": "Entry rules change. Verify before travel."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Tbilisi",
+      "bg": "",
+      "items": [
+        {
+          "name": "Svaneti",
+          "note": "Medieval stone defence towers under glaciated peaks."
+        },
+        {
+          "name": "Kakheti",
+          "note": "The wine region. Qvevri buried in courtyards, poured by the people who made it."
+        },
+        {
+          "name": "Vardzia",
+          "note": "A cave monastery carved into a cliff across thirteen levels."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Georgia borders Russia, Türkiye, Armenia and Azerbaijan. Four neighbours, and no two of them alike in language, alphabet or alliance.\n\nIt sits exactly where Europe stops being Europe, and it has spent most of its history being argued over by whoever was largest at the time.\n\nGEORGIA BY NUMBERS\nCapital — Tbilisi\nArea — 69,700 km²\nLand borders — 4\nOfficial language — Georgian\nCurrency — lari\n\nGeorgia has its own alphabet. Not a variant of Cyrillic or Latin — its own script, used essentially nowhere else, and recognised by UNESCO.\n\nIt also has an 8,000-year winemaking tradition using qvevri, large clay vessels buried in the ground. That method is itself UNESCO-listed. This is plausibly where wine was invented.\n\nMany nationalities can stay a full year visa-free, which is among the most generous policies in the world — but check your own passport before you book, because entry rules change.\n\nWHERE TO GO, past Tbilisi:\nSvaneti — medieval stone defence towers under glaciated peaks.\nKakheti — the wine region, poured in courtyards by the people who made it.\nVardzia — a cave monastery carved thirteen levels into a cliff.\n\nIs Georgia in Europe or Asia? Settle it in the comments.",
+  "tags": [
+    "georgia",
+    "tbilisi",
+    "svaneti",
+    "caucasus",
+    "wine",
+    "travelgeorgia",
+    "geographyfacts",
+    "offthebeatenpath",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

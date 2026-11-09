@@ -1,0 +1,72 @@
+{
+  "slug": "top5-islands",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The Maldives<br>is the most<br>overrated island<br>on Earth.",
+      "sub": "You are paying for a photograph. Five islands almost nobody goes to. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Socotra",
+      "where": "Yemen",
+      "note": "A third of its plant life exists nowhere else. The dragon's blood trees look like something drawn for a different planet.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "São Tomé and Príncipe",
+      "where": "Gulf of Guinea",
+      "note": "Volcanic spires wrapped in rainforest, abandoned colonial plantations, and almost no tourism infrastructure at all.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Lord Howe Island",
+      "where": "Australia",
+      "note": "Only 400 visitors are permitted at any one time. A UNESCO site with a two-peaked volcanic skyline.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Flores",
+      "where": "Azores, Portugal",
+      "note": "Waterfalls down every cliff face, crater lakes on top, and weather that changes four times before lunch.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Svalbard",
+      "where": "Norway",
+      "note": "At 78°N, closer to the pole than to Oslo. Polar night for months, and more polar bears than people.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "The Maldives is the most overrated island destination on Earth. You fly for a day to sit on a resort you cannot leave, on an island engineered to look like its own brochure. It is a photograph you are allowed to stand inside.\n\nFive islands almost nobody goes to:\n\n01 SOCOTRA, Yemen — roughly a third of its plant species exist nowhere else. The dragon's blood trees look like set design for a film about another planet.\n\n02 SÃO TOMÉ AND PRÍNCIPE — volcanic spires wrapped in rainforest in the Gulf of Guinea, with abandoned colonial plantations and effectively no tourism industry.\n\n03 LORD HOWE ISLAND, Australia — a hard cap of 400 visitors at any one time. UNESCO listed, two volcanic peaks, and a lagoon.\n\n04 FLORES, Azores — waterfalls down every cliff, crater lakes on top, and four kinds of weather before lunch.\n\n05 SVALBARD, Norway — 78°N, closer to the North Pole than to Oslo. Months of polar night, and more polar bears than people.\n\nSome of these are hard to reach and one is genuinely difficult to enter. That is the point of the list.\n\nWhich island did we unfairly write off?",
+  "tags": [
+    "islands",
+    "socotra",
+    "saotome",
+    "lordhowe",
+    "azores",
+    "svalbard",
+    "offthebeatenpath",
+    "hiddengems",
+    "traveltheworld",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

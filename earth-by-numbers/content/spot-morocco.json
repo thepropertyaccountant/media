@@ -1,0 +1,102 @@
+{
+  "slug": "spot-morocco",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Morocco shares<br>a land border<br>with Spain.",
+      "sub": "In Africa. Two Spanish cities sit on the Moroccan coast.",
+      "size": "h-lg"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Rabat"
+        ],
+        [
+          "Land area",
+          "446,550 km²"
+        ],
+        [
+          "Land borders",
+          "Algeria, Spain, W. Sahara"
+        ],
+        [
+          "Official languages",
+          "Arabic, Berber"
+        ],
+        [
+          "Currency",
+          "Dirham (د.م.)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Four landscapes",
+          "note": "Atlantic coast, Mediterranean coast, the High Atlas, and the Sahara — inside one country."
+        },
+        {
+          "name": "The medinas",
+          "note": "Fez el Bali is one of the largest car-free urban areas anywhere in the world."
+        },
+        {
+          "name": "Proximity",
+          "note": "A three-hour flight from much of Europe into somewhere genuinely different."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Ceuta and Melilla are Spanish cities on the African mainland.",
+      "sub": "They are part of the European Union, bordered entirely by Morocco — which is why Spain appears on Morocco's border list.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three beyond Marrakech",
+      "bg": "",
+      "items": [
+        {
+          "name": "Chefchaouen",
+          "note": "A blue-painted town in the Rif mountains, cool and slow."
+        },
+        {
+          "name": "Taghazout",
+          "note": "Atlantic surf village south of Agadir."
+        },
+        {
+          "name": "Merzouga",
+          "note": "Erg Chebbi dunes, where the Sahara starts properly."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Morocco has a land border with Spain. In Africa.\n\nCeuta and Melilla are Spanish cities sitting on the North African mainland, entirely surrounded by Moroccan territory. They are part of the European Union. You can walk from Morocco into the EU without crossing water.\n\nMOROCCO BY NUMBERS\nCapital — Rabat (not Marrakech, and not Casablanca)\nArea — 446,550 km²\nOfficial languages — Arabic and Berber (Amazigh)\nCurrency — dirham\n\nInside one country you get Atlantic coast, Mediterranean coast, the High Atlas with snow on it, and the Sahara. Very few countries that size carry that much variety.\n\nFez el Bali, the old medina of Fez, is one of the largest car-free urban areas on Earth. Not a pedestrianised zone — a medieval city that cars were never able to enter.\n\nWHERE TO GO, past Marrakech:\nChefchaouen — blue-painted town in the Rif mountains.\nTaghazout — Atlantic surf village south of Agadir.\nMerzouga — the Erg Chebbi dunes, where the Sahara begins in earnest.\n\nDid you know the EU has a land border with Morocco?",
+  "tags": [
+    "morocco",
+    "marrakech",
+    "chefchaouen",
+    "sahara",
+    "fez",
+    "travelmorocco",
+    "geographyfacts",
+    "travelafrica",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

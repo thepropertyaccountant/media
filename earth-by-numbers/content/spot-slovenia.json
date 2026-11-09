@@ -1,0 +1,102 @@
+{
+  "slug": "spot-slovenia",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Slovenia fits<br>the Alps and the<br>Mediterranean<br>into 20,000 km².",
+      "sub": "You can ski in the morning and swim in the afternoon. People do.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Ljubljana"
+        ],
+        [
+          "Land area",
+          "20,273 km²"
+        ],
+        [
+          "Land borders",
+          "4"
+        ],
+        [
+          "Official language",
+          "Slovene"
+        ],
+        [
+          "Currency",
+          "Euro (€)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Scale",
+          "note": "Nothing is more than a couple of hours from anything else. One base covers the country."
+        },
+        {
+          "name": "Forest",
+          "note": "More than half of Slovenia is forested — among the highest shares in Europe."
+        },
+        {
+          "name": "Caves",
+          "note": "Classic karst country. The word 'karst' is named after this region."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Four borders, four different worlds.",
+      "sub": "Austria, Italy, Hungary and Croatia — Alpine, Mediterranean, Pannonian and Balkan influences all meeting in one small country.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Lake Bled",
+      "bg": "",
+      "items": [
+        {
+          "name": "Soča Valley",
+          "note": "A river an unreasonable shade of turquoise, running through a WWI front line."
+        },
+        {
+          "name": "Škocjan Caves",
+          "note": "An underground canyon with a river at the bottom. UNESCO-listed."
+        },
+        {
+          "name": "Piran",
+          "note": "A Venetian-era town on a thumb of land poking into the Adriatic."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Slovenia is 20,273 km² and contains the Alps, the Mediterranean, the Pannonian plain and classic karst country. You can ski in the morning and swim in the Adriatic in the afternoon, and people actually do it.\n\nSLOVENIA BY NUMBERS\nCapital — Ljubljana\nArea — 20,273 km²\nLand borders — 4 (Austria, Italy, Hungary, Croatia)\nOfficial language — Slovene\nCurrency — euro\n\nThose four neighbours are the whole character of the place: Alpine, Mediterranean, Pannonian and Balkan influences meeting in a country smaller than Wales.\n\nMore than half of it is forest, among the highest proportions in Europe. And the word \"karst\" — used worldwide for limestone cave landscapes — is named after the Kras region here. This is the type specimen.\n\nWHERE TO GO, past Lake Bled:\nSoča Valley — a river an unreasonable shade of turquoise, running through a First World War front line.\nŠkocjan Caves — an underground canyon with a river at the bottom, UNESCO listed.\nPiran — a Venetian-era town on a thumb of land poking into the Adriatic.\n\nSmallest country you've visited that surprised you most?",
+  "tags": [
+    "slovenia",
+    "ljubljana",
+    "lakebled",
+    "soca",
+    "piran",
+    "traveleurope",
+    "geographyfacts",
+    "hiddengems",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

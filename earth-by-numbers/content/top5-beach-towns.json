@@ -1,0 +1,72 @@
+{
+  "slug": "top5-beach-towns",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Bali is not a<br>beach destination<br>any more.",
+      "sub": "It is a traffic jam with a beach attached. Five that still work. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Jericoacoara",
+      "where": "Brazil",
+      "note": "Reached across sand dunes by 4WD. No paved roads, no street lights, and the whole village walks up a dune at sunset.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Taghazout",
+      "where": "Morocco",
+      "note": "A fishing village turned surf town. Atlantic point breaks, argan oil, and tagine for the price of a coffee.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Paje",
+      "where": "Zanzibar, Tanzania",
+      "note": "Kitesurfing flats on a turquoise lagoon, with a tide that walks out almost to the horizon twice a day.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "An Bang",
+      "where": "Vietnam",
+      "note": "Hoi An's beach, minus Hoi An's crowds. Seafood shacks on the sand and a lantern-lit old town 15 minutes away.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Lagos",
+      "where": "Portugal",
+      "note": "Golden cliffs and sea caves on the Algarve, in a town that still functions outside of summer.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Bali had its moment. Canggu is now a traffic jam with a beach attached, and Seminyak is a shopping centre. Say it.\n\nFive beach towns that still work:\n\n01 JERICOACOARA, Brazil — you arrive by 4WD across sand dunes. No paved roads, no street lighting, and at sunset the entire village climbs the big dune to watch.\n\n02 TAGHAZOUT, Morocco — a fishing village that became a surf town without becoming a resort. Atlantic point breaks and tagine for the price of a flat white.\n\n03 PAJE, Zanzibar — kitesurfing flats on a turquoise lagoon, with a tide that retreats almost to the horizon twice a day.\n\n04 AN BANG, Vietnam — Hoi An's beach without Hoi An's crowds. Seafood shacks directly on the sand, lantern-lit old town 15 minutes up the road.\n\n05 LAGOS, Portugal — golden cliffs and sea caves on the Algarve, in a town that still has a life in February.\n\nOpinion, obviously. The rule we used: would you go in the off season?\n\nTell us the one we've just ruined by posting it.",
+  "tags": [
+    "beach",
+    "beachtown",
+    "jericoacoara",
+    "taghazout",
+    "zanzibar",
+    "hoian",
+    "lagos",
+    "travelinspo",
+    "surftravel",
+    "traveltheworld",
+    "earthbynumbers"
+  ]
+}

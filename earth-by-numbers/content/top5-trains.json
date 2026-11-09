@@ -1,0 +1,71 @@
+{
+  "slug": "top5-trains",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The Orient<br>Express is a<br>hotel on wheels.",
+      "sub": "Not a journey. Five rail trips where the window is the point. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Trans-Siberian",
+      "where": "Moscow – Vladivostok",
+      "note": "Around 9,300 km and roughly seven days across eight time zones. The longest continuous rail service in the world.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Qinghai–Tibet",
+      "where": "Xining – Lhasa",
+      "note": "Crosses the Tanggula Pass above 5,000 m. The carriages supply supplementary oxygen because passengers need it.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Belgrade – Bar",
+      "where": "Serbia – Montenegro",
+      "note": "435 km, 254 tunnels, 435 bridges. Mountains down to the Adriatic in a single day, for the price of a pizza.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Bergen Line",
+      "where": "Oslo – Bergen",
+      "note": "About seven hours across the Hardangervidda plateau. Snow and emptiness between two very different Norwegian cities.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "TranzAlpine",
+      "where": "Christchurch – Greymouth",
+      "note": "Coast to coast over New Zealand's Southern Alps in under five hours, through gorges and beech forest.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "The Orient Express is a very good hotel that happens to move. It is not a great train journey. You are paying to look at the dining car.\n\nFive where the window is the point:\n\n01 TRANS-SIBERIAN, Moscow–Vladivostok — roughly 9,300 km, about seven days, eight time zones. The longest continuous rail service on Earth.\n\n02 QINGHAI–TIBET, Xining–Lhasa — over the Tanggula Pass above 5,000 m. The carriages are pressurised and pipe in supplementary oxygen, because without it people struggle.\n\n03 BELGRADE TO BAR — 435 km, 254 tunnels, 435 bridges, mountains to the Adriatic in one day. Probably the best value scenic rail journey in Europe by a distance.\n\n04 BERGEN LINE, Oslo–Bergen — about seven hours across the Hardangervidda plateau.\n\n05 TRANZALPINE, Christchurch–Greymouth — across the Southern Alps in under five hours.\n\nA flight deletes the distance. A train makes you feel it. That's the whole argument.\n\nWhich one would you actually book?",
+  "tags": [
+    "trains",
+    "trainjourney",
+    "transsiberian",
+    "tranzalpine",
+    "slowtravel",
+    "railtravel",
+    "traveltheworld",
+    "bucketlist",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

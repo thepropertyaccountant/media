@@ -1,0 +1,72 @@
+{
+  "slug": "top5-stargazing",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Iceland is a<br>bad place to<br>see the stars.",
+      "sub": "Too much cloud, too much summer daylight. Five skies that actually deliver. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Atacama Desert",
+      "where": "Chile",
+      "note": "The driest non-polar desert on Earth, at altitude, with almost no cloud. This is where the world puts its biggest telescopes.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Aoraki Mackenzie",
+      "where": "New Zealand",
+      "note": "An International Dark Sky Reserve where the lighting is regulated by law. Southern sky, Magellanic Clouds, no haze.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "NamibRand",
+      "where": "Namibia",
+      "note": "A private reserve in the Namib with effectively zero light pollution and some of the darkest measured skies on the planet.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "La Palma",
+      "where": "Canary Islands",
+      "note": "Above the cloud layer at 2,400 m. A sky-protection law has limited light pollution here since 1988.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Jasper",
+      "where": "Canada",
+      "note": "One of the largest accessible dark sky preserves in the world, with aurora on top of the stars.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Iceland is a bad stargazing destination. It is cloudy, it is wet, and for months of the year it barely gets dark. People go for the aurora and come back having seen weather.\n\nFive skies that actually deliver:\n\n01 ATACAMA DESERT, Chile — the driest non-polar desert on Earth, at altitude, almost permanently cloudless. There is a reason the world's major observatories are built here rather than anywhere else.\n\n02 AORAKI MACKENZIE, New Zealand — an International Dark Sky Reserve where outdoor lighting is restricted by law. The southern sky, the Magellanic Clouds, and almost no haze.\n\n03 NAMIBRAND, Namibia — a private reserve in the Namib with essentially no light pollution for hundreds of kilometres.\n\n04 LA PALMA, Canary Islands — observatories sit at 2,400 m, above the cloud layer. A sky-protection law has restricted light pollution since 1988.\n\n05 JASPER, Canada — one of the largest accessible dark sky preserves anywhere, and you get aurora on top.\n\nThe rule: altitude, dryness, and a local government that regulates lighting. Pretty scenery is irrelevant if the air is wet.\n\nWhere did you see the best night sky of your life?",
+  "tags": [
+    "stargazing",
+    "darksky",
+    "atacama",
+    "aoraki",
+    "namibia",
+    "lapalma",
+    "jasper",
+    "astrophotography",
+    "nightsky",
+    "traveltheworld",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "spot-namibia",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Namibia has<br>nine recognised<br>languages.",
+      "sub": "One of them is German. That is not an accident.",
+      "size": "h-lg"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Windhoek"
+        ],
+        [
+          "Land area",
+          "825,615 km²"
+        ],
+        [
+          "Land borders",
+          "4"
+        ],
+        [
+          "Recognised languages",
+          "9"
+        ],
+        [
+          "Currency",
+          "Namibian dollar ($)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Emptiness",
+          "note": "Among the least densely populated countries on Earth. Roads with nobody on them for hours."
+        },
+        {
+          "name": "The dunes",
+          "note": "Sossusvlei's red dunes rise to around 300 m above a dead white clay pan."
+        },
+        {
+          "name": "Self-drive",
+          "note": "One of the easiest African countries to travel independently by vehicle."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "The Namib is where the desert runs into the Atlantic.",
+      "sub": "Cold ocean current, hot desert air, and a fog that is the only reliable water source for most life on the Skeleton Coast.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three that justify the drive",
+      "bg": "",
+      "items": [
+        {
+          "name": "Sossusvlei",
+          "note": "Red dunes and the dead camelthorn trees of Deadvlei."
+        },
+        {
+          "name": "Etosha",
+          "note": "A salt pan large enough to be seen from orbit, ringed with waterholes."
+        },
+        {
+          "name": "Fish River Canyon",
+          "note": "Among the largest canyons on Earth, and almost empty of people."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Namibia recognises nine languages, and one of them is German. That is a direct inheritance of German colonial rule, which ended over a century ago and is still legible in the street names.\n\nNAMIBIA BY NUMBERS\nCapital — Windhoek\nArea — 825,615 km²\nLand borders — 4 (Angola, Botswana, South Africa, Zambia)\nRecognised languages — 9, including Afrikaans, German, English, Herero and Khoekhoe\nCurrency — Namibian dollar\n\nIt is also nearly empty. Among the lowest population densities of any country on Earth, which means roads with nobody on them for hours at a time.\n\nThe Namib is where a desert runs straight into the Atlantic. A cold current meets hot desert air and produces a dense fog — which is the only dependable water source for most living things on the Skeleton Coast. There are beetles that stand on dune crests at dawn and drink condensation off their own backs.\n\nWHERE TO GO\nSossusvlei — red dunes and the dead camelthorn trees of Deadvlei.\nEtosha — a salt pan visible from orbit, ringed with waterholes.\nFish River Canyon — one of the largest canyons anywhere, almost deserted.\n\nDesert or ocean? Namibia refuses to choose.",
+  "tags": [
+    "namibia",
+    "sossusvlei",
+    "skeletoncoast",
+    "etosha",
+    "desert",
+    "travelafrica",
+    "travelnamibia",
+    "geographyfacts",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

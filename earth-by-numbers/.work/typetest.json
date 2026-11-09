@@ -1,0 +1,26 @@
+{
+  "slug": "typetest",
+  "slides": [
+    {"type": "hook", "title": "Japan has<br>6,852 islands.", "sub": "Four of them hold almost everyone."},
+    {"type": "ledger", "kicker": "The basics", "bg": "",
+     "rows": [["Capital", "Tokyo"], ["Land area", "377,930 km²"], ["Islands", "6,852"], ["Official language", "Japanese"], ["Currency", "Yen (¥)"]],
+     "source": "Area: mledoze/countries. Islands: Japan Coast Guard."},
+    {"type": "bignum", "kicker": "Density", "number": "92%", "label": "of Japan is uninhabited or forest and mountain",
+     "title": "Everyone lives on the edges.", "bg": "ink"},
+    {"type": "rank", "kicker": "No. 1", "rank": "01", "place": "Nazaré", "where": "Portugal",
+     "note": "An underwater canyon funnels swell into waves that have been ridden at over 20 metres.", "bg": ""},
+    {"type": "items", "kicker": "Where to go", "title": "Three that earn the flight",
+     "bg": "ink",
+     "items": [
+       {"name": "Kanazawa", "note": "Kyoto's gardens and craft districts, a fraction of the crowds."},
+       {"name": "Yakushima", "note": "Cedar forest older than most countries, rain most days."},
+       {"name": "Naoshima", "note": "A fishing island turned into a museum you walk through."}
+     ]},
+    {"type": "fact", "kicker": "The part nobody mentions", "title": "Tokyo is not a city.",
+     "sub": "It is a prefecture of 23 wards, each with its own mayor and budget.", "bg": "sun"},
+    {"type": "signoff", "source": "Figures verified November 2026."},
+    {"type": "card", "number": "11", "label": "time zones in one country",
+     "title": "Russia is so wide that when Monday ends in Kaliningrad, it has been Tuesday in Kamchatka for nine hours.",
+     "size": "h-sm", "bg": "ink2", "source": "Russia spans UTC+2 to UTC+12."}
+  ]
+}

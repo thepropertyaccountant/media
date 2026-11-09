@@ -1,0 +1,68 @@
+{
+  "slug": "japan-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Japan gained<br>7,273 islands<br>without gaining<br>any land.",
+      "size": "h-lg",
+      "sub": "Five stats from the strangest recount in modern geography."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "6,852",
+      "numsize": "s3",
+      "bg": "",
+      "label": "the official count from 1987 to 2023",
+      "title": "Counted by hand, off a paper map.",
+      "size": "h-sm",
+      "source": "Japan Coast Guard survey, 1987. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "14,125",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "the count after digital mapping in 2022",
+      "title": "More than double, overnight.",
+      "size": "h-sm",
+      "source": "Geospatial Information Authority of Japan, 2023. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "100,000+",
+      "numsize": "s3",
+      "bg": "",
+      "label": "landmasses the computer actually detected",
+      "title": "Only those with a 100 m circumference made the list.",
+      "size": "h-sm",
+      "source": "Same size threshold as the 1987 survey. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "title": "Japan's territory did not change by one square metre.",
+      "sub": "Nothing was discovered. The old method merged clusters of small islands into single entries. Better maps pulled them apart.",
+      "source": "Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Japan has 14,125 islands. For 35 years the official number was 6,852.\n\nNothing was discovered. No territory was gained. Not one square metre.\n\nThe 1987 figure came from the Japan Coast Guard, counting by hand off a paper map. That method quietly merged clusters of small islands into single entries, because at that resolution they looked like one thing.\n\nIn 2022 the Geospatial Information Authority recounted using digital mapping. The computer detected more than 100,000 separate landmasses. Only those with a circumference of 100 metres or more made the official list — the exact same threshold the 1987 survey used.\n\nResult: 14,125.\n\nJapan's territorial waters, its land area and its borders are all unchanged. The only thing that changed was the measuring instrument.\n\nMakes you wonder which other numbers in the atlas are just old equipment.\n\nWhat's a \"fact\" you learned at school that turned out to be measurement error?",
+  "tags": [
+    "japan",
+    "geographyfacts",
+    "islands",
+    "didyouknow",
+    "worldfacts",
+    "maps",
+    "cartography",
+    "geography",
+    "traveljapan",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+:root{
+  --ink:#0C1B2A; --ink2:#061220; --paper:#F3EEE4; --paper2:#E7DFD0;
+  --sun:#F5A524; --sea:#2DD4BF; --coral:#E4572E;
+  --soft:#5B6C79; --soft-d:#90A4B1;
+  --rule:#CFC6B4; --rule-d:#23394A;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#444}
+.slide{
+  width:1080px;height:1350px;position:relative;overflow:hidden;
+  padding:88px 84px;display:flex;flex-direction:column;
+  font-family:"Space Grotesk",sans-serif;
+  background:var(--paper);color:var(--ink);
+}
+.slide.ink{background:var(--ink);color:var(--paper)}
+.slide.ink2{background:var(--ink2);color:var(--paper)}
+.slide.sun{background:var(--sun);color:var(--ink)}
+
+h1,h2{font-family:"Archivo Black",sans-serif;font-weight:400;
+      letter-spacing:-.035em;line-height:.98}
+.mono{font-family:"Space Mono",monospace;font-variant-numeric:tabular-nums}
+
+.top{display:flex;align-items:center;justify-content:space-between;gap:24px}
+.body{flex:1;display:flex;flex-direction:column;justify-content:center;min-height:0}
+.mark{font-family:"Archivo Black",sans-serif;font-size:25px;letter-spacing:-.01em;
+      text-transform:uppercase}
+.kicker{font-family:"Space Mono",monospace;font-size:25px;letter-spacing:.06em;
+        text-transform:uppercase;color:var(--soft)}
+.ink .kicker,.ink2 .kicker{color:var(--sea)}
+.sun .kicker{color:#7A4F08}
+.page{font-family:"Space Mono",monospace;font-size:25px;color:var(--soft)}
+.ink .page,.ink2 .page{color:var(--soft-d)}
+.sun .page{color:#7A4F08}
+
+.h-xl{font-size:126px}
+.h-lg{font-size:100px}
+.h-md{font-size:80px}
+.h-sm{font-size:62px}
+.sub{font-size:42px;line-height:1.3;color:var(--soft);margin-top:36px;max-width:22ch}
+.ink .sub,.ink2 .sub{color:var(--soft-d)}
+.sun .sub{color:#7A4F08}
+
+.big{font-family:"Archivo Black",sans-serif;font-size:300px;line-height:.82;
+     letter-spacing:-.06em;color:var(--sun)}
+.ink .big,.ink2 .big{color:var(--sun)}
+.big.sea{color:var(--sea)}
+.big.s2{font-size:220px}
+.big.s3{font-size:170px}
+.biglab{font-family:"Space Mono",monospace;font-size:34px;letter-spacing:.06em;
+        text-transform:uppercase;color:var(--soft);margin-top:26px}
+.ink .biglab,.ink2 .biglab{color:var(--soft-d)}
+
+.rows{margin-top:8px;border-top:5px solid var(--sea)}
+.row{display:flex;justify-content:space-between;align-items:baseline;gap:36px;
+     padding:30px 0;border-bottom:2px solid var(--rule)}
+.ink .row,.ink2 .row{border-bottom-color:var(--rule-d)}
+.row .lab{font-size:34px;line-height:1.2;max-width:15ch;color:var(--soft)}
+.ink .row .lab,.ink2 .row .lab{color:var(--soft-d)}
+.row .fig{font-family:"Space Mono",monospace;font-variant-numeric:tabular-nums;
+          font-size:44px;font-weight:700;white-space:nowrap;letter-spacing:-.03em;
+          text-align:right}
+
+.rank{display:flex;align-items:flex-start;gap:40px}
+.rank .num{font-family:"Archivo Black",sans-serif;font-size:170px;line-height:.8;
+           letter-spacing:-.06em;color:var(--sun);flex:0 0 auto}
+.rank .rbody{flex:1;min-width:0;padding-top:12px}
+.rank .place{font-family:"Archivo Black",sans-serif;font-size:84px;line-height:.98;
+             letter-spacing:-.035em}
+.rank .where{font-family:"Space Mono",monospace;font-size:32px;letter-spacing:.04em;
+             text-transform:uppercase;color:var(--sea);margin-top:22px}
+
+.items{margin-top:40px;display:flex;flex-direction:column;gap:38px}
+.item{display:flex;gap:28px;align-items:flex-start}
+.item .dot{font-family:"Space Mono",monospace;font-size:34px;color:var(--sun);
+           flex:0 0 auto;line-height:1.25}
+.item .itext{flex:1;min-width:0}
+.item .iname{font-family:"Archivo Black",sans-serif;font-size:50px;line-height:1.02;
+             letter-spacing:-.03em}
+.item .inote{font-size:32px;line-height:1.3;color:var(--soft);margin-top:12px;max-width:26ch}
+.ink .item .inote,.ink2 .item .inote{color:var(--soft-d)}
+
+.swipe{position:absolute;right:84px;bottom:88px;font-family:"Space Mono",monospace;
+       font-size:27px;letter-spacing:.08em;color:var(--sea)}
+
+.foot{margin-top:auto}
+.src{font-family:"Space Mono",monospace;font-size:22px;line-height:1.4;color:var(--soft);
+     max-width:40ch}
+.ink .src,.ink2 .src{color:var(--soft-d)}
+.sun .src{color:#7A4F08}
+
+.cta-name{font-family:"Archivo Black",sans-serif;font-size:104px;letter-spacing:-.04em;
+          line-height:.96}
+.cta-line{font-size:40px;line-height:1.35;color:var(--soft-d);margin-top:34px;max-width:24ch}
+.handle{font-family:"Space Mono",monospace;font-size:36px;letter-spacing:.02em;color:var(--sea)}
+.hr{border-top:5px solid var(--sea);margin-top:64px;padding-top:44px}
+</style>
+</head>
+<body>
+<div class="slide ink" id="s1">
+  <div class="top"><span class="mark">Earth by Numbers</span><span class="page mono">1/5</span></div>
+  <div class="body">
+    <h1 class="h-lg">Canada's<br>coastline is<br>longer than<br>the equator.</h1>
+    <p class="sub">Six times longer. Five stats about a country with very crinkly edges.</p>
+  </div>
+  <div class="swipe mono">SWIPE</div>
+</div>
+<div class="slide " id="s2">
+  <div class="top"><span class="kicker mono">Stat 02</span><span class="page mono">2/5</span></div>
+  <div class="body">
+    <div class="big s3">243,042</div>
+    <div class="biglab">km of coastline — the world's longest</div>
+    <h2 class="h-sm" style="margin-top:70px">The equator is 40,075 km.</h2>
+  </div>
+  <div class="foot"><p class="src">Statistics Canada. The CIA Factbook says 202,080 km — coastlines are famously hard to measure. Source: Wikipedia.</p></div>
+</div>
+<div class="slide ink" id="s3">
+  <div class="top"><span class="kicker mono">Stat 03</span><span class="page mono">3/5</span></div>
+  <div class="body">
+    <div class="big s3 sea">52,455</div>
+    <div class="biglab">islands</div>
+    <h2 class="h-sm" style="margin-top:70px">Baffin Island alone is larger than Spain.</h2>
+  </div>
+  <div class="foot"><p class="src">Statistics Canada. Baffin Island: 507,451 km². Source: Wikipedia.</p></div>
+</div>
+<div class="slide " id="s4">
+  <div class="top"><span class="kicker mono">Stat 04</span><span class="page mono">4/5</span></div>
+  <div class="body">
+    <div class="big s3">8,890</div>
+    <div class="biglab">km of border with the United States</div>
+    <h2 class="h-sm" style="margin-top:70px">The longest international border on Earth.</h2>
+  </div>
+  <div class="foot"><p class="src">Statistics Canada. Next: Russia–Kazakhstan, 6,846 km. Source: Wikipedia.</p></div>
+</div>
+<div class="slide sun" id="s5">
+  <div class="top"><span class="kicker mono">Stat 05 — the myth</span><span class="page mono">5/5</span></div>
+  <div class="body">
+    <h2 class="h-md">Canada does not have more lakes than the rest of the world combined.</h2>
+    <p class="sub">It has more lake AREA than any country, and 563 lakes bigger than 100 km². The real version is impressive enough.</p>
+  </div>
+  <div class="foot"><p class="src">Environment and Climate Change Canada. Source: Wikipedia.</p><p class="handle mono" style="margin-top:20px">@earth_by_numbers</p></div>
+</div>
+</body>
+</html>

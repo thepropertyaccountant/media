@@ -1,0 +1,102 @@
+{
+  "slug": "spot-nepal",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Nepal is<br>landlocked<br>between two<br>giants.",
+      "sub": "China on one side, India on the other. Nothing else.",
+      "size": "h-lg"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Kathmandu"
+        ],
+        [
+          "Land area",
+          "147,181 km²"
+        ],
+        [
+          "Land borders",
+          "2 — China, India"
+        ],
+        [
+          "Official language",
+          "Nepali"
+        ],
+        [
+          "Currency",
+          "Nepalese rupee (₨)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The mountains",
+          "note": "Eight of the world's ten highest peaks sit on or across Nepal's borders."
+        },
+        {
+          "name": "Trekking access",
+          "note": "Few places on Earth let you walk into high mountains this easily or this cheaply."
+        },
+        {
+          "name": "The range",
+          "note": "Subtropical jungle in the south, 8,000-metre peaks in the north, inside 200 km."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Nepal has never been colonised.",
+      "sub": "Unusually for the region, it was never ruled by a European power — which is part of why its culture reads so differently to its neighbours'.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three routes",
+      "bg": "",
+      "items": [
+        {
+          "name": "Annapurna Circuit",
+          "note": "The classic. Over the Thorong La pass at 5,416 m."
+        },
+        {
+          "name": "Everest Base Camp",
+          "note": "Busy, and still extraordinary. Fly into Lukla."
+        },
+        {
+          "name": "Chitwan",
+          "note": "Lowland jungle with rhino and tiger. Nobody expects this from Nepal."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Nepal has two neighbours: China and India. Between them they hold about a third of humanity.\n\nNepal sits in the gap, landlocked, 147,181 km², with the Himalaya forming its northern wall.\n\nNEPAL BY NUMBERS\nCapital — Kathmandu\nArea — 147,181 km²\nLand borders — 2\nOfficial language — Nepali\nCurrency — Nepalese rupee\n\nEight of the world's ten highest mountains stand on or across its borders, Everest included. The country runs from subtropical jungle in the south to 8,000-metre peaks in the north, and the whole transition happens in about 200 kilometres.\n\nIt was also never colonised by a European power — unusual for the region, and a large part of why Nepali culture reads so differently from its neighbours'.\n\nWHERE TO GO\nAnnapurna Circuit — the classic, over the Thorong La at 5,416 m.\nEverest Base Camp — busy, and still extraordinary.\nChitwan — lowland jungle with rhino and tiger, which almost nobody associates with Nepal.\n\nMountains or jungle — which Nepal would you go for?",
+  "tags": [
+    "nepal",
+    "himalaya",
+    "everest",
+    "annapurna",
+    "kathmandu",
+    "trekking",
+    "travelnepal",
+    "geographyfacts",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

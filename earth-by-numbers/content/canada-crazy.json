@@ -1,0 +1,68 @@
+{
+  "slug": "canada-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Canada's<br>coastline is<br>longer than<br>the equator.",
+      "size": "h-lg",
+      "sub": "Six times longer. Five stats about a country with very crinkly edges."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "243,042",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km of coastline — the world's longest",
+      "title": "The equator is 40,075 km.",
+      "size": "h-sm",
+      "source": "Statistics Canada. The CIA Factbook says 202,080 km — coastlines are famously hard to measure. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "52,455",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "islands",
+      "title": "Baffin Island alone is larger than Spain.",
+      "size": "h-sm",
+      "source": "Statistics Canada. Baffin Island: 507,451 km². Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "8,890",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km of border with the United States",
+      "title": "The longest international border on Earth.",
+      "size": "h-sm",
+      "source": "Statistics Canada. Next: Russia–Kazakhstan, 6,846 km. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05 — the myth",
+      "bg": "sun",
+      "title": "Canada does not have more lakes than the rest of the world combined.",
+      "sub": "It has more lake AREA than any country, and 563 lakes bigger than 100 km². The real version is impressive enough.",
+      "source": "Environment and Climate Change Canada. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Canada's coastline is roughly six times the length of the equator.\n\n01 — 243,042 km of coastline, the longest of any country. The equator is 40,075 km. (The CIA Factbook says 202,080 km. Both are \"right\" — coastline length depends entirely on how finely you measure, which is a genuine unsolved problem in geography called the coastline paradox.)\n\n02 — 52,455 islands. Baffin Island on its own is bigger than Spain.\n\n03 — 8,890 km of border with the United States, the longest international border on Earth. Second place is Russia–Kazakhstan at 6,846 km.\n\n04 — 9,984,670 km² of land, second largest country in the world, behind Russia.\n\n05 — And the myth: Canada does NOT have more lakes than the rest of the world combined. That one is false and it is everywhere. What's true is that Canada has more lake AREA than any country, including 563 lakes larger than 100 km². The accurate version is more impressive than the myth.\n\nWhich of these five did you already know?",
+  "tags": [
+    "canada",
+    "geographyfacts",
+    "coastline",
+    "didyouknow",
+    "worldfacts",
+    "maps",
+    "mythbusting",
+    "geography",
+    "travelcanada",
+    "earthbynumbers"
+  ]
+}

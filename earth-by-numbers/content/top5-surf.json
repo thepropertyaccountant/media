@@ -1,0 +1,72 @@
+{
+  "slug": "top5-surf",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Pipeline doesn't<br>make the<br>top five.",
+      "sub": "Famous is not the same as the best wave on Earth. Opinion, with one measurable fact inside.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Nazaré",
+      "where": "Portugal",
+      "note": "A canyon roughly 5 km deep runs almost to the beach and funnels Atlantic swell into the largest rideable waves ever recorded.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Teahupoʻo",
+      "where": "Tahiti",
+      "note": "Not the tallest wave, the heaviest. It breaks over shallow reef carrying an absurd volume of water.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Jeffreys Bay",
+      "where": "South Africa",
+      "note": "A right-hand point break that runs and runs. Many surfers will argue it is the most perfectly shaped wave anywhere.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Uluwatu",
+      "where": "Bali, Indonesia",
+      "note": "Reef break under a clifftop temple, reached through a cave you time against the sets.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Raglan",
+      "where": "New Zealand",
+      "note": "One of the longest left-hand point breaks on Earth. On the right day the ride is measured in minutes.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Pipeline isn't on this list. It's the most photographed wave in the world and it still isn't top five.\n\n01 NAZARÉ, Portugal — the Nazaré Canyon is about 5 km deep and runs almost to the shoreline, funnelling and amplifying Atlantic swell into the biggest rideable waves ever recorded. This is the one genuinely measurable entry here.\n\n02 TEAHUPO'O, Tahiti — not the tallest, the heaviest. It breaks over shallow reef and the lip carries a frankly unreasonable volume of water.\n\n03 JEFFREYS BAY, South Africa — a right-hand point break that simply keeps going. The shape argument ends here for a lot of people.\n\n04 ULUWATU, Bali — reef break beneath a clifftop temple, accessed through a cave you time against the sets.\n\n05 RAGLAN, New Zealand — one of the longest left-hand point breaks anywhere. You measure the ride in minutes, not seconds.\n\nRanking waves is opinion. The canyon is the only part you can put a number on.\n\nGo on then — defend Pipeline.",
+  "tags": [
+    "surf",
+    "surfing",
+    "nazare",
+    "teahupoo",
+    "jeffreysbay",
+    "uluwatu",
+    "raglan",
+    "surftravel",
+    "waves",
+    "traveltheworld",
+    "earthbynumbers"
+  ]
+}

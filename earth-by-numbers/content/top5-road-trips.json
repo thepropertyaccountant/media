@@ -1,0 +1,71 @@
+{
+  "slug": "top5-road-trips",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Route 66 is<br>the most<br>overrated drive<br>in the world.",
+      "sub": "Mostly a frontage road past closed motels. Five that earn the hire car. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Carretera Austral",
+      "where": "Chile",
+      "note": "1,240 km of mostly gravel through Patagonian fjords, glaciers and temperate rainforest. Ferries are part of the road.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Pamir Highway",
+      "where": "Tajikistan",
+      "note": "The second-highest international road on Earth, crossing passes above 4,600 m through the Wakhan Corridor.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Garden Route",
+      "where": "South Africa",
+      "note": "Indian Ocean coast, mountain passes and forest between Cape Town and Port Elizabeth, with wildlife as a side quest.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Ring Road",
+      "where": "Iceland",
+      "note": "1,332 km around an entire country. Waterfalls, black beaches, glacier lagoons, and weather doing all of it at once.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "West Coast",
+      "where": "New Zealand",
+      "note": "Glaciers meeting rainforest meeting the Tasman Sea, on a road with almost nobody else on it.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Route 66 is the most overrated drive on Earth. Large parts of it no longer exist as a continuous road, and much of what remains is a frontage road running past closed motels selling nostalgia for itself.\n\nFive that earn the hire car:\n\n01 CARRETERA AUSTRAL, Chile — 1,240 km of largely gravel road through Patagonian fjords, glaciers and temperate rainforest. Ferries are part of the route, not a detour.\n\n02 PAMIR HIGHWAY, Tajikistan — the second-highest international highway in the world, over passes above 4,600 m, through the Wakhan Corridor with Afghanistan on the far bank.\n\n03 GARDEN ROUTE, South Africa — coast, mountain passes and forest, with wildlife as an optional extra.\n\n04 RING ROAD, Iceland — 1,332 km around an entire country, and the weather will try every one of its options on you.\n\n05 WEST COAST, New Zealand — glaciers, rainforest and the Tasman Sea, on a road with almost no one else on it.\n\nThe rule: a great drive needs the landscape to change. Distance alone is just commuting.\n\nWhat's the best road you've ever driven?",
+  "tags": [
+    "roadtrip",
+    "carreteraaustral",
+    "pamirhighway",
+    "gardenroute",
+    "ringroad",
+    "newzealand",
+    "driving",
+    "traveltheworld",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

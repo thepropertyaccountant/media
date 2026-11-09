@@ -1,0 +1,102 @@
+{
+  "slug": "spot-chile",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Chile is longer<br>than the width<br>of Australia.",
+      "sub": "And averages barely 180 km across.",
+      "size": "h-lg"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Santiago"
+        ],
+        [
+          "Land area",
+          "756,102 km²"
+        ],
+        [
+          "Land borders",
+          "3"
+        ],
+        [
+          "Official language",
+          "Spanish"
+        ],
+        [
+          "Currency",
+          "Chilean peso ($)"
+        ]
+      ],
+      "source": "Figures: mledoze/countries dataset (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Every climate",
+          "note": "The driest desert on Earth at one end, glaciers and fjords at the other."
+        },
+        {
+          "name": "The Atacama sky",
+          "note": "Where the world builds its largest telescopes, because the air is that clear."
+        },
+        {
+          "name": "Patagonia",
+          "note": "Granite towers, ice fields and wind that genuinely knocks people over."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "One country, roughly 4,300 km from top to bottom.",
+      "sub": "It spans desert, Mediterranean valleys, temperate rainforest, fjords and ice — because it covers that much latitude.",
+      "source": "Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "San Pedro de Atacama",
+          "note": "Salt flats, geysers and the clearest night sky you will ever stand under."
+        },
+        {
+          "name": "Torres del Paine",
+          "note": "The W trek, five days under granite towers."
+        },
+        {
+          "name": "Carretera Austral",
+          "note": "1,240 km of mostly gravel through fjords and rainforest."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Chile is roughly 4,300 km long and averages under 200 km wide. It is a country shaped like a road.\n\nThat extreme shape is the whole point of visiting. Because it covers so much latitude, you get the driest non-polar desert on Earth at the top and glaciers and fjords at the bottom, with Mediterranean wine valleys and temperate rainforest in between.\n\nCHILE BY NUMBERS\nCapital — Santiago\nArea — 756,102 km²\nLand borders — 3 (Argentina, Bolivia, Peru)\nOfficial language — Spanish\nCurrency — Chilean peso\n\nThe Atacama is where the world's major observatories are built, because the combination of altitude, dryness and near-permanent cloudlessness is almost unmatched anywhere.\n\nWHERE TO GO\nSan Pedro de Atacama — salt flats, geysers, and the clearest night sky you will ever stand under.\nTorres del Paine — the W trek, five days beneath granite towers.\nCarretera Austral — 1,240 km of mostly gravel road through fjords and rainforest.\n\nDesert or Patagonia — which end of Chile are you starting at?",
+  "tags": [
+    "chile",
+    "atacama",
+    "patagonia",
+    "torresdelpaine",
+    "carreteraaustral",
+    "travelchile",
+    "geographyfacts",
+    "southamerica",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}
