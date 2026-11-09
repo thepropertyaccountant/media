@@ -1,0 +1,69 @@
+{
+  "slug": "madagascar-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "All 651 land<br>snail species<br>here live<br>nowhere else.",
+      "sub": "Five stats from an island that has been on its own for 88 million years."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "651",
+      "numsize": "s3",
+      "bg": "",
+      "label": "terrestrial snail species, every one endemic",
+      "title": "Not most of them. All of them.",
+      "size": "h-sm",
+      "source": "Wildlife of Madagascar. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "90%",
+      "numsize": "s2",
+      "bg": "ink",
+      "sea": true,
+      "label": "of its plant and animal species are endemic",
+      "title": "Plants run lower, at more than 80% of 14,883 species.",
+      "size": "h-sm",
+      "source": "Wildlife of Madagascar. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "88",
+      "numsize": "s3",
+      "bg": "",
+      "label": "million years since it split from India",
+      "title": "It left Africa around 180 million years ago. Everything since has evolved in isolation.",
+      "size": "h-sm",
+      "source": "Wildlife of Madagascar gives 88 million; the Madagascar article says about 90 million. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05 — the hard part",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "103 species of lemur, and 90% of them are threatened.",
+      "sub": "That was a 2012 assessment. At least 17 lemur species have already gone extinct since people arrived on the island.",
+      "source": "Wildlife of Madagascar. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Every single one of Madagascar's 651 terrestrial snail species is found nowhere else on Earth. Not most. All of them.\n\nThat is what 88 million years alone does to a place. Madagascar separated from Africa around 180 million years ago and from India about 88 million years ago, and everything living on it has been evolving in a sealed room ever since.\n\nMADAGASCAR BY NUMBERS\nCapital — Antananarivo\nLand area — 587,041 km²\nLand borders — none. It is the world's fourth-largest island\nOfficial languages — Malagasy and French\nCurrency — ariary\n\nRoughly 90% of all plant and animal species on the island are endemic. Reptiles run above 90% across more than 260 species. Plants are lower but still extraordinary: more than 80% of 14,883 species grow nowhere else. Some ecologists call the island the eighth continent, and the label is not really an exaggeration.\n\nNow the part that is less fun. As of 2012 there were 103 recognised species and subspecies of lemur, and a 2012 assessment found 90% of lemur species threatened with extinction. At least 17 species have already gone, since humans arrived.\n\nAn island that spent 88 million years building something unrepeatable can lose it in a couple of centuries. Those two numbers belong in the same post.\n\nWhich animal would you most want to see before it is gone?",
+  "tags": [
+    "madagascar",
+    "lemurs",
+    "endemic",
+    "wildlife",
+    "biodiversity",
+    "geographyfacts",
+    "didyouknow",
+    "worldfacts",
+    "conservation",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "oman-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Oman has a town<br>inside the UAE.<br>Inside it sits<br>a UAE village.",
+      "sub": "Five stats from the most confusing border on Earth."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "93.34",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km² — Madha, an exclave of Oman",
+      "title": "Entirely surrounded by the United Arab Emirates.",
+      "size": "h-sm",
+      "source": "Madha. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 03",
+      "bg": "ink",
+      "size": "h-sm",
+      "title": "Inside Madha is Nahwa, which belongs to Sharjah.",
+      "sub": "A counter-enclave: UAE territory, inside Omani territory, inside the UAE. Wikipedia calls it a second-order enclave.",
+      "source": "Madha. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "1,800",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km² — Musandam, Oman's other exclave",
+      "title": "Also cut off from Oman by the UAE.",
+      "size": "h-sm",
+      "source": "Musandam Governorate. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "That detached corner controls the Strait of Hormuz.",
+      "sub": "Musandam juts into the narrow entry to the Persian Gulf. Wikipedia: its location gives Oman partial control of the strait, shared with Iran.",
+      "source": "Musandam Governorate. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Oman has a town inside the United Arab Emirates. Inside that town is a village that belongs to the UAE.\n\nThe town is Madha, 93.34 km², an exclave of Oman entirely surrounded by the UAE. Inside Madha sits Nahwa, which belongs to the Emirate of Sharjah. Wikipedia's term for it is a second-order enclave: UAE land, inside Omani land, inside the UAE.\n\nOMAN BY NUMBERS\nCapital — Muscat\nLand area — 309,500 km²\nLand borders — 3: Saudi Arabia, UAE, Yemen\nOfficial language — Arabic\nCurrency — Omani rial\n\nMadha is not even Oman's only detached piece. Musandam, 1,800 km², sits at the tip of the peninsula, also separated from the rest of the country by the UAE.\n\nAnd Musandam is the one that matters. It juts into the Strait of Hormuz, the narrow entry to the Persian Gulf. Wikipedia puts it plainly: that location gives Oman partial control of the strait, shared with Iran. A piece of land most people have never heard of sits on one of the most important shipping routes in the world.\n\nBorders are not tidy. They are the leftovers of old agreements between tribes who grazed where they grazed.\n\nWhat's the strangest border you've crossed?",
+  "tags": [
+    "oman",
+    "madha",
+    "nahwa",
+    "musandam",
+    "geographyfacts",
+    "borders",
+    "enclave",
+    "didyouknow",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

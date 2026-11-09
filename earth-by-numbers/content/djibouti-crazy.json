@@ -1,0 +1,69 @@
+{
+  "slug": "djibouti-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Africa's lowest<br>point is a lake<br>saltier than<br>the Dead Sea.",
+      "sub": "Five stats from the bottom of a continent."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "155",
+      "numsize": "s3",
+      "bg": "",
+      "label": "metres below sea level — Lake Assal",
+      "title": "The lowest point on land in Africa.",
+      "size": "h-sm",
+      "source": "Lake Assal. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "276.5",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "grams of salt per litre at the surface",
+      "title": "The Dead Sea measures 268.8.",
+      "size": "h-sm",
+      "source": "Lake Assal. Average salt concentration 34.8%. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "54",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km² of liquid brine",
+      "title": "The salt flat around it is bigger, at 68 km².",
+      "size": "h-sm",
+      "source": "Lake Assal. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05 — the catch",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Nobody can agree how salty it actually ranks.",
+      "sub": "Wikipedia's own article calls Lake Assal the fifth most saline body of water in the world in one paragraph, and the second in another. The grams per litre are not in dispute. The league table is.",
+      "source": "Lake Assal. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The lowest point on land in Africa is a lake, and it is saltier than the Dead Sea.\n\nLake Assal sits 155 metres below sea level in Djibouti. At the surface it measures 276.5 grams of salt per litre. The Dead Sea measures 268.8.\n\nDJIBOUTI BY NUMBERS\nCapital — Djibouti\nLand area — 23,200 km²\nLand borders — 3: Eritrea, Ethiopia, Somalia\nOfficial languages — Arabic and French\nLake Assal — 155 m below sea level, 54 km²\n\nThe lake itself is small, 54 km² of liquid brine, with a crystallised salt flat of 68 km² around it. Average salt concentration is 34.8%, about ten times seawater. Salt has been cut and carried out of there by caravan for centuries.\n\nDjibouti is a small country in an enormous position. It sits at the mouth of the Red Sea, and Wikipedia describes it as lying near some of the world's busiest shipping lanes, controlling access to the Red Sea and the Indian Ocean. Which is why so many countries pay rent for a base there.\n\nOne honest note. We cannot tell you where Lake Assal ranks for salinity, because Wikipedia's own article says fifth in its opening and second in its body. The concentration figures are consistent. The ranking is not, so we have left it out rather than pick the more impressive one.\n\nWould you float in it, or is 34.8% salt too much?",
+  "tags": [
+    "djibouti",
+    "lakeassal",
+    "deadsea",
+    "africa",
+    "geographyfacts",
+    "didyouknow",
+    "worldfacts",
+    "redsea",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

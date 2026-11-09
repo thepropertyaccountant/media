@@ -1,0 +1,75 @@
+{
+  "slug": "top5-ancient-cities",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Pompeii is a<br>building site.",
+      "sub": "Two-thirds excavated, 2.5 million visitors a year, and still a letdown. Five that are not. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Leptis Magna",
+      "where": "Khoms, Libya",
+      "note": "A Roman city of about 100,000 people at its height, 130 km east of Tripoli, UNESCO-listed since 1982, and visited by almost nobody.",
+      "bg": "",
+      "source": "Leptis Magna. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Petra",
+      "where": "Jordan",
+      "note": "Nabataean capital from the second century BC, carved into rock across a 264 km² site. 1,135,300 visitors in 2019, and most of them see one facade.",
+      "bg": "ink",
+      "source": "Petra. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Hierapolis",
+      "where": "Pamukkale, Türkiye",
+      "note": "A Hellenistic Greek city with a main street 1,500 m long and a theatre seating 15,000, above the travertine terraces.",
+      "bg": "",
+      "source": "Hierapolis. UNESCO-listed 1988. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Ani",
+      "where": "Kars, Türkiye",
+      "note": "A medieval Armenian capital abandoned on a gorge that is now an international border. Churches standing alone in grassland.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Tikal",
+      "where": "Petén, Guatemala",
+      "note": "Maya temples pushing up through rainforest canopy. Stay inside the park and be at the top of one at dawn.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Pompeii is a building site. Two-thirds of it has been excavated, roughly 2.5 million people a year walk through it, and most of them leave wondering what they missed. It is important. It is not enjoyable.\n\nFive ancient cities that are:\n\n01 LEPTIS MAGNA, Libya — a Roman city of around 100,000 people at its height, on the coast 130 km east of Tripoli, UNESCO-listed since 1982. One of the best-preserved Roman sites anywhere and almost nobody goes.\n\n02 PETRA, Jordan — Nabataean capital from the second century BC, carved into rock across a site of 264 km². 1,135,300 visitors in 2019, and nearly all of them photograph one facade and leave. Walk further.\n\n03 HIERAPOLIS, Türkiye — a Hellenistic Greek city sitting directly above the Pamukkale terraces, with a main street 1,500 m long and a theatre that seated 15,000. People come for the white pools and walk past a whole city.\n\n04 ANI, Türkiye — a medieval Armenian capital abandoned on a gorge that is now an international border. Churches standing by themselves in open grassland.\n\n05 TIKAL, Guatemala — Maya temples coming up through the rainforest canopy. Stay inside the park so you can be on top of one at dawn.\n\nRanking ruins is opinion. The visitor numbers and the dates are Wikipedia's.\n\nGo on, defend Pompeii.",
+  "tags": [
+    "ruins",
+    "ancienthistory",
+    "leptismagna",
+    "petra",
+    "hierapolis",
+    "ani",
+    "tikal",
+    "archaeology",
+    "traveltheworld",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

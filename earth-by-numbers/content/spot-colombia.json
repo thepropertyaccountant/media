@@ -1,0 +1,103 @@
+{
+  "slug": "spot-colombia",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Nowhere has<br>more life per<br>square mile.",
+      "sub": "Colombia is first in the world for biodiversity by area, and second overall.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Bogotá"
+        ],
+        [
+          "Land area",
+          "1,141,748 km²"
+        ],
+        [
+          "Land borders",
+          "5"
+        ],
+        [
+          "Official language",
+          "Spanish"
+        ],
+        [
+          "Currency",
+          "Colombian peso ($)"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Two coasts",
+          "note": "Caribbean to the north, Pacific to the west, and they feel like different countries."
+        },
+        {
+          "name": "Altitude",
+          "note": "You pick your climate by driving uphill. Bogotá is cold, the coast is not."
+        },
+        {
+          "name": "Biodiversity",
+          "note": "One of seventeen megadiverse countries, and the densest of the lot."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "First in the world per square mile. Second overall.",
+      "sub": "Wikipedia's wording: Colombia has the highest level of biodiversity per square mile in the world, and the second-highest level overall.",
+      "source": "Colombia. Source: Wikipedia.",
+      "size": "h-sm"
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Cartagena",
+      "bg": "",
+      "items": [
+        {
+          "name": "Medellín",
+          "note": "A city in a narrow valley that rebuilt itself around cable cars and public libraries."
+        },
+        {
+          "name": "Salento",
+          "note": "Coffee country and the wax palm valley, where the palms are absurdly tall."
+        },
+        {
+          "name": "Tayrona",
+          "note": "Caribbean coast where the jungle runs down to the sand and nobody has built on it."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Colombia has more biodiversity per square mile than any country on Earth, and the second-highest amount overall. That is Wikipedia's wording, and it is the single most useful fact about the place.\n\nCOLOMBIA BY NUMBERS\nCapital — Bogotá\nLand area — 1,141,748 km²\nLand borders — 5: Panama, Venezuela, Brazil, Peru, Ecuador\nOfficial language — Spanish\nCurrency — Colombian peso\n\nHere is why. Colombia has a Caribbean coast to the north and a Pacific coast to the west, the Andes running up the middle, and Amazon lowland in the south. Altitude does the rest: you choose your climate by driving uphill, from hot coast to cold capital in a morning. Stack that many habitats into one country and you get one of the seventeen megadiverse countries, and the densest of them.\n\nThe two coasts genuinely feel like different countries. The Caribbean side is loud, hot and built for it. The Pacific side is wet, forested and barely visited.\n\nWHERE TO GO, past Cartagena:\nMedellín — a city in a narrow valley that rebuilt itself around cable cars and public libraries.\nSalento — coffee country, and a valley of wax palms that are an unreasonable height.\nTayrona — Caribbean coast where the jungle runs down to the sand and nobody built on it.\n\nTwo oceans, three mountain ranges and the Amazon, in one country.\n\nCaribbean coast or Pacific coast — which one are you picking?",
+  "tags": [
+    "colombia",
+    "medellin",
+    "cartagena",
+    "salento",
+    "tayrona",
+    "biodiversity",
+    "southamerica",
+    "geographyfacts",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

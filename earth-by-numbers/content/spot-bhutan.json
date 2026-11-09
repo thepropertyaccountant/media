@@ -1,0 +1,103 @@
+{
+  "slug": "spot-bhutan",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Bhutan is<br>98.8% mountain.",
+      "sub": "Which makes it, by that measure, the most mountainous country in the world.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Thimphu"
+        ],
+        [
+          "Land area",
+          "38,394 km²"
+        ],
+        [
+          "Land borders",
+          "2 — China, India"
+        ],
+        [
+          "Official language",
+          "Dzongkha"
+        ],
+        [
+          "Currency",
+          "Ngultrum (Nu.)"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The scale",
+          "note": "98.8% of the country is mountain, and around 71% of the land is still under forest cover."
+        },
+        {
+          "name": "Thimphu",
+          "note": "At 2,320 m, the fifth-highest capital in the world and the highest in Asia."
+        },
+        {
+          "name": "Two neighbours",
+          "note": "China to the north, India to the south, and a border with nobody else at all."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "The highest unclimbed mountain on Earth is here, and it is staying that way.",
+      "sub": "Gangkhar Puensum, 7,570 m. Bhutan banned climbing peaks above 6,000 m in 1994 and banned mountaineering entirely in 2003.",
+      "source": "Gangkhar Puensum. Source: Wikipedia.",
+      "size": "h-sm"
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three valleys",
+      "bg": "",
+      "items": [
+        {
+          "name": "Paro",
+          "note": "The valley most people arrive into, and the one they wish they had given longer."
+        },
+        {
+          "name": "Punakha",
+          "note": "Lower, warmer and greener, at the meeting of two rivers."
+        },
+        {
+          "name": "Bumthang",
+          "note": "Further east, harder to reach, and the reason to keep going past the first week."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "98.8% of Bhutan is mountain. By that measure Wikipedia calls it the most mountainous country in the world.\n\nBHUTAN BY NUMBERS\nCapital — Thimphu, at 2,320 m\nLand area — 38,394 km²\nLand borders — 2: China and India\nOfficial language — Dzongkha\nCurrency — ngultrum\n\nThimphu is the fifth-highest capital city in the world and the highest in Asia. Around 71% of the country is under forest cover. Two neighbours, both enormous, and nobody else.\n\nThe detail that says the most about the place: Gangkhar Puensum, 7,570 m, is the highest unclimbed mountain on Earth. Not unclimbed because nobody has tried. Bhutan banned climbing peaks over 6,000 metres in 1994 and banned mountaineering altogether in 2003. There is a summit up there that no person has ever stood on, and that is a decision rather than an accident.\n\nWHERE TO GO\nParo, the valley most people fly into and wish they had given longer. Punakha, lower and warmer, where two rivers meet. Bumthang, further east and harder to reach, which is the reason to keep going past the first week.\n\nA country that decided some things are worth more unclimbed than climbed.\n\nIs there anywhere you think should be left alone?",
+  "tags": [
+    "bhutan",
+    "thimphu",
+    "himalaya",
+    "gangkharpuensum",
+    "mountains",
+    "geographyfacts",
+    "travelbhutan",
+    "offthebeatenpath",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "suriname-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-lg",
+      "title": "Suriname is<br>94% forest.",
+      "sub": "The smallest country in South America, and nearly all of it is trees."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "94.5%",
+      "numsize": "s3",
+      "bg": "",
+      "label": "of the land is forest",
+      "title": "More than any other sovereign country.",
+      "size": "h-sm",
+      "source": "List of countries by forest area, FAO data for 2022. French Guiana is higher at 96.6%, but it is a department of France. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "163,820",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "km² — the smallest country in South America",
+      "title": "Smallest by population too.",
+      "size": "h-sm",
+      "source": "Dataset: mledoze/countries (CC-BY-SA). Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 04",
+      "bg": "",
+      "size": "h-sm",
+      "title": "The official language is Dutch.",
+      "sub": "Its neighbours are French Guiana, Brazil and Guyana. Four languages meet at three borders, and none of them is Spanish.",
+      "source": "Dataset: mledoze/countries (CC-BY-SA). Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05 — the catch",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Suriname's own Wikipedia page cannot agree with itself.",
+      "sub": "Its opening says second-highest forest cover in the world. Its body says highest, at 90.2%. The FAO table says 94.5%. We used the FAO figure and are telling you so.",
+      "source": "Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Suriname is 94.5% forest. It is also the smallest country in South America, by area and by population.\n\nThat forest figure is the highest of any sovereign country on the FAO's 2022 numbers. Only French Guiana beats it, at 96.6%, and French Guiana is a department of France rather than a country.\n\nSURINAME BY NUMBERS\nCapital — Paramaribo\nLand area — 163,820 km²\nLand borders — 3: French Guiana, Brazil, Guyana\nOfficial language — Dutch\nCurrency — Surinamese dollar\n\nDutch. In South America. Suriname was a Dutch colony until 1975 and the language stayed, which makes it the odd one out on a continent of Spanish and Portuguese speakers. Its three neighbours speak French, Portuguese and English respectively.\n\nOne honest note, because this account would rather tell you than be caught: Wikipedia's Suriname article contradicts itself on the forest number. The opening paragraph says over 90% and calls it the second-highest in the world. The ecoregions section says 90.2% and calls it the highest in the world. The FAO table on a different page says 94.5% for 2022. We went with the FAO figure because it is dated and sourced, but all three are on Wikipedia right now.\n\nA number with three versions is still a good number. It just needs a footnote.\n\nWhich country surprised you most with its official language?",
+  "tags": [
+    "suriname",
+    "paramaribo",
+    "rainforest",
+    "southamerica",
+    "geographyfacts",
+    "didyouknow",
+    "worldfacts",
+    "amazon",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

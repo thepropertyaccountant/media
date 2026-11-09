@@ -1,0 +1,103 @@
+{
+  "slug": "spot-uzbekistan",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Uzbekistan is<br>doubly<br>landlocked.",
+      "sub": "To reach any sea you cross two borders. Only one other country on Earth qualifies.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Tashkent"
+        ],
+        [
+          "Land area",
+          "447,400 km²"
+        ],
+        [
+          "Land borders",
+          "5"
+        ],
+        [
+          "Official language",
+          "Uzbek"
+        ],
+        [
+          "Currency",
+          "Soʻm"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The Silk Road cities",
+          "note": "Samarkand, Bukhara and Khiva, which grew rich on the trade and still look it."
+        },
+        {
+          "name": "Tilework",
+          "note": "Whole facades in blue glazed tile, at a scale that does not photograph properly."
+        },
+        {
+          "name": "Still quiet",
+          "note": "The infrastructure improved faster than the visitor numbers did."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Even that claim comes with an argument attached.",
+      "sub": "Wikipedia notes Uzbekistan's doubly landlocked status depends on whether the Caspian Sea counts as a lake or a sea. Liechtenstein has no such asterisk.",
+      "source": "Landlocked country. Source: Wikipedia.",
+      "size": "h-sm"
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three cities",
+      "bg": "",
+      "items": [
+        {
+          "name": "Samarkand",
+          "note": "The Registan, three tiled facades around one square. Go at opening and again at dusk."
+        },
+        {
+          "name": "Bukhara",
+          "note": "Smaller, older-feeling, and the one people end up liking most."
+        },
+        {
+          "name": "Khiva",
+          "note": "A walled town you can cross in twenty minutes, best stayed in overnight once the buses go."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Uzbekistan is one of only two doubly landlocked countries in the world. To reach any sea from inside it you cross at least two national borders. The other one is Liechtenstein.\n\nUZBEKISTAN BY NUMBERS\nCapital — Tashkent\nLand area — 447,400 km²\nLand borders — 5: Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Turkmenistan\nOfficial language — Uzbek\nCurrency — so'm\n\nIt is also the only Central Asian state that borders all four of the others, which tells you most of what you need to know about where it sits.\n\nEven the headline fact has an argument inside it. Wikipedia notes that Uzbekistan's doubly landlocked status depends on whether the Caspian Sea is counted as a lake or a sea. If the Caspian is a sea, the claim fails. Liechtenstein has no such asterisk. We are telling you because you will meet someone who brings it up.\n\nBeing that far inland is the reason the place exists in the form it does. Bukhara and Samarkand became extremely wealthy on overland trade along what became the Silk Road, and the money went into tilework.\n\nWHERE TO GO\nSamarkand — the Registan, three tiled facades around one square. Go at opening, then again at dusk.\nBukhara — smaller, older-feeling, and the one most people end up preferring.\nKhiva — a walled town you cross in twenty minutes. Stay the night and have it to yourself.\n\nOne more thing worth knowing: the Aral Sea, on the northern border, has shrunk to about 10% of its former area since the 1960s.\n\nTwo borders from the sea. Could you live that far inland?",
+  "tags": [
+    "uzbekistan",
+    "samarkand",
+    "bukhara",
+    "khiva",
+    "silkroad",
+    "centralasia",
+    "geographyfacts",
+    "doublylandlocked",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

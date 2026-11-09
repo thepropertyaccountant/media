@@ -1,0 +1,73 @@
+{
+  "slug": "top5-hot-springs",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The Blue Lagoon<br>is power plant<br>run-off.",
+      "sub": "Wikipedia's word, not ours: man-made. Five that are not. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Onsen towns",
+      "where": "Japan",
+      "note": "Roughly 25,000 hot spring sources nationwide and about 3,000 onsen using them. You are never far from one.",
+      "bg": "",
+      "source": "Onsen. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Pamukkale",
+      "where": "Türkiye",
+      "note": "White travertine terraces built by 17 hot springs running from 35 °C to 100 °C. UNESCO-listed with Hierapolis since 1988.",
+      "bg": "ink",
+      "source": "Pamukkale. More than two million visitors annually. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Hveravellir",
+      "where": "Iceland",
+      "note": "A geothermal field in the middle of the interior, reached on a rough track, with one small pool and no gift shop.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Termas Geométricas",
+      "where": "Chile",
+      "note": "Seventeen slate pools on walkways up a forested gorge, fed by the stream running under them.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Saturnia",
+      "where": "Italy",
+      "note": "Cascate del Mulino: free, open all night, and a stack of limestone bowls with 37 °C water falling through them.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "The Blue Lagoon is not a natural hot spring. Wikipedia's own words: the lagoon is man-made, and the water is a byproduct of the Svartsengi geothermal power plant next door. It is lovely. It is also industrial run-off at 37 to 39 degrees, and 1.3 million people paid to sit in it in 2017.\n\nFive that came out of the ground on their own:\n\n01 ONSEN TOWNS, Japan — roughly 25,000 hot spring sources across the country feeding about 3,000 onsen. The whole culture is built around them, which is the difference between a bath and an attraction.\n\n02 PAMUKKALE, Türkiye — white travertine terraces deposited by 17 springs running anywhere from 35 °C to 100 °C. UNESCO-listed alongside Hierapolis since 1988, and busy with it: more than two million visitors a year.\n\n03 HVERAVELLIR, Iceland — a geothermal field in the middle of the interior, up a rough track, one small pool, no queue. The Blue Lagoon's exact opposite, in the same country.\n\n04 TERMAS GEOMÉTRICAS, Chile — seventeen slate pools on red walkways up a forested gorge, fed by the stream beneath them.\n\n05 SATURNIA, Italy — the Cascate del Mulino. Free, open all night, limestone bowls with 37 °C water pouring through.\n\nOpinion, as always. The temperatures and the counts are Wikipedia's.\n\nIs the Blue Lagoon still worth it, knowing what the water is?",
+  "tags": [
+    "hotsprings",
+    "bluelagoon",
+    "onsen",
+    "pamukkale",
+    "iceland",
+    "saturnia",
+    "traveltheworld",
+    "geothermal",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "spot-albania",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Albania has<br>two seas and<br>four borders.",
+      "sub": "In a country slightly smaller than Belgium.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Tirana"
+        ],
+        [
+          "Land area",
+          "28,748 km²"
+        ],
+        [
+          "Land borders",
+          "4"
+        ],
+        [
+          "Official language",
+          "Albanian"
+        ],
+        [
+          "Currency",
+          "Lek (L)"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Two coastlines",
+          "note": "The Adriatic in the north, the Ionian in the south, and a different sea temperature on each."
+        },
+        {
+          "name": "Still cheap",
+          "note": "One of the last stretches of Mediterranean coast where a week does not cost a fortune."
+        },
+        {
+          "name": "The mountains",
+          "note": "The north is alpine, roadless in places, and crossed on foot between villages."
+        }
+      ]
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Four neighbours, and no two of them alike.",
+      "sub": "Montenegro, Kosovo, North Macedonia and Greece, packed around a country smaller than Belgium's 30,528 km².",
+      "source": "Dataset: mledoze/countries (CC-BY-SA).",
+      "size": "h-sm"
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past the beach",
+      "bg": "",
+      "items": [
+        {
+          "name": "Berat",
+          "note": "Ottoman-era houses stacked up a hillside, window above window."
+        },
+        {
+          "name": "Theth to Valbona",
+          "note": "A day's walk over a pass between two valleys in the northern alps."
+        },
+        {
+          "name": "Gjirokastër",
+          "note": "A stone town in the south, built grey and steep on the side of a hill."
+        }
+      ],
+      "handle": true
+    }
+  ],
+  "caption": "Albania has coastline on two seas. The Adriatic in the north, the Ionian in the south, in a country of 28,748 km² — slightly smaller than Belgium.\n\nALBANIA BY NUMBERS\nCapital — Tirana\nLand area — 28,748 km²\nLand borders — 4: Montenegro, Kosovo, North Macedonia, Greece\nOfficial language — Albanian\nCurrency — lek\n\nFour neighbours packed around something smaller than Belgium, and no two of them alike. That is the whole character of the place: it has been the edge of somebody else's map for most of its history, and it shows in the architecture, the food and the language, which is its own branch of Indo-European with no close living relative.\n\nIt is also the last stretch of Mediterranean coast in Europe where a week does not cost a fortune, and that is not going to be true for much longer.\n\nWHERE TO GO, past the beach:\nBerat — Ottoman-era houses stacked up a hillside, window above window above window.\nTheth to Valbona — a day's walk over a pass between two valleys in the northern alps, the best single day of walking in the Balkans.\nGjirokastër — a stone town in the south, grey and steep, built into the hill.\n\nGo before the Riviera finishes turning into everybody else's Riviera.\n\nWhere did you go just before it got popular?",
+  "tags": [
+    "albania",
+    "tirana",
+    "berat",
+    "gjirokaster",
+    "theth",
+    "balkans",
+    "traveleurope",
+    "geographyfacts",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

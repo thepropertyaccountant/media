@@ -1,0 +1,72 @@
+{
+  "slug": "top5-ferries",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "A cruise ship<br>is the worst<br>way to see<br>a coast.",
+      "sub": "Five working ferries that beat it, and cost a fraction. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Hurtigruten",
+      "where": "Norway",
+      "note": "34 ports of call northbound and 33 southbound, worked by eleven ships. It is a mail and freight run that happens to be spectacular.",
+      "bg": "",
+      "source": "Hurtigruten. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Belém to Manaus",
+      "where": "Brazil",
+      "note": "Several days up the Amazon in a hammock you buy at the dock, on a boat that is carrying people and cargo rather than passengers.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Alaska Marine Highway",
+      "where": "United States",
+      "note": "A state ferry system serving towns with no road in. Sleep on deck in a tent taped down against the wind.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Jadrolinija coastal",
+      "where": "Croatia",
+      "note": "Island to island down the Dalmatian coast on the boats the islanders use, for the price of a sandwich.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Piraeus to the Dodecanese",
+      "where": "Greece",
+      "note": "An overnight run that stops at islands at three in the morning and puts six people and a crate of oranges ashore.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "A cruise ship is the worst way to see a coast. You arrive with four thousand people, you get six hours, and the port has rebuilt itself around exactly that. The ferry leaving from the next berth is going to the same places, costs a fraction, and is full of people who live there.\n\nFive worth planning a trip around:\n\n01 HURTIGRUTEN, Norway — 34 ports of call northbound and 33 southbound, worked by eleven ships. It is a mail and freight route that happens to run up one of the great coastlines. It calls in the middle of the night at places no cruise would bother with.\n\n02 BELÉM TO MANAUS, Brazil — several days up the Amazon in a hammock you buy at the dock. Cargo below, families above, and nobody performing anything for you.\n\n03 ALASKA MARINE HIGHWAY — a state ferry system serving towns with no road in. People sleep on the solarium deck in tents taped down against the wind.\n\n04 JADROLINIJA COASTAL, Croatia — island to island down the Dalmatian coast on the boats the islanders actually use.\n\n05 PIRAEUS TO THE DODECANESE, Greece — an overnight run that stops at an island at three in the morning to put six people and a crate of oranges ashore. That is the whole appeal.\n\nOpinion. The Hurtigruten numbers are Wikipedia's.\n\nWhat is the best boat you have ever been on that was not trying to entertain you?",
+  "tags": [
+    "ferries",
+    "hurtigruten",
+    "amazon",
+    "alaska",
+    "croatia",
+    "greece",
+    "slowtravel",
+    "traveltheworld",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}

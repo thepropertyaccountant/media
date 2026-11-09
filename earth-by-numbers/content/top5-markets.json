@@ -1,0 +1,73 @@
+{
+  "slug": "top5-markets",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Camden Market<br>is a gift shop<br>with a roof.",
+      "sub": "Five markets where people actually buy their dinner. Opinion.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Grand Bazaar",
+      "where": "Istanbul, Türkiye",
+      "note": "61 covered streets, and somewhere between 250,000 and 400,000 people walking them every day. Running since the winter of 1455.",
+      "bg": "",
+      "source": "Grand Bazaar, Istanbul. The page says 4,000 shops in one place and 3,000 in another. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Chatuchak",
+      "where": "Bangkok, Thailand",
+      "note": "More than 15,000 stalls across 27 sections, and over 200,000 visitors every weekend. Go at 8am or do not go.",
+      "bg": "ink",
+      "source": "Chatuchak Weekend Market. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Jemaa el-Fnaa",
+      "where": "Marrakech, Morocco",
+      "note": "A square, not a hall. It sells carpets by day and turns into several hundred food stalls after dark.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Khan el-Khalili",
+      "where": "Cairo, Egypt",
+      "note": "A bazaar quarter that has been trading on the same lanes since the 14th century, and still sells to Cairo rather than to visitors.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Mercat Central",
+      "where": "Valencia, Spain",
+      "note": "A modernista iron and glass hall where the city genuinely does its shopping, which is rarer than it sounds.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Camden Market is a gift shop with a roof. So is most of Borough on a Saturday. A market is where people buy their dinner, not where they buy a fridge magnet shaped like the place they are standing in.\n\nFive that still work:\n\n01 GRAND BAZAAR, Istanbul — 61 covered streets and between 250,000 and 400,000 people a day, trading since the winter of 1455. Yes, parts of it sell tat. Go deeper in and it is still a working wholesale district. Wikipedia itself cannot decide whether it holds 3,000 shops or 4,000.\n\n02 CHATUCHAK, Bangkok — more than 15,000 stalls in 27 sections, over 200,000 visitors every weekend. Arrive at eight or do not bother.\n\n03 JEMAA EL-FNAA, Marrakech — a square rather than a hall, carpets by day, several hundred food stalls after dark.\n\n04 KHAN EL-KHALILI, Cairo — a bazaar quarter trading on the same lanes since the 14th century, still selling to Cairo rather than to visitors.\n\n05 MERCAT CENTRAL, Valencia — a modernista iron and glass hall where the city actually does its shopping. Rarer than it sounds.\n\nThis is opinion. The visitor counts are not.\n\nWhich market would you defend, and which one is a tourist trap you fell for?",
+  "tags": [
+    "markets",
+    "grandbazaar",
+    "chatuchak",
+    "jemaaelfnaa",
+    "cairo",
+    "streetfood",
+    "traveltheworld",
+    "foodtravel",
+    "travelinspo",
+    "earthbynumbers"
+  ]
+}
