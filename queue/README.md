@@ -40,11 +40,18 @@ sentence, or skip the post and take the next one — do not publish it unverifie
 | 07 | 2026-11-25 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
 | 08 | 2026-11-28 | Vehicle claims: kilometre rates against actual costs | Contractor | queued |
 | 09 | 2026-12-01 | The intention test outlives the bright-line period | Property | queued |
-| — | 2026-12-04 | *(replacement for the held provisional tax post)* | Property | to write |
-| — | 2026-12-07 | *(replacement for the held Healthy Homes post)* | Contractor | to write |
+| 11 | 2026-12-04 | The bach that sat empty: mixed-use asset rules | Property | queued |
+| 12 | 2026-12-07 | The withholding rate on your invoices is a choice | Contractor | queued |
+| 13 | — | The depreciation you claimed comes back when you sell | Property | bank |
 
-Property leads 5 of the 8 drafted, which holds the two-in-three balance. The two
-slots still to write should be one property and one contractor to keep it there.
+Property leads 7 of the 10 drafted, which holds the two-in-three balance.
+
+A row marked `bank` has no slot. It has no seasonal hook, so it can go out any
+time a slot needs filling — a held post not yet due, a topic that turns out to
+be stale on the day, a figure that cannot be confirmed. Take it in preference to
+inventing a topic from scratch. Post 13 pairs with post 03: 03 sells the
+chattels deduction, 13 shows the bill at the other end, so leave some weeks
+between them rather than running them back to back.
 
 ### Held back
 
@@ -63,12 +70,11 @@ The task runs every three days, at 6:36pm Auckland, on days 1, 4, 7, 10, 13, 16,
 gap across a month boundary is one to four days rather than three. The dates
 above assume no run is skipped.
 
-**The drafted queue runs out after 1 December 2026.** The two slots after that
-are marked `to write` and have no draft behind them. If nothing has been written
-by then, the run will fall through to picking its own topic and will say so in
-its report — that is the designed fallback, not a failure, but a deliberately
-chosen topic is better. Topping the queue up before late November avoids the
-question entirely.
+**The slotted queue runs out after 7 December 2026**, with post 13 in the bank
+behind it, so the first run with nothing drafted is around 13 December. After
+that a run falls through to picking its own topic and says so in its report —
+the designed fallback, not a failure, but a deliberately chosen topic is better.
+Topping up in early December avoids the question.
 
 ## Build notes learned from earlier runs
 
