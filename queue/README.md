@@ -63,10 +63,28 @@ agent post when a slot needs filling and the posts around it are property, and
 otherwise space them. If several slots need filling at once, draft property
 topics rather than emptying the bank.
 
-**Counting where things stand.** Including the 2 already posted, the drafted
-library is 10 property and 8 agent-side. Writing all four `to write` topics
-takes it to 10 and 12, which tips the balance the other way. Four property
-topics are worth drafting alongside them if the two-in-three rule still holds.
+### The property shortfall — standing requirement
+
+Confirmed by Felix on 9 November 2026: the two-in-three property ratio stays.
+That makes the library lopsided, and the arithmetic is worth stating plainly.
+
+| | Count |
+| --- | --- |
+| Agent-side posts once 19 to 22 are written | 12 |
+| Property posts needed to run those at 2:1 | 24 |
+| Property posts held (including the 2 posted) | 10 |
+| **Property shortfall** | **14** |
+
+Posting 2 property to every 1 agent consumes property twice as fast. At the
+current library the property side runs dry after roughly 15 posts — about 45
+days at one post every three days — and strands around 7 agent posts with
+nothing to interleave them against.
+
+**So property topics are the drafting priority from here, not agent ones.**
+Write agent posts 19 to 22 when there is room, but a run that has spare capacity
+should be drafting property. Do not let the ratio slip by default: if a slot
+comes up and the only thing drafted is agent-side, that is the signal the
+property bank needs filling, not a reason to post agent content twice running.
 
 Rough deployment notes, where a post has one:
 
@@ -126,23 +144,28 @@ How the drafted non-property posts fare against the new audience:
 | 16 | Interest and penalties | Good | Lands well after a big commission year. Minor reframing. |
 | 04 | Home office | Good | Agents work from home between viewings. Minor reframing. |
 | 15 | GST payments or invoice basis | Marginal | Built on being paid late on 30-day terms. Agents are paid by the agency on settlement, so the pain is weaker. Rework around settlement timing straddling a GST period, or leave it. |
-| 12 | Schedular payment withholding rate | **Blocked** | See below. Do not build until resolved. |
+| 12 | Schedular payment withholding rate | Good | Unblocked — Felix confirmed on 9 Nov 2026 that schedular payments do apply to real estate. Re-angle the examples to commission from an agency. Still pin down the correct activity row and rate (see below). |
 | 17 | Bad debts | **Retired** | Moved to `queue/retired/`. An unpaid-customer problem; agents are paid by the agency. |
 | 18 | Investment Boost | **Retired** | Moved to `queue/retired/`. Aimed at buying plant; agents buy little that qualifies. |
 
-### Open question blocking post 12
+### Post 12: resolved, with one detail still to pin down
 
-It is **not established** that a self-employed real estate salesperson's
-commission is a schedular payment subject to withholding. Real estate is not
-named anywhere on the IR330C, and the only row that might cover it —
-"Commissions to insurance agents and sub-agents and salespeople" — is
-grammatically ambiguous: "salespeople" may or may not be qualified by
-"insurance". The form says its list is not exhaustive and points to schedule 4
-of the Income Tax Act 2007 for the full one.
+**Felix confirmed on 9 November 2026 that schedular payments do apply to real
+estate salespeople.** That is his professional judgement as the Chartered
+Accountant whose name goes on the post, and it settles whether the topic
+applies. Build post 12 for this audience.
 
-Resolve it against schedule 4 or current IRD guidance before building post 12.
-If agents are not on schedular payments, retire post 12 for this audience — the
-whole post is about a withholding rate they would never see.
+What it does not settle is which activity row the commission sits under and
+therefore what the standard rate is. Real estate is not named on the IR330C,
+and the row that most likely covers it — "Commissions to insurance agents and
+sub-agents and salespeople" — is grammatically ambiguous about whether
+"salespeople" stands alone. The form says its list is not exhaustive and points
+to schedule 4 of the Income Tax Act 2007.
+
+So before building: confirm the activity row and rate that apply to a real
+estate salesperson, against schedule 4 or current IRD guidance, or ask Felix.
+Do not print a rate for real estate on a slide on the strength of the
+applicability confirmation alone — that confirmed the topic, not the number.
 
 ### Retired posts
 
