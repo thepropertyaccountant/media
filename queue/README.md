@@ -23,20 +23,33 @@ sentence, or skip the post and take the next one — do not publish it unverifie
 
 ## Run order
 
-| # | Suggested date | Topic | Audience | Status |
+| # | Expected slot | Topic | Audience | Status |
 | --- | --- | --- | --- | --- |
-| 01 | 2026-11-16 | The $60,000 GST test is a rolling 12 months | Contractor | queued |
-| 02 | 2026-11-23 | Ring-fencing: why a rental loss will not cut your salary tax | Property | queued |
-| 03 | 2026-11-30 | The chattels schedule nobody set up at purchase | Property | queued |
-| 04 | 2026-12-07 | Home office: the square metre rate against actual costs | Contractor | queued |
-| 05 | 2026-12-14 | The main home exclusion to the bright-line test | Property | queued |
-| 06 | 2026-12-21 | The 15 January provisional tax instalment | Contractor | queued |
-| 07 | 2027-01-11 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
-| 08 | 2027-01-18 | Vehicle claims: kilometre rates against actual costs | Contractor | queued |
-| 09 | 2027-01-25 | The intention test outlives the bright-line period | Property | queued |
-| 10 | 2027-02-01 | Healthy Homes work: deductible repair or capital | Property | queued |
+| 01 | 2026-11-10 | The $60,000 GST test is a rolling 12 months | Contractor | queued |
+| 02 | 2026-11-13 | Ring-fencing: why a rental loss will not cut your salary tax | Property | queued |
+| 03 | 2026-11-16 | The chattels schedule nobody set up at purchase | Property | queued |
+| 04 | 2026-11-19 | Home office: the square metre rate against actual costs | Contractor | queued |
+| 05 | 2026-11-22 | The main home exclusion to the bright-line test | Property | queued |
+| 06 | 2026-11-25 | The 15 January provisional tax instalment | Contractor | queued |
+| 07 | 2026-11-28 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
+| 08 | 2026-12-01 | Vehicle claims: kilometre rates against actual costs | Contractor | queued |
+| 09 | 2026-12-04 | The intention test outlives the bright-line period | Property | queued |
+| 10 | 2026-12-07 | Healthy Homes work: deductible repair or capital | Property | queued |
 
-Property leads 6 of 10, which holds the two-weeks-in-three balance.
+Property leads 6 of 10, which holds the two-in-three balance.
+
+The task runs every three days, at 6:36pm Auckland, on days 1, 4, 7, 10, 13, 16,
+19, 22, 25, 28 and 31 of each month. Cron restarts that count at the 1st, so the
+gap across a month boundary is one to four days rather than three. The dates
+above assume no run is skipped.
+
+**At this cadence the queue is exhausted around 7 December 2026.** Two of the ten
+were written for a date that no longer matches: post 06 (the 15 January
+provisional tax instalment) now lands in late November, far too early to be
+useful, and post 10 (Healthy Homes, written to lead into the 31 March year end)
+lands in early December. Both should be held back and re-slotted nearer their
+dates, with something else taking their place in the run order — or re-angled so
+the timing hook is dropped. Worth deciding before the queue reaches them.
 
 ## Build notes learned from earlier runs
 
