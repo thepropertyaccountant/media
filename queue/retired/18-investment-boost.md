@@ -1,5 +1,14 @@
 # 18 — Investment Boost: 20% off the top of a new asset
 
+> **RETIRED 9 November 2026 — do not build.**
+> Retired when the non-property audience changed from tradies to real estate
+> salespeople. This topic was written for someone with unpaid customers or
+> depreciable plant, and an agent paid commission by an agency has neither.
+> The research and the **Verify before building** sources in this file were
+> checked and are sound, so it is kept rather than deleted — if the audience
+> ever widens again, start from here rather than from scratch.
+
+
 **Audience:** contractors and sole traders. **Status: BANK**
 **Best deployed:** any time. Slight lean to February or March, when people buy
 equipment before balance date.

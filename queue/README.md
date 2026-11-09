@@ -46,28 +46,33 @@ sentence, or skip the post and take the next one — do not publish it unverifie
 | 14 | — | Entertainment is half. Your own lunch is nothing. | Contractor | bank |
 | 15 | — | Paying GST on money you have not been paid | Contractor | bank |
 | 16 | — | What underpaying actually costs | Contractor | bank |
-| 17 | — | The invoice that never got paid | Contractor | bank |
-| 18 | — | Investment Boost: 20% off the top of a new asset | Contractor | bank |
+| 19 | — | Marketing and advertising an agent funds themselves | Agent | to write |
+| 20 | — | Franchise, desk and administration fees paid to the agency | Agent | to write |
+| 21 | — | Commission clawback when a deal falls over | Agent | to write |
+| 22 | — | Smoothing provisional tax across a big year and a thin one | Agent | to write |
 
 ### Keeping the mix right
 
-Of the 10 slotted posts, 7 are property, which is the two-in-three the brand
-asks for. The bank is the other way round: 1 property and 5 contractor.
+Of the 10 slotted posts, 6 are property and 4 are agent-side. The bank holds
+1 property and 3 agent-side, plus 4 agent topics still to write.
 
-**Do not work through the bank in order.** Five contractor posts in a row is
-two and a half weeks of a property-led feed talking to tradies, and it reads as
-a change of direction rather than a run of good posts. Take a banked contractor
-post when a slot needs filling and the posts around it are property, and
+**Do not work through the bank in order.** A run of agent posts back to back
+is two weeks of a property-led feed talking to one half of the audience, and it
+reads as a change of direction rather than a run of good posts. Take a banked
+agent post when a slot needs filling and the posts around it are property, and
 otherwise space them. If several slots need filling at once, draft property
 topics rather than emptying the bank.
 
+**Counting where things stand.** Including the 2 already posted, the drafted
+library is 10 property and 8 agent-side. Writing all four `to write` topics
+takes it to 10 and 12, which tips the balance the other way. Four property
+topics are worth drafting alongside them if the two-in-three rule still holds.
+
 Rough deployment notes, where a post has one:
 
-- 14 (entertainment) — late November or December, Christmas functions.
-- 17 (bad debts) — February or early March, while there is time to act before a
-  31 March balance date.
+- 14 (entertainment) — late November or December, and around vendor entertaining.
 - 16 (interest and penalties) — just after a provisional tax instalment date.
-- 15 and 18 — no hook, use any time.
+- 15 — no hook, use any time, and see the fit note below before building.
 
 A row marked `bank` has no slot. It has no seasonal hook, so it can go out any
 time a slot needs filling — a held post not yet due, a topic that turns out to
@@ -122,8 +127,8 @@ How the drafted non-property posts fare against the new audience:
 | 04 | Home office | Good | Agents work from home between viewings. Minor reframing. |
 | 15 | GST payments or invoice basis | Marginal | Built on being paid late on 30-day terms. Agents are paid by the agency on settlement, so the pain is weaker. Rework around settlement timing straddling a GST period, or leave it. |
 | 12 | Schedular payment withholding rate | **Blocked** | See below. Do not build until resolved. |
-| 17 | Bad debts | Poor | An unpaid-customer problem. Agents are paid by the agency and rarely carry bad debts. Retire unless a use appears. |
-| 18 | Investment Boost | Poor | Aimed at buying plant and equipment. Agents buy little that qualifies. Retire unless a use appears. |
+| 17 | Bad debts | **Retired** | Moved to `queue/retired/`. An unpaid-customer problem; agents are paid by the agency. |
+| 18 | Investment Boost | **Retired** | Moved to `queue/retired/`. Aimed at buying plant; agents buy little that qualifies. |
 
 ### Open question blocking post 12
 
@@ -139,15 +144,37 @@ Resolve it against schedule 4 or current IRD guidance before building post 12.
 If agents are not on schedular payments, retire post 12 for this audience — the
 whole post is about a withholding rate they would never see.
 
-### Gaps worth drafting for agents
+### Retired posts
 
-None of these are drafted. They have no tradie equivalent in the queue and suit
-the audience better than posts 17 and 18 do:
+`queue/retired/` holds posts withdrawn when the audience changed. They are kept,
+not deleted, because their research and sources were checked and are sound — if
+the audience ever widens again, start from those files. **Never build from
+`queue/retired/`.**
 
-- Marketing and advertising an agent funds themselves, and when it is deductible
-- Franchise, desk and administration fees paid to the agency
-- A commission clawback when a deal falls over after settlement
-- Smoothing provisional tax across a very good year and a thin one
+### Agent topics to write (19 to 22)
+
+Rows 19 to 22 in the run order are topics only, with no draft files behind them.
+They were chosen because they have no tradie equivalent in the queue and fit a
+commission-paid salesperson directly. Each still needs the full treatment: an
+angle with a trap in it, slide copy, a caption, and a **Verify before building**
+list naming every figure and the Inland Revenue page to confirm it on.
+
+- **19 — Marketing and advertising an agent funds themselves.** Where the agent
+  rather than the vendor carries the cost of photography, staging, signage and
+  listing promotion, and when that is deductible. Check how a vendor-paid
+  recharge is treated, and the GST side.
+- **20 — Franchise, desk and administration fees paid to the agency.** The
+  standing deductions taken out of commission before it reaches the agent, and
+  whether they are being claimed at all. Check the treatment of a franchise fee
+  against an ordinary service fee.
+- **21 — Commission clawback when a deal falls over.** What happens when
+  commission already returned as income is repaid in a later year. Check whether
+  it is a deduction in the year of repayment or an amendment to the earlier
+  return — this is the trap and it must be sourced properly.
+- **22 — Smoothing provisional tax across a big year and a thin one.** The
+  structural problem of commission income: this year's instalments are sized on
+  last year's result. Check the estimation option and any other mechanism before
+  naming one, and keep it distinct from held post 06.
 
 ## Build notes learned from earlier runs
 
