@@ -99,6 +99,56 @@ that a run falls through to picking its own topic and says so in its report —
 the designed fallback, not a failure, but a deliberately chosen topic is better.
 Topping up in early December avoids the question.
 
+## The non-property audience is real estate agents, not tradies
+
+Changed 9 November 2026. Everything on the non-property side is now written for
+a self-employed real estate salesperson paid lumpy commission by an agency —
+not for builders, plumbers or electricians. The task prompt carries this too.
+
+Posts 01 to 18 were drafted for a tradie and consultant audience. Re-angle a
+draft before building it: change the examples, the caption framing and the
+hashtags. The tax rules in the **Verify before building** sections are unchanged
+and still apply.
+
+How the drafted non-property posts fare against the new audience:
+
+| # | Post | Fit | What it needs |
+| --- | --- | --- | --- |
+| 08 | Vehicle: kilometre rates | Strongest | Barely needs changing. Driving between viewings is the job. Swap the examples to open homes and appraisals. |
+| 01 | $60,000 GST rolling 12 months | Strong | Better for agents than tradies — one big settlement can cross it mid-year. Rewrite slide 5's ledger as commission on two settlements. |
+| 06 | 15 January provisional tax | Strong | A strong year drives next year's instalments. Re-angle to the commission cycle. Still held until 2027-01-07. |
+| 14 | Entertainment and your own lunch | Strong | Client lunches, open home catering, closing gifts. Swap the Christmas-do framing for vendor entertaining. |
+| 16 | Interest and penalties | Good | Lands well after a big commission year. Minor reframing. |
+| 04 | Home office | Good | Agents work from home between viewings. Minor reframing. |
+| 15 | GST payments or invoice basis | Marginal | Built on being paid late on 30-day terms. Agents are paid by the agency on settlement, so the pain is weaker. Rework around settlement timing straddling a GST period, or leave it. |
+| 12 | Schedular payment withholding rate | **Blocked** | See below. Do not build until resolved. |
+| 17 | Bad debts | Poor | An unpaid-customer problem. Agents are paid by the agency and rarely carry bad debts. Retire unless a use appears. |
+| 18 | Investment Boost | Poor | Aimed at buying plant and equipment. Agents buy little that qualifies. Retire unless a use appears. |
+
+### Open question blocking post 12
+
+It is **not established** that a self-employed real estate salesperson's
+commission is a schedular payment subject to withholding. Real estate is not
+named anywhere on the IR330C, and the only row that might cover it —
+"Commissions to insurance agents and sub-agents and salespeople" — is
+grammatically ambiguous: "salespeople" may or may not be qualified by
+"insurance". The form says its list is not exhaustive and points to schedule 4
+of the Income Tax Act 2007 for the full one.
+
+Resolve it against schedule 4 or current IRD guidance before building post 12.
+If agents are not on schedular payments, retire post 12 for this audience — the
+whole post is about a withholding rate they would never see.
+
+### Gaps worth drafting for agents
+
+None of these are drafted. They have no tradie equivalent in the queue and suit
+the audience better than posts 17 and 18 do:
+
+- Marketing and advertising an agent funds themselves, and when it is deductible
+- Franchise, desk and administration fees paid to the agency
+- A commission clawback when a deal falls over after settlement
+- Smoothing provisional tax across a very good year and a thin one
+
 ## Build notes learned from earlier runs
 
 - Force line breaks in headlines with `<br>` and then **look at the render** —
