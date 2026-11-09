@@ -48,6 +48,9 @@ Property leads 6 of 10, which holds the two-weeks-in-three balance.
 - `.verdict` is a fixed red and has no `max-width`, so it overflows past about
   22 characters. Keep it short, and only use it for genuinely bad news.
 - `.big` is always green. Only use it for a number the reader gains.
-- The repo is shared with an unrelated project that force-pushes. If `git push`
-  is rejected as non-fast-forward while `git ls-remote` shows your commit's
-  parent as the tip, it is that race — fetch and push again rather than forcing.
+- The repo is shared with an unrelated project that force-pushes, which leaves
+  the local branch ref in a state where `git push origin main` is rejected as
+  non-fast-forward even though `git ls-remote` shows your commit's parent as the
+  tip. Pushing the explicit refspec works and is a fast-forward:
+  `git push origin HEAD:refs/heads/main`. Never force-push here — the other
+  project's commits are in the same history.
