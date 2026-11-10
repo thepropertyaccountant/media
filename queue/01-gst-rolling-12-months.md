@@ -10,7 +10,11 @@ the line mid-year, months before they would ever look at a tax year total.
   https://www.ird.govt.nz/gst/registering-for-gst
 - VERIFY: it is any **12-month period**, past or projected, not a tax year — same page.
 - VERIFY: GST rate, last known **15%** — https://www.ird.govt.nz/gst
-- VERIFY: registration deadline once you cross — last known **21 days** — same page.
+- ~~VERIFY: registration deadline once you cross — last known **21 days**~~ —
+  **WRONG, do not use.** Checked 10 Nov 2026: no registration deadline is stated on
+  ird.govt.nz/gst/registering-for-gst, ird.govt.nz/gst/registering-for-gst/register-for-gst
+  or IR375 (Mar 2026). The 21 days in IR375 pp.21-22 is the deadline to **cancel** a
+  registration, not to make one. The post built on 10 Nov 2026 omits it.
 - VERIFY: filing frequency options and the turnover bands that allow six-monthly
   (last known: six-monthly available under $500,000) —
   https://www.ird.govt.nz/gst/registering-for-gst/when-to-file-your-gst-return
