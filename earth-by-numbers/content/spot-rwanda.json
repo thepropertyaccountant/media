@@ -1,0 +1,105 @@
+{
+  "slug": "spot-rwanda",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The land of a<br>thousand hills is<br>not a slogan.",
+      "sub": "Rwanda, where the mountains hold the last of something.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Kigali"
+        ],
+        [
+          "Land area",
+          "26,338 km²"
+        ],
+        [
+          "Land borders",
+          "4"
+        ],
+        [
+          "Coastline",
+          "None — landlocked"
+        ],
+        [
+          "Currency",
+          "Rwandan franc"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Volcanoes National Park",
+          "note": "160 km² of rainforest across five of the eight Virunga volcanoes. Dian Fossey's base."
+        },
+        {
+          "name": "The gorillas",
+          "note": "An estimated 1,063 mountain gorillas exist, about 80% of them in the Virungas."
+        },
+        {
+          "name": "Nyungwe",
+          "note": "1,019 km² of montane rainforest holding 13 primate species, a quarter of Africa's total."
+        }
+      ],
+      "source": "Volcanoes National Park; Mountain gorilla; Nyungwe Forest. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "On the last Saturday of the month, the country stops.",
+      "size": "h-sm",
+      "sub": "Umuganda is a national morning of mandatory community service, 8am to 11am, for everyone between 18 and 65. Most normal services close and public transport is limited.",
+      "source": "Rwanda. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Kigali",
+      "bg": "",
+      "items": [
+        {
+          "name": "Musanze",
+          "note": "The base for Volcanoes National Park and for Mount Karisimbi, 4,507 m, the country's high point."
+        },
+        {
+          "name": "Nyungwe",
+          "note": "Known for its chimpanzees and its canopy walkway, and called the best preserved montane rainforest in Africa."
+        },
+        {
+          "name": "Lake Kivu",
+          "note": "The western edge, where the hills run down to the DRC border."
+        }
+      ],
+      "source": "Rwanda; Nyungwe Forest. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Rwanda is 26,338 km² and almost none of it is flat. The nickname is pays des mille collines, the land of a thousand hills, and it is doing descriptive work rather than marketing.\n\nRWANDA BY NUMBERS\nLand area — 26,338 km², 144th in the world\nLand neighbours — 4: Uganda, Tanzania, Burundi, DR Congo\nHighest point — Mount Karisimbi, 4,507 m\nVolcanoes National Park — 160 km², five of the eight Virunga volcanoes\nMountain gorillas remaining — an estimated 1,063\n\nThe gorillas are the reason most people come and the number deserves care. The article's lead says 1,063 as of 2019; its body says 1,063 as of 2025. Same figure, two dates, unreconciled. About 80% of them live in the Virunga Mountains shared between the DRC, Rwanda and Uganda, and the species is listed as endangered. Volcanoes National Park covers five of the eight Virunga volcanoes and was where Dian Fossey based her research.\n\nNyungwe is the one people skip. It is 1,019 km² of montane rainforest, bamboo, grassland, swamp and bog, described as most likely the best preserved montane rainforest in Africa, and it holds 13 primate species — 25% of Africa's total — including chimpanzees.\n\nThe detail that says most about the country is administrative. On the last Saturday of every month, from 8am to 11am, everyone between 18 and 65 is expected to turn out for umuganda, mandatory community service: cleaning streets, building houses. Most services shut and public transport is limited while it happens.\n\nWould a mandatory community morning work where you live?",
+  "tags": [
+    "rwanda",
+    "kigali",
+    "gorillas",
+    "virunga",
+    "nyungwe",
+    "eastafrica",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

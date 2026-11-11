@@ -1,0 +1,67 @@
+{
+  "slug": "singapore-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Singapore has<br>grown. Nobody<br>agrees how much.",
+      "sub": "Five stats from a country that builds its own land."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "580",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km² in the 1960s",
+      "title": "The same article projects 770 km² by the 2030s — an increase of over 30%.",
+      "size": "h-sm",
+      "source": "Singapore. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "22%",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "growth since 1965, says another page",
+      "title": "And three pages give three current areas: 744.3, 736.3 and 728.3 km².",
+      "size": "h-sm",
+      "source": "Singapore; Land reclamation in Singapore; City-state. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 04",
+      "bg": "",
+      "size": "h-sm",
+      "title": "Its neighbours stopped selling it sand.",
+      "sub": "Indonesia banned sand exports specifically to Singapore in 2007. Vietnam followed in 2009, and Cambodia the same year with a narrower ban. Malaysia had banned sand exports generally in 1997.",
+      "source": "Land reclamation in Singapore. 14.6 million tons imported in 2010 alone. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Four official languages, and one national one.",
+      "sub": "English, Malay, Mandarin and Tamil are all official. Malay alone is the national language. The highest natural point in the country is Bukit Timah Hill, at 163.63 m.",
+      "source": "Singapore. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Singapore has been making more of itself for sixty years, and its own encyclopedia entry cannot settle on how much.\n\nOne page says reclamation took the land area from roughly 580 km² in the 1960s towards 770 km² by the 2030s, an increase of over 30%. Another says Singapore has increased its land mass by 22% since independence in 1965. A third gives the current area as 728.3 km², while the first says 744.3 and the second says 736.3. They are measuring different things at different dates and nobody has lined them up.\n\nSINGAPORE BY NUMBERS\nLand area in the 1960s — about 580 km²\nCurrent area — 744.3 km², or 736.3, or 728.3\nGrowth since independence — over 30%, or 22%\nSand imported in 2010 alone — 14.6 million tons\nHighest natural point — Bukit Timah Hill, 163.63 m\n\nBuilding land needs sand, and that is where it gets diplomatic. Singapore has used so much that it ran out of its own and imports it. Malaysia banned sand exports in 1997. Indonesia enacted a ban against exporting sand specifically to Singapore in 2007. Vietnam did the same in 2009, and Cambodia followed the same year with a less all-encompassing version.\n\nThe language arrangement is the other thing worth knowing. English, Malay, Mandarin and Tamil are the four official languages. Malay on its own is the national language. Those are two different statuses and both are listed.\n\nOne more: urbanisation has cost the island 95% of its historical forests, and about 10% of the land is now set aside for parks and nature reserves.\n\nShould a country be allowed to buy sand to build new land?",
+  "tags": [
+    "singapore",
+    "landreclamation",
+    "citystate",
+    "bukittimah",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "southeastasia",
+    "earthbynumbers"
+  ]
+}

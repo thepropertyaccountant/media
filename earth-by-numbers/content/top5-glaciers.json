@@ -1,0 +1,77 @@
+{
+  "slug": "top5-glaciers",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "A glacier you<br>drive to is<br>not a glacier.",
+      "sub": "Opinion. Five that make you work for it, or at least get on a boat.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Perito Moreno",
+      "where": "Santa Cruz, Argentina",
+      "note": "250 km² and 30 km long, with an ice face averaging 74 m above the water. Famous for being stable while everything else retreated — though it has been going back on its northern front since 2020.",
+      "bg": "",
+      "source": "Perito Moreno Glacier. The ice-dam ruptures have no fixed frequency. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Baltoro",
+      "where": "Gilgit-Baltistan, Pakistan",
+      "note": "63 km of ice with K2 at 8,611 m above it, and Concordia at 4,600 m where it meets the Godwin-Austen. Research from 2001 to 2011 found it surging rather than retreating.",
+      "bg": "ink",
+      "source": "Baltoro Glacier, reached from Skardu. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Vatnajökull",
+      "where": "Iceland",
+      "note": "7,700 km², covering about 8% of the country, with several volcanoes underneath it. The largest and most voluminous ice cap in Iceland.",
+      "bg": "",
+      "source": "Vatnajökull, second in Europe by volume after Novaya Zemlya's ice cap. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Aletsch",
+      "where": "Valais, Switzerland",
+      "note": "22.6 km long and 81.7 km², the largest glacier in the Alps. It has lost 20% of its ice mass since 1850, and retreated 114.6 m in 2006 alone.",
+      "bg": "ink",
+      "source": "Aletsch Glacier, part of a World Heritage Site since 2001. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Jostedal",
+      "where": "Norway",
+      "note": "Jostedalsbreen: 487 km², the largest glacier in continental Europe, running a little over 60 km. Its Briksdalsbreen arm retreated 146 m in 2006 and ice climbing there has stopped.",
+      "bg": "",
+      "source": "Jostedal Glacier. The national park was established in 1991. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "A glacier you can drive to is a viewpoint. The coach park, the boardwalk, the eleven minutes you are given before the next group arrives — none of that is the experience people think they are buying.\n\nFive that are worth the trouble. Opinion; the figures are Wikipedia's.\n\n01 PERITO MORENO, Argentina — 250 km², 30 km long, with an ice face averaging 74 m above the water, and the only one on this list you can stand in front of and watch calve. It was for years one of the few glaciers holding equilibrium while the rest retreated, and its page is careful about this now: it says it was previously in equilibrium, that the reason remains debated, and that since 2020 it has been retreating on its northern front. The ice dam it periodically forms and bursts has no reliable schedule.\n\n02 BALTORO, Pakistan — 63 km of ice, approached from Skardu, running beneath K2 at 8,611 m, Broad Peak at 8,047 m and both Gasherbrums. Concordia, where it meets the Godwin-Austen Glacier at 4,600 m, is the trekking destination. Observations between 2001 and 2011 found it surging rather than retreating.\n\n03 VATNAJÖKULL, Iceland — 7,700 km² and about 8% of the country, with volcanoes underneath including Grímsvötn. The largest and most voluminous ice cap in Iceland, and the second largest in Europe after the Severny Island ice cap of Novaya Zemlya.\n\n04 ALETSCH, Switzerland — 22.6 km long, 81.7 km², the largest glacier in the Alps, and the one with the clearest numbers on what is happening: 20% of its ice mass gone since 1850, 3.2 km of retreat since 1870, and a record 114.6 m in 2006 alone.\n\n05 JOSTEDALSBREEN, Norway — 487 km², the largest glacier in continental Europe, a little over 60 km long. Its Briksdalsbreen arm lost 146 m in 2006 and ice climbing there has been terminated.\n\nWhich glacier did you see, and is it still the same size?",
+  "tags": [
+    "glaciers",
+    "peritomoreno",
+    "aletsch",
+    "vatnajokull",
+    "baltoro",
+    "jostedalsbreen",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "adventuretravel",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "spot-taiwan",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Over two hundred<br>peaks above<br>3,000 metres.",
+      "sub": "On an island you can drive across in a morning.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Taipei"
+        ],
+        [
+          "Land area",
+          "36,193 km²"
+        ],
+        [
+          "Land borders",
+          "None"
+        ],
+        [
+          "Official language",
+          "Chinese"
+        ],
+        [
+          "Currency",
+          "New Taiwan dollar"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The mountains",
+          "note": "More than two hundred peaks over 3,000 m. The island is 55% forest and woodland."
+        },
+        {
+          "name": "Taroko Gorge",
+          "note": "One of only three river-carved gorges in the world cut entirely through pure marble."
+        },
+        {
+          "name": "Yushan",
+          "note": "3,952 m — the highest point in the western Pacific outside the Kamchatka Peninsula."
+        }
+      ],
+      "source": "Geography of Taiwan; Taroko National Park; Yushan. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "The island is still being pushed upwards.",
+      "size": "h-sm",
+      "sub": "Taiwan formed about 4 to 5 million years ago at a convergent boundary between the Philippine Sea Plate and the Eurasian Plate. Taroko's page says the area continues to rise a few millimetres every year.",
+      "source": "Geography of Taiwan; Taroko National Park. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "Taroko",
+          "note": "920 km² of national park, re-established on 28 November 1986 after an earlier 1937 version."
+        },
+        {
+          "name": "Yushan",
+          "note": "For about fifty years under Japanese rule this was the highest mountain in Japan, 176 m above Fuji."
+        },
+        {
+          "name": "The east coast",
+          "note": "Fault scarps from 120 to 1,200 m, and ocean over 4,000 m deep about 50 km offshore."
+        }
+      ],
+      "source": "Taroko National Park; Yushan; Geography of Taiwan. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Taiwan has more than two hundred peaks over 3,000 metres, on an island about 36,000 km² in size.\n\nThat is the Geography of Taiwan article's figure. Yushan's page counts 165 mountains above 3,000 m, which is a different convention on the same island, and we have seen 268 quoted elsewhere and could not find it on any page we read. More than two hundred is what the source says, so that is what we will say.\n\nTAIWAN BY NUMBERS\nLand area — 36,193 km² in the dataset; 36,197 and 35,808 both appear on Wikipedia\nPeaks over 3,000 m — more than two hundred\nHighest point — Yushan, 3,952 m\nForest and woodland — 55% of the island\nTyphoons — about four direct hits a year\n\nYushan is the headline. At 3,952 m it is the highest point in the western Pacific region outside the Kamchatka Peninsula, and for about fifty years under Japanese rule it was the highest mountain in Japan, 176 m above Fuji.\n\nTaroko Gorge is the one that does not photograph the way it looks. It is one of only three river-carved gorges in the world cut entirely through pure marble, in a 920 km² national park re-established on 28 November 1986 — an earlier version existed from 1937 and was abolished in 1945.\n\nAll of it is still moving. The island formed about 4 to 5 million years ago where the Philippine Sea Plate meets the Eurasian Plate, and the park's page says the area continues to rise a few millimetres every year. On the east coast the mountains quit abruptly: fault scarps of 120 to 1,200 m, and water more than 4,000 m deep about 50 km out.\n\nWhich island has the best mountains for its size?",
+  "tags": [
+    "taiwan",
+    "taroko",
+    "yushan",
+    "hiking",
+    "eastasia",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "mountains",
+    "earthbynumbers"
+  ]
+}

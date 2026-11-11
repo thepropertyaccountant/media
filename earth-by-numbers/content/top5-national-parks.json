@@ -1,0 +1,77 @@
+{
+  "slug": "top5-national-parks",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Yellowstone is a<br>traffic jam with<br>geysers.",
+      "sub": "Opinion. Five parks where the queue is not the main feature.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Manú",
+      "where": "Madre de Dios, Peru",
+      "note": "17,163 km², with more than 1,000 bird species estimated, 4,385 identified plant species and 155 amphibians. The restricted zone is open to researchers only.",
+      "bg": "",
+      "source": "Manú National Park, a World Heritage Site since 1987. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Jiuzhaigou",
+      "where": "Sichuan, China",
+      "note": "720 km² of blue, green and turquoise lakes and stepped waterfalls. Daily numbers are capped at 41,000 by timed ticket, and its own page admits it is still relatively difficult to reach.",
+      "bg": "ink",
+      "source": "Jiuzhaigou, inscribed in 1992. 5.11 million visitors in 2024. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Kakadu",
+      "where": "Northern Territory, Australia",
+      "note": "19,804 km², listed in 1981 for both cultural and natural values. More than 5,000 recorded rock art sites, on land owned by Aboriginal traditional owners and leased back to the Director of National Parks.",
+      "bg": "",
+      "source": "Kakadu National Park. Occupation for at least 40,000 years. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Gran Paradiso",
+      "where": "Aosta and Piedmont, Italy",
+      "note": "Italy's first national park, from 1922, created to stop the Alpine ibex being poached out. About 3,000 ibex then, 419 left by 1945, 4,000 by 2005. 724 km of marked trails.",
+      "bg": "ink",
+      "source": "Gran Paradiso National Park, 703 km². Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Plitvice",
+      "where": "Croatia",
+      "note": "Sixteen lakes visible from the surface, held apart by travertine barriers that grow up to 13 mm a year. Nearly 1.5 million visitors in 2024, capped at 12,000 a day.",
+      "bg": "",
+      "source": "Plitvice Lakes National Park, founded 1949, inscribed 1979. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Yellowstone is a traffic jam with geysers. It is a genuinely extraordinary place that several million people a year experience through a windscreen, waiting for a parking space at Old Faithful.\n\nFive parks where the crowd is not the main feature. Opinion; figures from Wikipedia.\n\n01 MANÚ, Peru — 17,163 km² running from the Andes down into the Amazon. More than 1,000 bird species estimated, 4,385 identified plant species, 155 amphibians, 132 reptiles, 160 mammals. The park is zoned: the restricted use zone admits researchers only, there are five areas open to visitors, and the lower basin has five camping sites, three lodges and a canopy walkway.\n\n02 JIUZHAIGOU, China — 720 km² of stepped waterfalls and lakes that are genuinely turquoise. It is capped at 41,000 visitors a day by timed ticket and still took 5.11 million people in 2024, with over 30,000 a day in peak season. Its own page notes it is relatively difficult to reach compared with other Chinese scenic sites, which is the only reason any of this works.\n\n03 KAKADU, Australia — 19,804 km², inscribed in 1981 for both cultural and natural values. More than 5,000 recorded rock art sites, and archaeological evidence of Aboriginal occupation for at least 40,000 and possibly 65,000 years. Most of the land is owned by Aboriginal traditional owners and leased to the Director of National Parks.\n\n04 GRAN PARADISO, Italy — the country's first national park, established in 1922 on land protected to stop the Alpine ibex being poached to nothing. There were about 3,000 ibex when it was instituted, 4,000 by 1933, and only 419 left by 1945. Back to 4,000 in 2005. The paths laid out for the ibex are now 724 km of marked trails.\n\n05 PLITVICE, Croatia — sixteen lakes held apart by travertine barriers that are still growing, up to 13 mm a year. It is on this list with a warning: nearly 1.5 million people came in 2024, it is capped at 12,000 a day, and in 2018 UNESCO threatened to remove its World Heritage status.\n\nWhich famous national park did you find disappointing?",
+  "tags": [
+    "nationalparks",
+    "manu",
+    "jiuzhaigou",
+    "kakadu",
+    "granparadiso",
+    "plitvice",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "wildlife",
+    "earthbynumbers"
+  ]
+}

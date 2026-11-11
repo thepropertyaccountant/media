@@ -1,0 +1,66 @@
+{
+  "slug": "new-zealand-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "New Zealand is the<br>dry part of a<br>sunken continent.",
+      "sub": "Five stats from the top of Zealandia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "94%",
+      "numsize": "s3",
+      "bg": "",
+      "label": "of Zealandia is underwater",
+      "title": "About 4,900,000 km² of continental crust. New Zealand is the largest piece above the sea.",
+      "size": "h-sm",
+      "source": "Zealandia. New Caledonia is the next largest part above water. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 03",
+      "bg": "ink",
+      "size": "h-sm",
+      "title": "In 2017 eleven geologists said it qualifies as a continent.",
+      "sub": "Zealandia has been described as a submerged continent, a continental fragment and a microcontinent. If it counts as a microcontinent, it is the largest one there is.",
+      "source": "Zealandia. The name was proposed by Bruce Luyendyk in 1995. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "1,487",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km to the nearest continent",
+      "title": "Australia, across the Tasman. Zealandia broke off Gondwana 83 to 79 million years ago.",
+      "size": "h-sm",
+      "source": "New Zealand; Zealandia. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "The world's steepest street lost its title and won it back.",
+      "sub": "Baldwin Street in Dunedin was recognised in 1987, lost to Ffordd Pen Llech in Wales on 16 July 2019, and got it back on 8 April 2020 when Guinness decided steepness must be measured along the central axis.",
+      "source": "Baldwin Street, maximum slope about 1:2.86, or 19°. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "New Zealand is not an island group. It is the part of a continent that is still above water.\n\nZealandia is about 4,900,000 km² of continental crust, and 94% of it is under the Pacific. New Zealand is the largest piece showing, followed by New Caledonia. In 2017 a team of eleven geologists from New Zealand, New Caledonia and Australia concluded that it meets every requirement to be called a submerged continent rather than a microcontinent or a continental fragment.\n\nNEW ZEALAND BY NUMBERS\nZealandia — about 4,900,000 km² of continental crust\nShare of it underwater — 94%\nBroke off Gondwana — 83 to 79 million years ago\nDistance to Australia — about 1,487 km across the Tasman Sea\nOfficial languages — three, including Māori since 1987 and NZ Sign Language since 2006\n\nThe isolation is the reason for everything else about the place. Eighty million years of it, which is long enough to produce birds that forgot how to fly.\n\nThen there is Baldwin Street in Dunedin, which has had the strangest record history of anything on this account. Guinness recognised it as the world's steepest street in 1987. On 16 July 2019 it lost the title to Ffordd Pen Llech in Wales, measured at 37.45% against Baldwin's 35%. On 8 April 2020 Guinness decided steepness had to be measured along a street's central axis, which put the Welsh street at 28.6% and Baldwin at 34.8%, and the title went back to Dunedin.\n\nWe cut one figure: Zealandia's own article gives three different areas, and we used the one in its lead.\n\nIs Zealandia a continent, or are we all just being generous?",
+  "tags": [
+    "newzealand",
+    "zealandia",
+    "geology",
+    "continents",
+    "dunedin",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

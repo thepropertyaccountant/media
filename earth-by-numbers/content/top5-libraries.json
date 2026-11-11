@@ -1,0 +1,77 @@
+{
+  "slug": "top5-libraries",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "A library with<br>a queue outside<br>is an exhibition.",
+      "sub": "Opinion. Five rooms where the books are still the point.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Admont Abbey",
+      "where": "Styria, Austria",
+      "note": "A hall 70 m long, 14 wide and 13 high, built in 1776, with seven cupolas frescoed by Bartolomeo Altomonte. The abbey says it is the largest monastic library in the world, and we will let the abbey say it.",
+      "bg": "",
+      "source": "Admont Abbey: 70,000 volumes in the hall, about 200,000 in all. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "The Long Room",
+      "where": "Trinity College Dublin",
+      "note": "65 m of barrel-vaulted oak holding 200,000 of the library's oldest books. A legal deposit library since 1801, and home to the Book of Kells since 1661.",
+      "bg": "ink",
+      "source": "The Library of Trinity College Dublin. A €90m restoration began in 2022. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Strahov",
+      "where": "Prague, Czechia",
+      "note": "Two halls rather than one: the Theological Hall finished in 1679 and the Classical-style Philosophical Hall added a century later. Over 200,000 volumes, 3,000 of them manuscripts.",
+      "bg": "",
+      "source": "Strahov Monastery. Frescoes by Siard Nosecky and Anton Maulbertsch. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "George Peabody",
+      "where": "Baltimore, USA",
+      "note": "An atrium rising 61 feet to a frosted-glass skylight, ringed by five tiers of black cast-iron balconies. Opened 1878, 300,000 volumes, open to the general public.",
+      "bg": "ink",
+      "source": "George Peabody Library. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Bibliotheca Alexandrina",
+      "where": "Alexandria, Egypt",
+      "note": "Shelf space for eight million books and a reading room of 20,000 m² on eleven cascading levels. It opened on 16 October 2002 holding 500,000.",
+      "bg": "",
+      "source": "Bibliotheca Alexandrina, built to commemorate the ancient library. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "A library with a queue outside is an exhibition. Beautiful, worth seeing, and functionally a museum of what a library used to be for.\n\nFive rooms where the books are still doing something. Opinion; the figures are Wikipedia's.\n\n01 ADMONT ABBEY, Austria — 70 m long, 14 m wide, 13 m high, built in 1776 to designs by Joseph Hueber, with seven cupolas frescoed by Bartolomeo Altomonte. The hall holds about 70,000 of the monastery's roughly 200,000 volumes. Its page says \"Admont Abbey says it contains the largest monastic library in the world\", and that attribution matters, so we kept it.\n\n02 THE LONG ROOM, Dublin — 65 m of barrel-vaulted oak, built between 1712 and 1732, holding 200,000 of the library's oldest books. Trinity has been a legal deposit library since 1801, which means Irish publishers must send it a copy of everything they print, and the Book of Kells has been there since 1661. A €90m restoration began in 2022; the page does not say whether the shelves are currently full, so check before you book.\n\n03 STRAHOV, Prague — the one people get wrong because it is two halls. The Theological Hall was completed in 1679; the Philosophical Hall came a century later in Classical style under abbot Václav Mayer. Over 200,000 volumes between them, including more than 3,000 manuscripts.\n\n04 GEORGE PEABODY, Baltimore — an atrium rising 61 feet to a latticed skylight of frosted glass, surrounded by five tiers of ornamental black cast-iron balconies from the Bartlett-Hayward Company. It opened in 1878, holds 300,000 volumes, and the collections are available for use by the general public.\n\n05 BIBLIOTHECA ALEXANDRINA, Egypt — the modern one, inaugurated on 16 October 2002 as a commemoration of the ancient library lost in antiquity. Shelf space for eight million books, a main reading room of 20,000 m² on eleven cascading levels, and 500,000 books on the day it opened. Students from neighbouring universities make up 80% of its patrons, which is the right answer.\n\nWhich library have you been in that was still a working library?",
+  "tags": [
+    "libraries",
+    "admont",
+    "trinitycollege",
+    "strahov",
+    "bibliothecaalexandrina",
+    "books",
+    "travelinspo",
+    "architecture",
+    "worldfacts",
+    "history",
+    "earthbynumbers"
+  ]
+}

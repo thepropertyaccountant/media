@@ -1,0 +1,67 @@
+{
+  "slug": "south-africa-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "South Africa<br>has three<br>capital cities.",
+      "sub": "Five stats from a country that split the job three ways."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 02",
+      "bg": "",
+      "size": "h-sm",
+      "title": "Pretoria executive. Cape Town legislative. Bloemfontein judicial.",
+      "sub": "Parliament sits in Cape Town. The President and Cabinet work from the Union Buildings in Pretoria. The article states the arrangement without ever calling it unusual.",
+      "source": "South Africa; Pretoria. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "12",
+      "numsize": "s2",
+      "bg": "ink",
+      "sea": true,
+      "label": "official languages — or 11",
+      "title": "The lead and infobox say 12, including South African Sign Language. A later section says 11 official spoken languages.",
+      "size": "h-sm",
+      "source": "South Africa. The twelfth was approved by the National Assembly on 3 May 2023. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "69%",
+      "numsize": "s3",
+      "bg": "",
+      "label": "of Cape plant species grow nowhere else",
+      "title": "Over 9,000 vascular plant species in 78,555 km² — the smallest of the world's six floral kingdoms.",
+      "size": "h-sm",
+      "source": "Cape Floristic Region, located entirely within South Africa. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "It has another country inside it.",
+      "sub": "South Africa encloses Lesotho completely. It also borders Namibia, Botswana, Zimbabwe, Mozambique and Eswatini — and Eswatini only escapes being enclosed because it reaches Mozambique.",
+      "source": "South Africa. Total area 1,221,037 km². Source: Wikipedia. Dataset: mledoze/countries (CC-BY-SA).",
+      "handle": true
+    }
+  ],
+  "caption": "South Africa has three capital cities, and each one does a different third of the job.\n\nPretoria is the administrative capital and holds the executive: the President, the Cabinet, the Union Buildings. Cape Town is the legislative capital, because that is where Parliament sits. Bloemfontein is regarded as the judicial capital. The article lays this out flatly and never once calls it unusual, which it absolutely is.\n\nSOUTH AFRICA BY NUMBERS\nCapitals — 3\nOfficial languages — 12, or 11, depending on the section\nTotal area — 1,221,037 km²\nCape Floristic Region — over 9,000 vascular plant species, 69% endemic\nCountries entirely enclosed — 1\n\nThe language count is its own small argument. The lead and the infobox both say twelve official languages, South African Sign Language included, which the National Assembly approved on 3 May 2023. A later section of the same article says South Africa has eleven official spoken languages and lists them. Both are true and the page does not reconcile them.\n\nThe statistic we would actually travel for is the plants. The Cape Floristic Region is 78,555 km², sits entirely inside one country, holds over 9,000 vascular plant species, and 69 percent of them grow nowhere else on Earth. It is the smallest of the six recognised floral kingdoms of the world. A fynbos hillside outside Cape Town is doing something no other hillside anywhere does.\n\nAnd it completely encloses Lesotho, which is a different kind of statistic.\n\nThree capitals: sensible federalism, or an expensive compromise?",
+  "tags": [
+    "southafrica",
+    "capetown",
+    "pretoria",
+    "fynbos",
+    "capefloristicregion",
+    "geographyfacts",
+    "didyouknow",
+    "worldfacts",
+    "africa",
+    "earthbynumbers"
+  ]
+}

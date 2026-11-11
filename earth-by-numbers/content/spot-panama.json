@@ -1,0 +1,105 @@
+{
+  "slug": "spot-panama",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Crossing to the<br>Pacific means<br>heading southeast.",
+      "sub": "Panama, where the canal runs the way nobody expects.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Panama City"
+        ],
+        [
+          "Land area",
+          "75,417 km²"
+        ],
+        [
+          "Land borders",
+          "2 — Colombia, Costa Rica"
+        ],
+        [
+          "Official language",
+          "Spanish"
+        ],
+        [
+          "Currency",
+          "Balboa and US dollar"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The canal",
+          "note": "82 km in the infobox, 80 in the body. An average transit took 11.38 hours in 2017."
+        },
+        {
+          "name": "Gatun Lake",
+          "note": "Ships are lifted to an artificial freshwater lake above sea level, then let down the other side."
+        },
+        {
+          "name": "The Darién Gap",
+          "note": "Where the Pan-American Highway stops. There is no road, not even a primitive one."
+        }
+      ],
+      "source": "Panama Canal; Darién Gap. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Two continents are not joined by road.",
+      "size": "h-sm",
+      "sub": "The Pan-American Highway runs about 30,000 km and breaks at the Darién Gap. Panama and Colombia both oppose building through it, as do environmentalists. Attempts failed in the 1970s and the 1990s.",
+      "source": "Pan-American Highway; Darién Gap. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "Panama City",
+          "note": "The Pacific end of a waterway its own pages measure at 80, 82 or 83 km."
+        },
+        {
+          "name": "The locks",
+          "note": "Three up and three down per transit. The expanded waterway opened on 26 June 2016."
+        },
+        {
+          "name": "Soberanía National Park",
+          "note": "More than 525 bird species recorded in one park, half an hour from the capital."
+        }
+      ],
+      "source": "Panama; Panama Canal. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Sail from the Atlantic to the Pacific through the Panama Canal and you travel southeast. Not west. Southeast.\n\nThe article puts it plainly: while globally the Atlantic is east of the isthmus and the Pacific is west, the general direction of the canal passage from the Atlantic to the Pacific is from northwest to southeast. Panama bends. In formal nautical communications they give up and just say southbound and northbound.\n\nPANAMA BY NUMBERS\nLand area — 75,417 km² in the dataset, 74,177.3 km² in the article's body\nLand neighbours — 2: Colombia and Costa Rica\nCanal length — 82 km in the infobox, 80 in the body, 83 on the Panama page\nAverage transit in 2017 — 11.38 hours\nCurrency — the balboa, fixed 1:1 to the US dollar since 1903\n\nA transit is not a trench at sea level. Ships are lifted by locks into Gatun Lake, an artificial freshwater lake above the sea, carried across, and let down the far side — three locks up and three down. The canal opened on 15 August 1914 with the cargo ship SS Ancon, passed to full Panamanian control at noon on 31 December 1999, and the expanded locks began commercial operation on 26 June 2016.\n\nThen there is the gap. The Pan-American Highway runs about 30,000 km and stops dead at the Darién, resuming roughly 106 km later in Colombia. There is no road, not even a primitive one. Attempts failed in the 1970s and the 1990s, and Panama and Colombia both oppose building through it, along with environmental organisations and indigenous groups. North and South America are separated by road.\n\nWould you want a road built through the Darién Gap?",
+  "tags": [
+    "panama",
+    "panamacanal",
+    "dariengap",
+    "centralamerica",
+    "panamacity",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "maps",
+    "earthbynumbers"
+  ]
+}

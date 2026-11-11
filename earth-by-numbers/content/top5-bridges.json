@@ -1,0 +1,77 @@
+{
+  "slug": "top5-bridges",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Tower Bridge is<br>a road with a<br>gift shop in it.",
+      "sub": "Opinion. Five bridges that are doing something harder.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Millau Viaduct",
+      "where": "Aveyron, France",
+      "note": "343 m of structural height, which made it the tallest bridge in the world for over two decades, until late 2025. Its page does not say what took the title. 2,460 m long, opened 16 December 2004.",
+      "bg": "",
+      "source": "Millau Viaduct, by Michel Virlogeux and Norman Foster. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Øresund",
+      "where": "Denmark and Sweden",
+      "note": "7,845 m of cable-stayed bridge that stops in the middle of the sea at Peberholm, an artificial island, and continues as a 4.05 km tunnel. Opened 1 July 2000.",
+      "bg": "ink",
+      "source": "Øresund Bridge. Peberholm is a nature reserve, generally closed to the public. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Danyang–Kunshan",
+      "where": "Jiangsu, China",
+      "note": "164.8 km of viaduct carrying the Beijing–Shanghai high-speed line, and the longest bridge in the world by Guinness designation since 2011.",
+      "bg": "",
+      "source": "Danyang–Kunshan Grand Bridge, opened 30 June 2011. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Si-o-se-pol",
+      "where": "Isfahan, Iran",
+      "note": "Thirty-three arches in two superimposed rows across 297.76 m, built between 1599 and 1602 to work as both a bridge and a dam.",
+      "bg": "ink",
+      "source": "Si-o-se-pol. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Akashi Kaikyō",
+      "where": "Hyōgo, Japan",
+      "note": "A central span of 1,991 m, opened on 5 April 1998. The toll is 2,300 yen and about 23,000 cars cross a day.",
+      "bg": "",
+      "source": "Akashi Kaikyō Bridge. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Tower Bridge is a Victorian road bridge with a gift shop in it. It is on every London postcard and it is a nice piece of engineering for 1894, and it is not the most interesting bridge within a thousand miles of itself.\n\nFive that are doing something harder. Opinion; the figures are Wikipedia's.\n\n01 MILLAU VIADUCT, France — 343 m of structural height, 2,460 m long, crossing the Tarn valley on seven masts. It was the tallest bridge in the world for over two decades, until late 2025. Its own page says so and then declines to name whatever overtook it, so neither will we. Designed by the engineer Michel Virlogeux with the architect Norman Foster, opened 16 December 2004.\n\n02 ØRESUND, Denmark and Sweden — the one with the trick. It runs 7,845 m from the Swedish coast and then stops in the middle of the strait at Peberholm, an artificial island, where it becomes the 4.05 km Øresund Tunnel and goes under the shipping lane. Opened 1 July 2000. Peberholm is now a nature reserve and public visits are generally not allowed.\n\n03 DANYANG–KUNSHAN, China — 164.8 km of viaduct carrying the Beijing–Shanghai high-speed railway, and the longest bridge in the world in any category by Guinness designation since 2011. You do not look at this one. You ride across it for half an hour.\n\n04 SI-O-SE-POL, Isfahan — thirty-three arches in two superimposed rows, 297.76 m long, built between 1599 and 1602 to serve as both a bridge and a dam. Four hundred years old and still the best place in the city to stand at night.\n\n05 AKASHI KAIKYŌ, Japan — a central span of 1,991 m, opened 5 April 1998. Its page still describes that span in the present tense as the longest of any suspension bridge, and suspension records move, so we will give you the number and the date and leave the ranking alone. The toll is 2,300 yen and about 23,000 cars use it a day.\n\nWhich bridge is worth crossing for its own sake?",
+  "tags": [
+    "bridges",
+    "millauviaduct",
+    "oresund",
+    "akashikaikyo",
+    "isfahan",
+    "engineering",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "architecture",
+    "earthbynumbers"
+  ]
+}

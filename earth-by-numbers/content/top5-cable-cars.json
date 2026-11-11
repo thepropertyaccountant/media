@@ -1,0 +1,77 @@
+{
+  "slug": "top5-cable-cars",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Sugarloaf is a<br>lift to a<br>gift shop.",
+      "sub": "Opinion. Five cable cars that are the reason you went.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Wings of Tatev",
+      "where": "Syunik, Armenia",
+      "note": "5.7 km over a gorge to a 9th-century monastery. Its lead calls it the record for longest non-stop double track cable car; its body calls it the Guinness record for longest non-stop reversible aerial tramway.",
+      "bg": "",
+      "source": "Wings of Tatev. Launched 16 October 2010, record set 23 October 2010. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Peak 2 Peak",
+      "where": "Whistler, Canada",
+      "note": "Still the highest point above the ground in a gondola at 436 m. It held the record for longest free span between ropeway towers at 3.03 km until 2017, when the Eibsee Cable Car beat it by 189 m.",
+      "bg": "ink",
+      "source": "Peak 2 Peak Gondola, opened 12 December 2008. 11-minute ride. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Tianmen Mountain",
+      "where": "Hunan, China",
+      "note": "7,455 m of cableway with 98 cars and an ascent of 1,279 m. Its page calls it the longest passenger cableway of high mountains in the world — and attributes that claim to tourist publications.",
+      "bg": "",
+      "source": "Tianmen Mountain, cable car built in 2005. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Eibsee Cable Car",
+      "where": "Zugspitze, Germany",
+      "note": "The one that took Whistler's span record in 2017, by 189 m. It is one of three cable cars running to the top of Germany's highest mountain, at 2,962 m.",
+      "bg": "ink",
+      "source": "Zugspitze; Peak 2 Peak Gondola. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Ngong Ping 360",
+      "where": "Lantau, Hong Kong",
+      "note": "5,700 m and 25 minutes, opened in 2006, with glass-bottomed Crystal Cabins added in April 2009. Its page records service suspensions in 2006, 2007 and 2012.",
+      "bg": "",
+      "source": "Ngong Ping 360. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Sugarloaf is a lift to a gift shop. Rio is extraordinary and the cable car is a queue, a cabin, a viewing deck and a counter selling fridge magnets, and you have seen the view already because it is on everything.\n\nFive where the ride is the reason you went. Opinion; the figures are Wikipedia's.\n\n01 WINGS OF TATEV, Armenia — 5.7 km across a gorge to a 9th-century monastery, which is a better destination than most cable cars manage. Its own page cannot name its record consistently: the lead says it holds the record for longest non-stop double track cable car, the body says it set the Guinness World Record for the longest non-stop reversible aerial tramway. It launched on 16 October 2010 and took the record on 23 October.\n\n02 PEAK 2 PEAK, Whistler — still the highest point above the ground in a gondola anywhere, at 436 m. It held the record for the longest free span between ropeway towers, 3.03 km, from its opening on 12 December 2008 until 2017. The ride is 11 minutes and 4.4 km.\n\n03 TIANMEN MOUNTAIN, China — 7,455 m of cableway with 98 cars and an ascent of 1,279 m, up to a mountain with a hole through it. Its page describes it as the longest passenger cableway of high mountains in the world and credits that claim to tourist publications, which is exactly the right amount of scepticism.\n\n04 EIBSEE CABLE CAR, Germany — the one that beat Whistler's free span in 2017, by 189 m. It is one of three cable cars running to the summit of the Zugspitze, Germany's highest mountain at 2,962 m. The first of the three was built in 1926.\n\n05 NGONG PING 360, Hong Kong — 5,700 m and 25 minutes over water and hillside to the Big Buddha, with glass-bottomed Crystal Cabins since April 2009. Its page is honest about a rough start: a collision during a trial run in June 2006 left 500 volunteers stuck for two hours, eight suspensions in its first six weeks, and an empty cabin falling during a brake test in June 2007 that kept it shut until the end of that year.\n\nWhich cable car was worth the ticket, and which was a queue?",
+  "tags": [
+    "cablecars",
+    "tatev",
+    "peak2peak",
+    "tianmen",
+    "zugspitze",
+    "ngongping360",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "engineering",
+    "earthbynumbers"
+  ]
+}

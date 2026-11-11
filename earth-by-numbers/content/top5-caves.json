@@ -1,0 +1,77 @@
+{
+  "slug": "top5-caves",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The Blue Grotto<br>is a five-minute<br>boat ride.",
+      "sub": "Opinion. Five caves worth the trouble of getting underground.",
+      "size": "h-lg"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Hang Son Doong",
+      "where": "Quang Binh, Vietnam",
+      "note": "The largest known cave passage in the world by volume — over 5 km long, 200 m high, 150 m wide. One operator has had permission since 2017, and it shuts entirely from September to December.",
+      "bg": "",
+      "source": "Hang Sơn Đoòng. Found in 1990 by Hồ Khanh, surveyed in 2009. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Veryovkina",
+      "where": "Abkhazia, Georgia",
+      "note": "2,209 m deep. It reached 2,223 m in August 2023 and then lost 14 m in August 2024 when someone remeasured it. Its own page calls it both a world record and the second deepest known.",
+      "bg": "ink",
+      "source": "Veryovkina Cave, after Krubera. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Mammoth Cave",
+      "where": "Kentucky, USA",
+      "note": "More than 426 miles — 686 km — of passage surveyed as of 2025, which its page says is over 1.5 times the length of the second longest cave system in the world.",
+      "bg": "",
+      "source": "Mammoth Cave National Park. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Eisriesenwelt",
+      "where": "Werfen, Austria",
+      "note": "42 km of cave, of which only the first kilometre is ice and open to visitors. Open 1 May to 26 October. A cable car built in 1955 cut the 90-minute climb to three.",
+      "bg": "ink",
+      "source": "Eisriesenwelt, called the largest ice cave in the world. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Waitomo",
+      "where": "Waikato, New Zealand",
+      "note": "Glowworms on the ceiling: Arachnocampa luminosa, a fungus gnat endemic to New Zealand. About 500,000 visitors a year before the pandemic, back to that by 2024.",
+      "bg": "",
+      "source": "Waitomo Glowworm Caves. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The Blue Grotto on Capri is a five-minute boat ride you queue an hour for, lying flat in a rowing boat while someone sings at you. It is blue. That is the whole thing.\n\nFive caves that are worth going underground for. Opinion; the figures are Wikipedia's.\n\n01 HANG SON DOONG, Vietnam — the largest known cave passage in the world by volume. The main passage is more than 5 km long, 200 m high and 150 m wide, with a cross-section believed to be twice that of the next largest, in Malaysia. A local man named Hồ Khanh found the entrance on 10 December 1990 and lost it again; he rediscovered it in 2008, and a British-Vietnamese expedition surveyed it in April 2009. The first tourist group went in during August 2013 at US$3,000 each. One operator has had permission since 2017, and the cave closes entirely from September to December when the river rises.\n\n02 VERYOVKINA, Georgia — 2,209 m deep, and a lesson in how records are made. The depth went to 2,223 m in August 2023 and came back down to 2,209 m in August 2024 after remeasurement. The page's own lead calls it the second deepest known cave on Earth after Krubera, while its timeline records a 2017 world depth record. One caver died of hypothermia at about -1,100 m in 2021.\n\n03 MAMMOTH CAVE, Kentucky — more than 426 miles, or 686 km, of passageway surveyed as of 2025, which makes it the longest known cave system in the world by a margin of more than half again over second place.\n\n04 EISRIESENWELT, Austria — 42 km of cave of which only the first kilometre is ice, and that is the part you walk. Open 1 May to 26 October. Photography is not allowed inside, and warm clothing is advised, which is a polite way of putting it.\n\n05 WAITOMO, New Zealand — a boat under a ceiling of Arachnocampa luminosa, a fungus gnat endemic to the country. About 500,000 people a year went before the pandemic and numbers were back there by 2024.\n\nWhich cave have you been in that was better than the photos?",
+  "tags": [
+    "caves",
+    "hangsondoong",
+    "mammothcave",
+    "eisriesenwelt",
+    "waitomo",
+    "caving",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "adventuretravel",
+    "earthbynumbers"
+  ]
+}

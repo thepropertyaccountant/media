@@ -1,0 +1,105 @@
+{
+  "slug": "spot-armenia",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Armenia adopted<br>Christianity before<br>anyone else.",
+      "sub": "AD 301, and the alphabet came a century later.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Yerevan"
+        ],
+        [
+          "Land area",
+          "29,743 km²"
+        ],
+        [
+          "Land borders",
+          "4"
+        ],
+        [
+          "Coastline",
+          "None — landlocked"
+        ],
+        [
+          "Currency",
+          "Armenian dram"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "Lake Sevan",
+          "note": "1,242 km² at 1,900 m — the largest body of water in Armenia and the Caucasus."
+        },
+        {
+          "name": "The alphabet",
+          "note": "36 letters, developed around 405 AD by Mesrop Mashtots, and still in use."
+        },
+        {
+          "name": "The terrain",
+          "note": "85.9% mountain area, which the article notes is more than Switzerland or Nepal."
+        }
+      ],
+      "source": "Lake Sevan; Armenian alphabet; Armenia. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Armenia's national mountain is in another country.",
+      "size": "h-sm",
+      "sub": "Mount Ararat, 5,137 m, stands in Turkey and is clearly visible from Armenia. It is regarded as a symbol of the land and appears on the national emblem.",
+      "source": "Armenia. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "Yerevan",
+          "note": "Founded in the summer of 782 BC, and called one of the world's oldest continuously inhabited cities."
+        },
+        {
+          "name": "Lake Sevan",
+          "note": "Soviet drainage dropped its level by about 20 m and its volume by over 40%."
+        },
+        {
+          "name": "Mount Aragats",
+          "note": "The land rises to 4,090 m here. No point in the country is below 390 m."
+        }
+      ],
+      "source": "Armenia; Lake Sevan. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Armenia became the first state in the world to adopt Christianity as its official religion, in AD 301.\n\nThat is the lead of its own article, stated without hedging: under the influence of Gregory the Illuminator, King Tiridates III proclaimed Christianity the state religion in 301, and Armenia thus became the first officially Christian state. Christianity had first appeared there in the 1st century.\n\nARMENIA BY NUMBERS\nLand area — 29,743 km²\nLand neighbours — 4, and it is landlocked\nMountain area — 85.9%\nLake Sevan — 1,242 km² at 1,900 m\nAlphabet — 36 original letters, around 405 AD\n\nThe alphabet is the other founding act. Mesrop Mashtots developed it around 405 AD and it is still in use. Two more letters were added in the Middle Ages to carry foreign sounds, taking it from 36 to 38, and the 1920s orthography reform treats a ligature as a letter, which gets you to 39. Three counts, all correct, depending on the century.\n\nLake Sevan is the thing to go and look at: 1,242 km² of water at 1,900 m, the largest body of water in Armenia and in the Caucasus, and the second largest lake in the world relative to its altitude. Soviet-era drainage dropped it by around 20 m and cut its volume by more than 40%.\n\nAnd the mountain on the national emblem is in Turkey. Ararat is 5,137 m, the highest in the region, historically part of Armenia, visible from Yerevan on a clear day and entirely out of reach.\n\nWhich country's national symbol sits outside its borders?",
+  "tags": [
+    "armenia",
+    "yerevan",
+    "lakesevan",
+    "ararat",
+    "caucasus",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "christianity",
+    "earthbynumbers"
+  ]
+}

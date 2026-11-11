@@ -1,0 +1,66 @@
+{
+  "slug": "nauru-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Nauru does not<br>have a capital<br>city.",
+      "sub": "Five stats from the third-smallest country on Earth."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "21",
+      "numsize": "s2",
+      "bg": "",
+      "label": "km² — the whole country",
+      "title": "An oval island in the Pacific, divided into fourteen districts.",
+      "size": "h-sm",
+      "source": "Nauru, the third-smallest country in the world. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 03",
+      "bg": "ink",
+      "size": "h-sm",
+      "title": "Yaren is not the capital. It is the main district.",
+      "sub": "Nauru's own article calls Yaren the de facto capital. The Yaren article says the republic does not have cities nor an official capital, and that the UN accepts it as the main district. The countries dataset just lists it.",
+      "source": "Nauru; Yaren District. Source: Wikipedia. Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "80%",
+      "numsize": "s3",
+      "bg": "",
+      "label": "of the land stripped by mining",
+      "title": "Phosphate, strip-mined for about a century from 1900. The viable reserves ran out in the 1990s.",
+      "size": "h-sm",
+      "source": "Nauru. The article says the mined land was left uninhabitable. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "No armed forces, and 71 metres of elevation.",
+      "sub": "Australia is responsible for Nauru's defence under an informal agreement between the two countries. The high point of the plateau, Command Ridge, is 71 m above the sea.",
+      "source": "Nauru. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Nauru has no capital city. Not a small one, not a disputed one. None.\n\nYaren is what every list puts in the box, and the countries dataset we check against lists it too. But Wikipedia's own Yaren article is blunt about it: the republic does not have cities nor an official capital, and Yaren is accepted by the United Nations as the \"main district\". Nauru's own page hedges to \"de facto capital\". The island is divided into fourteen administrative districts and that is the whole of it.\n\nNAURU BY NUMBERS\nArea — 21 km², the third-smallest country in the world\nAdministrative districts — 14\nOfficial capital — none\nLand stripped by phosphate mining — about 80%\nHighest point — Command Ridge, 71 m\n\nThe mining is the part that stops being funny. Most of the interior was strip-mined for phosphate for about a century starting in 1900, profitably and destructively, and the article says it left roughly 80% of the land uninhabitable. Income from the mines made Nauruans among the richest people in the world. The viable reserves were exhausted in the 1990s.\n\nThere is no army. Australia is responsible for Nauru's defence under an informal agreement, and a small police force operates under civilian control.\n\nThis is the kind of fact a dataset gets wrong quietly, and then everyone repeats. We nearly did.\n\nWhich country did you think was the smallest?",
+  "tags": [
+    "nauru",
+    "pacific",
+    "micronesia",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "islands",
+    "phosphate",
+    "earthbynumbers"
+  ]
+}

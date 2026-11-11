@@ -1,0 +1,67 @@
+{
+  "slug": "turkey-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "Istanbul's best<br>known fact comes<br>with an asterisk.",
+      "sub": "Five stats from a country that also changed its name."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 02",
+      "bg": "",
+      "size": "h-sm",
+      "title": "Nobody will call it the only city on two continents.",
+      "sub": "Istanbul's article says just that it is a city on two continents, with about two-thirds of the population in Europe. The Bosporus article calls it one of very few intercontinental cities in the world.",
+      "source": "Istanbul; Bosporus. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "700",
+      "numsize": "s3",
+      "bg": "ink",
+      "sea": true,
+      "label": "metres — the Bosporus at its narrowest",
+      "title": "Or 750. The body and the infobox disagree. Either way, the world's narrowest strait used for international navigation.",
+      "size": "h-sm",
+      "source": "Bosporus. Length is given as 30 km and as 31 km on the same page. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "3,755",
+      "numsize": "s3",
+      "bg": "",
+      "label": "km² — Lake Van",
+      "title": "Turkey's largest lake. A saline soda lake with no outlet, at pH 9.7 to 9.8.",
+      "size": "h-sm",
+      "source": "Lake Van, one of the world's few endorheic lakes over 3,000 km². Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "The country changed its name in 2022.",
+      "sub": "In May 2022 the Turkish government asked the United Nations and other international organisations to use Türkiye in English. The UN agreed. Until then the official English name was the Republic of Turkey.",
+      "source": "Türkiye. Total area 783,562 km². Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Istanbul is a city on two continents. It is not, as far as its own encyclopedia entry will commit, the only one.\n\nThis is the most repeated fact about the city and the sources will not back it the way people say it. The Istanbul article says it is \"a city on two continents\" and that about two-thirds of its population live in Europe. The Bosporus article goes one notch further and says Istanbul is \"one of very few intercontinental cities in the world\". Neither says only. We are not going to upgrade them.\n\nTÜRKIYE BY NUMBERS\nTotal area — 783,562 km²\nLand neighbours — Georgia, Armenia, Azerbaijan, Iran, Iraq, Syria, Greece, Bulgaria\nBosporus — 700 m at its narrowest, or 750\nLake Van — 3,755 km², pH 9.7 to 9.8\nName changed at the UN — May 2022\n\nThe Bosporus is the better statistic anyway. It is the world's narrowest strait used for international navigation, which is a mouthful but an exact one, and the page cannot decide whether the narrow point is 700 m or 750 m, or whether the strait is 30 km or 31 km long. Container ships thread it daily.\n\nLake Van is the one almost nobody mentions. It is the country's largest lake at 3,755 km², it is a saline soda lake with no outlet at all, and the water is strongly alkaline at pH 9.7 to 9.8. Until the Pleistocene it drained southwest. Now it just sits there getting saltier.\n\nAnd the name. In May 2022 the government asked the UN and other international organisations to use Türkiye in English, and the UN agreed. Until then the official English name was the Republic of Turkey.\n\nWhat is the most-repeated \"fact\" about your country that does not survive checking?",
+  "tags": [
+    "turkiye",
+    "istanbul",
+    "bosporus",
+    "lakevan",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "europe",
+    "earthbynumbers"
+  ]
+}

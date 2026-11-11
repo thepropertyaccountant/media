@@ -1,0 +1,77 @@
+{
+  "slug": "top5-monasteries",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Mont-Saint-Michel<br>is a gift shop<br>with an abbey<br>on top.",
+      "sub": "Opinion. Five that are still difficult to reach, which is the point.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Meteora",
+      "where": "Thessaly, Greece",
+      "note": "Twenty-four monasteries at their 16th-century peak, six left, four still working as monasteries. Until steps were cut into the rock in the 1920s, you got up by removable ladder or hoisting net.",
+      "bg": "",
+      "source": "Meteora, inscribed by UNESCO in 1988. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Saint Catherine's",
+      "where": "Sinai, Egypt",
+      "note": "The world's oldest continuously inhabited Christian monastery, built between 548 and 565 by order of Justinian I, around the site traditionally held to be the burning bush.",
+      "bg": "ink",
+      "source": "Saint Catherine's Monastery, a World Heritage Site since 2002. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Hanging Temple",
+      "where": "Shanxi, China",
+      "note": "Built into a cliff face 75 m above the ground, resting on 27 wooden beams, and combining Confucianism, Buddhism and Taoism in one building. Reopened in May 2016.",
+      "bg": "",
+      "source": "Hanging Temple. The body dates it to 491 AD; the infobox says 6th century. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Sumela",
+      "where": "Trabzon, Türkiye",
+      "note": "On a steep cliff at about 1,200 m, abandoned after 1923 and closed again in 2015 for rock falls and restoration. It reopened on 18 May 2019.",
+      "bg": "ink",
+      "source": "Sumela Monastery. On 15 August only 450 to 500 visitors are let inside. Source: Wikipedia."
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Rila",
+      "where": "Bulgaria",
+      "note": "Founded in the 10th century at 1,147 m, burned down in 1833 and rebuilt between 1834 and 1862. It drew 900,000 visitors in 2008 alone.",
+      "bg": "",
+      "source": "Rila Monastery, a World Heritage Site since 1983. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "Mont-Saint-Michel is a gift shop with an abbey on top. Three and a half million people a year walk up a single medieval street lined with crêperies to reach something genuinely remarkable, and most of what they remember is the street.\n\nFive that are still awkward to get to, which is the entire point of building them where they are. Opinion; the figures are Wikipedia's.\n\n01 METEORA, Greece — monasteries on top of rock pillars in Thessaly. Twenty-four at their 16th-century peak; six remain, of which four still operate as monasteries. Until the 1920s, when steps were cut into the rock, access was by long ladders latched together or by being hauled up in a net. A World Heritage Site since 1988.\n\n02 SAINT CATHERINE'S, Sinai — the world's oldest continuously inhabited Christian monastery, built between 548 and 565 by order of Justinian I around the site traditionally considered to be the burning bush. Its library holds the world's second-largest collection of early codices and manuscripts, outnumbered only by the Vatican. Until the twentieth century you got in through a door high up in the outer wall.\n\n03 HANGING TEMPLE, Shanxi — built into a cliff face 75 m above the ground on 27 wooden beams, and the only place we know of that integrates Confucianism, Buddhism and Taoism in one structure. Its body text dates it to 491 AD and its infobox to the 6th century. Reopened to the public in May 2016 after restoration.\n\n04 SUMELA, Türkiye — set on a steep cliff at about 1,200 m above the Altındere valley, founded around AD 386 by the Turkish Ministry of Culture's dating, and abandoned after the 1923 population exchange. It closed in 2015 for rock falls and restoration and reopened on 18 May 2019. On 15 August only 450 to 500 people are allowed inside.\n\n05 RILA, Bulgaria — founded in the 10th century by the hermit Saint Ivan of Rila, at 1,147 m in the mountains. It burned in 1833 and was rebuilt between 1834 and 1862. 900,000 visitors in 2008 alone, so go early.\n\nWhich one of these would you actually make the trip for?",
+  "tags": [
+    "monasteries",
+    "meteora",
+    "sinai",
+    "sumela",
+    "rila",
+    "hangingtemple",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "history",
+    "earthbynumbers"
+  ]
+}

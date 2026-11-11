@@ -1,0 +1,66 @@
+{
+  "slug": "mexico-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "The crater that<br>killed the dinosaurs<br>is in Mexico.",
+      "sub": "Five stats from a country with a very bad day on its record."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "66",
+      "numsize": "s2",
+      "bg": "",
+      "label": "million years ago — the Chicxulub impact",
+      "title": "Dated to 66,043,000 years ago, give or take 11,000.",
+      "size": "h-sm",
+      "source": "Chicxulub crater, buried under the Yucatán Peninsula. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "10",
+      "bg": "ink",
+      "sea": true,
+      "label": "km — the width of the asteroid",
+      "title": "The crater is 180, or 200, or 300 km across, depending which part of the article you read.",
+      "size": "h-sm",
+      "source": "Chicxulub crater. The 300 km figure is described as more recent evidence. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 04",
+      "bg": "",
+      "size": "h-sm",
+      "title": "You can see the rim from the ground. It is a ring of sinkholes.",
+      "sub": "A circular alignment of cenotes overlies the measured rim of the crater. The crater itself sits about a kilometre down, and was found by oil company geophysicists in 1978.",
+      "source": "Cenote; Chicxulub crater. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Mexico City is sinking almost 50 cm a year.",
+      "sub": "It has gone down as much as nine metres in places since the start of the 20th century. The city sits on a drained lake bed and the groundwater is being pumped out from under it.",
+      "source": "Mexico City, at an altitude of 2,240 m. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The asteroid that ended the dinosaurs landed in Mexico, and you can still trace the edge of the hole it made.\n\nChicxulub is buried under the Yucatán Peninsula, about a kilometre down. It was formed 66,043,000 years ago, give or take 11,000, by an impactor around 10 km across. Wikipedia's wording on the consequence is careful and worth copying: it is now widely accepted that the devastation and climate disruption resulting from the impact was the primary cause of the Cretaceous–Paleogene extinction event, which killed about 75% of plant and animal species, including every non-avian dinosaur.\n\nMEXICO BY NUMBERS\nChicxulub impact — 66,043,000 years ago\nThe asteroid — about 10 km across\nThe crater — 180 km, or 200, or 300, depending on the paragraph\nIndigenous languages with co-official status — 68\nMexico City — sinking almost 50 cm a year\n\nThe crater's width is a genuine mess on the page: the infobox says 180 to 200 km, the body says 200, and a later line says more recent evidence suggests 300 km with the 180 km ring being an inner wall.\n\nThe part that is easy to miss is that you can see it. A higher-density circular alignment of cenotes — the sinkholes the Yucatán is famous for — sits directly over the measured rim. People have been swimming in the edge of an extinction event for a very long time. The crater was found in 1978 by geophysicists working for the state oil company, and identified in a paper in 1991.\n\nAnd Spanish is not constitutionally the official language. The article calls it the de facto official language of the federal government, legally equal with 68 indigenous languages.\n\nDid you know you could see the crater from the ground?",
+  "tags": [
+    "mexico",
+    "chicxulub",
+    "yucatan",
+    "cenotes",
+    "dinosaurs",
+    "geology",
+    "geographyfacts",
+    "didyouknow",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

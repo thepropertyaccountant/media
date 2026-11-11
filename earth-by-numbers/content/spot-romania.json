@@ -1,0 +1,105 @@
+{
+  "slug": "spot-romania",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The heaviest<br>building on Earth<br>is in Bucharest.",
+      "sub": "And the second best-kept river delta in Europe is up the road.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Bucharest"
+        ],
+        [
+          "Land area",
+          "238,391 km²"
+        ],
+        [
+          "Land borders",
+          "5"
+        ],
+        [
+          "Official language",
+          "Romanian"
+        ],
+        [
+          "Currency",
+          "Romanian leu"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The Palace of the Parliament",
+          "note": "About 4,098,500 tonnes. Its own page cannot decide if it is the largest or the third."
+        },
+        {
+          "name": "The Danube Delta",
+          "note": "4,152 km² — Europe's second largest river delta, and the best preserved on the continent."
+        },
+        {
+          "name": "Transfăgărășan",
+          "note": "A road climbing to 2,042 m, built 1970 to 1974, usually shut from late October."
+        }
+      ],
+      "source": "Palace of the Parliament; Danube Delta; Transfăgărășan. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "Eleven World Heritage Sites, and a delta still building itself.",
+      "size": "h-sm",
+      "sub": "The country holds 11 UNESCO World Heritage Sites. The Danube Delta was inscribed in 1991 and records over 320 species of birds during the summer.",
+      "source": "Romania; Danube Delta. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three past Bucharest",
+      "bg": "",
+      "items": [
+        {
+          "name": "The Danube Delta",
+          "note": "Over 320 bird species in summer, across 4,152 km² of channels, reed and sandbar."
+        },
+        {
+          "name": "The palace",
+          "note": "1,100 rooms, eight underground levels, 365,000 m² of floor, and 92 m deep."
+        },
+        {
+          "name": "The Făgăraș",
+          "note": "The range the Transfăgărășan climbs. The road took from 1970 to 1974 to build."
+        }
+      ],
+      "source": "Danube Delta; Palace of the Parliament; Transfăgărășan. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The heaviest building in the world is a parliament in Bucharest, and it weighs about 4,098,500 tonnes.\n\nThe Palace of the Parliament has 1,100 rooms, eight underground levels with a nuclear bunker at the bottom, 365,000 m² of floor area, and goes 92 m into the ground. Construction started on 25 June 1984 and finished in 1997, having been scheduled to take two years.\n\nROMANIA BY NUMBERS\nLand area — 238,391 km² in the dataset, 238,397 on Wikipedia\nLand neighbours — 5: Ukraine, Hungary, Serbia, Bulgaria, Moldova\nPalace of the Parliament — about 4,098,500 tonnes, 1,100 rooms\nDanube Delta — 4,152 km², over 320 bird species in summer\nUNESCO World Heritage Sites — 11\n\nIts own article cannot agree on what kind of record it holds. The lead calls it the largest civilian administrative building in the world, after the Pentagon among military ones. A later section calls it the world's third-largest administrative building, after the Pentagon and Thailand's Sappaya-Sapasathan. The infobox hedges to \"world's largest civilian building with an administrative function\". The weight is not in dispute.\n\nThe Danube Delta is the opposite kind of place and the better reason to go. At 4,152 km² it is Europe's second largest river delta after the Volga, and its own page calls it the best preserved on the continent. Over 320 species of birds are there during summer, and it has been a World Heritage Site since 1991.\n\nBetween the two sits the Transfăgărășan, a road built from 1970 to 1974 that climbs to 2,042 m and is usually closed from late October until late June because of snow. Its page says 151 km in the infobox and 90 km in the body, so plan loosely.\n\nHeaviest building on Earth, or just the heaviest thing anyone bothered to weigh?",
+  "tags": [
+    "romania",
+    "bucharest",
+    "danubedelta",
+    "transfagarasan",
+    "carpathians",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "europe",
+    "earthbynumbers"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "spot-botswana",
+  "kind": "spotlight",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "A river that<br>never reaches<br>the sea.",
+      "sub": "It arrives in the middle of a desert, in the dry season.",
+      "size": "h-md"
+    },
+    {
+      "type": "ledger",
+      "kicker": "The basics",
+      "bg": "",
+      "rows": [
+        [
+          "Capital",
+          "Gaborone"
+        ],
+        [
+          "Land area",
+          "582,000 km²"
+        ],
+        [
+          "Land borders",
+          "4"
+        ],
+        [
+          "Coastline",
+          "None — landlocked"
+        ],
+        [
+          "Currency",
+          "Botswana pula"
+        ]
+      ],
+      "source": "Dataset: mledoze/countries (CC-BY-SA)."
+    },
+    {
+      "type": "items",
+      "kicker": "Why go",
+      "title": "Three reasons",
+      "bg": "ink",
+      "items": [
+        {
+          "name": "The Okavango Delta",
+          "note": "One of the few interior delta systems that do not flow into a sea or ocean."
+        },
+        {
+          "name": "Makgadikgadi",
+          "note": "16,000 km² of salt pan, all that is left of a lake once larger than Switzerland."
+        },
+        {
+          "name": "Chobe",
+          "note": "Known for an elephant population the page estimates at around 50,000."
+        }
+      ],
+      "source": "Okavango Delta; Makgadikgadi Pan; Chobe National Park. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "One more thing",
+      "bg": "sun",
+      "title": "The flood arrives in the dry season.",
+      "size": "h-sm",
+      "sub": "About 11 km³ of water a year spreads across the delta. The surge covers 1,200 km in around a month, and levels peak between June and August — Botswana's dry winter.",
+      "source": "Okavango Delta. Source: Wikipedia."
+    },
+    {
+      "type": "items",
+      "kicker": "Where to go",
+      "title": "Three to build a trip around",
+      "bg": "",
+      "items": [
+        {
+          "name": "The Okavango Delta",
+          "note": "Inscribed on 22 June 2014 as the 1000th site on the UNESCO World Heritage List."
+        },
+        {
+          "name": "Makgadikgadi",
+          "note": "The largest single pan is about 4,900 km². Not one pan but many, with desert between."
+        },
+        {
+          "name": "The Kalahari",
+          "note": "Around 70% of the country. Population density is 4.1 per km²."
+        }
+      ],
+      "source": "Okavango Delta; Makgadikgadi Pan; Botswana. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "The Okavango is a river that never reaches the sea. It runs into the Kalahari, spreads out, and evaporates.\n\nIts article calls it one of the few interior delta systems that do not flow into a sea or ocean, sitting in the central part of the endorheic basin of the Kalahari Desert. Approximately 96 to 98% of the water entering the delta is lost to evapotranspiration, groundwater recharge and evaporation. A small amount leaves through the Thamalakane and Boteti rivers, and some drains into Lake Ngami. The rest just goes up.\n\nBOTSWANA BY NUMBERS\nLand area — 582,000 km² in the dataset, 581,730 on Wikipedia\nLand neighbours — 4: Namibia, Zimbabwe, Zambia, South Africa\nWater entering the delta — about 11 km³ a year\nKalahari Desert — around 70% of the country\nPopulation density — 4.1 per km²\n\nThe timing is the strange part. The rain falls in Angola in January and February. The surge travels about 1,200 km in roughly a month, then spreads across the delta over the following months, and the flood peaks between June and August — in the middle of Botswana's dry winter. Animals walk into water that fell a season ago and a country away.\n\nThe delta was inscribed on 22 June 2014 as the 1000th site on the UNESCO World Heritage List.\n\nEast of it, the Makgadikgadi pans cover 16,000 km² and are what remains of a lake that once covered an area larger than Switzerland. The largest individual pan is about 4,900 km². The page is careful to note it is technically not one pan but many, with sandy desert in between.\n\nWe cut the delta's area: the page gives 6,000–15,000 km², 37,500 km² and 15,000 km² in three different places.\n\nWhere else does water end a journey without reaching an ocean?",
+  "tags": [
+    "botswana",
+    "okavango",
+    "makgadikgadi",
+    "chobe",
+    "kalahari",
+    "safari",
+    "traveltips",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

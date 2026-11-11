@@ -1,0 +1,69 @@
+{
+  "slug": "greece-crazy",
+  "kind": "crazy",
+  "slides": [
+    {
+      "type": "hook",
+      "size": "h-md",
+      "title": "There is a state<br>inside Greece<br>that bans women.",
+      "sub": "Five stats from a self-governing monastic republic."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 02",
+      "number": "1046",
+      "numsize": "s3",
+      "bg": "",
+      "label": "the year the ban was proclaimed",
+      "title": "Mount Athos. The prohibition was proclaimed by several emperors, including Constantine Monomachos.",
+      "size": "h-sm",
+      "source": "Mount Athos; Monastic community of Mount Athos. Women are prohibited by Greek law and religious tradition. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 03",
+      "number": "20",
+      "numsize": "s2",
+      "bg": "ink",
+      "sea": true,
+      "label": "monasteries across 335.6 km²",
+      "title": "A self-governed part of the Greek State, whose sovereignty remains intact. The administration sits at Karyes.",
+      "size": "h-sm",
+      "source": "Monastic community of Mount Athos. Source: Wikipedia."
+    },
+    {
+      "type": "bignum",
+      "kicker": "Stat 04",
+      "number": "100",
+      "numsize": "s2",
+      "bg": "",
+      "label": "Orthodox visitors a day, plus 10 others",
+      "title": "Men only, each needing a permit called a diamonitirion.",
+      "size": "h-sm",
+      "source": "Monastic community of Mount Athos. Source: Wikipedia."
+    },
+    {
+      "type": "fact",
+      "kicker": "Stat 05",
+      "bg": "sun",
+      "size": "h-sm",
+      "title": "Female animals are banned too. Cats are exempt.",
+      "sub": "The rule is called the avaton. Cows and sheep are barred along with women, and the article gives one exception: cats, for their mousing abilities.",
+      "source": "Monastic community of Mount Athos. Source: Wikipedia.",
+      "handle": true
+    }
+  ],
+  "caption": "There is a self-governing state inside Greece where no woman has legally set foot for nearly a thousand years.\n\nMount Athos is 335.6 km² at the end of a peninsula in northern Greece, holding twenty monasteries and governed by them. The Greek constitution describes it as a self-governed part of the Greek State whose sovereignty remains intact. Its administrative centre is Karyes. Women are prohibited from entering by Greek law and by religious tradition, a ban proclaimed by several emperors including Constantine Monomachos in a chrysobull of 1046.\n\nGREECE BY NUMBERS\nMount Athos — 335.6 km², 20 monasteries\nThe ban on women — proclaimed in a chrysobull of 1046\nDaily visitors — 100 Orthodox men and 10 non-Orthodox men\nCoastline — 13,676 km, the longest in the Mediterranean basin\nIslands — between 1,200 and 6,000 depending on the definition, 227 inhabited\n\nGetting in means a permit called a diamonitirion, and the quota is 100 Orthodox and 10 non-Orthodox male pilgrims a day. Most arrive by ferry from Ouranoupoli. The rule extends to animals: cows and sheep are barred as well, and the article notes exactly one exception, cats, kept for their mousing abilities.\n\nThe rest of Greece is doing fine on numbers too. The coastline is 13,676 km, which its own page ranks 11th longest in the world and the longest in the Mediterranean basin. Approximately 80% of the country is mountains or hills. Olympus tops out at 2,918 m at Mytikas.\n\nThe island count is the usual mess. The article says between 1,200 and 6,000 depending on the definition, and settles only on 227 inhabited.\n\nA thousand-year rule inside a modern EU state. Where do you land on it?",
+  "tags": [
+    "greece",
+    "mountathos",
+    "athos",
+    "monastery",
+    "geographyfacts",
+    "didyouknow",
+    "maps",
+    "worldfacts",
+    "europe",
+    "earthbynumbers"
+  ]
+}
