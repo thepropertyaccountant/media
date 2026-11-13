@@ -136,3 +136,33 @@ carry one forward from an older post without rechecking. If a figure cannot be
 confirmed against an Inland Revenue source, leave it out and pick a different
 angle. A wrong number published under a Chartered Accountant's name is worse
 than no post at all.
+
+## 8. Refresh the dashboard
+
+Felix watches the account on one dashboard, "The Property Accountant Instagram
+Content": https://claude.ai/artifact/DDDC4p98ciRaGVjeZV8vJv
+
+Its content list is a file, `dashboard/queue.json`, built from `POSTED.md` and
+`queue/README.md`. After the post is logged and pushed (and after any change to
+the queue), rebuild it and hand the new copy to the dashboard:
+
+1. `python3 dashboard/snapshot.py` — rewrites `dashboard/queue.json`. Commit and
+   push it with the log.
+2. Read the dashboard's current record of the file: ArtifactData `get`, the
+   dashboard's url, collection `datasets`, doc_id `queue`. Note its `version`
+   and the old file address in `source.url` (`/_blob/<id>`).
+3. Upload the new file: the Artifact tool with the dashboard's `url`,
+   `file_path` set to `dashboard/queue.json`, and `asset: true`. It returns a
+   new `/_blob/<id>` address.
+4. Point the dashboard at it: ArtifactData `update` on `datasets`/`queue`, with
+   `if_version` from step 2 and data
+   `{"source": {"url": "<new address>"}, "updated": {"at": "<UTC now, ISO>", "by": "Posting task"}, "edit": {"via": "claude", "at": "<UTC now, ISO>"}}`.
+   Use `update`, not `set`, and change nothing else in that record.
+5. Remove the old file: the Artifact tool, `action: "delete"`, the dashboard's
+   `url`, and `path` set to the old id (the 32 characters after `/_blob/`).
+   Only after step 4 has succeeded.
+
+Do not write to anything else in the dashboard — not its page, not its other
+data sources. Never create a second dashboard: there is one, and its address is
+above. If any of these steps fails, say so in the report and leave it; the post
+itself is done and must not be redone or undone because of the dashboard.
