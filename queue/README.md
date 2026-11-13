@@ -33,7 +33,7 @@ sentence, or skip the post and take the next one — do not publish it unverifie
 | File | Expected slot | Topic | Audience | Status |
 | --- | --- | --- | --- | --- |
 | 01 | 2026-11-10 | The $60,000 GST test is a rolling 12 months | Agent | posted |
-| 02 | 2026-11-13 | Ring-fencing: why a rental loss will not cut your salary tax | Property | queued |
+| 02 | 2026-11-13 | Ring-fencing: why a rental loss will not cut your salary tax | Property | posted |
 | 03 | 2026-11-16 | The chattels schedule nobody set up at purchase | Property | queued |
 | 04 | 2026-11-19 | Home office: the square metre rate against actual costs | Contractor | queued |
 | 05 | 2026-11-22 | The main home exclusion to the bright-line test | Property | queued |
