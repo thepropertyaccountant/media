@@ -1,15 +1,13 @@
 # Post queue
 
-Drafted carousels, in order. Each run takes the top item whose status is
-`queued`, verifies the figures listed in its **Verify before building** section,
-renders, inspects and publishes, then marks it `posted` here and appends it to
-`POSTED.md`.
+Drafted carousels. Each run picks one post as **Which post a run takes** sets
+out below, verifies the figures listed in its **Verify before building**
+section, renders, inspects and publishes, then marks it `posted` here and
+appends it to `POSTED.md`.
 
-A row marked `held` is **skipped** — it is drafted but deliberately parked until
-its date is closer. Do not take a held item just because it is next in the
-table. A row marked `to write` has no draft file yet; if a run reaches one,
-treat the queue as empty for that run and pick a fresh topic as the task prompt
-describes.
+Every row has a draft file behind it. If a run ever finds nothing eligible —
+the run order is finished, every bank row is posted or outside its window —
+it picks a fresh topic as the task prompt describes and says so in its report.
 
 ## Why these are drafted and not pre-rendered
 
@@ -28,99 +26,183 @@ the slide copy and the caption before rendering. If a figure cannot be
 confirmed against an Inland Revenue source, drop that slide and that caption
 sentence, or skip the post and take the next one — do not publish it unverified.
 
+## Cadence
+
+Changed 13 November 2026 at Felix's request: **one post every day from
+14 November to 13 December 2026, then back to one every three days** (days 1,
+4, 7, 10, 13, 16, 19, 22, 25, 28 and 31 of the month, 6:36pm Auckland). The
+task prompt carries the same dates, and a run that fires on an off day after
+13 December stops without posting.
+
+## Which post a run takes
+
+Read down this list and take the first one that applies.
+
+1. A row in **Held back** whose hold-until date is today or earlier. Its date
+   has come round; treat it as queued and build it.
+2. The top row in **Run order** whose status is `queued`.
+3. The first row in **The bank**, reading down, whose window is `open` or
+   includes today's date. Skip a dated row outside its window — it is not lost,
+   it waits.
+
+Then one check on the mix, before building: look at the last two rows of
+`POSTED.md`. If both were agent-side, take the first eligible **Property** row
+instead. If the last four were all property, take the first eligible **Agent**
+row instead. The bank is ordered to keep the feed at two property posts to one
+agent post without this check; the check is there for when rows get skipped.
+
+If a post's figures cannot be confirmed on the day, skip it, leave its status
+alone, say so in the report, and take the next eligible row. Mark a row
+`posted` only when it is live.
+
+A row marked `held` with no date that has arrived, or with a hold reason
+instead of a date, is never built.
+
 ## Run order
+
+Posts with a slot. At the daily cadence these run on consecutive days from
+14 November.
 
 | File | Expected slot | Topic | Audience | Status |
 | --- | --- | --- | --- | --- |
 | 01 | 2026-11-10 | The $60,000 GST test is a rolling 12 months | Agent | posted |
 | 02 | 2026-11-13 | Ring-fencing: why a rental loss will not cut your salary tax | Property | posted |
-| 03 | 2026-11-16 | The chattels schedule nobody set up at purchase | Property | queued |
-| 04 | 2026-11-19 | Home office: the square metre rate against actual costs | Contractor | queued |
-| 05 | 2026-11-22 | The main home exclusion to the bright-line test | Property | queued |
-| 07 | 2026-11-25 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
-| 08 | 2026-11-28 | Vehicle claims: kilometre rates against actual costs | Contractor | queued |
-| 09 | 2026-12-01 | The intention test outlives the bright-line period | Property | queued |
-| 11 | 2026-12-04 | The bach that sat empty: mixed-use asset rules | Property | queued |
-| 12 | 2026-12-07 | The withholding rate on your invoices is a choice | Contractor | queued |
-| 13 | — | The depreciation you claimed comes back when you sell | Property | bank |
-| 14 | — | Entertainment is half. Your own lunch is nothing. | Contractor | bank |
-| 15 | — | Paying GST on money you have not been paid | Contractor | bank |
-| 16 | — | What underpaying actually costs | Contractor | bank |
-| 19 | — | Marketing and advertising an agent funds themselves | Agent | to write |
-| 20 | — | Franchise, desk and administration fees paid to the agency | Agent | to write |
-| 21 | — | Commission clawback when a deal falls over | Agent | to write |
-| 22 | — | Smoothing provisional tax across a big year and a thin one | Agent | to write |
+| 03 | 2026-11-14 | The chattels schedule nobody set up at purchase | Property | queued |
+| 04 | 2026-11-15 | Home office: the square metre rate against actual costs | Agent (re-angle) | queued |
+| 05 | 2026-11-16 | The main home exclusion to the bright-line test | Property | queued |
+| 07 | 2026-11-17 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
+| 08 | 2026-11-18 | Vehicle claims: kilometre rates against actual costs | Agent (re-angle) | queued |
+| 09 | 2026-11-19 | The intention test outlives the bright-line period | Property | queued |
+| 11 | 2026-11-20 | The bach that sat empty: mixed-use asset rules | Property | queued |
+| 12 | 2026-11-21 | The withholding rate on your invoices is a choice | Agent (re-angle) | queued |
 
-### Keeping the mix right
+"Agent (re-angle)" marks a draft written before 9 November 2026 for a tradie
+and consultant audience. Its tax rules stand; its examples, caption and
+hashtags have to be rewritten for a commission-paid salesperson before
+building. See the audience section below. Drafts 19 onward were written for
+agents from the start and need no re-angling.
 
-Of the 10 slotted posts, 6 are property and 4 are agent-side. The bank holds
-1 property and 3 agent-side, plus 4 agent topics still to write.
+## The bank
 
-**Do not work through the bank in order.** A run of agent posts back to back
-is two weeks of a property-led feed talking to one half of the audience, and it
-reads as a change of direction rather than a run of good posts. Take a banked
-agent post when a slot needs filling and the posts around it are property, and
-otherwise space them. If several slots need filling at once, draft property
-topics rather than emptying the bank.
+54 drafted posts with no fixed slot: 37 property, 17 agent-side.
+Fifty of them were added on 13 November 2026 (files 19, 20, 22 and 23 to 69).
+The first rows are dated — each waits for its window, then goes out at the
+first slot inside it. The rest are in the order they should run, two property
+to one agent, with neighbouring topics kept apart.
 
-### The property shortfall — standing requirement
+At one post a day the first 22 open rows carry the feed from 22 November to
+13 December. At one every three days the rest last into April 2027.
 
-Confirmed by Felix on 9 November 2026: the two-in-three property ratio stays.
-That makes the library lopsided, and the arithmetic is worth stating plainly.
+| File | Window | Topic | Audience | Status |
+| --- | --- | --- | --- | --- |
+| 47 | 1–14 Jan (or last week of Apr) | GST is due on the 28th. Except twice a year. | Agent | bank |
+| 48 | 15 Jan – 6 Feb | The tax on last year's rent is due 7 February | Property | bank |
+| 69 | 1 Jun – 6 Jul | The rental return for the year to 31 March is due 7 July | Property | bank |
+| 23 | open | A room on Airbnb: the first $65 a night is not income | Property | bank |
+| 24 | open | Your rental can lose cash and still owe tax | Property | bank |
+| 14 | open | Entertainment is half. Your own lunch is nothing. | Agent (re-angle) | bank |
+| 25 | open | Airbnb collects 15% GST on your listing. You may get 8.5% back. | Property | bank |
+| 26 | open | Fixing it is deductible. Making it better is not. | Property | bank |
+| 27 | open | The champagne is half. The tea towels are whole. | Agent | bank |
+| 28 | open | The legal bill for buying the rental may be deductible | Property | bank |
+| 29 | open | GST registered for the Airbnb? The house is in the GST net too. | Property | bank |
+| 30 | open | The suit is not deductible. Neither is the haircut. | Agent | bank |
+| 31 | open | Your rent is what the tenant paid, not what landed in your account | Property | bank |
+| 32 | open | Secured on the rental does not mean deductible | Property | bank |
+| 33 | open | Your bank deposit is not your commission | Agent | bank |
+| 34 | open | Empty between tenants. Still deductible. | Property | bank |
+| 35 | open | Inherited the house? The bright-line test does not apply. | Property | bank |
+| 36 | open | Year one on commission is not tax free. It is deferred. | Agent | bank |
+| 37 | open | You can claim the paint. You cannot claim the weekend. | Property | bank |
+| 38 | open | Under $1,000 comes off in full. Unless you bought six at once. | Property | bank |
+| 22 | open | This year's provisional tax is sized on last year's income | Agent | bank |
+| 39 | open | Not every body corporate levy is deductible | Property | bank |
+| 40 | open | Bought off the plans? Your bright-line clock started early. | Property | bank |
+| 41 | open | The drive to the office is not a business trip | Agent | bank |
+| 42 | open | Renting to family at mates' rates caps your deductions | Property | bank |
+| 43 | open | Flatmate in your own home? The rent is income. | Property | bank |
+| 44 | open | Ninety days of logbook buys three years of claims | Agent | bank |
+| 45 | open | A boarder paying $245 a week or less is not taxable income | Property | bank |
+| 46 | open | The bond is not income. Until you keep some of it. | Property | bank |
+| 19 | open | The marketing you pay for is deductible. If it stays paid by you. | Agent | bank |
+| 49 | open | Separating? The property transfer is not a bright-line sale. | Property | bank |
+| 50 | open | Moving out and renting the house? Value the chattels that week. | Property | bank |
+| 51 | open | Throwing out the old carpet can be a deduction | Property | bank |
+| 52 | open | Leaky building repairs can be deductible. The upgrade is not. | Property | bank |
+| 16 | open | What underpaying actually costs | Agent (re-angle) | bank |
+| 53 | open | Sold inside two years at a loss? The loss is locked away. | Property | bank |
+| 55 | open | Bright-line tax is on the profit. Know what comes off the price. | Property | bank |
+| 54 | open | Paying your partner for the admin needs sign-off first | Agent | bank |
+| 56 | open | GST registered? Your rental is still outside it. | Property | bank |
+| 13 | open | The depreciation you claimed comes back when you sell | Property | bank |
+| 57 | open | Income protection premiums may be deductible. Life cover is not. | Agent | bank |
+| 58 | open | Breaking a fixed rate on the rental loan? The fee is deductible. | Property | bank |
+| 59 | open | Rental in a trust? $10,001 of profit is taxed at 39%. | Property | bank |
+| 20 | open | Fees came off your commission before you saw it. Were they claimed? | Agent | bank |
+| 60 | open | Moving the rental into your trust no longer restarts the clock | Property | bank |
+| 62 | open | Two rentals, one at a loss. Can it offset the other? | Property | bank |
+| 61 | open | Inland Revenue wrote a fact sheet for real estate. Read the list. | Agent | bank |
+| 63 | open | The flat in Brisbane goes in your New Zealand return | Property | bank |
+| 65 | open | The drive to your rental is deductible. With a record. | Property | bank |
+| 64 | open | Sponsoring the school fair is advertising, if you do it right | Agent | bank |
+| 66 | open | The insurer paid for the repair. You cannot claim it too. | Property | bank |
+| 67 | open | Subdividing does not restart your bright-line clock | Property | bank |
+| 15 | open | Paying GST on money you have not been paid | Agent (re-angle) | bank |
+| 68 | open | Moved overseas? The Auckland rental still files here. | Property | bank |
 
-| | Count |
-| --- | --- |
-| Agent-side posts once 19 to 22 are written | 12 |
-| Property posts needed to run those at 2:1 | 24 |
-| Property posts held (including the 2 posted) | 10 |
-| **Property shortfall** | **14** |
+Each draft's header says when it lands best and which other posts to keep it
+away from. Where a draft says to leave some weeks between it and another post,
+check `POSTED.md` and skip it for now if the other one went out in the last
+fortnight.
 
-Posting 2 property to every 1 agent consumes property twice as fast. At the
-current library the property side runs dry after roughly 15 posts — about 45
-days at one post every three days — and strands around 7 agent posts with
-nothing to interleave them against.
+### What is different about the 13 November drafts
 
-**So property topics are the drafting priority from here, not agent ones.**
-Write agent posts 19 to 22 when there is room, but a run that has spare capacity
-should be drafting property. Do not let the ratio slip by default: if a slot
-comes up and the only thing drafted is agent-side, that is the signal the
-property bank needs filling, not a reason to post agent content twice running.
+They were written after checking each topic against Inland Revenue's site, and
+every **Verify before building** list carries the wording found that day and
+the page it was found on. That makes them better starting points. It does not
+make them verified: BUILD.md's rule still applies in full, and each run
+confirms every figure and rule itself before building.
 
-Rough deployment notes, where a post has one:
+Several drafts carry a **DO NOT STATE** list. Those are points the topic
+invites that could not be confirmed against an Inland Revenue source. They are
+as much a part of the draft as the slides.
 
-- 14 (entertainment) — late November or December, and around vendor entertaining.
-- 16 (interest and penalties) — just after a provisional tax instalment date.
-- 15 — no hook, use any time, and see the fit note below before building.
+Three things came out of that research that a run should know:
 
-A row marked `bank` has no slot. It has no seasonal hook, so it can go out any
-time a slot needs filling — a held post not yet due, a topic that turns out to
-be stale on the day, a figure that cannot be confirmed. Take it in preference to
-inventing a topic from scratch. Post 13 pairs with post 03: 03 sells the
-chattels deduction, 13 shows the bill at the other end, so leave some weeks
-between them rather than running them back to back.
+- **Post 28 (legal fees) contradicts the practice website.** IR264 allows
+  legal fees on buying a rental where total legal fees for the year are $10,000
+  or less. The site's rental deductions guide lists legal costs of buying under
+  what cannot be claimed. Build from IR264 and say so in the report.
+- **The early payment discount is not 6.7%.** It is reset each year: 4.25% for
+  the 2027 income year. Post 36 uses it.
+- **The bond-for-damage question is unsettled on Inland Revenue's own pages**
+  (IR264 says not income; an older web page says income). Post 46 has a slide
+  that is only built if that is resolved.
 
 ### Held back
 
-Both are fully drafted and ready; only their timing was wrong at this cadence.
-Move each back to `queued` when its slot comes round, and re-verify its figures
-then as usual — a draft parked for months is more likely to have gone stale, not
-less.
+Drafted, and not to be built until the condition is met.
 
 | File | Hold until | Topic | Why held |
 | --- | --- | --- | --- |
-| 06 | 2027-01-07 | The 15 January provisional tax instalment | Only useful in the week or two before 15 January. At the three-day cadence it would have gone out 25 November, seven weeks early. |
-| 10 | 2027-03-16 | Healthy Homes work: deductible repair or capital | Written to lead into the 31 March year end, when the timing of the spend still matters. Would have gone out 7 December. |
+| 06 | 2027-01-07 | The 15 January provisional tax instalment | Only useful in the week or two before 15 January. Re-angle to the commission cycle when it runs. |
+| 10 | 2027-03-16 | Healthy Homes work: deductible repair or capital | Written to lead into the 31 March year end, when the timing of the spend still matters. |
+| 21 | Felix confirms the treatment | Commission clawed back after you have filed | **Needs Felix.** No Inland Revenue guidance was found on whether a repaid commission is deducted in the year of repayment or the earlier return is amended. The draft is written with that slide left open. Do not build until the file itself says the treatment has been sourced. |
 
-The task runs every three days, at 6:36pm Auckland, on days 1, 4, 7, 10, 13, 16,
-19, 22, 25, 28 and 31 of each month. Cron restarts that count at the 1st, so the
-gap across a month boundary is one to four days rather than three. The dates
-above assume no run is skipped.
+When a dated hold comes round, build the post, re-verify its figures as usual —
+a draft parked for months is more likely to have gone stale, not less — and
+mark it `posted` in this table.
 
-**The slotted queue runs out after 7 December 2026**, with six posts in the bank
-behind it, so nothing is drafted only from about 25 December. After
-that a run falls through to picking its own topic and says so in its report —
-the designed fallback, not a failure, but a deliberately chosen topic is better.
-Topping up in early December avoids the question.
+### Keeping the mix right
+
+Confirmed by Felix on 9 November 2026: property leads, at roughly two posts in
+three. Counting everything not yet posted — the run order, the bank and the
+two dated holds — the library now stands at 43 property and 21 agent-side,
+which is the ratio. The earlier property shortfall is closed.
+
+When the bank next needs topping up, keep to the same proportion, and draft
+for agents directly: IR830 and IR830A (below) are written for that audience
+and are the place to start.
 
 ## The non-property audience is real estate agents, not tradies
 
@@ -128,8 +210,9 @@ Changed 9 November 2026. Everything on the non-property side is now written for
 a self-employed real estate salesperson paid lumpy commission by an agency —
 not for builders, plumbers or electricians. The task prompt carries this too.
 
-Posts 01 to 18 were drafted for a tradie and consultant audience. Re-angle a
-draft before building it: change the examples, the caption framing and the
+Posts 01 to 18 were drafted for a tradie and consultant audience. Posts 19
+onward were written for agents and need no re-angling. For the older ones,
+re-angle a draft before building it: change the examples, the caption framing and the
 hashtags. The tax rules in the **Verify before building** sections are unchanged
 and still apply.
 
@@ -144,28 +227,43 @@ How the drafted non-property posts fare against the new audience:
 | 16 | Interest and penalties | Good | Lands well after a big commission year. Minor reframing. |
 | 04 | Home office | Good | Agents work from home between viewings. Minor reframing. |
 | 15 | GST payments or invoice basis | Marginal | Built on being paid late on 30-day terms. Agents are paid by the agency on settlement, so the pain is weaker. Rework around settlement timing straddling a GST period, or leave it. |
-| 12 | Schedular payment withholding rate | Good | Unblocked — Felix confirmed on 9 Nov 2026 that schedular payments do apply to real estate. Re-angle the examples to commission from an agency. Still pin down the correct activity row and rate (see below). |
+| 12 | Schedular payment withholding rate | Good | Re-angle the examples to commission from an agency. Depends on the schedular payment question — confirm it against IR830 on the day (see below). |
 | 17 | Bad debts | **Retired** | Moved to `queue/retired/`. An unpaid-customer problem; agents are paid by the agency. |
 | 18 | Investment Boost | **Retired** | Moved to `queue/retired/`. Aimed at buying plant; agents buy little that qualifies. |
 
-### Post 12: resolved, with one detail still to pin down
+### Inland Revenue has published guidance for real estate salespeople
 
-**Felix confirmed on 9 November 2026 that schedular payments do apply to real
-estate salespeople.** That is his professional judgement as the Chartered
-Accountant whose name goes on the post, and it settles whether the topic
-applies. Build post 12 for this audience.
+Found 13 November 2026, and worth reading before any agent-side post:
 
-What it does not settle is which activity row the commission sits under and
-therefore what the standard rate is. Real estate is not named on the IR330C,
-and the row that most likely covers it — "Commissions to insurance agents and
-sub-agents and salespeople" — is grammatically ambiguous about whether
-"salespeople" stands alone. The form says its list is not exhaustive and points
-to schedule 4 of the Income Tax Act 2007.
+- **IR830, "Income tax and GST in the real estate industry"** (August 2026) —
+  https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir830/ir830.pdf
+- **IR830A, "Business expenses in the real estate industry"** (August 2026) —
+  https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir800---ir899/ir830a/ir830a.pdf
+- Both are linked from https://www.ird.govt.nz/topics/working-in-the-real-estate-industry
 
-So before building: confirm the activity row and rate that apply to a real
-estate salesperson, against schedule 4 or current IRD guidance, or ask Felix.
-Do not print a rate for real estate on a slide on the strength of the
-applicability confirmation alone — that confirmed the topic, not the number.
+### The schedular payment question
+
+The task prompt says it is not established that a salesperson's commission is
+a schedular payment, and tells a run to resolve it against schedule 4 of the
+Income Tax Act or current Inland Revenue guidance before relying on it.
+
+IR830 is current Inland Revenue guidance, and as read on 13 November 2026 it
+says: "Commissions paid to real estate salespersons/agents are schedular
+payments and tax is usually withheld at a rate of 20%", and "Tax is worked out
+on the GST exclusive amount." That was read through a fetch tool that returns
+text in fragments, so it has not been checked word for word.
+
+**So the position is: resolvable, not resolved for you.** A run building a
+post that depends on it — 12, 20, 33 and one slide of 36 — opens IR830 itself,
+confirms the sentence, and quotes it. If IR830 cannot be read on the day, or
+no longer says that, the post is skipped. The earlier note in this file that
+Felix confirmed the point on 9 November is not a substitute for the source.
+
+For post 12 specifically: the rate IR830 gives is the usual one, and the
+draft's point is that the rate can be chosen. Confirm the minimum and the
+no-notification rate on the IR330C as the draft says, and take the standard
+rate for real estate from IR830, not from the IR330C's table, which does not
+name real estate.
 
 ### Retired posts
 
@@ -173,31 +271,6 @@ applicability confirmation alone — that confirmed the topic, not the number.
 not deleted, because their research and sources were checked and are sound — if
 the audience ever widens again, start from those files. **Never build from
 `queue/retired/`.**
-
-### Agent topics to write (19 to 22)
-
-Rows 19 to 22 in the run order are topics only, with no draft files behind them.
-They were chosen because they have no tradie equivalent in the queue and fit a
-commission-paid salesperson directly. Each still needs the full treatment: an
-angle with a trap in it, slide copy, a caption, and a **Verify before building**
-list naming every figure and the Inland Revenue page to confirm it on.
-
-- **19 — Marketing and advertising an agent funds themselves.** Where the agent
-  rather than the vendor carries the cost of photography, staging, signage and
-  listing promotion, and when that is deductible. Check how a vendor-paid
-  recharge is treated, and the GST side.
-- **20 — Franchise, desk and administration fees paid to the agency.** The
-  standing deductions taken out of commission before it reaches the agent, and
-  whether they are being claimed at all. Check the treatment of a franchise fee
-  against an ordinary service fee.
-- **21 — Commission clawback when a deal falls over.** What happens when
-  commission already returned as income is repaid in a later year. Check whether
-  it is a deduction in the year of repayment or an amendment to the earlier
-  return — this is the trap and it must be sourced properly.
-- **22 — Smoothing provisional tax across a big year and a thin one.** The
-  structural problem of commission income: this year's instalments are sized on
-  last year's result. Check the estimation option and any other mechanism before
-  naming one, and keep it distinct from held post 06.
 
 ## Build notes learned from earlier runs
 
@@ -215,3 +288,13 @@ list naming every figure and the Inland Revenue page to confirm it on.
   tip. Pushing the explicit refspec works and is a fast-forward:
   `git push origin HEAD:refs/heads/main`. Never force-push here — the other
   project's commits are in the same history.
+- Ledger row labels wrap at about 17 characters and will strand a word. Add
+  `style="max-width:none;white-space:nowrap"` to each `.lab` and keep labels
+  under about 24 characters. Every label in drafts 19 to 69 was measured in
+  the brand fonts and fits on one line at that setting.
+- Headline line breaks in drafts 19 to 69 were also measured in the brand
+  fonts and every line fits inside the slide. That is not a reason to skip
+  looking at the render. If a figure changes on the day, the line it sits on
+  changes width with it.
+- A ledger on a light slide puts `.fig.red` (a pale red made for dark ink) on
+  paper. Keep ledgers on dark slides.
