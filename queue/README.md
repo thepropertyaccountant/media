@@ -67,7 +67,7 @@ Posts with a slot. At the daily cadence these run on consecutive days from
 | --- | --- | --- | --- | --- |
 | 01 | 2026-11-10 | The $60,000 GST test is a rolling 12 months | Agent | posted |
 | 02 | 2026-11-13 | Ring-fencing: why a rental loss will not cut your salary tax | Property | posted |
-| 03 | 2026-11-14 | The chattels schedule nobody set up at purchase | Property | queued |
+| 03 | 2026-11-14 | The chattels schedule nobody set up at purchase | Property | posted |
 | 04 | 2026-11-15 | Home office: the square metre rate against actual costs | Agent (re-angle) | queued |
 | 05 | 2026-11-16 | The main home exclusion to the bright-line test | Property | queued |
 | 07 | 2026-11-17 | Interest is 100% deductible again, and returns still get it wrong | Property | queued |
