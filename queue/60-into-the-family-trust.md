@@ -27,6 +27,19 @@ the guide in full; this draft was written from extracts.**
   2-year requirement does not apply to infants that are less than 2 years old".
 - VERIFY the limit: "It can only be claimed under the associated person rules
   once in any 2-year period from the date of the first transfer."
+- **CONFIRMED 14 November 2026, and a warning about the headline.** The
+  rollover page carries all of the above. But it never uses the words
+  "restart" or "clock" — its substance is that the recipient is "treated as
+  having purchased the property at the same time and for the same price".
+  The conditions are strict: every beneficiary must be associated with the
+  transferor and have been so for at least 2 years, and relief is available
+  only once in any 2-year period. A trust with any unrelated beneficiary does
+  not get it. **So the flat hook overstates the position on its own.** Slide
+  1's sub ("For transfers from 1 July 2024, if the conditions are met") is
+  doing the load-bearing work and must not be cut, and slide 4 must state the
+  all-beneficiaries-associated condition plainly. If the slide cannot carry
+  that condition, change the hook to "Moving the rental into your trust need
+  not restart the clock.
 - VERIFY the wrinkle for older properties, QB 25/15: where the transferor
   acquired before 27 March 2021, the start date taken on is 27 March 2021 —
   https://www.taxtechnical.ird.govt.nz/-/media/project/ir/tt/pdfs/questions-we-ve-been-asked/2025/qb-25-15.pdf

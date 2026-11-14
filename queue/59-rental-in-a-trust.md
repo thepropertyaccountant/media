@@ -18,11 +18,25 @@ changed.
   less in a tax year (after annual deductions and before losses brought
   forward), you'll pay at a 33% rate." "If your trust earns more than $10,000,
   you'll need to pay 39%."
-- **VERIFY the cliff, which is the hook.** The page reads as 39% on all of the
-  trust's retained income once it exceeds $10,000, not only on the excess.
-  Confirm that reading on the day, from the page or from the legislation it
-  cites. **If it cannot be confirmed, change the hook to "Rental in a trust?
-  Over $10,000 of profit is taxed at 39%" and cut slide 4.**
+- **CONFIRMED 14 November 2026 — the cliff, which is the hook.** It is a
+  de minimis threshold, not a marginal band. Inland Revenue's Special Report
+  on the 39% trustee tax rate (9 April 2024) says: "Trusts with more than
+  $10,000 trustee income (after deductible expenses) are subject to the 39%
+  trustee tax rate on all of their trustee income." Its flowchart labels the
+  two outcomes "39% tax rate on all trustee income" and "33% tax rate on all
+  trustee income" —
+  https://www.taxpolicy.ird.govt.nz/publications/2024/2024-sr-39-trustee-tax-rate
+  So slide 1's "All of it. Not just the dollar over the line." is supported.
+  Recheck on the day; if the Special Report cannot be opened, fall back to
+  "Rental in a trust? Over $10,000 of profit is taxed at 39%" and cut slide 4.
+- **Measurement caveats that go with the cliff — do not overstate it.** The
+  $10,000 is *net trustee income*: after deductible expenses, before losses
+  brought forward, and excluding income distributed or allocated to
+  beneficiaries. The test is per trust, per income year. The statutory hook is
+  section HC 40 of the Income Tax Act 2007, which has not been read directly.
+- Do not say or imply that trusts can be split to stay under the threshold.
+  The Special Report warns that fragmenting a trust to use the 33% rate
+  "would raise tax avoidance concerns for the Commissioner".
 - VERIFY the exceptions before implying the rate is universal: deceased estates
   for a limited period, disabled beneficiary trusts and energy consumer trusts
   stay at 33%. The caption says "most family trusts".

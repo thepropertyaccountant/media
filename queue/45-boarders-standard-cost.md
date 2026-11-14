@@ -15,6 +15,16 @@ households, and a hard limit on how many boarders it covers.
   It is CPI-adjusted each year and published around June for the year just
   ended (DET 19/01 adjustments on taxtechnical.ird.govt.nz). **Check for a
   newer figure and name the income year on the slide.**
+- **CHECKED 14 November 2026: no 2026-27 rate is published.** The IRD page
+  (last updated 15 Sep 2026 — after the usual publication window) still reads
+  "The rate for the 2025-2026 income year is $245." Nothing newer was found on
+  taxtechnical. Two corrections to the note above: IRD says "We usually set
+  the rate in May for the tax year that ended on 31 March", not June; and the
+  $237 for 2024-25 is NOT on the page, so do not state it.
+- **So the income year has to be on the slide, not implied.** We are in
+  2026-27 and the only published rate belongs to a year that has ended. A
+  slide reading "$245 a week or less is not taxable income" with no year on it
+  reads as current and is not. Recheck on the day for a 2026-27 rate.
 - VERIFY the limit: "up to a maximum of 4" boarders or home-stay students, "at
   all times throughout the income year"; with five or more the standard-cost
   method cannot be used — same page.

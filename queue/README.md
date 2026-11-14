@@ -250,10 +250,10 @@ Income Tax Act or current Inland Revenue guidance before relying on it.
 IR830 is current Inland Revenue guidance, and as read on 13 November 2026 it
 says: "Commissions paid to real estate salespersons/agents are schedular
 payments and tax is usually withheld at a rate of 20%", and "Tax is worked out
-on the GST exclusive amount." That was read through a fetch tool that returns
-text in fragments, so it has not been checked word for word.
+on the GST exclusive amount." That sentence was confirmed word for word on
+14 November 2026 by a second, independent read of the PDF.
 
-**So the position is: resolvable, not resolved for you.** A run building a
+**The position as at 14 November 2026: resolved, and the task prompt now says so.** A run building a
 post that depends on it — 12, 20, 33 and one slide of 36 — opens IR830 itself,
 confirms the sentence, and quotes it. If IR830 cannot be read on the day, or
 no longer says that, the post is skipped. The earlier note in this file that
@@ -264,6 +264,37 @@ draft's point is that the rate can be chosen. Confirm the minimum and the
 no-notification rate on the IR330C as the draft says, and take the standard
 rate for real estate from IR830, not from the IR330C's table, which does not
 name real estate.
+
+## Audit of 14 November 2026
+
+A pass over the figures that sit in post *titles*, since a wrong title is a
+wrong premise rather than a wrong detail. Findings are written into the drafts
+themselves as `CONFIRMED` or `CHECKED` blocks. Every one still gets rechecked
+on the day — a confirmation here is a head start, not a dispensation.
+
+| Post | Claim in the title | Outcome |
+| --- | --- | --- |
+| 59 | $10,001 of trust profit is taxed at 39%, all of it | **Confirmed.** IRD's 2024 Special Report: trusts over $10,000 pay 39% "on all of their trustee income". A de minimis threshold, not a band. Measurement caveats added to the draft. |
+| 38 | Under $1,000 in full, unless you bought six at once | **Half confirmed.** The same-supplier proviso is real and is in IR260 (Sept 2026) p.21. But IR260 does not say the items are totalled against $1,000, and IR264 omits the condition entirely. The draft now forbids the group-total framing. |
+| 60 | Moving the rental into your trust no longer restarts the clock | **Needs its conditions.** Rollover relief is real from 1 July 2024, but only where every beneficiary has been associated with the transferor for 2 years, and once per 2-year period. The flat hook overstates it; the draft now says the qualifying sub cannot be cut. |
+| 35 | Inherited the house? The bright-line test does not apply | **Supported, narrowly.** The deceased-estate page is flat ("also not taxable under the bright-line test"); the general inheriting page says "does not usually apply". Keep to the deceased-estate wording and keep the buy-out exception on slide 4. |
+| 67 | Subdividing does not restart your bright-line clock | **Supported** for a sole owner — the start-date table gives "The original date of registration for the undivided property". Co-owned and partitioned land has exceptions; do not generalise. |
+| 23 | A room on Airbnb: the first $65 a night is not income | **Rate still current, but it is a 2025-26 rate.** No 2026-27 rate published as at 14 Nov 2026. The year must appear on the slide. |
+| 45 | A boarder paying $245 a week or less is not taxable | **Same.** $245 is the 2025-26 rate; no newer one published. The $237 for 2024-25 is not on the page — drop it. |
+| 25 | Airbnb collects 15% GST. You may get 8.5% back. | **Confirmed.** 15% collected, 6.5% to IRD, 8.5% passed to a host who is not registered. |
+
+Two things this pass did **not** settle, both already guarded in their drafts:
+
+- **21 (commission clawback)** stays held. No Inland Revenue guidance was found
+  on which year a repaid commission belongs in. It needs Felix, not a search.
+- **The "2 years for sales on or after 1 July 2024" qualifier.** The 2-year
+  period is confirmed, but none of the bright-line pages read states the
+  1 July 2024 qualifier in those words. It is in IR1229, which was not opened.
+  Source it there before putting that date beside the period on a slide.
+
+One environment note, because it cost time: this sandbox's proxy answers a raw
+`curl` to ird.govt.nz with a 403 on CONNECT. Every Inland Revenue URL in this
+queue looks dead to curl and none of them are. Use the web fetch tools.
 
 ### Retired posts
 

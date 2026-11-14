@@ -18,11 +18,23 @@ out a rental in one order.
   purchased from the same supplier at the same time as other assets to which
   the same depreciation rate applies" —
   https://www.ird.govt.nz/-/media/project/ir/home/documents/forms-and-guides/ir200---ir299/ir260/ir260.pdf
-  **Read the full paragraph.** Slide 4 says that six matching $900 items on one
-  invoice are not six write-offs. That is the natural reading (the items are
-  looked at together against the $1,000) but confirm it says that before
-  building. If the paragraph does not support slide 4 as worded, soften it to
-  IRD's own words and drop the "six heaters" example.
+  **CONFIRMED 14 November 2026**, IR260 (September 2026 edition) page 21,
+  "Low value assets (including loose tools)". The guide says low value assets
+  are deductible in the year acquired "provided: they are not purchased from
+  the same supplier at the same time as other assets to which the same
+  depreciation rate applies". So the condition is real and is IRD's own.
+- **But note exactly what the guide does NOT say, and keep slide 4 inside it.**
+  IR260 states the proviso and stops. It does not say the assets are added
+  together and tested against the $1,000, it gives no example, and IR264 does
+  not carry the condition at all. So slide 4 must put it as IRD does — bought
+  from one supplier at one time, same depreciation rate, and the immediate
+  deduction is not available — and must NOT claim the six are tested as a
+  $5,400 group. That framing is an inference, not the guide's words.
+- The "six heaters" example may stay only as an illustration of same supplier,
+  same time, same rate. If that cannot be made to read cleanly on the slide,
+  drop the example and quote the proviso instead.
+- Pooling is a different mechanism (IR260: pooled assets are "treated as 1
+  asset", maximum $5,000 per asset). Do not blend it into this post.
 - VERIFY whether IR264 itself carries the same condition. If it does, cite
   IR264; it is the rental guide.
 - Slide 6's $950 heat pump is an illustration, not a price.

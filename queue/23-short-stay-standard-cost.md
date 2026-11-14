@@ -15,6 +15,17 @@ heard of. Distinct from post 11 (the bach), which is a separate property.
   The rate is CPI-adjusted each year and published around June for the year just
   ended (DET 19/02 adjustments on taxtechnical.ird.govt.nz). **Check for a newer
   rate and name the income year on the slide.**
+- **CHECKED 14 November 2026: no 2026-27 rate is published.** The IRD page
+  (last updated 29 Jun 2026) still reads "The short-stay standard-cost rates
+  for the 2025-26 income year are $65 per night for homeowners" and "$59 when
+  you're not the homeowner." Nothing newer was found on taxtechnical either.
+- **So the income year has to be on the slide, not implied.** We are in
+  2026-27 and the only published rate belongs to a year that has already
+  ended. A slide reading "the first $65 a night is not income" with no year on
+  it reads as current and is not. Put the year on the slide and in the caption.
+  Recheck the page on the day — if a 2026-27 rate has appeared, use it.
+- IRD's own worked example was confirmed on the same date: 60 nights at $85 is
+  $5,100, less $65 x 60 = $3,900, leaving $1,200 to return.
 - VERIFY: the **100 nights or less** limit, and that each room counts as a night
   (two rooms for one night is two nights) — same page.
 - VERIFY the conditions: it is your own main home; stays are no more than
