@@ -10,3 +10,4 @@ topic within six months.
 | 2026-11-10 | GST: the $60,000 test is a rolling twelve months, not your tax year | queue/01-gst-rolling-12-months.md |
 | 2026-11-13 | Ring-fencing: a rental loss cannot reduce your salary tax, and when a taxable sale releases it | queue/02-ring-fencing.md |
 | 2026-11-14 | Chattels: the building depreciates at 0%, nearly everything in it does not | queue/03-chattels-schedule.md |
+| 2026-11-15 | Home office: the square metre rate covers utilities, not interest, rates or rent | queue/04-home-office.md |
