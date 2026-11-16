@@ -11,3 +11,4 @@ topic within six months.
 | 2026-11-13 | Ring-fencing: a rental loss cannot reduce your salary tax, and when a taxable sale releases it | queue/02-ring-fencing.md |
 | 2026-11-14 | Chattels: the building depreciates at 0%, nearly everything in it does not | queue/03-chattels-schedule.md |
 | 2026-11-15 | Home office: the square metre rate covers utilities, not interest, rates or rent | queue/04-home-office.md |
+| 2026-11-16 | Main home exclusion: more than half the time and more than half the land, or none of it | queue/05-main-home-exclusion.md |
