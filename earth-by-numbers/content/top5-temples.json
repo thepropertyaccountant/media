@@ -1,0 +1,72 @@
+{
+  "slug": "top5-temples",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "Angkor at sunrise<br>is a queue.",
+      "sub": "Opinion. Five temples worth standing in front of.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Borobudur",
+      "where": "Central Java, Indonesia",
+      "note": "A stone diagram of the cosmos that you read by climbing it, terrace by terrace. Book the early entry and skip the sunrise package.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "Kailasa at Ellora",
+      "where": "Maharashtra, India",
+      "note": "Not built but carved downwards out of the rock, courtyard, tower and all. The single most astonishing thing on this list.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Bagan",
+      "where": "Mandalay Region, Myanmar",
+      "note": "A plain of brick temples you cycle between, most of them empty, some of them yours for an hour. The balloons are a distraction from the version at ground level.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Preah Vihear",
+      "where": "Preah Vihear, Cambodia",
+      "note": "On a cliff at the top of an escarpment, approached along a causeway rather than through a gate. The approach and the drop at the end of it are the reason to come.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Tōdai-ji",
+      "where": "Nara, Japan",
+      "note": "A hall built to house a bronze Buddha, with deer outside and a sense of scale that photographs refuse to carry. Nara over Kyoto, every time.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "Angkor Wat at sunrise is a field of people photographing a silhouette, arranged in rows, having got up at four to do it. Go at lunchtime when everybody has gone back to sleep, and go to Preah Khan and Beng Mealea instead, and you will have had a better day.\n\nFive temples worth standing in front of. Opinion.\n\n01 BOROBUDUR, Indonesia — a stone diagram of the Buddhist cosmos, and the way you read it is by walking up it, terrace by terrace, with the carved panels unfolding as you climb. Take the earliest ordinary entry. The sunrise package is an upsell.\n\n02 KAILASA AT ELLORA, India — it was not built. It was carved downwards out of the hillside, courtyard, gateway, tower and all, by removing everything that was not the temple. Standing in that excavated courtyard is the most astonishing twenty minutes on this list.\n\n03 BAGAN, Myanmar — a plain covered in brick temples that you move between on a bicycle, most of them completely empty, some of them yours alone for an hour. Everybody photographs the balloons. The ground-level version is the better one.\n\n04 PREAH VIHEAR, Cambodia — strung along the top of an escarpment, approached up a long causeway so you arrive through a sequence rather than at a gate, and ending at a drop. Barely visited compared with Angkor, an hour's drive away.\n\n05 TŌDAI-JI, Nara, Japan — a wooden hall built to contain a colossal bronze Buddha, with deer wandering the approach and a sense of scale that no photograph has ever carried. Nara rather than Kyoto, every single time.\n\nWhich temple did you have to yourself?",
+  "tags": [
+    "temples",
+    "borobudur",
+    "ellora",
+    "bagan",
+    "preahvihear",
+    "todaiji",
+    "templearchitecture",
+    "travelinspo",
+    "geographyfacts",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}

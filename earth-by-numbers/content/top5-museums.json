@@ -1,0 +1,72 @@
+{
+  "slug": "top5-museums",
+  "kind": "top5",
+  "slides": [
+    {
+      "type": "hook",
+      "title": "The Louvre is a<br>logistics<br>exercise.",
+      "sub": "Opinion. Five museums you can actually look at things in.",
+      "size": "h-md"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 1",
+      "rank": "01",
+      "place": "Museo Nacional de Antropología",
+      "where": "Mexico City, Mexico",
+      "note": "Purpose-built and arranged by region, so the country makes sense by the time you leave. The courtyard alone justifies the entry.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 2",
+      "rank": "02",
+      "place": "MASP",
+      "where": "São Paulo, Brazil",
+      "note": "Paintings hung on glass easels in the middle of the room, so you walk around them and find the label on the back. Nobody else does this and everybody else should.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 3",
+      "rank": "03",
+      "place": "Rijksmuseum",
+      "where": "Amsterdam, Netherlands",
+      "note": "Dutch painting in a building renovated by people with judgement. Go late and walk the Gallery of Honour backwards against the flow.",
+      "bg": ""
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 4",
+      "rank": "04",
+      "place": "Kunsthistorisches",
+      "where": "Vienna, Austria",
+      "note": "Habsburg collecting habits, which is why the Bruegels are all in one room. The building is part of the exhibit and the café is not a compromise.",
+      "bg": "ink"
+    },
+    {
+      "type": "rank",
+      "kicker": "No. 5",
+      "rank": "05",
+      "place": "Museum of Islamic Art",
+      "where": "Doha, Qatar",
+      "note": "On its own spit of land, with the light handled properly and galleries that do not set out to exhaust you. The best argument here for small.",
+      "bg": "",
+      "handle": true
+    }
+  ],
+  "caption": "The Louvre is a building full of extraordinary things that is very bad at letting you look at them. You queue, you follow arrows, you are moved past the famous painting at walking pace by a room of raised phones. The collection is not the problem. The experience is.\n\nFive museums that get this right. Opinion.\n\n01 MUSEO NACIONAL DE ANTROPOLOGÍA, Mexico City — purpose-built, generous with space, and laid out region by region so that by the time you come out the other end the country actually makes sense to you. The courtyard and its canopy are worth the ticket on their own.\n\n02 MASP, São Paulo — the paintings hang on glass easels in the middle of the room rather than on walls, so you walk around them, see them from behind, and find the label on the back. It sounds like a gimmick and it completely changes how you look.\n\n03 RIJKSMUSEUM, Amsterdam — Dutch painting shown in a building that was renovated by people who clearly thought hard about it. Go in the last couple of hours and walk the Gallery of Honour in the wrong direction, against everybody else.\n\n04 KUNSTHISTORISCHES, Vienna — the product of Habsburg collecting, which is why an absurd number of the Bruegels are in a single room. The building itself is half the visit, and the café is genuinely good rather than tolerable.\n\n05 MUSEUM OF ISLAMIC ART, Doha — sitting on its own spit of land, with light handled better than almost anywhere, and galleries that are not trying to defeat you. The strongest case on this list for a museum you can finish.\n\nWhich museum did you leave feeling better than when you arrived?",
+  "tags": [
+    "museums",
+    "mexicocity",
+    "saopaulo",
+    "amsterdam",
+    "vienna",
+    "doha",
+    "arttravel",
+    "travelinspo",
+    "citybreak",
+    "worldfacts",
+    "earthbynumbers"
+  ]
+}
