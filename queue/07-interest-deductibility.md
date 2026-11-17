@@ -43,3 +43,40 @@ were and still are not deductible. If your last return was prepared under the
 old settings, it is worth a look.
 
 General-information line, then hashtags.
+
+## CHECKED 2026-11-17 (run that posted this)
+
+Built and posted 2026-11-17. Findings from the day's verification:
+
+- **Confirmed.** IRD property-interest-rules page: "From 1 April 2025 you can
+  claim 100% of the interest you incur." Stated flatly, under the heading
+  "Timeframes for the interest limitation rules", with no qualifier attached.
+- **Confirmed.** Same page, 1 April 2024 to 31 March 2025: "You can claim 80% of
+  the interest you incurred", and for that year only, "It does not matter when
+  you got the property or drew down the loan."
+- **Confirmed.** Year-by-year table on the "Interest deductions for past years"
+  sub-page, scoped to *funds borrowed before 27 March 2021*: 2020-21 100%,
+  1 Apr-30 Sep 2021 100%, 1 Oct 2021-31 Mar 2022 75%, 2022-23 75%, 2023-24 50%.
+  The table has no row for 2024-25 or 2025-26.
+- **Confirmed.** Sub-page, funds borrowed on or after 27 March 2021: "you cannot
+  claim interest deductions between 1 October 2021 and 31 March 2024", with
+  exceptions for property acquired before 27 March 2021 or under an offer made
+  on or before 23 March 2021.
+- **Confirmed.** IR264 (March 2026 edition) p.10 lists "the capital portion of
+  any mortgage repayments" among expenses that cannot be deducted. Same page:
+  interest on money borrowed "for some purpose other than financing the rental
+  property, even if you use the rental property to secure the loan" is not
+  deductible. p.5: "If you use the property for both rental and private use then
+  costs need to be apportioned."
+
+### DO NOT STATE (added 2026-11-17)
+
+- **That the 100% restoration applies regardless of when the property was
+  acquired or the loan drawn down.** IRD states this only for the 2024-25 (80%)
+  year. Nothing on either page says it for 1 April 2025 onward. The original
+  draft asserted it; it was dropped.
+- **That the new build distinction no longer affects the percentage.** The main
+  page still carries an "Exemptions from the rules" section listing "New build
+  land", written in the present tense and not date-limited. The original draft
+  asserted the distinction was spent; it was dropped. Do not revive it without
+  reading the exemptions sub-page.

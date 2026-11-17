@@ -12,3 +12,4 @@ topic within six months.
 | 2026-11-14 | Chattels: the building depreciates at 0%, nearly everything in it does not | queue/03-chattels-schedule.md |
 | 2026-11-15 | Home office: the square metre rate covers utilities, not interest, rates or rent | queue/04-home-office.md |
 | 2026-11-16 | Main home exclusion: more than half the time and more than half the land, or none of it | queue/05-main-home-exclusion.md |
+| 2026-11-17 | Interest deductibility: 100% from 1 April 2025, and the loans that got nothing | queue/07-interest-deductibility.md |
