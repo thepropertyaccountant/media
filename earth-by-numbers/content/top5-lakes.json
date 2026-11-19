@@ -1,72 +1,95 @@
 {
-  "slug": "top5-lakes",
-  "kind": "top5",
-  "slides": [
-    {
-      "type": "hook",
-      "title": "Lake Como is a<br>car park with<br>a view.",
-      "sub": "Opinion. Five lakes worth the journey, and Como is not one of them.",
-      "size": "h-lg"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 1",
-      "rank": "01",
-      "place": "Lake Ohrid",
-      "where": "North Macedonia and Albania",
-      "note": "Swim off the rocks below the old town, then take the boat along the cliffs to the monastery on the headland. The town behind the water is lived in rather than staged.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 2",
-      "rank": "02",
-      "place": "Lake Atitlán",
-      "where": "Sololá, Guatemala",
-      "note": "Volcanoes on three sides and a different village at every jetty. The passenger boat is the bus. Leave Panajachel quickly and stay somewhere you can only reach by water.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 3",
-      "rank": "03",
-      "place": "Lake Malawi",
-      "where": "Malawi, Mozambique and Tanzania",
-      "note": "Clear fresh water, fish that live nowhere else, and beaches with nobody selling you anything. Cape Maclear to snorkel, Likoma for the cathedral nobody expects.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 4",
-      "rank": "04",
-      "place": "Lake Khövsgöl",
-      "where": "Khövsgöl Province, Mongolia",
-      "note": "Taiga on one shore, steppe on the other, herders in the hills behind. Go in winter for the ice and accept that the road in is most of the trip.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 5",
-      "rank": "05",
-      "place": "Lake Toba",
-      "where": "North Sumatra, Indonesia",
-      "note": "A lake sitting in a volcanic crater with an island in the middle big enough to have its own roads and villages. Stay on Samosir. The water is warm, which none of the others manage.",
-      "bg": "",
-      "handle": true
-    }
-  ],
-  "caption": "Lake Como is a road with a lake beside it. The villas are someone else's, the shoreline is spoken for, and the boat you take is full of people taking the same photograph from the same side.\n\nFive lakes that are worth the effort of getting to. Opinion, all of it.\n\n01 LAKE OHRID, North Macedonia and Albania — swim off the rocks under the old town and take the boat along the cliffs to the monastery on the headland. The town behind the water is still a town. The Albanian side is quieter again and almost nobody crosses.\n\n02 LAKE ATITLÁN, Guatemala — volcanoes on three sides and a different village at every jetty, each with its own character and its own opinion of the others. The passenger boat is the local bus. Panajachel is the arrival point, not the destination.\n\n03 LAKE MALAWI, Malawi — fresh water clear enough to snorkel, full of fish found nowhere else on earth, and beaches where nobody approaches you. Cape Maclear for the water, Likoma Island for the cathedral that has no business being there.\n\n04 LAKE KHÖVSGÖL, Mongolia — forest on one side, open steppe on the other, reindeer herders in the hills behind it. Winter turns it to ice you can drive on, which people do. The journey is not incidental to the trip; it is the trip.\n\n05 LAKE TOBA, Indonesia — a crater lake with an island in it large enough to have its own villages, roads and funeral customs. Samosir is where you stay, and the water is warm enough to swim in without flinching.\n\nWhich lake was better than the famous one next to it?",
-  "tags": [
-    "lakes",
-    "lakeohrid",
-    "atitlan",
-    "lakemalawi",
-    "khovsgol",
-    "laketoba",
-    "travelinspo",
-    "geographyfacts",
-    "worldfacts",
-    "offthebeatenpath",
-    "earthbynumbers"
-  ]
+ "slug": "top5-lakes",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-lakes",
+   "archetype": "lake",
+   "palette": "top5-lakes",
+   "element": "church",
+   "kicker": "LAKE OHRID",
+   "region": "North Macedonia and Albania",
+   "hook": "Lake Como is a car park with a view.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "01",
+     "illustrated above"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "Lake Como is a<br>car park with<br>a view.",
+    "sub": "Opinion. Five lakes worth the journey, and Como is not one of them.",
+    "size": "h-lg"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Lake Ohrid",
+   "where": "North Macedonia and Albania",
+   "note": "Swim off the rocks below the old town, then take the boat along the cliffs to the monastery on the headland. The town behind the water is lived in rather than staged.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Lake Atitlán",
+   "where": "Sololá, Guatemala",
+   "note": "Volcanoes on three sides and a different village at every jetty. The passenger boat is the bus. Leave Panajachel quickly and stay somewhere you can only reach by water.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Lake Malawi",
+   "where": "Malawi, Mozambique and Tanzania",
+   "note": "Clear fresh water, fish that live nowhere else, and beaches with nobody selling you anything. Cape Maclear to snorkel, Likoma for the cathedral nobody expects.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Lake Khövsgöl",
+   "where": "Khövsgöl Province, Mongolia",
+   "note": "Taiga on one shore, steppe on the other, herders in the hills behind. Go in winter for the ice and accept that the road in is most of the trip.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Lake Toba",
+   "where": "North Sumatra, Indonesia",
+   "note": "A lake sitting in a volcanic crater with an island in the middle big enough to have its own roads and villages. Stay on Samosir. The water is warm, which none of the others manage.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "Lake Como is a road with a lake beside it. The villas are someone else's, the shoreline is spoken for, and the boat you take is full of people taking the same photograph from the same side.\n\nFive lakes that are worth the effort of getting to. Opinion, all of it.\n\n01 LAKE OHRID, North Macedonia and Albania — swim off the rocks under the old town and take the boat along the cliffs to the monastery on the headland. The town behind the water is still a town. The Albanian side is quieter again and almost nobody crosses.\n\n02 LAKE ATITLÁN, Guatemala — volcanoes on three sides and a different village at every jetty, each with its own character and its own opinion of the others. The passenger boat is the local bus. Panajachel is the arrival point, not the destination.\n\n03 LAKE MALAWI, Malawi — fresh water clear enough to snorkel, full of fish found nowhere else on earth, and beaches where nobody approaches you. Cape Maclear for the water, Likoma Island for the cathedral that has no business being there.\n\n04 LAKE KHÖVSGÖL, Mongolia — forest on one side, open steppe on the other, reindeer herders in the hills behind it. Winter turns it to ice you can drive on, which people do. The journey is not incidental to the trip; it is the trip.\n\n05 LAKE TOBA, Indonesia — a crater lake with an island in it large enough to have its own villages, roads and funeral customs. Samosir is where you stay, and the water is warm enough to swim in without flinching.\n\nWhich lake was better than the famous one next to it?",
+ "tags": [
+  "lakes",
+  "lakeohrid",
+  "atitlan",
+  "lakemalawi",
+  "khovsgol",
+  "laketoba",
+  "travelinspo",
+  "geographyfacts",
+  "worldfacts",
+  "offthebeatenpath",
+  "earthbynumbers"
+ ]
 }

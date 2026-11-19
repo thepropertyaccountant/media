@@ -1,72 +1,95 @@
 {
-  "slug": "top5-tea-regions",
-  "kind": "top5",
-  "slides": [
-    {
-      "type": "hook",
-      "title": "Afternoon tea in<br>London is not<br>a tea region.",
-      "sub": "Opinion. Five places where it is grown, picked and drunk on the spot.",
-      "size": "h-md"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 1",
-      "rank": "01",
-      "place": "Wazuka",
-      "where": "Kyoto Prefecture, Japan",
-      "note": "Clipped green rows stacked up a river valley, a train and a bus from Kyoto, and almost nobody making the trip. Drink the gyokuro where it grows.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 2",
-      "rank": "02",
-      "place": "Nuwara Eliya",
-      "where": "Central Province, Sri Lanka",
-      "note": "Cool, wet and colonial in a way that is strange to sit inside. Take the train up through the estates; it is the better half of the visit.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 3",
-      "rank": "03",
-      "place": "Wuyi Mountains",
-      "where": "Fujian, China",
-      "note": "Rock oolong grown between sandstone cliffs, with a river to raft down between tastings. The tea is supposed to taste of the ground it came from, and it does.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 4",
-      "rank": "04",
-      "place": "Rize",
-      "where": "Black Sea Region, Türkiye",
-      "note": "Tea on the steepest hillsides anybody has tried to farm, cloud sitting in the valleys, and a glass handed to you everywhere you stop. Not a tourist region.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 5",
-      "rank": "05",
-      "place": "Darjeeling",
-      "where": "West Bengal, India",
-      "note": "Overpriced, overrun in season, and still worth it for the estates and the narrow gauge railway. Stay out of the town and up in the gardens.",
-      "bg": "",
-      "handle": true
-    }
-  ],
-  "caption": "Afternoon tea in a London hotel is a pastry service with a hot drink attached. It has nothing to do with tea as a crop, a place or a practice, and the leaf in the pot is usually the least considered thing on the table.\n\nFive places where tea is grown, picked and drunk within sight of the same hillside. Opinion. Assam is not here and I will defend that.\n\n01 WAZUKA, Japan — a valley of clipped green terraces stacked up the hillsides, a short train and bus from Kyoto, and almost no visitors despite that. Small producers will sit you down and brew gyokuro properly, which takes longer and tastes like something else entirely.\n\n02 NUWARA ELIYA, Sri Lanka — cool, wet, and colonial in a way that is genuinely odd to sit inside. The reason to go is the train up through the estates, which is one of the great rail journeys and costs very little.\n\n03 WUYI MOUNTAINS, China — rock oolong grown in the gaps between sandstone cliffs, which is where the mineral character is supposed to come from, and does. There is a river to raft down between tastings, which is a better structure for a day than it sounds.\n\n04 RIZE, Türkiye — tea planted on hillsides too steep to be sensible, with cloud sitting in the valleys most mornings and a glass pressed on you at every stop. Nobody is there for tourism, which is most of the appeal.\n\n05 DARJEELING, India — expensive, crowded in season, and still worth going to for the estates themselves and the narrow gauge railway that grinds up to them. Stay out of the town and up in the gardens.\n\nWhich growing region changed how you drink it?",
-  "tags": [
-    "tea",
-    "wazuka",
-    "nuwaraeliya",
-    "wuyi",
-    "rize",
-    "darjeeling",
-    "teaculture",
-    "travelinspo",
-    "foodtravel",
-    "worldfacts",
-    "earthbynumbers"
-  ]
+ "slug": "top5-tea-regions",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-tea-regions",
+   "archetype": "terraces",
+   "palette": "top5-tea-regions",
+   "element": "hut",
+   "kicker": "WAZUKA",
+   "region": "Kyoto Prefecture / Japan",
+   "hook": "Afternoon tea in London is not a tea region.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "01",
+     "illustrated above"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "Afternoon tea in<br>London is not<br>a tea region.",
+    "sub": "Opinion. Five places where it is grown, picked and drunk on the spot.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Wazuka",
+   "where": "Kyoto Prefecture, Japan",
+   "note": "Clipped green rows stacked up a river valley, a train and a bus from Kyoto, and almost nobody making the trip. Drink the gyokuro where it grows.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Nuwara Eliya",
+   "where": "Central Province, Sri Lanka",
+   "note": "Cool, wet and colonial in a way that is strange to sit inside. Take the train up through the estates; it is the better half of the visit.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Wuyi Mountains",
+   "where": "Fujian, China",
+   "note": "Rock oolong grown between sandstone cliffs, with a river to raft down between tastings. The tea is supposed to taste of the ground it came from, and it does.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Rize",
+   "where": "Black Sea Region, Türkiye",
+   "note": "Tea on the steepest hillsides anybody has tried to farm, cloud sitting in the valleys, and a glass handed to you everywhere you stop. Not a tourist region.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Darjeeling",
+   "where": "West Bengal, India",
+   "note": "Overpriced, overrun in season, and still worth it for the estates and the narrow gauge railway. Stay out of the town and up in the gardens.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "Afternoon tea in a London hotel is a pastry service with a hot drink attached. It has nothing to do with tea as a crop, a place or a practice, and the leaf in the pot is usually the least considered thing on the table.\n\nFive places where tea is grown, picked and drunk within sight of the same hillside. Opinion. Assam is not here and I will defend that.\n\n01 WAZUKA, Japan — a valley of clipped green terraces stacked up the hillsides, a short train and bus from Kyoto, and almost no visitors despite that. Small producers will sit you down and brew gyokuro properly, which takes longer and tastes like something else entirely.\n\n02 NUWARA ELIYA, Sri Lanka — cool, wet, and colonial in a way that is genuinely odd to sit inside. The reason to go is the train up through the estates, which is one of the great rail journeys and costs very little.\n\n03 WUYI MOUNTAINS, China — rock oolong grown in the gaps between sandstone cliffs, which is where the mineral character is supposed to come from, and does. There is a river to raft down between tastings, which is a better structure for a day than it sounds.\n\n04 RIZE, Türkiye — tea planted on hillsides too steep to be sensible, with cloud sitting in the valleys most mornings and a glass pressed on you at every stop. Nobody is there for tourism, which is most of the appeal.\n\n05 DARJEELING, India — expensive, crowded in season, and still worth going to for the estates themselves and the narrow gauge railway that grinds up to them. Stay out of the town and up in the gardens.\n\nWhich growing region changed how you drink it?",
+ "tags": [
+  "tea",
+  "wazuka",
+  "nuwaraeliya",
+  "wuyi",
+  "rize",
+  "darjeeling",
+  "teaculture",
+  "travelinspo",
+  "foodtravel",
+  "worldfacts",
+  "earthbynumbers"
+ ]
 }

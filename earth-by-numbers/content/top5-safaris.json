@@ -1,72 +1,95 @@
 {
-  "slug": "top5-safaris",
-  "kind": "top5",
-  "slides": [
-    {
-      "type": "hook",
-      "title": "The Serengeti in<br>migration season<br>is a traffic jam.",
-      "sub": "Opinion. Five parks where you are not queueing for a lion.",
-      "size": "h-md"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 1",
-      "rank": "01",
-      "place": "South Luangwa",
-      "where": "Eastern Province, Zambia",
-      "note": "The place people come to walk rather than drive, with leopards along the river after dark and camps that shut when the rains arrive.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 2",
-      "rank": "02",
-      "place": "Mana Pools",
-      "where": "Mashonaland West, Zimbabwe",
-      "note": "Flood terraces, albida forest and elephants standing on their back legs to reach the pods. You can walk here unguided, which is either the appeal or the warning.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 3",
-      "rank": "03",
-      "place": "Gorongosa",
-      "where": "Sofala, Mozambique",
-      "note": "A park emptied by war and put back animal by animal. Come for the restoration as much as the game, and talk to the people doing it.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 4",
-      "rank": "04",
-      "place": "Ruaha",
-      "where": "Iringa, Tanzania",
-      "note": "Baobabs, sand rivers and serious predator country, without the vehicle convoys of the parks in the north.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 5",
-      "rank": "05",
-      "place": "Majete",
-      "where": "Lower Shire Valley, Malawi",
-      "note": "Another park rebuilt from almost nothing, in a country nobody thinks of for safari. Small, close to the road, and quiet enough to hear things.",
-      "bg": "",
-      "handle": true
-    }
-  ],
-  "caption": "The migration is extraordinary and watching it from the back of a queue of identical vehicles is not. When thirty drivers are radioing each other about the same river crossing, you are at an event, not in a wilderness.\n\nFive parks where that does not happen. Opinion.\n\n01 SOUTH LUANGWA, Zambia — the place to walk rather than drive, which changes the whole register of the thing: you notice tracks, dung, birds, the direction of the wind. Leopards along the river after dark are close to a given. The camps close when the rains come, and the green season has its own argument.\n\n02 MANA POOLS, Zimbabwe — flood terraces under albida trees, with elephants standing up on their back legs to reach the pods. Famously a place you are allowed to walk unguided, which is either the reason to go or the reason not to.\n\n03 GORONGOSA, Mozambique — a park that was emptied by a civil war and has been restored animal by animal over decades. The wildlife is coming back and the story of how is more interesting than most game drives. Talk to the people running it.\n\n04 RUAHA, Tanzania — baobabs, sand rivers and genuinely serious predator country, several hours from anywhere, with none of the convoy behaviour of the northern circuit. The same country, a completely different experience.\n\n05 MAJETE, Malawi — another rebuild, in a country that barely registers as a safari destination. It is small and close to the road and you will hear things you cannot see, which is most of the pleasure.\n\nWhere did you see more by seeing fewer vehicles?",
-  "tags": [
-    "safari",
-    "zambia",
-    "zimbabwe",
-    "mozambique",
-    "tanzania",
-    "malawi",
-    "wildlife",
-    "travelinspo",
-    "geographyfacts",
-    "worldfacts",
-    "earthbynumbers"
-  ]
+ "slug": "top5-safaris",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-safaris",
+   "archetype": "savanna",
+   "palette": "top5-safaris",
+   "element": "tent",
+   "kicker": "SOUTH LUANGWA",
+   "region": "Eastern Province / Zambia",
+   "hook": "The Serengeti in migration season is a traffic jam.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "01",
+     "illustrated above"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "The Serengeti in<br>migration season<br>is a traffic jam.",
+    "sub": "Opinion. Five parks where you are not queueing for a lion.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "South Luangwa",
+   "where": "Eastern Province, Zambia",
+   "note": "The place people come to walk rather than drive, with leopards along the river after dark and camps that shut when the rains arrive.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Mana Pools",
+   "where": "Mashonaland West, Zimbabwe",
+   "note": "Flood terraces, albida forest and elephants standing on their back legs to reach the pods. You can walk here unguided, which is either the appeal or the warning.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Gorongosa",
+   "where": "Sofala, Mozambique",
+   "note": "A park emptied by war and put back animal by animal. Come for the restoration as much as the game, and talk to the people doing it.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Ruaha",
+   "where": "Iringa, Tanzania",
+   "note": "Baobabs, sand rivers and serious predator country, without the vehicle convoys of the parks in the north.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Majete",
+   "where": "Lower Shire Valley, Malawi",
+   "note": "Another park rebuilt from almost nothing, in a country nobody thinks of for safari. Small, close to the road, and quiet enough to hear things.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "The migration is extraordinary and watching it from the back of a queue of identical vehicles is not. When thirty drivers are radioing each other about the same river crossing, you are at an event, not in a wilderness.\n\nFive parks where that does not happen. Opinion.\n\n01 SOUTH LUANGWA, Zambia — the place to walk rather than drive, which changes the whole register of the thing: you notice tracks, dung, birds, the direction of the wind. Leopards along the river after dark are close to a given. The camps close when the rains come, and the green season has its own argument.\n\n02 MANA POOLS, Zimbabwe — flood terraces under albida trees, with elephants standing up on their back legs to reach the pods. Famously a place you are allowed to walk unguided, which is either the reason to go or the reason not to.\n\n03 GORONGOSA, Mozambique — a park that was emptied by a civil war and has been restored animal by animal over decades. The wildlife is coming back and the story of how is more interesting than most game drives. Talk to the people running it.\n\n04 RUAHA, Tanzania — baobabs, sand rivers and genuinely serious predator country, several hours from anywhere, with none of the convoy behaviour of the northern circuit. The same country, a completely different experience.\n\n05 MAJETE, Malawi — another rebuild, in a country that barely registers as a safari destination. It is small and close to the road and you will hear things you cannot see, which is most of the pleasure.\n\nWhere did you see more by seeing fewer vehicles?",
+ "tags": [
+  "safari",
+  "zambia",
+  "zimbabwe",
+  "mozambique",
+  "tanzania",
+  "malawi",
+  "wildlife",
+  "travelinspo",
+  "geographyfacts",
+  "worldfacts",
+  "earthbynumbers"
+ ]
 }

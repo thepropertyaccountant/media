@@ -1,72 +1,95 @@
 {
-  "slug": "top5-fjords",
-  "kind": "top5",
-  "slides": [
-    {
-      "type": "hook",
-      "title": "Geirangerfjord<br>is a cruise<br>terminal.",
-      "sub": "Opinion. Five fjords where the boat is not the problem.",
-      "size": "h-lg"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 1",
-      "rank": "01",
-      "place": "Scoresby Sound",
-      "where": "Ittoqqortoormiit, East Greenland",
-      "note": "Icebergs the size of buildings, one village of painted houses, and essentially no infrastructure. Getting there is a flight, a boat and a great deal of patience.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 2",
-      "rank": "02",
-      "place": "Lysefjord",
-      "where": "Rogaland, Norway",
-      "note": "Walk to Kjerag or Preikestolen in the morning and take the ferry down the fjord afterwards, in that order. Norway without the coach park at the famous one.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 3",
-      "rank": "03",
-      "place": "Doubtful Sound",
-      "where": "Fiordland, New Zealand",
-      "note": "Wetter, longer and much quieter than its neighbour. You get there by boat across a lake and a bus over a pass, which filters out everyone in a hurry.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 4",
-      "rank": "04",
-      "place": "Kenai Fjords",
-      "where": "Alaska, United States",
-      "note": "Tidewater glaciers dropping ice into the sea while sea lions watch from the rocks. Go out of Seward on the smallest boat you can book.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 5",
-      "rank": "05",
-      "place": "Arnarfjörður",
-      "where": "Westfjords, Iceland",
-      "note": "The Westfjords are the part of Iceland the ring road skips, which is the whole recommendation. Dynjandi at the head of it, gravel roads, and a hot pot with nobody in it.",
-      "bg": "",
-      "handle": true
-    }
-  ],
-  "caption": "Geirangerfjord is beautiful and you will share it with four thousand people who arrived at the same time you did on the same hull. The village exists to process them. The fjord does not care, but you will.\n\nFive fjords where the boat is part of the experience rather than the obstacle. Opinion.\n\n01 SCORESBY SOUND, Greenland — a fjord system so large it stops reading as a fjord, with icebergs the size of office blocks and one small village of painted houses at the mouth of it. There is no easy way in, which is why there is nobody there.\n\n02 LYSEFJORD, Norway — the right order is to walk up to Kjerag or Preikestolen first and take the ferry along the water afterwards, so you see from below what you stood on. It is the famous Norwegian experience without the famous Norwegian crowd.\n\n03 DOUBTFUL SOUND, New Zealand — longer, wetter and far quieter than Milford next door. You cross a lake by boat and a pass by bus to reach it, and that small inconvenience removes most of the people.\n\n04 KENAI FJORDS, Alaska — glaciers that come down to the sea and calve into it, with sea lions hauled out on the rocks and puffins going past at head height. Book the smallest boat that will take you.\n\n05 ARNARFJÖRÐUR, Iceland — the Westfjords are the bit the ring road misses, so almost nobody goes. Dynjandi falls down the back of this one, the roads are gravel, and the hot pots have nobody in them.\n\nWhich fjord did you have to yourself?",
-  "tags": [
-    "fjords",
-    "greenland",
-    "norway",
-    "newzealand",
-    "alaska",
-    "westfjords",
-    "travelinspo",
-    "geographyfacts",
-    "worldfacts",
-    "adventuretravel",
-    "earthbynumbers"
-  ]
+ "slug": "top5-fjords",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-fjords",
+   "archetype": "ice",
+   "palette": "top5-fjords",
+   "element": "boat",
+   "kicker": "SCORESBY SOUND",
+   "region": "Ittoqqortoormiit / East Greenland",
+   "hook": "Geirangerfjord is a cruise terminal.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "01",
+     "illustrated above"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "Geirangerfjord<br>is a cruise<br>terminal.",
+    "sub": "Opinion. Five fjords where the boat is not the problem.",
+    "size": "h-lg"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Scoresby Sound",
+   "where": "Ittoqqortoormiit, East Greenland",
+   "note": "Icebergs the size of buildings, one village of painted houses, and essentially no infrastructure. Getting there is a flight, a boat and a great deal of patience.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Lysefjord",
+   "where": "Rogaland, Norway",
+   "note": "Walk to Kjerag or Preikestolen in the morning and take the ferry down the fjord afterwards, in that order. Norway without the coach park at the famous one.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Doubtful Sound",
+   "where": "Fiordland, New Zealand",
+   "note": "Wetter, longer and much quieter than its neighbour. You get there by boat across a lake and a bus over a pass, which filters out everyone in a hurry.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Kenai Fjords",
+   "where": "Alaska, United States",
+   "note": "Tidewater glaciers dropping ice into the sea while sea lions watch from the rocks. Go out of Seward on the smallest boat you can book.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Arnarfjörður",
+   "where": "Westfjords, Iceland",
+   "note": "The Westfjords are the part of Iceland the ring road skips, which is the whole recommendation. Dynjandi at the head of it, gravel roads, and a hot pot with nobody in it.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "Geirangerfjord is beautiful and you will share it with four thousand people who arrived at the same time you did on the same hull. The village exists to process them. The fjord does not care, but you will.\n\nFive fjords where the boat is part of the experience rather than the obstacle. Opinion.\n\n01 SCORESBY SOUND, Greenland — a fjord system so large it stops reading as a fjord, with icebergs the size of office blocks and one small village of painted houses at the mouth of it. There is no easy way in, which is why there is nobody there.\n\n02 LYSEFJORD, Norway — the right order is to walk up to Kjerag or Preikestolen first and take the ferry along the water afterwards, so you see from below what you stood on. It is the famous Norwegian experience without the famous Norwegian crowd.\n\n03 DOUBTFUL SOUND, New Zealand — longer, wetter and far quieter than Milford next door. You cross a lake by boat and a pass by bus to reach it, and that small inconvenience removes most of the people.\n\n04 KENAI FJORDS, Alaska — glaciers that come down to the sea and calve into it, with sea lions hauled out on the rocks and puffins going past at head height. Book the smallest boat that will take you.\n\n05 ARNARFJÖRÐUR, Iceland — the Westfjords are the bit the ring road misses, so almost nobody goes. Dynjandi falls down the back of this one, the roads are gravel, and the hot pots have nobody in them.\n\nWhich fjord did you have to yourself?",
+ "tags": [
+  "fjords",
+  "greenland",
+  "norway",
+  "newzealand",
+  "alaska",
+  "westfjords",
+  "travelinspo",
+  "geographyfacts",
+  "worldfacts",
+  "adventuretravel",
+  "earthbynumbers"
+ ]
 }

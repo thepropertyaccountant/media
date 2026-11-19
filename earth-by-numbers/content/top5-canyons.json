@@ -1,72 +1,95 @@
 {
-  "slug": "top5-canyons",
-  "kind": "top5",
-  "slides": [
-    {
-      "type": "hook",
-      "title": "You will not<br>remember the<br>Grand Canyon.",
-      "sub": "Opinion. Five canyons you go into, rather than look at.",
-      "size": "h-lg"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 1",
-      "rank": "01",
-      "place": "Tiger Leaping Gorge",
-      "where": "Yunnan, China",
-      "note": "A trail cut into the gorge wall high above the river, walked village to village with a guesthouse at the end of each day. There is a low road for buses. Take the high one.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 2",
-      "rank": "02",
-      "place": "Vikos Gorge",
-      "where": "Zagori, Epirus, Greece",
-      "note": "Stone villages linked by arched packhorse bridges, and a gorge floor you reach down an old mule path. The Zagori is empty outside summer and better for it.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 3",
-      "rank": "03",
-      "place": "Blyde River Canyon",
-      "where": "Mpumalanga, South Africa",
-      "note": "Green rather than bare, which is not what a canyon is supposed to look like. The drive-up viewpoints are busy. The trails below the rim are not.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 4",
-      "rank": "04",
-      "place": "Verdon Gorge",
-      "where": "Alpes-de-Haute-Provence, France",
-      "note": "Turquoise water at the bottom, limestone walls above it, and a river path that feels designed by somebody with a grudge. Swim at the Sainte-Croix end afterwards.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 5",
-      "rank": "05",
-      "place": "Cañón del Sumidero",
-      "where": "Chiapas, Mexico",
-      "note": "Seen from a boat, looking up, with vultures above and crocodiles alongside. Not a walk, and better for being honest about that.",
-      "bg": "",
-      "handle": true
-    }
-  ],
-  "caption": "The Grand Canyon is the one everybody sees and nobody experiences. You park, you look, you take the photograph that has already been taken, and you leave having stood on the edge of something you never entered.\n\nFive canyons you go into. Opinion, all of it.\n\n01 TIGER LEAPING GORGE, China — the high trail is cut into the wall of the gorge, far above the water, and you walk it between villages with somewhere to sleep at the end of each day. There is a road along the bottom for coach parties. Ignore it.\n\n02 VIKOS GORGE, Greece — the Zagori villages above it are built entirely of stone and linked by arched packhorse bridges, and the path down to the gorge floor is an old mule track. Out of season you will have the whole thing to yourself.\n\n03 BLYDE RIVER CANYON, South Africa — green, forested and wet, which is not how a canyon is meant to behave. The viewpoints on the rim road are drive-up and crowded. Walk below the rim and the crowd evaporates.\n\n04 VERDON GORGE, France — limestone walls with improbably turquoise water at the bottom, and a path along the river that involves ladders and a tunnel and a torch. Swim at the lake end when you are done with being frightened.\n\n05 CAÑÓN DEL SUMIDERO, Mexico — this one you see from below, from a boat, with the walls going straight up and crocodiles on the banks. It is not a hike and does not pretend to be, which I respect more than most viewpoints.\n\nWhich canyon did you walk into instead of looking at?",
-  "tags": [
-    "canyons",
-    "tigerleapinggorge",
-    "vikos",
-    "blydeRiverCanyon",
-    "verdon",
-    "sumidero",
-    "hiking",
-    "travelinspo",
-    "geographyfacts",
-    "worldfacts",
-    "earthbynumbers"
-  ]
+ "slug": "top5-canyons",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-canyons",
+   "archetype": "gorge",
+   "palette": "top5-canyons",
+   "element": "hut",
+   "kicker": "TIGER LEAPING GORGE",
+   "region": "Yunnan / China",
+   "hook": "You will not remember the Grand Canyon.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "01",
+     "illustrated above"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "You will not<br>remember the<br>Grand Canyon.",
+    "sub": "Opinion. Five canyons you go into, rather than look at.",
+    "size": "h-lg"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Tiger Leaping Gorge",
+   "where": "Yunnan, China",
+   "note": "A trail cut into the gorge wall high above the river, walked village to village with a guesthouse at the end of each day. There is a low road for buses. Take the high one.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Vikos Gorge",
+   "where": "Zagori, Epirus, Greece",
+   "note": "Stone villages linked by arched packhorse bridges, and a gorge floor you reach down an old mule path. The Zagori is empty outside summer and better for it.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Blyde River Canyon",
+   "where": "Mpumalanga, South Africa",
+   "note": "Green rather than bare, which is not what a canyon is supposed to look like. The drive-up viewpoints are busy. The trails below the rim are not.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Verdon Gorge",
+   "where": "Alpes-de-Haute-Provence, France",
+   "note": "Turquoise water at the bottom, limestone walls above it, and a river path that feels designed by somebody with a grudge. Swim at the Sainte-Croix end afterwards.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Cañón del Sumidero",
+   "where": "Chiapas, Mexico",
+   "note": "Seen from a boat, looking up, with vultures above and crocodiles alongside. Not a walk, and better for being honest about that.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "The Grand Canyon is the one everybody sees and nobody experiences. You park, you look, you take the photograph that has already been taken, and you leave having stood on the edge of something you never entered.\n\nFive canyons you go into. Opinion, all of it.\n\n01 TIGER LEAPING GORGE, China — the high trail is cut into the wall of the gorge, far above the water, and you walk it between villages with somewhere to sleep at the end of each day. There is a road along the bottom for coach parties. Ignore it.\n\n02 VIKOS GORGE, Greece — the Zagori villages above it are built entirely of stone and linked by arched packhorse bridges, and the path down to the gorge floor is an old mule track. Out of season you will have the whole thing to yourself.\n\n03 BLYDE RIVER CANYON, South Africa — green, forested and wet, which is not how a canyon is meant to behave. The viewpoints on the rim road are drive-up and crowded. Walk below the rim and the crowd evaporates.\n\n04 VERDON GORGE, France — limestone walls with improbably turquoise water at the bottom, and a path along the river that involves ladders and a tunnel and a torch. Swim at the lake end when you are done with being frightened.\n\n05 CAÑÓN DEL SUMIDERO, Mexico — this one you see from below, from a boat, with the walls going straight up and crocodiles on the banks. It is not a hike and does not pretend to be, which I respect more than most viewpoints.\n\nWhich canyon did you walk into instead of looking at?",
+ "tags": [
+  "canyons",
+  "tigerleapinggorge",
+  "vikos",
+  "blydeRiverCanyon",
+  "verdon",
+  "sumidero",
+  "hiking",
+  "travelinspo",
+  "geographyfacts",
+  "worldfacts",
+  "earthbynumbers"
+ ]
 }

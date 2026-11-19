@@ -1,0 +1,996 @@
+{
+ "top5-surf": {
+  "sky": [
+   "#1B3A4B",
+   "#6E93A6"
+  ],
+  "planes": [
+   "#8FAFBD",
+   "#5c7c88",
+   "#38535c",
+   "#24444f",
+   "#0E2430"
+  ],
+  "accent": "#D9E6EA"
+ },
+ "spot-portugal": {
+  "sky": [
+   "#2A4C63",
+   "#9FBECA"
+  ],
+  "planes": [
+   "#B6CBD2",
+   "#a49680",
+   "#81674b",
+   "#6c563b",
+   "#152B36"
+  ],
+  "accent": "#E8A33F"
+ },
+ "new-zealand-crazy": {
+  "sky": [
+   "#1E3C4F",
+   "#88AEBC"
+  ],
+  "planes": [
+   "#9DBDC4",
+   "#688986",
+   "#425d56",
+   "#2e4c47",
+   "#12272F"
+  ],
+  "accent": "#7FD1C0"
+ },
+ "mexico-crazy": {
+  "sky": [
+   "#2B4A5E",
+   "#A7C4C6"
+  ],
+  "planes": [
+   "#BCD2CE",
+   "#a79b83",
+   "#826b4f",
+   "#6d573d",
+   "#17292F"
+  ],
+  "accent": "#F0B24A"
+ },
+ "greece-crazy": {
+  "sky": [
+   "#23496B",
+   "#A9C6DA"
+  ],
+  "planes": [
+   "#C2D6E0",
+   "#a8a698",
+   "#817762",
+   "#68634e",
+   "#13262F"
+  ],
+  "accent": "#EFC25C"
+ },
+ "spot-albania": {
+  "sky": [
+   "#245067",
+   "#A2C3CF"
+  ],
+  "planes": [
+   "#B9D1D6",
+   "#9f9988",
+   "#7a6952",
+   "#645641",
+   "#142A33"
+  ],
+  "accent": "#E8A34A"
+ },
+ "spot-sri-lanka": {
+  "sky": [
+   "#1F4A55",
+   "#9CC3BC"
+  ],
+  "planes": [
+   "#B3D2C6",
+   "#a3997b",
+   "#816848",
+   "#6b5536",
+   "#13282A"
+  ],
+  "accent": "#F0B449"
+ },
+ "top5-ancient-cities": {
+  "sky": [
+   "#2E4A5C",
+   "#C2BC9E"
+  ],
+  "planes": [
+   "#D2CBA8",
+   "#ab9a74",
+   "#7f6c4c",
+   "#6d5839",
+   "#2A2419"
+  ],
+  "accent": "#E4B75A"
+ },
+ "spot-slovenia": {
+  "sky": [
+   "#20405C",
+   "#9FBBCE"
+  ],
+  "planes": [
+   "#B9CCD8",
+   "#7c908e",
+   "#4f6058",
+   "#374c45",
+   "#15272F"
+  ],
+  "accent": "#8FD0B6"
+ },
+ "spot-bhutan": {
+  "sky": [
+   "#1C3A5A",
+   "#A7BFD2"
+  ],
+  "planes": [
+   "#C1D1DA",
+   "#968c84",
+   "#6d5a4b",
+   "#554437",
+   "#15242E"
+  ],
+  "accent": "#E0A557"
+ },
+ "kyrgyzstan-crazy": {
+  "sky": [
+   "#23415C",
+   "#A9BECB"
+  ],
+  "planes": [
+   "#C3CFD4",
+   "#939184",
+   "#68614e",
+   "#514c3a",
+   "#1A262C"
+  ],
+  "accent": "#DCBB63"
+ },
+ "spot-ethiopia": {
+  "sky": [
+   "#2C4256",
+   "#B9B193"
+  ],
+  "planes": [
+   "#CBC3A2",
+   "#a1825f",
+   "#755234",
+   "#613b20",
+   "#241C17"
+  ],
+  "accent": "#E08A3C"
+ },
+ "spot-armenia": {
+  "sky": [
+   "#2A4258",
+   "#B3B49F"
+  ],
+  "planes": [
+   "#C6C4AA",
+   "#9b8369",
+   "#70533e",
+   "#5c3d2b",
+   "#221E1C"
+  ],
+  "accent": "#E09A4E"
+ },
+ "spot-taiwan": {
+  "sky": [
+   "#1D3D52",
+   "#9FC0C0"
+  ],
+  "planes": [
+   "#B6D0CA",
+   "#7b9283",
+   "#4f6151",
+   "#364c3f",
+   "#12262A"
+  ],
+  "accent": "#8FCBA4"
+ },
+ "top5-treks": {
+  "sky": [
+   "#1B3858",
+   "#AEC4D6"
+  ],
+  "planes": [
+   "#C6D4DD",
+   "#94948a",
+   "#676152",
+   "#4d493b",
+   "#141F28"
+  ],
+  "accent": "#D8B468"
+ },
+ "top5-ski-towns": {
+  "sky": [
+   "#213E5C",
+   "#BCCBD8"
+  ],
+  "planes": [
+   "#D2DBE1",
+   "#8c959e",
+   "#596069",
+   "#3e4652",
+   "#171F27"
+  ],
+  "accent": "#9FC2E0"
+ },
+ "top5-libraries": {
+  "sky": [
+   "#27405A",
+   "#A8BCC9"
+  ],
+  "planes": [
+   "#C0CCD2",
+   "#999485",
+   "#706450",
+   "#5a4f3c",
+   "#1A222A"
+  ],
+  "accent": "#DEB066"
+ },
+ "spot-ecuador": {
+  "sky": [
+   "#1E3752",
+   "#A9BDCC"
+  ],
+  "planes": [
+   "#C3CED6",
+   "#988881",
+   "#6d564a",
+   "#563f34",
+   "#16222A"
+  ],
+  "accent": "#E29455"
+ },
+ "netherlands-crazy": {
+  "sky": [
+   "#1D4457",
+   "#9BC0BD"
+  ],
+  "planes": [
+   "#B2CEC3",
+   "#7e9681",
+   "#556851",
+   "#3e5440",
+   "#13262A"
+  ],
+  "accent": "#9ED49B"
+ },
+ "top5-volcanoes": {
+  "sky": [
+   "#2A2E40",
+   "#8C7F82"
+  ],
+  "planes": [
+   "#A08E8A",
+   "#8a6453",
+   "#6b4230",
+   "#5b3221",
+   "#1A1518"
+  ],
+  "accent": "#F07438"
+ },
+ "top5-temples": {
+  "sky": [
+   "#24415A",
+   "#A8B9A6"
+  ],
+  "planes": [
+   "#BECBAE",
+   "#968d6d",
+   "#6c5c41",
+   "#57472d",
+   "#1B2219"
+  ],
+  "accent": "#DDA852"
+ },
+ "spot-estonia": {
+  "sky": [
+   "#26485F",
+   "#A8C2CC"
+  ],
+  "planes": [
+   "#BFD2D5",
+   "#90998a",
+   "#666856",
+   "#4e5544",
+   "#172830"
+  ],
+  "accent": "#D4C472"
+ },
+ "nauru-crazy": {
+  "sky": [
+   "#1C4659",
+   "#8EC0C2"
+  ],
+  "planes": [
+   "#A9D0C8",
+   "#93977f",
+   "#72684d",
+   "#5e543a",
+   "#122529"
+  ],
+  "accent": "#EDBB55"
+ },
+ "top5-diving": {
+  "sky": [
+   "#17465C",
+   "#7FC2C6"
+  ],
+  "planes": [
+   "#9BD2CB",
+   "#67998c",
+   "#42685c",
+   "#2d544a",
+   "#0F252A"
+  ],
+  "accent": "#64D6B4"
+ },
+ "djibouti-crazy": {
+  "sky": [
+   "#315064",
+   "#D3C9B0"
+  ],
+  "planes": [
+   "#E0D6BB",
+   "#b49d79",
+   "#846c4b",
+   "#705534",
+   "#2B2318"
+  ],
+  "accent": "#F0BE52"
+ },
+ "spot-uzbekistan": {
+  "sky": [
+   "#2C4A66",
+   "#CFBE9C"
+  ],
+  "planes": [
+   "#DCC9A4",
+   "#af956d",
+   "#806745",
+   "#6c5232",
+   "#2A2015"
+  ],
+  "accent": "#E7B351"
+ },
+ "top5-deserts": {
+  "sky": [
+   "#35405C",
+   "#C9A882"
+  ],
+  "planes": [
+   "#D8B88D",
+   "#aa8056",
+   "#7b5432",
+   "#684021",
+   "#2A1C14"
+  ],
+  "accent": "#EE9A3F"
+ },
+ "spot-jordan": {
+  "sky": [
+   "#2F4860",
+   "#D0B99C"
+  ],
+  "planes": [
+   "#DCC6A6",
+   "#ae8966",
+   "#7e5a3b",
+   "#6a4428",
+   "#2A1E18"
+  ],
+  "accent": "#EC9D45"
+ },
+ "top5-trains": {
+  "sky": [
+   "#243E58",
+   "#A9B8AE"
+  ],
+  "planes": [
+   "#BEC6B6",
+   "#908d76",
+   "#655e49",
+   "#4f4a32",
+   "#1A2019"
+  ],
+  "accent": "#D4B265"
+ },
+ "china-crazy": {
+  "sky": [
+   "#2A4058",
+   "#B6B49A"
+  ],
+  "planes": [
+   "#C8C3A4",
+   "#9f8865",
+   "#74593b",
+   "#5e4327",
+   "#1F1C17"
+  ],
+  "accent": "#E29A45"
+ },
+ "kazakhstan-crazy": {
+  "sky": [
+   "#2B4259",
+   "#B2B9A4"
+  ],
+  "planes": [
+   "#C5C6AD",
+   "#999072",
+   "#6e6347",
+   "#584f32",
+   "#1E2219"
+  ],
+  "accent": "#DCB862"
+ },
+ "france-crazy": {
+  "sky": [
+   "#1F3C46",
+   "#8FAE92"
+  ],
+  "planes": [
+   "#A6C0A0",
+   "#79906a",
+   "#536543",
+   "#3e5132",
+   "#12201A"
+  ],
+  "accent": "#A8D46A"
+ },
+ "suriname-crazy": {
+  "sky": [
+   "#1D3A42",
+   "#8AAA8C"
+  ],
+  "planes": [
+   "#A2BD9A",
+   "#768f66",
+   "#516441",
+   "#3b5131",
+   "#11201A"
+  ],
+  "accent": "#A4D468"
+ },
+ "spot-colombia": {
+  "sky": [
+   "#1E3E4A",
+   "#90B296"
+  ],
+  "planes": [
+   "#A8C4A2",
+   "#7a946b",
+   "#546843",
+   "#3e5432",
+   "#12221C"
+  ],
+  "accent": "#AAD86C"
+ },
+ "papua-new-guinea-crazy": {
+  "sky": [
+   "#1C3A44",
+   "#88A88E"
+  ],
+  "planes": [
+   "#A0BC9A",
+   "#758f69",
+   "#506443",
+   "#3b5133",
+   "#11201B"
+  ],
+  "accent": "#A2D070"
+ },
+ "spot-laos": {
+  "sky": [
+   "#20404C",
+   "#93B296"
+  ],
+  "planes": [
+   "#AAC49E",
+   "#7f9269",
+   "#596642",
+   "#445232",
+   "#13221B"
+  ],
+  "accent": "#C2D46A"
+ },
+ "top5-hot-springs": {
+  "sky": [
+   "#223E52",
+   "#A4BCB4"
+  ],
+  "planes": [
+   "#BACBBE",
+   "#839385",
+   "#566458",
+   "#3f4f45",
+   "#162222"
+  ],
+  "accent": "#9CCBB0"
+ },
+ "top5-national-parks": {
+  "sky": [
+   "#1D3C48",
+   "#8CB094"
+  ],
+  "planes": [
+   "#A4C29E",
+   "#78926a",
+   "#526643",
+   "#3c5332",
+   "#11211B"
+  ],
+  "accent": "#A6D46E"
+ },
+ "madagascar-crazy": {
+  "sky": [
+   "#2B4356",
+   "#C4AE8E"
+  ],
+  "planes": [
+   "#D2BC96",
+   "#a9845f",
+   "#7c5839",
+   "#694328",
+   "#271C16"
+  ],
+  "accent": "#EFA047"
+ },
+ "top5-safaris": {
+  "sky": [
+   "#2E4556",
+   "#C6B18C"
+  ],
+  "planes": [
+   "#D4BE94",
+   "#a9895e",
+   "#7b5d39",
+   "#674828",
+   "#261D15"
+  ],
+  "accent": "#EDA848"
+ },
+ "spot-tanzania": {
+  "sky": [
+   "#2C4458",
+   "#C0B48E"
+  ],
+  "planes": [
+   "#CFBF96",
+   "#a48a5f",
+   "#785e3a",
+   "#644928",
+   "#241D16"
+  ],
+  "accent": "#E8A44A"
+ },
+ "south-africa-crazy": {
+  "sky": [
+   "#2D4659",
+   "#C2B390"
+  ],
+  "planes": [
+   "#D0BE98",
+   "#a48961",
+   "#775d3b",
+   "#63492a",
+   "#251E17"
+  ],
+  "accent": "#E6A24C"
+ },
+ "finland-crazy": {
+  "sky": [
+   "#22435E",
+   "#A6C0CE"
+  ],
+  "planes": [
+   "#BED0D6",
+   "#7e918b",
+   "#506056",
+   "#374c44",
+   "#152630"
+  ],
+  "accent": "#8CC8A8"
+ },
+ "bolivia-crazy": {
+  "sky": [
+   "#1C3C62",
+   "#A4BED6"
+  ],
+  "planes": [
+   "#BCD0DC",
+   "#959186",
+   "#6c604e",
+   "#554b3a",
+   "#142430"
+  ],
+  "accent": "#DCB265"
+ },
+ "top5-lakes": {
+  "sky": [
+   "#1F3F5C",
+   "#A2BECC"
+  ],
+  "planes": [
+   "#BACED4",
+   "#87958a",
+   "#5c6554",
+   "#445143",
+   "#142630"
+  ],
+  "accent": "#B4CC84"
+ },
+ "top5-castles": {
+  "sky": [
+   "#263F58",
+   "#AEBCC4"
+  ],
+  "planes": [
+   "#C4CBCC",
+   "#98897e",
+   "#6e5849",
+   "#574336",
+   "#1B222A"
+  ],
+  "accent": "#D89C5C"
+ },
+ "spot-montenegro": {
+  "sky": [
+   "#1F3E58",
+   "#9EBAC8"
+  ],
+  "planes": [
+   "#B6CBD0",
+   "#879688",
+   "#5e6755",
+   "#465444",
+   "#132530"
+  ],
+  "accent": "#BCCC82"
+ },
+ "top5-ferries": {
+  "sky": [
+   "#1D3A56",
+   "#A4BCCE"
+  ],
+  "planes": [
+   "#BCCCD6",
+   "#7e8d98",
+   "#4f5d66",
+   "#364753",
+   "#13222C"
+  ],
+  "accent": "#92BEDC"
+ },
+ "spot-botswana": {
+  "sky": [
+   "#2A4858",
+   "#B6BE98"
+  ],
+  "planes": [
+   "#C6C9A2",
+   "#99956b",
+   "#6e6743",
+   "#585231",
+   "#1D2218"
+  ],
+  "accent": "#D6BC64"
+ },
+ "turkey-crazy": {
+  "sky": [
+   "#25425C",
+   "#AEC0CA"
+  ],
+  "planes": [
+   "#C4CDD0",
+   "#9c9281",
+   "#72634b",
+   "#5a4d38",
+   "#18222A"
+  ],
+  "accent": "#E0AE5C"
+ },
+ "spot-panama": {
+  "sky": [
+   "#1F4050",
+   "#95B6A6"
+  ],
+  "planes": [
+   "#ACC6AC",
+   "#819372",
+   "#5a6647",
+   "#445234",
+   "#13221C"
+  ],
+  "accent": "#BCD06E"
+ },
+ "denmark-crazy": {
+  "sky": [
+   "#1E3E5E",
+   "#BCCEDC"
+  ],
+  "planes": [
+   "#D2DCE2",
+   "#8c98a3",
+   "#59646f",
+   "#3d4c5a",
+   "#16222C"
+  ],
+  "accent": "#9CC0E2"
+ },
+ "norway-crazy": {
+  "sky": [
+   "#1C3A58",
+   "#B4C8D8"
+  ],
+  "planes": [
+   "#CCD8E0",
+   "#8793a0",
+   "#555f6c",
+   "#3a4656",
+   "#15202A"
+  ],
+  "accent": "#94B8DC"
+ },
+ "russia-crazy": {
+  "sky": [
+   "#1F3C5A",
+   "#B8CAD8"
+  ],
+  "planes": [
+   "#CEDAE0",
+   "#8c97a2",
+   "#5a636e",
+   "#3f4a57",
+   "#161F28"
+  ],
+  "accent": "#A0BEDC"
+ },
+ "top5-fjords": {
+  "sky": [
+   "#1B3A5A",
+   "#AEC6D8"
+  ],
+  "planes": [
+   "#C6D6E0",
+   "#82919e",
+   "#515e6a",
+   "#374454",
+   "#141E28"
+  ],
+  "accent": "#90B6D8"
+ },
+ "top5-glaciers": {
+  "sky": [
+   "#1D3C5C",
+   "#B2C8DA"
+  ],
+  "planes": [
+   "#C8D8E2",
+   "#8493a2",
+   "#525f6e",
+   "#384657",
+   "#151F2A"
+  ],
+  "accent": "#94BADE"
+ },
+ "oman-crazy": {
+  "sky": [
+   "#2F4A5E",
+   "#C8B89A"
+  ],
+  "planes": [
+   "#D6C5A4",
+   "#aa8f6b",
+   "#7c6141",
+   "#694c2e",
+   "#2A2017"
+  ],
+  "accent": "#E8AC50"
+ },
+ "top5-canyons": {
+  "sky": [
+   "#28445A",
+   "#B4B498"
+  ],
+  "planes": [
+   "#C6C4A4",
+   "#998a67",
+   "#6e5b3d",
+   "#5a452a",
+   "#211D17"
+  ],
+  "accent": "#DCA64E"
+ },
+ "top5-waterfalls": {
+  "sky": [
+   "#1F4050",
+   "#9EB8A4"
+  ],
+  "planes": [
+   "#B4C6AA",
+   "#849370",
+   "#5b6645",
+   "#445232",
+   "#13211B"
+  ],
+  "accent": "#BCD06C"
+ },
+ "top5-bridges": {
+  "sky": [
+   "#26445C",
+   "#AEBEC2"
+  ],
+  "planes": [
+   "#C4CCC8",
+   "#949481",
+   "#68644f",
+   "#514f3b",
+   "#1A2228"
+  ],
+  "accent": "#D0B468"
+ },
+ "top5-cable-cars": {
+  "sky": [
+   "#2A4258",
+   "#B2B49C"
+  ],
+  "planes": [
+   "#C4C3A6",
+   "#98896a",
+   "#6e5b40",
+   "#59452c",
+   "#1F1E18"
+  ],
+  "accent": "#DCA852"
+ },
+ "top5-monasteries": {
+  "sky": [
+   "#2A4458",
+   "#B6B69C"
+  ],
+  "planes": [
+   "#C8C6A6",
+   "#9d8d6a",
+   "#715e40",
+   "#5c492c",
+   "#201F18"
+  ],
+  "accent": "#E0A852"
+ },
+ "top5-caves": {
+  "sky": [
+   "#1E3C4A",
+   "#94B096"
+  ],
+  "planes": [
+   "#AAC09E",
+   "#7e9069",
+   "#566442",
+   "#415032",
+   "#12201A"
+  ],
+  "accent": "#B4CC68"
+ },
+ "spot-vietnam": {
+  "sky": [
+   "#1F3E4C",
+   "#96B894"
+  ],
+  "planes": [
+   "#ACC89C",
+   "#809668",
+   "#596a42",
+   "#445532",
+   "#13221A"
+  ],
+  "accent": "#BCD468"
+ },
+ "spot-rwanda": {
+  "sky": [
+   "#254250",
+   "#A4B892"
+  ],
+  "planes": [
+   "#B8C69A",
+   "#918961",
+   "#6a5a3a",
+   "#564428",
+   "#1E2117"
+  ],
+  "accent": "#D2A24C"
+ },
+ "top5-wine-regions": {
+  "sky": [
+   "#2A4458",
+   "#B8B492"
+  ],
+  "planes": [
+   "#C8C39C",
+   "#9e8861",
+   "#735939",
+   "#5f4427",
+   "#231E16"
+  ],
+  "accent": "#E29E48"
+ },
+ "top5-tea-regions": {
+  "sky": [
+   "#213E4C",
+   "#9CBA9A"
+  ],
+  "planes": [
+   "#B2C8A0",
+   "#84966b",
+   "#5c6a43",
+   "#455532",
+   "#14221A"
+  ],
+  "accent": "#BED46A"
+ },
+ "top5-markets": {
+  "sky": [
+   "#27425A",
+   "#B4BEC0"
+  ],
+  "planes": [
+   "#C6CAC6",
+   "#9d907b",
+   "#736149",
+   "#5c4c35",
+   "#1A2026"
+  ],
+  "accent": "#E0AC58"
+ },
+ "top5-museums": {
+  "sky": [
+   "#2A445A",
+   "#BCBAA4"
+  ],
+  "planes": [
+   "#CCC6AC",
+   "#a28d6d",
+   "#755e42",
+   "#5f492d",
+   "#1E1E18"
+  ],
+  "accent": "#E8A450"
+ },
+ "spot-romania": {
+  "sky": [
+   "#28425A",
+   "#B2BCC0"
+  ],
+  "planes": [
+   "#C4C8C6",
+   "#98907e",
+   "#6e634b",
+   "#564d38",
+   "#1A2026"
+  ],
+  "accent": "#D6B062"
+ },
+ "singapore-crazy": {
+  "sky": [
+   "#1E4056",
+   "#A4C0C4"
+  ],
+  "planes": [
+   "#BACECA",
+   "#83968b",
+   "#56685a",
+   "#3f5348",
+   "#142428"
+  ],
+  "accent": "#9CD0AE"
+ }
+}

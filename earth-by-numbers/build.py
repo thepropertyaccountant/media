@@ -17,6 +17,8 @@ import pathlib
 import subprocess
 import sys
 
+import cover
+
 ROOT = pathlib.Path(__file__).resolve().parent
 IMG = ROOT / "img"
 WORK = ROOT / ".work"
@@ -118,6 +120,8 @@ h1,h2{font-family:"Archivo Black",sans-serif;font-weight:400;
 .handle{font-family:"Space Mono",monospace;font-size:36px;letter-spacing:.02em;color:var(--sea)}
 .hr{border-top:5px solid var(--sea);margin-top:64px;padding-top:44px}
 """
+
+CSS += cover.POSTER_CSS          # added, not edited: see BUILD.md "Covers"
 
 BRAND = "Earth by Numbers"
 HANDLE = "@earth_by_numbers"
@@ -299,6 +303,7 @@ BUILDERS = {
     "fact": slide_fact,
     "signoff": slide_signoff,
     "card": slide_card,
+    "poster": cover.slide_poster,
 }
 
 

@@ -73,6 +73,7 @@ Write new posts into `content/<slug>.json`, then:
 python3 posts_<x>.py      # if you added a generator file
 python3 build.py --all    # renders content/*.json -> img/*.jpg
 python3 make_queue.py     # appends as approved=false
+python3 make_covers.py --all   # turns each new slide 1 into a poster cover
 ```
 
 New posts land **unapproved**. The posting task skips them. Felix approves by
@@ -185,7 +186,9 @@ overflow and collisions are invisible until you look at the image.
 ### Design rules
 
 1080 × 1350 (4:5, Instagram's tallest feed ratio). Do not edit the CSS in
-`build.py` — add content, not styles.
+`build.py` — add content, not styles. Cover styles are the one exception and
+they live in `cover.py`, appended to `CSS` rather than edited into it. See
+section 7.
 
 - Alternate light (`bg: ""`) and dark (`bg: "ink"`) backgrounds for rhythm.
   Never three of the same in a row. `sun` (amber) is for one punch slide per
@@ -196,8 +199,13 @@ overflow and collisions are invisible until you look at the image.
   thing on it (`bignum`).
 - Put the source on any slide carrying a figure.
 
-Slide types: `hook`, `ledger`, `bignum`, `rank`, `items`, `fact`, `card`,
-`signoff`. See the builders in `build.py` for each one's fields.
+Slide types: `poster`, `hook`, `ledger`, `bignum`, `rank`, `items`, `fact`,
+`card`, `signoff`. See the builders in `build.py` for each one's fields —
+`poster` lives in `cover.py`.
+
+**Slide 1 of every post is a `poster`.** `hook` is the old cover and is kept
+only so `make_covers.py --force` can re-derive a cover from the original
+wording. Do not write a new post with a `hook` slide 1 expecting it to ship.
 
 ---
 
@@ -206,3 +214,102 @@ Slide types: `hook`, `ledger`, `bignum`, `rank`, `items`, `fact`, `card`,
 Selling the account outright breaches Meta's terms. Brand partnerships and an
 info-product are the realistic routes, and both need real followers first.
 Nothing in this pipeline should compromise accuracy to chase a number.
+
+
+---
+
+## 7. Covers
+
+Felix asked for this on 19 November 2026: every post's cover should set the
+scene with an illustration, with the contentious headline still doing the
+talking. `cover.py` builds it, `make_covers.py` converts posts to it.
+
+### What a cover is
+
+Top 920px is a flat-vector landscape, built as 4–6 stacked planes whose
+lightness steps monotonically back to front, so depth reads with no outlines.
+Bottom 430px is a dark type band: kicker and region label, then the hook in
+Instrument Serif, a hairline, and three stats. `01` and a short rule sit at the
+illustration's top-left, the brand mark top-right.
+
+The docstring at the top of `cover.py` is the full specification, including why
+the band is 430px rather than the brief's 340px and why label sizes are scaled
+up from it. Read that before changing any of it.
+
+### Converting
+
+```bash
+python3 make_covers.py --list         # what is still on the old hook cover
+python3 make_covers.py --all          # convert every unposted post
+python3 make_covers.py --limit 12     # convert the next 12 only
+python3 make_covers.py --force        # re-derive covers after changing cover.py
+python3 build.py --all                # then re-render
+```
+
+**This is resumable and has no progress file.** A post whose slide 1 is `hook`
+has not been converted; one whose slide 1 is `poster` has. So a run that stops
+part way — on usage, on anything — is picked up by the next run with `--limit`,
+and nothing can get out of step with the repo. `--all` only touches unposted
+posts; posts already on Instagram keep the covers they went out with.
+
+`--force` rebuilds from each cover's stored `was_hook`, never from the cover
+it is replacing, so it is idempotent however many times it runs.
+
+### What a human chooses, and what is derived
+
+Per post, exactly three choices, in the `POSTERS` table in `make_covers.py`:
+the archetype, the palette anchors, and the one human-scale element. Colours
+come from the subject — Atlantic greys for Nazaré, laterite reds for Rwanda,
+basalt and ash for Yasur — never from a shared palette.
+
+Everything else is read out of the post's own slides. The hook is slide 1's
+existing title. The stats come from the post's `bignum` slides (crazy) or its
+`ledger` rows (spotlight). **No figure is ever typed into a cover.**
+
+Where a `crazy` post carries fewer than three figures of its own, the gap is
+filled from the mledoze/countries dataset — the source section 4 sanctions —
+and never with a value the post already states. Two fills are blocked by hand
+in `FILL_SKIP`, because the dataset contradicts the post's own headline: Nauru
+has no capital city, which is that post's whole hook, and South Africa has
+three. **The dataset's `borders` field is never used as a fill**, for the China
+reason recorded in section 4: it counts Hong Kong and Macau, and a figure that
+needs a caveat cannot live in a three-word stat column.
+
+### Decisions already taken — do not quietly reverse them
+
+- **The hook is the display line**, not the place name. The place name is the
+  kicker above it. A 26px kicker cannot carry a fight, and the fight is the
+  point of slide 1.
+- **Top 5 covers illustrate the No. 1 pick** (Felix, 19 Nov 2026, choosing it
+  over an adapted variant). It does move the reveal onto the cover; the
+  contentious line still runs in the display serif so slide 1 still picks the
+  fight. Top 5 stat columns state no figures at all — a Top 5 is opinion, and
+  section 4's rule stands.
+- **The old `sub` twist line is not on the cover.** There is no room for it
+  beside two lines of display serif and the stat grid. It is not lost: every
+  caption opens with the hook and then the twist, and slide 2 carries detail.
+- **The hook is sized to two lines, never three.** `disp_size()` explains why:
+  three lines only fits when every stat label is short, and a cover that clips
+  its headline on the one post with long labels is not a system.
+
+### Adding an archetype
+
+`ARCHETYPES` in `cover.py` maps a name to a function returning the
+illustration's SVG. Keep to the depth rules in that file's docstring: flat
+fills only, monotonic lightness, one haze band per junction, a lit face and a
+shadow face on every major form, exactly one human-scale element.
+
+Two traps, both already paid for:
+
+- **Do not take water from the plane ramp.** The ramp's middle planes carry the
+  warm family, so a sea drawn from `planes[1]` comes out sand-coloured and the
+  headlands read as boxes in a desert. Derive water from the sky instead, as
+  `a_coast_cliff` and `a_fjord` do.
+- **Nothing is drawn with a gradient except sky, haze and light sources.** The
+  volcano had an ash plume; as a flat shape it reads as a chimney stack on the
+  summit, and there is no honest way to make it a gradient. It was removed.
+
+**Look at every cover with the Read tool before pushing.** A contact sheet of
+all of them at 252px is enough to catch a broken archetype; the ones that look
+wrong get opened full size. That is how the coast, fjord and volcano faults
+above were all found.

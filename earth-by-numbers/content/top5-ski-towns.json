@@ -1,72 +1,95 @@
 {
-  "slug": "top5-ski-towns",
-  "kind": "top5",
-  "slides": [
-    {
-      "type": "hook",
-      "title": "Aspen is a<br>shopping centre<br>with a chairlift.",
-      "sub": "Opinion. Five places to ski where lunch is not a mortgage.",
-      "size": "h-md"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 1",
-      "rank": "01",
-      "place": "Myoko Kogen",
-      "where": "Niigata, Japan",
-      "note": "Snow in quantities that stop being funny, old onsen hotels, and trees to ski between. Nozawa takes the crowds. This does not.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 2",
-      "rank": "02",
-      "place": "Bansko",
-      "where": "Blagoevgrad, Bulgaria",
-      "note": "A gondola out of a real working town with the Pirin behind it, and an après scene that is cheap and unembarrassed. The lift queues are the price you pay.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 3",
-      "rank": "03",
-      "place": "Gudauri",
-      "where": "Mtskheta-Mtianeti, Georgia",
-      "note": "Treeless, wide open and built for touring off the back of the lifts. Drive up the military highway, stop for khinkali, let the weather decide the rest.",
-      "bg": ""
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 4",
-      "rank": "04",
-      "place": "Jasná",
-      "where": "Liptov, Slovakia",
-      "note": "Both sides of a proper mountain, lifts that work, and the Tatras looking far more serious than the lift pass suggests.",
-      "bg": "ink"
-    },
-    {
-      "type": "rank",
-      "kicker": "No. 5",
-      "rank": "05",
-      "place": "Las Leñas",
-      "where": "Mendoza, Argentina",
-      "note": "Steep, remote, and open when the northern hemisphere is not. Marte is the lift everybody comes for and it is shut more often than it runs.",
-      "bg": "",
-      "handle": true
-    }
-  ],
-  "caption": "Aspen is a retail experience with snow around it. The skiing is good. So is the skiing in a hundred places where a sandwich does not cost what a lift pass should, and where the village was there before the marketing was.\n\nFive of them. Opinion.\n\n01 MYOKO KOGEN, Japan — snow arrives here in volumes that become slightly absurd, and the resorts are old, unpolished and built around onsen rather than boutiques. Nozawa and Hakuba absorb the foreign crowd. This sits quietly next door with the same weather.\n\n02 BANSKO, Bulgaria — a gondola that leaves from an actual town with an actual old quarter, the Pirin mountains behind it, and an evening scene that is cheap and entirely unembarrassed about it. The morning lift queue is the trade-off and it is a real one.\n\n03 GUDAURI, Georgia — above the treeline, wide open, and the best lift-served touring terrain on this list. You get there up the military highway, which is an experience in itself, and you eat khinkali at the end of the day. Weather closes it regularly.\n\n04 JASNÁ, Slovakia — both faces of a serious mountain, a lift system that works properly, and the Tatras looking considerably more alpine than the price of the pass implies. The most underrated skiing in Europe, and I will take the arguments.\n\n05 LAS LEÑAS, Argentina — steep, remote and running in the northern summer. The upper mountain is the reason to come and the lift that serves it spends a lot of the season on wind hold. Go anyway.\n\nWhich resort gave you better skiing than the one with the reputation?",
-  "tags": [
-    "skiing",
-    "japow",
-    "bansko",
-    "gudauri",
-    "jasna",
-    "laslenas",
-    "snowboarding",
-    "wintertravel",
-    "travelinspo",
-    "worldfacts",
-    "earthbynumbers"
-  ]
+ "slug": "top5-ski-towns",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-ski-towns",
+   "archetype": "mountains",
+   "palette": "top5-ski-towns",
+   "element": "hut",
+   "kicker": "MYOKO KOGEN",
+   "region": "Niigata / Japan",
+   "hook": "Aspen is a shopping centre with a chairlift.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "01",
+     "illustrated above"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "Aspen is a<br>shopping centre<br>with a chairlift.",
+    "sub": "Opinion. Five places to ski where lunch is not a mortgage.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Myoko Kogen",
+   "where": "Niigata, Japan",
+   "note": "Snow in quantities that stop being funny, old onsen hotels, and trees to ski between. Nozawa takes the crowds. This does not.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Bansko",
+   "where": "Blagoevgrad, Bulgaria",
+   "note": "A gondola out of a real working town with the Pirin behind it, and an après scene that is cheap and unembarrassed. The lift queues are the price you pay.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Gudauri",
+   "where": "Mtskheta-Mtianeti, Georgia",
+   "note": "Treeless, wide open and built for touring off the back of the lifts. Drive up the military highway, stop for khinkali, let the weather decide the rest.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Jasná",
+   "where": "Liptov, Slovakia",
+   "note": "Both sides of a proper mountain, lifts that work, and the Tatras looking far more serious than the lift pass suggests.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Las Leñas",
+   "where": "Mendoza, Argentina",
+   "note": "Steep, remote, and open when the northern hemisphere is not. Marte is the lift everybody comes for and it is shut more often than it runs.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "Aspen is a retail experience with snow around it. The skiing is good. So is the skiing in a hundred places where a sandwich does not cost what a lift pass should, and where the village was there before the marketing was.\n\nFive of them. Opinion.\n\n01 MYOKO KOGEN, Japan — snow arrives here in volumes that become slightly absurd, and the resorts are old, unpolished and built around onsen rather than boutiques. Nozawa and Hakuba absorb the foreign crowd. This sits quietly next door with the same weather.\n\n02 BANSKO, Bulgaria — a gondola that leaves from an actual town with an actual old quarter, the Pirin mountains behind it, and an evening scene that is cheap and entirely unembarrassed about it. The morning lift queue is the trade-off and it is a real one.\n\n03 GUDAURI, Georgia — above the treeline, wide open, and the best lift-served touring terrain on this list. You get there up the military highway, which is an experience in itself, and you eat khinkali at the end of the day. Weather closes it regularly.\n\n04 JASNÁ, Slovakia — both faces of a serious mountain, a lift system that works properly, and the Tatras looking considerably more alpine than the price of the pass implies. The most underrated skiing in Europe, and I will take the arguments.\n\n05 LAS LEÑAS, Argentina — steep, remote and running in the northern summer. The upper mountain is the reason to come and the lift that serves it spends a lot of the season on wind hold. Go anyway.\n\nWhich resort gave you better skiing than the one with the reputation?",
+ "tags": [
+  "skiing",
+  "japow",
+  "bansko",
+  "gudauri",
+  "jasna",
+  "laslenas",
+  "snowboarding",
+  "wintertravel",
+  "travelinspo",
+  "worldfacts",
+  "earthbynumbers"
+ ]
 }
