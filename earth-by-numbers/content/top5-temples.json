@@ -8,17 +8,13 @@
    "archetype": "volcano",
    "palette": "top5-temples",
    "element": "stupa",
-   "kicker": "BOROBUDUR",
-   "region": "Central Java / Indonesia",
+   "kicker": "TEMPLES",
+   "region": "Top 5 / Opinion",
    "hook": "Angkor at sunrise is a queue.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

@@ -8,17 +8,13 @@
    "archetype": "terraces",
    "palette": "top5-tea-regions",
    "element": "hut",
-   "kicker": "WAZUKA",
-   "region": "Kyoto Prefecture / Japan",
+   "kicker": "TEA REGIONS",
+   "region": "Top 5 / Opinion",
    "hook": "Afternoon tea in London is not a tea region.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

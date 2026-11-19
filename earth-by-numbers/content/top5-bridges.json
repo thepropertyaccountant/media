@@ -8,17 +8,13 @@
    "archetype": "gorge",
    "palette": "top5-bridges",
    "element": "bridge",
-   "kicker": "MILLAU VIADUCT",
-   "region": "Aveyron / France",
+   "kicker": "BRIDGES",
+   "region": "Top 5 / Opinion",
    "hook": "Tower Bridge is a road with a gift shop in it.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

@@ -53,8 +53,29 @@ import cover
 ROOT = pathlib.Path(__file__).resolve().parent
 CONTENT = ROOT / "content"
 
-TOP5_STATS = [("05", "places ranked"), ("01", "illustrated above"),
-              ("—", "opinion, not fact")]
+# Top 5 covers carry TWO stat columns, not three, and neither states a figure
+# about any place. There is no per-post number that can honestly go here: a
+# derived "countries" count looked attractive until the lists were checked and
+# they deliberately include Hong Kong, East Greenland, Tahiti and Trinity
+# College Dublin, none of which is a sovereign country. Rather than print a
+# wrong number on 4 covers, or a meaningless one on all 28, the varying
+# information lives in the kicker — the category — where it is prominent.
+TOP5_STATS = [("05", "places ranked"), ("—", "opinion, not fact")]
+
+# The kicker for a Top 5, derived from the slug unless it reads badly.
+TOP5_CATEGORY = {
+    "surf": "Surf breaks", "trains": "Train journeys", "treks": "Long treks",
+    "ferries": "Ferry routes", "diving": "Dive sites", "caves": "Cave systems",
+    "markets": "Markets", "castles": "Castles", "deserts": "Deserts",
+    "canyons": "Canyons", "fjords": "Fjords", "volcanoes": "Volcanoes",
+    "lakes": "Lakes", "waterfalls": "Waterfalls", "museums": "Museums",
+    "safaris": "Safaris", "bridges": "Bridges", "temples": "Temples",
+    "glaciers": "Glaciers", "libraries": "Libraries",
+    "monasteries": "Monasteries", "hot-springs": "Hot springs",
+    "ancient-cities": "Ancient cities", "wine-regions": "Wine regions",
+    "ski-towns": "Ski towns", "tea-regions": "Tea regions",
+    "cable-cars": "Cable cars", "national-parks": "National parks",
+}
 
 # --------------------------------------------------------------------------
 # POSTERS — the only hand-made choices, one row per post.
@@ -400,11 +421,14 @@ def derive(spec):
                    if x.get("type") == "rank" and str(x.get("rank")) in ("01", "1")), None)
         if not r1:
             raise SystemExit(f"{slug}: top5 with no rank 01 slide")
-        kicker = flat(r1.get("place")).upper()
-        # The No. 1 pick's own `where`, not the authored label — that label
-        # names the place too, and a cover that says NAZARÉ twice looks broken.
-        region = flat(r1.get("where")) or POSTERS[slug][8]
-        region = region.replace(", ", " / ")
+        # The No. 1 pick is NOT named on the cover (Felix, 19 Nov 2026,
+        # reversing the earlier choice). Slide 1's job is to pick the fight,
+        # not to hand over the answer before anyone has swiped. The kicker is
+        # the category; the illustration still takes its landscape from the
+        # No. 1 pick, but unnamed it simply reads as the kind of place.
+        key = slug[len("top5-"):]
+        kicker = TOP5_CATEGORY.get(key, key.replace("-", " ").title()).upper()
+        region = "Top 5 / Opinion"
         stats = list(TOP5_STATS)
     elif kind == "crazy":
         nums = [x for x in slides if x.get("type") == "bignum" and x.get("number")]

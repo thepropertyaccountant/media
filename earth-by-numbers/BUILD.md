@@ -288,11 +288,21 @@ needs a caveat cannot live in a three-word stat column.
 - **The hook is the display line**, not the place name. The place name is the
   kicker above it. A 26px kicker cannot carry a fight, and the fight is the
   point of slide 1.
-- **Top 5 covers illustrate the No. 1 pick** (Felix, 19 Nov 2026, choosing it
-  over an adapted variant). It does move the reveal onto the cover; the
-  contentious line still runs in the display serif so slide 1 still picks the
-  fight. Top 5 stat columns state no figures at all — a Top 5 is opinion, and
-  section 4's rule stands.
+- **Top 5 covers never name the No. 1 pick** (Felix, 19 Nov 2026, reversing an
+  earlier decision to put it in the kicker). Slide 1's job is to pick the
+  fight, not hand over the answer before anyone has swiped. The kicker is the
+  category — SURF BREAKS, ANCIENT CITIES — from `TOP5_CATEGORY`. The
+  illustration still takes its landscape from the No. 1 pick, which is fine
+  while it is unnamed: it reads as the kind of place, not as the answer. If
+  you add an archetype for a new Top 5, choose it for the **category**, not
+  for whichever entry came first.
+- **Top 5 covers carry two stat columns, not three, and no figure about any
+  place.** A per-post "countries" count was tried and dropped: these lists
+  deliberately include Hong Kong, East Greenland, Tahiti and Trinity College
+  Dublin, so a derived count is wrong on at least four covers — section 4's
+  rule, and the same territory-counting trap as China's 16 neighbours. There
+  is no honest per-post figure for a Top 5, so the varying information is the
+  kicker instead. Do not reintroduce a third column by inventing one.
 - **The old `sub` twist line is not on the cover.** There is no room for it
   beside two lines of display serif and the stat grid, so **it has to be the
   caption's second paragraph instead** — the Portugal pattern: hook, twist,
@@ -315,6 +325,20 @@ needs a caveat cannot live in a three-word stat column.
 illustration's SVG. Keep to the depth rules in that file's docstring: flat
 fills only, monotonic lightness, one haze band per junction, a lit face and a
 shadow face on every major form, exactly one human-scale element.
+
+**Pick a far-plane profile.** Six archetypes share the `peaks()` function for
+their backmost plane, and when they all used the default sharp triangles, 32
+of 70 covers shared one silhouette. Post by post in the feed nobody notices;
+in the three-wide profile grid it reads as a template, which is the thing
+these covers exist to avoid. `peaks()` takes a `profile`: `alpine` (sharp,
+mountains), `rounded` (worn domes, forest valleys), `plateau` (flat tops,
+steppe and terraces), `tabular` (ice shelf), `ridge` (one long crest,
+lakeshores). Choose the landform the subject actually has.
+
+**Not every cover gets a sun.** `sky()` takes a `chance` (default 0.64), so
+roughly a third of covers have no light source at all. A sun on all 70 is its
+own kind of template, and an overcast fjord is a better picture than a sunny
+one. Do not force it on.
 
 Two traps, both already paid for:
 

@@ -8,17 +8,13 @@
    "archetype": "skyline",
    "palette": "top5-museums",
    "element": "dome",
-   "kicker": "MUSEO NACIONAL DE ANTROPOLOGÍA",
-   "region": "Mexico City / Mexico",
+   "kicker": "MUSEUMS",
+   "region": "Top 5 / Opinion",
    "hook": "The Louvre is a logistics exercise.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

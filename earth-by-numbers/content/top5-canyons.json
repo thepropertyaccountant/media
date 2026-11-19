@@ -8,17 +8,13 @@
    "archetype": "gorge",
    "palette": "top5-canyons",
    "element": "hut",
-   "kicker": "TIGER LEAPING GORGE",
-   "region": "Yunnan / China",
+   "kicker": "CANYONS",
+   "region": "Top 5 / Opinion",
    "hook": "You will not remember the Grand Canyon.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

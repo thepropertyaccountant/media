@@ -8,17 +8,13 @@
    "archetype": "lake",
    "palette": "top5-lakes",
    "element": "church",
-   "kicker": "LAKE OHRID",
-   "region": "North Macedonia and Albania",
+   "kicker": "LAKES",
+   "region": "Top 5 / Opinion",
    "hook": "Lake Como is a car park with a view.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

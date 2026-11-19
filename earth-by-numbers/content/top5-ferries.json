@@ -8,17 +8,13 @@
    "archetype": "fjord",
    "palette": "top5-ferries",
    "element": "boat",
-   "kicker": "HURTIGRUTEN",
-   "region": "Norway",
+   "kicker": "FERRY ROUTES",
+   "region": "Top 5 / Opinion",
    "hook": "A cruise ship is the worst way to see a coast.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

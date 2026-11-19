@@ -8,17 +8,13 @@
    "archetype": "lake",
    "palette": "top5-castles",
    "element": "tower",
-   "kicker": "MALBORK CASTLE",
-   "region": "Poland",
+   "kicker": "CASTLES",
+   "region": "Top 5 / Opinion",
    "hook": "Neuschwanstein is a fantasy, not a fortress.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

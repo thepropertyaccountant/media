@@ -8,17 +8,13 @@
    "archetype": "savanna",
    "palette": "top5-safaris",
    "element": "tent",
-   "kicker": "SOUTH LUANGWA",
-   "region": "Eastern Province / Zambia",
+   "kicker": "SAFARIS",
+   "region": "Top 5 / Opinion",
    "hook": "The Serengeti in migration season is a traffic jam.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

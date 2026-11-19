@@ -8,17 +8,13 @@
    "archetype": "ice",
    "palette": "top5-fjords",
    "element": "boat",
-   "kicker": "SCORESBY SOUND",
-   "region": "Ittoqqortoormiit / East Greenland",
+   "kicker": "FJORDS",
+   "region": "Top 5 / Opinion",
    "hook": "Geirangerfjord is a cruise terminal.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

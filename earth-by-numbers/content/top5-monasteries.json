@@ -8,17 +8,13 @@
    "archetype": "gorge",
    "palette": "top5-monasteries",
    "element": "church",
-   "kicker": "METEORA",
-   "region": "Thessaly / Greece",
+   "kicker": "MONASTERIES",
+   "region": "Top 5 / Opinion",
    "hook": "Mont-Saint-Michel is a gift shop with an abbey on top.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

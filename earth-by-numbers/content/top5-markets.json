@@ -8,17 +8,13 @@
    "archetype": "skyline",
    "palette": "top5-markets",
    "element": "dome",
-   "kicker": "GRAND BAZAAR",
-   "region": "Istanbul / Türkiye",
+   "kicker": "MARKETS",
+   "region": "Top 5 / Opinion",
    "hook": "Camden Market is a gift shop with a roof.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

@@ -50,6 +50,7 @@ poster_from_spec(), so no figure is ever retyped or invented here.
 """
 
 import json
+import math
 import pathlib
 import re
 
@@ -169,13 +170,23 @@ def ridge(rnd, y, amp, n=7, x0=-40, x1=W + 40):
     return out
 
 
-def peaks(rnd, base_y, count, lo, hi):
-    """Peaks along a baseline. Returns (polyline, apex list).
+def peaks(rnd, base_y, count, lo, hi, profile="alpine"):
+    """A far-plane skyline. Returns (polyline, apex list).
 
-    Widths vary and each apex sits anywhere from a quarter to three quarters
-    across its own segment, so the flanks are asymmetric and no two peaks are
-    the same triangle. Evenly spaced isosceles peaks read as a pattern, not a
-    range, which is the one thing a landscape must not do.
+    `profile` is what stops the set looking templated. Six archetypes use this
+    function for their backmost plane, and when they all drew the same sharp
+    triangles, 32 of 70 covers shared a silhouette — invisible post by post in
+    the feed, obvious the moment you see the profile grid. Each archetype now
+    picks the landform its subject actually has:
+
+        alpine   sharp asymmetric peaks         mountains
+        rounded  soft domes, worn down          forest valleys
+        plateau  flat tops, steep sides         steppe, terraces
+        tabular  ice shelf: vertical and flat   ice
+        ridge    one long undulating crest      lakeshores
+
+    Widths vary and apexes sit off-centre in their own segment whatever the
+    profile, so no two peaks are the same shape either.
     """
     pts = [(-40, base_y)]
     apex = []
@@ -185,12 +196,40 @@ def peaks(rnd, base_y, count, lo, hi):
     biggest = max(shares)
     for sh in shares:
         wd = total * sh
-        ax = x + wd * rnd.f(0.25, 0.75)
-        ay = base_y - rnd.f(lo, hi) * (0.68 + 0.42 * sh / biggest)
+        h = rnd.f(lo, hi) * (0.68 + 0.42 * sh / biggest)
+        ax = x + wd * rnd.f(0.3, 0.7)
+        ay = base_y - h
+
+        if profile == "rounded":
+            for k in range(1, 13):
+                tt = k / 13.0
+                pts.append((x + wd * tt,
+                            base_y - h * math.sin(math.pi * tt) ** 0.72))
+            ax, ay = x + wd * 0.5, base_y - h
+        elif profile == "plateau":
+            cap = wd * rnd.f(0.2, 0.4)
+            pts.append((ax - cap, ay + rnd.f(2, 14)))
+            pts.append((ax + cap, ay))
+        elif profile == "tabular":
+            cap = wd * rnd.f(0.28, 0.46)
+            pts.append((ax - cap, base_y))
+            pts.append((ax - cap, ay))
+            pts.append((ax + cap, ay + rnd.f(-7, 7)))
+            pts.append((ax + cap, base_y))
+        elif profile == "ridge":
+            for k in range(1, 8):
+                tt = k / 8.0
+                pts.append((x + wd * tt,
+                            base_y - h * (0.42 + 0.58 * math.sin(math.pi * tt))
+                            * rnd.f(0.82, 1.08)))
+            ax, ay = x + wd * 0.5, base_y - h * 0.82
+        else:                                        # alpine
+            pts.append((ax, ay))
+
         apex.append((ax, ay))
-        pts.append((ax, ay))
         x += wd
-        pts.append((x, base_y - rnd.f(0, 34)))
+        if profile != "tabular":
+            pts.append((x, base_y - rnd.f(0, 34)))
     pts.append((W + 40, base_y))
     return pts, apex
 
@@ -208,7 +247,7 @@ def haze(y, h, colour, op=0.22, tag="h"):
     )
 
 
-def sky(pal, rnd, light=None):
+def sky(pal, rnd, light=None, chance=0.64):
     """Sky gradient plus, optionally, one light source. The only decoration."""
     top, bot = pal["sky"]
     defs = (
@@ -218,7 +257,9 @@ def sky(pal, rnd, light=None):
         "</linearGradient>"
     )
     body = f'<rect x="0" y="0" width="{W}" height="{ART_H}" fill="url(#sky)"/>'
-    if light:
+    # Not every scene gets a sun. One on all 70 covers is itself a template,
+    # and an overcast fjord or a forest under flat light is a better picture.
+    if light and rnd.next() < chance:
         cx, cy, r = light
         # The disc carries only a hint of the accent. Straight accent gives a
         # mint-green or teal sun whenever the palette's accent is a cool one,
@@ -463,7 +504,7 @@ def a_dunes(pal, rnd, el):
 def a_steppe(pal, rnd, el):
     p = pal["planes"]
     d, b = sky(pal, rnd, (rnd.f(200, 880), rnd.f(150, 220), 26))
-    far, fapex = peaks(rnd, 560, 6, 70, 140)
+    far, fapex = peaks(rnd, 560, 6, 70, 140, "plateau")
     b += f'<path d="{fill_below(far)}" fill="{p[0]}"/>'
     for ax, ay in fapex:
         b += (f'<path d="{fill_below([(ax, ay), (ax + 70, 560)], 560)}" '
@@ -480,7 +521,7 @@ def a_steppe(pal, rnd, el):
 def a_forest_valley(pal, rnd, el):
     p = pal["planes"]
     d, b = sky(pal, rnd, (rnd.f(220, 860), rnd.f(150, 210), 24))
-    far, fapex = peaks(rnd, 540, 4, 130, 220)
+    far, fapex = peaks(rnd, 540, 4, 130, 220, "rounded")
     b += f'<path d="{fill_below(far)}" fill="{p[0]}"/>'
     for ax, ay in fapex:
         b += (f'<path d="{fill_below([(ax, ay), (ax + 100, 540)], 540)}" '
@@ -543,7 +584,7 @@ def a_fjord(pal, rnd, el):
 def a_ice(pal, rnd, el):
     p = pal["planes"]
     d, b = sky(pal, rnd, (rnd.f(200, 900), rnd.f(140, 200), 26))
-    far, fapex = peaks(rnd, 530, 5, 90, 180)
+    far, fapex = peaks(rnd, 530, 5, 90, 180, "tabular")
     b += f'<path d="{fill_below(far)}" fill="{p[0]}"/>'
     for ax, ay in fapex:
         b += (f'<path d="{fill_below([(ax, ay), (ax + 80, 530)], 530)}" '
@@ -703,7 +744,7 @@ def a_savanna(pal, rnd, el):
 def a_terraces(pal, rnd, el):
     p = pal["planes"]
     d, b = sky(pal, rnd, (rnd.f(220, 860), rnd.f(150, 220), 24))
-    far, fapex = peaks(rnd, 520, 4, 110, 190)
+    far, fapex = peaks(rnd, 520, 4, 110, 190, "plateau")
     b += f'<path d="{fill_below(far)}" fill="{p[0]}"/>'
     for ax, ay in fapex:
         b += (f'<path d="{fill_below([(ax, ay), (ax + 90, 520)], 520)}" '
@@ -754,7 +795,7 @@ def a_gorge(pal, rnd, el):
 def a_lake(pal, rnd, el):
     p = pal["planes"]
     d, b = sky(pal, rnd, (rnd.f(220, 860), rnd.f(150, 220), 26))
-    far, fapex = peaks(rnd, 560, 5, 120, 210)
+    far, fapex = peaks(rnd, 560, 5, 120, 210, "ridge")
     b += f'<path d="{fill_below(far)}" fill="{p[0]}"/>'
     for ax, ay in fapex:
         b += (f'<path d="{fill_below([(ax, ay), (ax + 90, 560)], 560)}" '

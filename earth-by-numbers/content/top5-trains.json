@@ -8,17 +8,13 @@
    "archetype": "steppe",
    "palette": "top5-trains",
    "element": "train",
-   "kicker": "TRANS-SIBERIAN",
-   "region": "Moscow – Vladivostok",
+   "kicker": "TRAIN JOURNEYS",
+   "region": "Top 5 / Opinion",
    "hook": "The Orient Express is a hotel on wheels.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

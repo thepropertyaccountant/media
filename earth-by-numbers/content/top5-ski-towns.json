@@ -8,17 +8,13 @@
    "archetype": "mountains",
    "palette": "top5-ski-towns",
    "element": "hut",
-   "kicker": "MYOKO KOGEN",
-   "region": "Niigata / Japan",
+   "kicker": "SKI TOWNS",
+   "region": "Top 5 / Opinion",
    "hook": "Aspen is a shopping centre with a chairlift.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

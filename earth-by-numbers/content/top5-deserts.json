@@ -8,17 +8,13 @@
    "archetype": "dunes",
    "palette": "top5-deserts",
    "element": "tent",
-   "kicker": "DASHT-E LUT",
-   "region": "Iran",
+   "kicker": "DESERTS",
+   "region": "Top 5 / Opinion",
    "hook": "Everyone names the Sahara. Few see any of it.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

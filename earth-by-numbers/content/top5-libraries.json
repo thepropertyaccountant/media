@@ -8,17 +8,13 @@
    "archetype": "mountains",
    "palette": "top5-libraries",
    "element": "church",
-   "kicker": "ADMONT ABBEY",
-   "region": "Styria / Austria",
+   "kicker": "LIBRARIES",
+   "region": "Top 5 / Opinion",
    "hook": "A library with a queue outside is an exhibition.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

@@ -8,17 +8,13 @@
    "archetype": "terraces",
    "palette": "top5-wine-regions",
    "element": "house",
-   "kicker": "DOURO",
-   "region": "Portugal",
+   "kicker": "WINE REGIONS",
+   "region": "Top 5 / Opinion",
    "hook": "Bordeaux is a brand with vineyards attached.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

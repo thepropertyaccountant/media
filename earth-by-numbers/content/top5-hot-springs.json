@@ -8,17 +8,13 @@
    "archetype": "forest_valley",
    "palette": "top5-hot-springs",
    "element": "pagoda",
-   "kicker": "ONSEN TOWNS",
-   "region": "Japan",
+   "kicker": "HOT SPRINGS",
+   "region": "Top 5 / Opinion",
    "hook": "The Blue Lagoon is power plant run-off.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

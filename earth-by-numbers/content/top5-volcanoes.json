@@ -8,17 +8,13 @@
    "archetype": "volcano",
    "palette": "top5-volcanoes",
    "element": "hut",
-   "kicker": "MOUNT YASUR",
-   "region": "Tanna / Vanuatu",
+   "kicker": "VOLCANOES",
+   "region": "Top 5 / Opinion",
    "hook": "Vesuvius is a day trip, not a volcano.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

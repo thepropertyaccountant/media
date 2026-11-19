@@ -8,17 +8,13 @@
    "archetype": "forest_valley",
    "palette": "top5-national-parks",
    "element": "boat",
-   "kicker": "MANÚ",
-   "region": "Madre de Dios / Peru",
+   "kicker": "NATIONAL PARKS",
+   "region": "Top 5 / Opinion",
    "hook": "Yellowstone is a traffic jam with geysers.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",

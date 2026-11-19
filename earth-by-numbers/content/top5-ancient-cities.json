@@ -8,17 +8,13 @@
    "archetype": "coast_cliff",
    "palette": "top5-ancient-cities",
    "element": "tower",
-   "kicker": "LEPTIS MAGNA",
-   "region": "Khoms / Libya",
+   "kicker": "ANCIENT CITIES",
+   "region": "Top 5 / Opinion",
    "hook": "Pompeii is a building site.",
    "stats": [
     [
      "05",
      "places ranked"
-    ],
-    [
-     "01",
-     "illustrated above"
     ],
     [
      "—",
