@@ -480,6 +480,34 @@ def convert(slug, force=False):
     return True
 
 
+def twist_check():
+    """Posts whose old twist line survives nowhere a reader will see it.
+
+    The cover has no room for the `sub` line that sat under the old hook, so
+    it has to live in the caption instead. That is not automatic — it was true
+    of 52 of the first 70 posts and silently false for the other 18. Anything
+    this lists needs its twist adding as the caption's second paragraph, and
+    then queue.json's copy rebuilt with make_queue.full_caption().
+    """
+    out = []
+    for slug in unposted_slugs():
+        p = CONTENT / f"{slug}.json"
+        if not p.exists():
+            continue
+        spec = json.loads(p.read_text())
+        s1 = spec["slides"][0]
+        if s1.get("type") != "poster":
+            continue
+        sub = flat((s1.get("was_hook") or {}).get("sub"))
+        cap = (spec.get("caption") or "").lower()
+        words = re.findall(r"[a-z]{5,}", sub.lower())
+        if not words:
+            continue
+        if sum(1 for w in words if w in cap) / len(words) < 0.5:
+            out.append(slug)
+    return out
+
+
 def unposted_slugs():
     q = json.loads((ROOT / "queue.json").read_text())["queue"]
     return [e["slug"] for e in q if e.get("posted_at") is None]
@@ -524,6 +552,13 @@ def main():
             done += 1
             print("converted", slug)
     print(f"{done} converted, {len(pending())} still pending")
+    lost = twist_check()
+    if lost:
+        print(f"\n!! {len(lost)} posts whose twist line appears on neither the cover")
+        print("   nor the caption. Add it as the caption's second paragraph, then")
+        print("   rebuild queue.json's copy with make_queue.full_caption():")
+        for s in lost:
+            print("    ", s)
 
 
 if __name__ == "__main__":

@@ -294,8 +294,17 @@ needs a caveat cannot live in a three-word stat column.
   fight. Top 5 stat columns state no figures at all — a Top 5 is opinion, and
   section 4's rule stands.
 - **The old `sub` twist line is not on the cover.** There is no room for it
-  beside two lines of display serif and the stat grid. It is not lost: every
-  caption opens with the hook and then the twist, and slide 2 carries detail.
+  beside two lines of display serif and the stat grid, so **it has to be the
+  caption's second paragraph instead** — the Portugal pattern: hook, twist,
+  then the body. This is not automatic and it is not safe to assume. When the
+  first 70 posts were converted it was already true of 52 of them and silently
+  false for the other 18, whose twist would have been published nowhere at
+  all. `make_covers.py` now prints a list of any post in that state at the end
+  of every run; it is not a warning to scroll past. After fixing a caption in
+  `content/`, rebuild queue.json's copy with `make_queue.full_caption(spec)` —
+  queue.json holds the caption *plus the hashtag block*, and that is the copy
+  the posting task actually publishes, so editing the content file alone
+  publishes a caption with no hashtags.
 - **The hook is sized to two lines, never three.** `disp_size()` explains why:
   three lines only fits when every stat label is short, and a cover that clips
   its headline on the one post with long labels is not a system.
