@@ -174,11 +174,19 @@ curl -sSL -o ArchivoBlack.ttf  "$B/archivoblack/ArchivoBlack-Regular.ttf"
 curl -sSL -o SpaceGrotesk.ttf  "$B/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf"
 curl -sSL -o SpaceMono-Regular.ttf "$B/spacemono/SpaceMono-Regular.ttf"
 curl -sSL -o SpaceMono-Bold.ttf    "$B/spacemono/SpaceMono-Bold.ttf"
+curl -sSL -o InstrumentSerif-Regular.ttf "$B/instrumentserif/InstrumentSerif-Regular.ttf"
+curl -sSL -o Archivo.ttf           "$B/archivo/Archivo%5Bwdth,wght%5D.ttf"
 fc-cache -f
 ```
 
-Check `fc-list | grep -i archivo` before rendering. Slides rendered without the
-brand fonts fall back to something generic and must not be posted.
+The last two are the cover fonts (section 7) — Instrument Serif for the hook
+and the stat numerals, Archivo for the kicker and labels. They are not optional:
+without them every cover falls back to a generic serif and the whole set stops
+looking like one account.
+
+Check `fc-list | grep -iE 'archivo|instrument|space'` before rendering. Slides
+rendered without the brand fonts fall back to something generic and must not be
+posted.
 
 **Look at every rendered slide with the Read tool before posting.** Text
 overflow and collisions are invisible until you look at the image.
