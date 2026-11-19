@@ -136,7 +136,6 @@ _c("68-moved-overseas-kept-the-rental", "envelope", "#AAC0C8", "#1A2E34", "#BD8A
 # ---- held back (designed now so a hold that comes round is not blocked) --
 _c("06-provisional-tax-15-january", "calendar", "#B2BAC8", "#202838", "#BE8A55", "#DDA056", "figure",       "Provisional tax")
 _c("10-healthy-homes-deductibility", "front_door", "#B6C4B8", "#243224", "#C38F52", "#E2A750", "figure_board", "Healthy Homes")
-_c("21-commission-clawback",       "coins",   "#BCB4B8", "#2C2428", "#C08C55", "#DEA055", "figure",       "Commission clawback")
 
 
 # --------------------------------------------------------------------------

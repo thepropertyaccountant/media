@@ -187,7 +187,6 @@ Drafted, and not to be built until the condition is met.
 | --- | --- | --- | --- |
 | 06 | 2027-01-07 | The 15 January provisional tax instalment | Only useful in the week or two before 15 January. Re-angle to the commission cycle when it runs. |
 | 10 | 2027-03-16 | Healthy Homes work: deductible repair or capital | Written to lead into the 31 March year end, when the timing of the spend still matters. |
-| 21 | Felix confirms the treatment | Commission clawed back after you have filed | **Needs Felix.** No Inland Revenue guidance was found on whether a repaid commission is deducted in the year of repayment or the earlier return is amended. The draft is written with that slide left open. Do not build until the file itself says the treatment has been sourced. |
 
 When a dated hold comes round, build the post, re-verify its figures as usual —
 a draft parked for months is more likely to have gone stale, not less — and
@@ -197,7 +196,7 @@ mark it `posted` in this table.
 
 Confirmed by Felix on 9 November 2026: property leads, at roughly two posts in
 three. Counting everything not yet posted — the run order, the bank and the
-two dated holds — the library now stands at 43 property and 21 agent-side,
+two dated holds — the library now stands at 43 property and 20 agent-side,
 which is the ratio. The earlier property shortfall is closed.
 
 When the bank next needs topping up, keep to the same proportion, and draft
@@ -283,10 +282,8 @@ on the day — a confirmation here is a head start, not a dispensation.
 | 45 | A boarder paying $245 a week or less is not taxable | **Same.** $245 is the 2025-26 rate; no newer one published. The $237 for 2024-25 is not on the page — drop it. |
 | 25 | Airbnb collects 15% GST. You may get 8.5% back. | **Confirmed.** 15% collected, 6.5% to IRD, 8.5% passed to a host who is not registered. |
 
-Two things this pass did **not** settle, both already guarded in their drafts:
+One thing this pass did **not** settle, already guarded in its draft:
 
-- **21 (commission clawback)** stays held. No Inland Revenue guidance was found
-  on which year a repaid commission belongs in. It needs Felix, not a search.
 - **The "2 years for sales on or after 1 July 2024" qualifier.** The 2-year
   period is confirmed, but none of the bright-line pages read states the
   1 July 2024 qualifier in those words. It is in IR1229, which was not opened.
@@ -295,6 +292,15 @@ Two things this pass did **not** settle, both already guarded in their drafts:
 One environment note, because it cost time: this sandbox's proxy answers a raw
 `curl` to ird.govt.nz with a 403 on CONNECT. Every Inland Revenue URL in this
 queue looks dead to curl and none of them are. Use the web fetch tools.
+
+### Removed posts
+
+- **21, commission clawback.** Removed at Felix's request on 19 November 2026.
+  It was held because no Inland Revenue guidance could be found on whether a
+  repaid commission is deducted in the year of repayment or the earlier return
+  is amended, and that needed Felix rather than another search. Removed
+  outright rather than retired: unlike the `retired/` posts, its unresolved
+  question was the post, so there is nothing to restart from.
 
 ### Retired posts
 
