@@ -73,7 +73,7 @@ Posts with a slot. At the daily cadence these run on consecutive days from
 | 07 | 2026-11-17 | Interest is 100% deductible again, and returns still get it wrong | Property | posted |
 | 08 | 2026-11-18 | Vehicle claims: kilometre rates against actual costs | Agent (re-angle) | posted |
 | 09 | 2026-11-19 | The intention test outlives the bright-line period | Property | posted |
-| 11 | 2026-11-20 | The bach that sat empty: mixed-use asset rules | Property | queued |
+| 11 | 2026-11-20 | The bach that sat empty: mixed-use asset rules | Property | posted |
 | 12 | 2026-11-21 | The withholding rate on your invoices is a choice | Agent (re-angle) | queued |
 
 "Agent (re-angle)" marks a draft written before 9 November 2026 for a tradie

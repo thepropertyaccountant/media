@@ -15,3 +15,4 @@ topic within six months.
 | 2026-11-17 | Interest deductibility: 100% from 1 April 2025, and the loans that got nothing | queue/07-interest-deductibility.md |
 | 2026-11-19 | Vehicle claims: kilometre rates against actual costs, and the method you cannot change | queue/08-vehicle-kilometre-rates.md |
 | 2026-11-20 | Intention test: clearing the bright-line period is one test cleared, not all of them | queue/09-intention-test.md |
+| 2026-11-21 | Mixed-use assets: the bach that sat empty, and the 62-day test that changes the year | queue/11-mixed-use-holiday-home.md |
