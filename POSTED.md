@@ -16,3 +16,4 @@ topic within six months.
 | 2026-11-19 | Vehicle claims: kilometre rates against actual costs, and the method you cannot change | queue/08-vehicle-kilometre-rates.md |
 | 2026-11-20 | Intention test: clearing the bright-line period is one test cleared, not all of them | queue/09-intention-test.md |
 | 2026-11-21 | Mixed-use assets: the bach that sat empty, and the 62-day test that changes the year | queue/11-mixed-use-holiday-home.md |
+| 2026-11-22 | Schedular payments: commission is taxed before GST, and the rate on the IR330C is yours to set | queue/12-schedular-payments.md |
