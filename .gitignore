@@ -1,0 +1,7 @@
+# Per-run carousel build intermediates at the repo root.
+# shoot.py renders PNGs, which are converted to the JPEGs that get published
+# and committed; the working .html is the source the cover is applied to.
+# Both are reproducible from the queue draft, so neither is kept in the repo.
+# Scoped to the root so the other project's directories are unaffected.
+/*.png
+/*.html
