@@ -1,0 +1,92 @@
+{
+ "slug": "india-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "india-crazy",
+   "archetype": "terraces",
+   "palette": "india-crazy",
+   "element": "train",
+   "kicker": "INDIA",
+   "region": "Assam / South Asia",
+   "hook": "India runs 29 degrees wide on one clock.",
+   "stats": [
+    [
+     "2,933",
+     "KM FROM EAST TO WEST"
+    ],
+    [
+     "26,461",
+     "MM OF RAIN IN A SINGLE YEAR"
+    ],
+    [
+     "22",
+     "LANGUAGES IN THE CONSTITUTION"
+    ]
+   ],
+   "was_hook": {
+    "title": "India runs<br>29 degrees wide<br>on one clock.",
+    "sub": "Sunrise in Assam can be two hours before sunrise in Gujarat.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "2,933",
+   "numsize": "s3",
+   "bg": "",
+   "label": "km from east to west, one time zone",
+   "title": "Over 29° of longitude, all of it on UTC+05:30.",
+   "size": "h-sm",
+   "source": "Indian Standard Time. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "26,461",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "mm of rain in a single year",
+   "title": "Cherrapunji, August 1860 to July 1861. Still the record.",
+   "size": "h-sm",
+   "source": "Cherrapunji. The same page gives 26,471 mm in its Guinness paragraph. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "22",
+   "numsize": "s2",
+   "bg": "",
+   "label": "languages in the constitution",
+   "title": "Hindi and English are the Union's official languages. India has no national language.",
+   "size": "h-sm",
+   "source": "Languages of India: 'the Constitution of India does not give any language the status of national language'. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "The tea gardens of Assam keep their own time anyway.",
+   "sub": "Chaibagan time runs an hour ahead of IST and has no official standing. Proposals for a second zone were made in the 1980s, again in 2014 and again in 2017. None was approved.",
+   "source": "Indian Standard Time; Time in India. Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "India is 2,933 km wide and runs on a single clock.\n\nSunrise in Assam can be hours before sunrise in Gujarat, and both are told it is the same time. That span covers over 29 degrees of longitude, all of it on UTC+05:30, and Indian Standard Time remains the only officially used time in the country.\n\nINDIA BY NUMBERS\nEast–west distance — 2,933 km, over 29° of longitude\nTime zones — 1\nArea — 3,287,263 km², seventh largest in the world\nScheduled languages — 22, plus English as an additional official language\nRainfall record, one year — 26,461 mm at Cherrapunji, 1860–61\n\nThe tea gardens of Assam gave up waiting. Chaibagan time runs an hour ahead of IST, has no official standing, and is used anyway because the working day otherwise starts in the dark and ends in daylight. Researchers proposed splitting the country into two or three zones in the 1980s. Assam's chief minister campaigned for it in 2014. A second zone, Eastern India Time at UTC+06:00, was proposed in 2017. Nothing was approved.\n\nThe rainfall figure is the other one that stops you. Cherrapunji recorded 26,461 mm between August 1860 and July 1861 — over 26 metres of rain in twelve months — and still holds the record for the wettest calendar month, 9,300 mm in July 1861.\n\nTwo things we dropped. Mawsynram as flatly the wettest place on Earth: its own page lists two Colombian towns with higher annual averages. And India's count of official languages, because the India article says two and Languages of India says 23. The 22 scheduled languages are the figure that is actually in the constitution, and no language is India's national language.\n\nOne clock or three?",
+ "tags": [
+  "india",
+  "indianstandardtime",
+  "assam",
+  "cherrapunji",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "southasia",
+  "earthbynumbers"
+ ]
+}

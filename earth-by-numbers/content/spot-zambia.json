@@ -1,0 +1,129 @@
+{
+ "slug": "spot-zambia",
+ "kind": "spotlight",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "spot-zambia",
+   "archetype": "gorge",
+   "palette": "spot-zambia",
+   "element": "bridge",
+   "kicker": "ZAMBIA",
+   "region": "Mosi-oa-Tunya / Zambezi",
+   "hook": "Zambia has the largest sheet of falling water in the world.",
+   "stats": [
+    [
+     "752,612 km²",
+     "LAND AREA"
+    ],
+    [
+     "8",
+     "LAND BORDERS"
+    ],
+    [
+     "Lusaka",
+     "CAPITAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "Zambia has the<br>largest sheet of<br>falling water<br>in the world.",
+    "sub": "1,708 metres wide and 108 metres down, in one curtain.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "ledger",
+   "kicker": "The basics",
+   "bg": "",
+   "rows": [
+    [
+     "Capital",
+     "Lusaka"
+    ],
+    [
+     "Land area",
+     "752,612 km²"
+    ],
+    [
+     "Land borders",
+     "8"
+    ],
+    [
+     "Official language",
+     "English"
+    ],
+    [
+     "Currency",
+     "Kwacha (ZMW)"
+    ]
+   ],
+   "source": "Dataset: mledoze/countries (CC-BY-SA)."
+  },
+  {
+   "type": "items",
+   "kicker": "Why go",
+   "title": "Three reasons",
+   "bg": "ink",
+   "items": [
+    {
+     "name": "Victoria Falls",
+     "note": "Mosi-oa-Tunya, the smoke that thunders. Not the tallest or the widest, but by combined width and height the largest sheet of falling water there is."
+    },
+    {
+     "name": "Parks with nobody in them",
+     "note": "Kafue covers about 22,400 km² and is the second-largest national park in Africa. South Luangwa is 9,050 km² with over 400 bird species."
+    },
+    {
+     "name": "Eight neighbours",
+     "note": "More than almost anywhere in Africa — and one of them is a border less than a kilometre long."
+    }
+   ],
+   "source": "Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "One more thing",
+   "bg": "sun",
+   "title": "The eighth neighbour is about 150 metres of line.",
+   "sub": "Zambia's border with Botswana runs for less than a kilometre, and for years nobody agreed it existed: South Africa told Botswana there was no common border at all. Wikipedia now says it is widely believed there are two separate tripoints, 100 to 150 m apart.",
+   "source": "Geography of Zambia; Quadripoint. The tripoint sentences are uncited. Source: Wikipedia. Dataset: mledoze/countries (CC-BY-SA).",
+   "size": "h-sm"
+  },
+  {
+   "type": "items",
+   "kicker": "Where to go",
+   "title": "Three places",
+   "bg": "",
+   "items": [
+    {
+     "name": "Mosi-oa-Tunya",
+     "note": "The Zambian side of the falls, where the Devil's Pool forms on the lip between roughly September and December."
+    },
+    {
+     "name": "South Luangwa",
+     "note": "9,050 km², which Wikipedia calls the home of the photographic and walking safari, with some of the highest leopard densities in southern Africa."
+    },
+    {
+     "name": "Lower Zambezi",
+     "note": "4,092 km² on the north bank, facing Zimbabwe's Mana Pools across the river."
+    }
+   ],
+   "source": "Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Zambia has the largest sheet of falling water in the world.\n\n1,708 metres wide and 108 metres down, in one curtain. Victoria Falls is neither the tallest waterfall nor the widest, and ten falls have a greater flow rate. What it has is the combination — classified as the largest on the basis of its combined width and height, which is how you get a single unbroken sheet of water that size.\n\nZAMBIA BY NUMBERS\nCapital — Lusaka\nLand area — 752,612 km²\nLand borders — 8: Angola, Botswana, DR Congo, Malawi, Mozambique, Namibia, Tanzania, Zimbabwe\nOfficial language — English\nCurrency — kwacha\nVictoria Falls — 1,708 m wide, 108 m high\n\nThe local names are better than the English one. Mosi-oa-Tunya in Lozi, the smoke that thunders; Shungu Namutitima in Tonga, boiling water. The falls sit on the border with Zimbabwe, so half of it is somebody else's.\n\nEight land neighbours is close to a record on the continent, and the eighth is barely there. The border with Botswana is under a kilometre long. For years South Africa, then occupying Namibia, told Botswana there was no common border with Zambia at all, and Wikipedia now reports it is widely believed there are two separate tripoints about 100 to 150 m apart rather than one quadripoint.\n\nLake Kariba, filled between 1958 and 1963, is the world's largest artificial reservoir by volume — four times the reservoir behind the Three Gorges Dam.\n\nWHERE TO GO\nMosi-oa-Tunya — the Zambian side, where the Devil's Pool forms on the very lip of the falls, usually September to December.\nSouth Luangwa — 9,050 km², what Wikipedia calls the home of the photographic and walking safari, with over 400 bird species.\nLower Zambezi — 4,092 km² on the north bank, looking across at Mana Pools.\n\nTwo things we cut: Lake Kariba's volume, 180 km³ in the infobox and 185 in the body, and the claim that walking safaris were invented in South Luangwa. Norman Carr's page calls him their pioneer but names no country.\n\nZambian side or Zimbabwean?",
+ "tags": [
+  "zambia",
+  "victoriafalls",
+  "mosioatunya",
+  "southluangwa",
+  "kafue",
+  "lakekariba",
+  "africa",
+  "safari",
+  "geographyfacts",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "slug": "spot-north-macedonia",
+ "kind": "spotlight",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "spot-north-macedonia",
+   "archetype": "lake",
+   "palette": "spot-north-macedonia",
+   "element": "church",
+   "kicker": "NORTH MACEDONIA",
+   "region": "Lake Ohrid / Southeast Europe",
+   "hook": "Lake Ohrid is one of the oldest lakes in the world.",
+   "stats": [
+    [
+     "25,713 km²",
+     "LAND AREA"
+    ],
+    [
+     "5",
+     "LAND BORDERS"
+    ],
+    [
+     "Skopje",
+     "CAPITAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "Lake Ohrid is<br>one of the oldest<br>lakes in the<br>world.",
+    "sub": "Old enough that more than 200 species in it exist nowhere else.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "ledger",
+   "kicker": "The basics",
+   "bg": "",
+   "rows": [
+    [
+     "Capital",
+     "Skopje"
+    ],
+    [
+     "Land area",
+     "25,713 km²"
+    ],
+    [
+     "Land borders",
+     "5"
+    ],
+    [
+     "Official language",
+     "Macedonian"
+    ],
+    [
+     "Currency",
+     "Denar (MKD)"
+    ]
+   ],
+   "source": "Dataset: mledoze/countries (CC-BY-SA)."
+  },
+  {
+   "type": "items",
+   "kicker": "Why go",
+   "title": "Three reasons",
+   "bg": "ink",
+   "items": [
+    {
+     "name": "Lake Ohrid",
+     "note": "288 m deep, with more than 200 endemic species. World Heritage on the Macedonian side since 1979, extended to the Albanian side in 2019."
+    },
+    {
+     "name": "Mountains for a small country",
+     "note": "Sixteen peaks above 2,000 m, topping out at Mount Korab at 2,764 m, which is also Albania's high point."
+    },
+    {
+     "name": "Layers you can drive between",
+     "note": "Heraclea Lyncestis was founded by Philip II in the 4th century BC. Skopje's Stone Bridge went up under Mehmed the Conqueror."
+    }
+   ],
+   "source": "Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "One more thing",
+   "bg": "sun",
+   "title": "In 1963 an earthquake took about 80% of Skopje.",
+   "sub": "A magnitude 6.1 quake on 26 July left more than 200,000 people homeless and relief came from 78 countries, which is why the city's motto is the City of International Solidarity. The rebuild was partly planned by Kenzō Tange, and only partly carried out.",
+   "source": "1963 Skopje earthquake. Source: Wikipedia.",
+   "size": "h-sm"
+  },
+  {
+   "type": "items",
+   "kicker": "Where to go",
+   "title": "Three places",
+   "bg": "",
+   "items": [
+    {
+     "name": "Ohrid",
+     "note": "A lakeside town once said to have 365 churches, one for every day. The number today is a great deal smaller."
+    },
+    {
+     "name": "Matka Canyon",
+     "note": "Roughly 5,000 hectares west of Skopje, ten caves, and the oldest artificial lake in the country."
+    },
+    {
+     "name": "Bitola",
+     "note": "The Ottoman-era City of Consuls, with the ruins of Heraclea Lyncestis 2 km south of it."
+    }
+   ],
+   "source": "Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Lake Ohrid is one of the oldest lakes in the world.\n\nOld enough that more than 200 species in it exist nowhere else. That is what age does to a lake: isolate a body of water for long enough and everything in it diverges. Ohrid is 288 m deep, shared with Albania, and Wikipedia describes it as a unique aquatic ecosystem of worldwide importance. The Macedonian side became World Heritage in 1979; the Albanian side was added in 2019.\n\nNORTH MACEDONIA BY NUMBERS\nCapital — Skopje\nLand area — 25,713 km²\nLand borders — 5: Albania, Bulgaria, Greece, Kosovo, Serbia\nOfficial language — Macedonian\nCurrency — denar\nHighest point — Mount Korab, 2,764 m\n\nThe border count has a wrinkle worth naming: one of the five is Kosovo, whose status is contested, so some sources count four sovereign neighbours. Wikipedia's own lead lists all five without qualification.\n\nFor a country of 25,713 km² it is remarkably vertical — sixteen peaks over 2,000 m, and Korab at 2,764 m is the highest point of both North Macedonia and Albania.\n\nThe country changed its name in living memory. The Prespa Agreement with Greece was signed on 17 June 2018 and came into force on 12 February 2019, and the Republic of Macedonia became the Republic of North Macedonia.\n\nWHERE TO GO\nOhrid — a lakeside town said once to have had 365 churches, one for each day of the year. A 17th-century traveller's count, and the number now is much smaller.\nMatka Canyon — about 5,000 hectares west of Skopje, with ten caves and the oldest artificial lake in the country.\nBitola — the Ottoman City of Consuls, with Heraclea Lyncestis, founded by Philip II of Macedon, 2 km to the south.\n\nTwo things we dropped: an age in years for Lake Ohrid, because the only figure on the page is for Pliocene sediments \"possibly 3–5 million years old\", and the Kokino observatory's supposed fourth place on a NASA list, which appears only in a news headline.\n\nWhich old lake would you rather swim in?",
+ "tags": [
+  "northmacedonia",
+  "lakeohrid",
+  "ohrid",
+  "skopje",
+  "bitola",
+  "matka",
+  "balkans",
+  "geographyfacts",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

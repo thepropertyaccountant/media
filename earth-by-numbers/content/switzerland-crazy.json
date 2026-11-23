@@ -1,0 +1,92 @@
+{
+ "slug": "switzerland-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "switzerland-crazy",
+   "archetype": "mountains",
+   "palette": "switzerland-crazy",
+   "element": "church",
+   "kicker": "SWITZERLAND",
+   "region": "Gotthard / Central Alps",
+   "hook": "No city in Switzerland is legally the capital.",
+   "stats": [
+    [
+     "1848",
+     "YEAR BERN BECAME FEDERAL CITY"
+    ],
+    [
+     "57.09 km",
+     "THE GOTTHARD BASE TUNNEL"
+    ],
+    [
+     "60%",
+     "OF THE COUNTRY IS ALPS"
+    ]
+   ],
+   "was_hook": {
+    "title": "No city in<br>Switzerland is<br>legally the<br>capital.",
+    "sub": "Bern is the federal city, which is not the same thing.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "1848",
+   "numsize": "s3",
+   "bg": "",
+   "label": "year Bern became federal city",
+   "title": "The constitution names it the seat of government, and stops short of calling it the capital.",
+   "size": "h-sm",
+   "source": "Bern: 'de facto capital'; a footnote reads 'Switzerland has no de jure capital'. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "57.09",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "km — the Gotthard Base Tunnel",
+   "title": "The longest railway tunnel in the world, and the deepest, at 2,450 m down.",
+   "size": "h-sm",
+   "source": "Gotthard Base Tunnel, inaugurated 1 June 2016. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "60%",
+   "numsize": "s3",
+   "bg": "",
+   "label": "of the country is Alps",
+   "title": "The plateau is 30% and the Jura 10%. Switzerland holds 48 of the Alps' 82 four-thousanders.",
+   "size": "h-sm",
+   "source": "Geography of Switzerland; Swiss Alps; Switzerland. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "Romansh is an official language and the 11th most spoken.",
+   "sub": "Serbian, Croatian, Albanian, Portuguese, Spanish, English and Turkish all have more speakers in Switzerland than one of its own official languages, which UNESCO classifies as definitely endangered.",
+   "source": "Romansh language: 0.74% as language of best command. Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "No city in Switzerland is legally the capital.\n\nBern is the federal city, which is not the same thing. The Swiss constitution names it the seat of government and deliberately stops short of the word capital — Wikipedia's own footnote on the Bern article reads, flatly, that Switzerland has no de jure capital. Bern has held the role since 1848 and has never been promoted.\n\nSWITZERLAND BY NUMBERS\nOfficial capital — none; Bern is the federal city, since 1848\nShare of the country that is Alps — 60%\nGotthard Base Tunnel — 57.09 km, the longest railway tunnel in the world\nDeepest point of that tunnel — 2,450 m below the surface\nAlpine peaks over 4,000 m — 48 of the Alps' 82 are Swiss\nHighest point — Dufourspitze, 4,634 m\n\nThe Gotthard is the number that does not sound real. Fifty-seven kilometres of railway tunnel, two and a half kilometres beneath the mountains at its deepest, opened in 2016 and still the longest in the world.\n\nThen there is Romansh. It is one of Switzerland's four national languages and has been an official language of the Confederation since 1996, meaning you can write to the federal government in it and get a reply. It is also the eleventh most spoken language in the country. Serbian, Croatian, Albanian, Portuguese, Spanish, English and Turkish all beat it, and UNESCO lists it as definitely endangered.\n\nTwo figures we cut: Switzerland's glacier area, because three articles give three numbers and it is shrinking anyway, and the count of mountains above 3,600 m, which is sourced to a private website.\n\nDoes a country need an official capital at all?",
+ "tags": [
+  "switzerland",
+  "bern",
+  "gotthard",
+  "swissalps",
+  "romansh",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "earthbynumbers"
+ ]
+}

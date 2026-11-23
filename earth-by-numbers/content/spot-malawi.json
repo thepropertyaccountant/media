@@ -1,0 +1,128 @@
+{
+ "slug": "spot-malawi",
+ "kind": "spotlight",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "spot-malawi",
+   "archetype": "lake",
+   "palette": "spot-malawi",
+   "element": "boat",
+   "kicker": "MALAWI",
+   "region": "Rift Valley / Southern Africa",
+   "hook": "One lake here has more fish species than any lake on Earth.",
+   "stats": [
+    [
+     "118,484 km²",
+     "LAND AREA"
+    ],
+    [
+     "3",
+     "LAND BORDERS"
+    ],
+    [
+     "Lilongwe",
+     "CAPITAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "One lake here<br>has more fish<br>species than any<br>lake on Earth.",
+    "sub": "At least 700 cichlids, and almost all of them live nowhere else.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "ledger",
+   "kicker": "The basics",
+   "bg": "",
+   "rows": [
+    [
+     "Capital",
+     "Lilongwe"
+    ],
+    [
+     "Land area",
+     "118,484 km²"
+    ],
+    [
+     "Land borders",
+     "3"
+    ],
+    [
+     "Official language",
+     "English"
+    ],
+    [
+     "Currency",
+     "Kwacha (MK)"
+    ]
+   ],
+   "source": "Dataset: mledoze/countries (CC-BY-SA)."
+  },
+  {
+   "type": "items",
+   "kicker": "Why go",
+   "title": "Three reasons",
+   "bg": "ink",
+   "items": [
+    {
+     "name": "An inland sea",
+     "note": "Lake Malawi covers about 29,600 km² and goes down 706 m — the third largest and second deepest lake in Africa."
+    },
+    {
+     "name": "A park built for fish",
+     "note": "Lake Malawi National Park is the only Malawian park created to protect fish and aquatic habitat, World Heritage since 1984."
+    },
+    {
+     "name": "Highlands, not just water",
+     "note": "The Great Rift Valley runs the length of the country, and Sapitwa Peak on the Mulanje massif reaches 3,002 m."
+    }
+   ],
+   "source": "Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "One more thing",
+   "bg": "sun",
+   "title": "Two Malawian islands sit inside Mozambique's water.",
+   "sub": "Likoma and Chizumulu are exclaves of Malawi, entirely surrounded by Mozambican territorial waters in a lake the two countries share. Likoma is 18 km² of it, with a cathedral on an island that is legally in the wrong country.",
+   "source": "Likoma Island. Source: Wikipedia.",
+   "size": "h-sm"
+  },
+  {
+   "type": "items",
+   "kicker": "Where to go",
+   "title": "Three places",
+   "bg": "",
+   "items": [
+    {
+     "name": "Nyika Plateau",
+     "note": "Rolling grassland mostly between 2,100 and 2,200 m, peaking at 2,605 m, with around 200 species of orchid."
+    },
+    {
+     "name": "Liwonde National Park",
+     "note": "548 km² in the south with 30 km of the Shire river running through it. Under African Parks management since 2015."
+    },
+    {
+     "name": "Zomba Plateau",
+     "note": "About 130 km² of highland rising to 2,087 m, with the Shire river and Liwonde visible from its western edge."
+    }
+   ],
+   "source": "Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Lake Malawi has more species of fish than any other lake in the world.\n\nAt least 700 cichlids, and almost all of them live nowhere else. Wikipedia's wording is worth keeping precise: at least 700 cichlid species, with some estimates as high as 1,000, and every cichlid in the lake endemic to the Malawi system bar four. That is more fish species than any other lake on Earth, in one body of water.\n\nMALAWI BY NUMBERS\nCapital — Lilongwe\nLand area — 118,484 km²\nLand borders — 3: Mozambique, Tanzania, Zambia\nOfficial language — English\nCurrency — kwacha\nLake Malawi — about 29,600 km², 706 m at its deepest\n\nThe lake is the third largest in Africa and the second deepest, and it takes up something like a fifth of the country. Lake Malawi National Park, at the southern end, is the only park in Malawi created specifically to protect fish and aquatic habitat, and has been World Heritage since 1984.\n\nThe odd fact: Likoma and Chizumulu are Malawian islands entirely surrounded by Mozambican territorial waters. Exclaves, in a lake, 18 km² of Malawi floating inside somebody else's water.\n\nWHERE TO GO\nNyika Plateau — rolling grassland mostly at 2,100 to 2,200 m, up to 2,605 m at Nganda Peak, with around 200 orchid species.\nLiwonde National Park — 548 km², 30 km of the Shire river through it, managed by African Parks since 2015.\nZomba Plateau — about 130 km² of highland to 2,087 m, looking out over the Shire and Liwonde.\n\nTwo figures we cut. The lake's share of the country, because the 25% in Geography of Malawi does not match that article's own water-area figure, which works out closer to a fifth. And Mulanje's height from the Malawi article, which says 3,048 m where its own massif article and the geography article both say 3,002 m.\n\nWhich would you take — the lake or the plateau?",
+ "tags": [
+  "malawi",
+  "lakemalawi",
+  "nyika",
+  "mulanje",
+  "likoma",
+  "africa",
+  "cichlids",
+  "geographyfacts",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

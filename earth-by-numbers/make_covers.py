@@ -75,6 +75,9 @@ TOP5_CATEGORY = {
     "ancient-cities": "Ancient cities", "wine-regions": "Wine regions",
     "ski-towns": "Ski towns", "tea-regions": "Tea regions",
     "cable-cars": "Cable cars", "national-parks": "National parks",
+    "coffee-regions": "Coffee regions", "old-towns": "Old towns",
+    "lighthouses": "Lighthouses", "cathedrals": "Cathedrals",
+    "rainforests": "Rainforests",
 }
 
 # --------------------------------------------------------------------------
@@ -260,6 +263,55 @@ POSTERS = {
                   "#9A8252", "#D6B062", "Wallachia / Southeast Europe"),
  "singapore-crazy": ("skyline", "rig", "#1E4056", "#A4C0C4", "#BACECA", "#142428",
                      "#6E8A70", "#9CD0AE", "Singapore / Maritime Southeast Asia"),
+
+ # ---- set I, 2026-11-23
+ "indonesia-crazy": ("volcano", "boat", "#1B3C52", "#8FB8BC", "#A6C8C4", "#12242A",
+                     "#6E7A4E", "#E6A64A", "Sunda Arc / Southeast Asia"),
+ "brazil-crazy": ("forest_valley", "boat", "#203C4A", "#9BB89A", "#B0C8A4", "#13231B",
+                  "#8A7442", "#D8C25E", "Amazon basin / South America"),
+ "australia-crazy": ("dunes", "fence", "#35455E", "#D8BFA0", "#E2CDA8", "#2A1912",
+                     "#B4522A", "#F09040", "Kati Thanda / South Australia"),
+ "switzerland-crazy": ("mountains", "church", "#1E3A58", "#BCCEDE", "#D0DCE6", "#161E28",
+                       "#7E7A6A", "#D8E4EE", "Gotthard / Central Alps"),
+ "egypt-crazy": ("delta", "boat", "#2C4A66", "#CFC4A0", "#DCD0AA", "#241C14",
+                 "#A8884C", "#EFC25C", "Nile Valley / Northeast Africa"),
+ "india-crazy": ("terraces", "train", "#26404E", "#9EBC98", "#B4CA9E", "#15221A",
+                 "#7E8A46", "#CFD468", "Assam / South Asia"),
+ "argentina-crazy": ("steppe", "fence", "#28445E", "#B4BCA6", "#C6C8B0", "#1C2018",
+                     "#9A8A58", "#DEC070", "Patagonia / Southern Cone"),
+ "philippines-crazy": ("islands", "boat", "#1A4258", "#88C4C0", "#A2D2C6", "#102428",
+                       "#A88A52", "#F0C45E", "Luzon / Maritime Southeast Asia"),
+ "spot-tajikistan": ("mountains", "tent", "#244058", "#AEB8C4", "#C8C6BC", "#1C1E1E",
+                     "#A87A46", "#E8B45A", "Pamir / Central Asia"),
+ "spot-guatemala": ("volcano", "church", "#1D3A4E", "#9CBAA8", "#B2CAAE", "#13231C",
+                    "#9E6A3E", "#E09A48", "Antigua / Central America"),
+ "spot-malawi": ("lake", "boat", "#1E3E5C", "#A0BCC8", "#B8CCD0", "#142428",
+                 "#A08A4E", "#E0BC62", "Rift Valley / Southern Africa"),
+ "spot-cambodia": ("wetland", "boat", "#26465A", "#B2BE9A", "#C4C9A4", "#1C2218",
+                   "#96763A", "#E2B04E", "Tonle Sap / Mekong basin"),
+ "spot-zambia": ("gorge", "bridge", "#1F3E4C", "#9EB8A8", "#AEBCB0", "#16201C",
+                 "#6E7A52", "#A8C47A", "Mosi-oa-Tunya / Zambezi"),
+ "spot-north-macedonia": ("lake", "church", "#1C3C60", "#A8C2D4", "#C0D0D8", "#151F28",
+                          "#8E8460", "#D4BC7E", "Lake Ohrid / Southeast Europe"),
+ # Cap-Vert's headlands are basalt and laterite, not sand. The first palette used a
+ # pale ochre warm family and the headlands came out as dunes on a grey sea — the
+ # desert-box fault section 7 warns about, arriving through the warm anchor rather
+ # than through the water. Darkened and pushed red.
+ "spot-senegal": ("coast_cliff", "lighthouse", "#1E4A60", "#8FB4BE", "#A4BCC0", "#1A1210",
+                  "#8A4A2E", "#E08A3C", "Cap-Vert / West Africa"),
+ "top5-coffee-regions": ("terraces", "hut", "#223E46", "#9CB68E", "#B2C696", "#1A1C14",
+                         "#8A5A32", "#D8743E", "Yirgacheffe / Gedeo, Ethiopia"),
+ "top5-old-towns": ("skyline", "dome", "#28425A", "#B8BCB2", "#C8CAB8", "#1C1E1A",
+                    "#8E6A48", "#D09A62", "Gjirokaster / Albania"),
+ "top5-lighthouses": ("swell", "lighthouse", "#1A3240", "#6E8C98", "#8CA6AE", "#0E1C22",
+                      "#44646E", "#C8DCE2", "Fastnet Rock / County Cork, Ireland"),
+ # Not `skyline`: flat rectangular towers read as a modern downtown, which is the
+ # opposite of what this list is about. Chartres stands alone above the Beauce, so
+ # the landform is a wheat plateau with one vertical on it.
+ "top5-cathedrals": ("steppe", "church", "#2A4668", "#C2C6C0", "#D2D0BE", "#1E1A16",
+                     "#B09050", "#E8C070", "Chartres / Eure-et-Loir, France"),
+ "top5-rainforests": ("forest_valley", "hut", "#1C3A40", "#86A888", "#9EBC94", "#0F1E16",
+                      "#5E8244", "#96CC5E", "Daintree / Queensland, Australia"),
 }
 
 

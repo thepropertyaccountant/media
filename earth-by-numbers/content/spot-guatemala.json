@@ -1,0 +1,128 @@
+{
+ "slug": "spot-guatemala",
+ "kind": "spotlight",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "spot-guatemala",
+   "archetype": "volcano",
+   "palette": "spot-guatemala",
+   "element": "church",
+   "kicker": "GUATEMALA",
+   "region": "Antigua / Central America",
+   "hook": "Guatemala recognises 21 Mayan languages.",
+   "stats": [
+    [
+     "108,889 km²",
+     "LAND AREA"
+    ],
+    [
+     "4",
+     "LAND BORDERS"
+    ],
+    [
+     "Guatemala City",
+     "CAPITAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "Guatemala<br>recognises 21 Mayan<br>languages.",
+    "sub": "None of them is an official language. Spanish is the only one.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "ledger",
+   "kicker": "The basics",
+   "bg": "",
+   "rows": [
+    [
+     "Capital",
+     "Guatemala City"
+    ],
+    [
+     "Land area",
+     "108,889 km²"
+    ],
+    [
+     "Land borders",
+     "4"
+    ],
+    [
+     "Official language",
+     "Spanish"
+    ],
+    [
+     "Currency",
+     "Quetzal (Q)"
+    ]
+   ],
+   "source": "Dataset: mledoze/countries (CC-BY-SA)."
+  },
+  {
+   "type": "items",
+   "kicker": "Why go",
+   "title": "Three reasons",
+   "bg": "ink",
+   "items": [
+    {
+     "name": "Lake Atitlán",
+     "note": "340 m deep, in a caldera left by a supervolcanic eruption about 79,500 years ago. Wikipedia calls it the deepest lake in Central America."
+    },
+    {
+     "name": "Volcanoes you can hear",
+     "note": "Guatemala has 37. Fuego is almost constantly active, with small explosions every 15 to 20 minutes."
+    },
+    {
+     "name": "Tikal",
+     "note": "One of the largest Maya urban centres ever built, World Heritage since 1979, with Temple IV standing 70 m above the plaza."
+    }
+   ],
+   "source": "Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "One more thing",
+   "bg": "sun",
+   "title": "The volcano next door erupts every twenty minutes.",
+   "sub": "Volcán de Fuego sits about 16 km west of Antigua and Wikipedia describes it as almost constantly active at a low level — gas and ash every 15 to 20 minutes, with the larger eruptions less frequent. Pacaya, 30 km from the capital, has been erupting regularly since 1961 after 70 years dormant.",
+   "source": "Volcán de Fuego; Pacaya. Source: Wikipedia.",
+   "size": "h-sm"
+  },
+  {
+   "type": "items",
+   "kicker": "Where to go",
+   "title": "Three places",
+   "bg": "",
+   "items": [
+    {
+     "name": "Tikal",
+     "note": "Maya temples standing clear of the Petén rainforest canopy. Temple IV is 70 m, Temple V 57 m, Temple I 47 m."
+    },
+    {
+     "name": "Antigua Guatemala",
+     "note": "The colonial capital from 1543 until the 1773 earthquakes moved the government out. Baroque, low-built, and World Heritage since 1979."
+    },
+    {
+     "name": "Semuc Champey",
+     "note": "A 300 m limestone land bridge with stepped turquoise pools on top, and the Cahabón river running through a cave system underneath."
+    }
+   ],
+   "source": "Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Guatemala formally recognised 21 Mayan languages by name in 1996. None of them is an official language.\n\nSpanish is the only one. The Mayan, Xinca and Garifuna languages are recognised as national languages under a 2003 law, which is a different and weaker thing, and the distinction matters to several million people. Even the count is contested: the Academia de Lenguas Mayas de Guatemala finds 21 distinct languages in one place and applies its standards to 22 in another, apparently because the government treats Achiʼ as a variant of Kʼicheʼ.\n\nGUATEMALA BY NUMBERS\nCapital — Guatemala City\nLand area — 108,889 km²\nLand borders — 4: Belize, El Salvador, Honduras, Mexico\nOfficial language — Spanish, and only Spanish\nCurrency — quetzal\nVolcanoes — 37\n\nLake Atitlán is the reason most people come. It is 340 m deep — Wikipedia calls it the deepest lake in Central America — and it fills a caldera left by a supervolcanic eruption roughly 79,500 years ago, which is why the sides are so steep and the villages so small.\n\nThe volcanoes are not scenery. Fuego sits about 16 km west of Antigua and is almost constantly active, throwing gas and ash every 15 to 20 minutes. Pacaya, 30 km from the capital, was dormant for over 70 years and has erupted frequently since 1961.\n\nWHERE TO GO\nTikal — Maya temples above the Petén canopy; Temple IV is 70 m from plaza floor to roof comb.\nAntigua Guatemala — colonial capital from 1543 to 1773, when the Santa Marta earthquakes moved the government to Guatemala City.\nSemuc Champey — a 300 m limestone land bridge with stepped pools on top and a river running underneath it.\n\nTwo things we dropped: Guatemala's active volcano count, which is three on one page and four on another, and Tajumulco's elevation, which is 4,203 m on its own article and 4,220 m on three others.\n\nWhich would you rather wake up to — the lake or the volcano?",
+ "tags": [
+  "guatemala",
+  "lakeatitlan",
+  "tikal",
+  "antiguaguatemala",
+  "semucchampey",
+  "maya",
+  "centralamerica",
+  "geographyfacts",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

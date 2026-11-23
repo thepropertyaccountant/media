@@ -1,0 +1,90 @@
+{
+ "slug": "top5-old-towns",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-old-towns",
+   "archetype": "skyline",
+   "palette": "top5-old-towns",
+   "element": "dome",
+   "kicker": "OLD TOWNS",
+   "region": "Top 5 / Opinion",
+   "hook": "Dubrovnik is a cruise terminal with walls.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "Dubrovnik is a<br>cruise terminal<br>with walls.",
+    "sub": "Five old towns that still belong to the people living in them. Opinion.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Gjirokastër",
+   "where": "Albania",
+   "note": "A stone town built steep into a hillside, grey slate roof above grey slate roof. Nobody has polished it for you and that is the point.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Bukhara",
+   "where": "Uzbekistan",
+   "note": "A working Silk Road city rather than a monument to one. Madrasas, a surviving merchant quarter, and ordinary life happening between them.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Ohrid",
+   "where": "North Macedonia",
+   "note": "Churches stacked above a lake old enough to have its own endemic species. Said to have had 365 of them once; the real number now is far smaller and far better.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Sarajevo's Baščaršija",
+   "where": "Bosnia and Herzegovina",
+   "note": "An Ottoman bazaar quarter that never became a theme park, with the seam between Ottoman and Austro-Hungarian running straight down one street.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Kampot",
+   "where": "Cambodia",
+   "note": "Nineteenth-century French colonial shopfronts on a river, mostly unrestored and occupied. Unlike most Cambodian provincial capitals, it kept its own buildings.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "Dubrovnik is a cruise terminal with walls. It is a genuinely beautiful city that has been priced, filmed and day-tripped out of being a place where anyone lives, and walking the ramparts in July is less an experience than a queue with a view.\n\nFive old towns that still belong to the people in them:\n\n01 GJIROKASTËR, Albania — a stone town built steeply into a hillside, slate roof above slate roof, in no way smoothed out for visitors.\n\n02 BUKHARA, Uzbekistan — a Silk Road city that is still a city. Madrasas, a surviving merchant quarter, and normal life going on between them.\n\n03 OHRID, North Macedonia — churches stacked above one of the oldest lakes in the world. Legend gives it 365 of them; the real number is smaller and the setting does the rest.\n\n04 BAŠČARŠIJA, Sarajevo — an Ottoman bazaar quarter that never turned into a theme park, with the architectural seam between Ottoman and Austro-Hungarian running down a single street.\n\n05 KAMPOT, Cambodia — nineteenth-century French colonial shopfronts along a river, largely unrestored and lived in, in a country where most provincial capitals lost theirs.\n\nThis is opinion. The point of an old town is that it is still somebody's town, and that is a judgement, not a measurement.\n\nWhich one did we insult? Make the case for Dubrovnik if you want to.",
+ "tags": [
+  "oldtowns",
+  "gjirokaster",
+  "bukhara",
+  "ohrid",
+  "sarajevo",
+  "kampot",
+  "balkans",
+  "travelinspo",
+  "architecture",
+  "earthbynumbers"
+ ]
+}

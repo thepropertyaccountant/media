@@ -1,0 +1,90 @@
+{
+ "slug": "top5-lighthouses",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-lighthouses",
+   "archetype": "swell",
+   "palette": "top5-lighthouses",
+   "element": "lighthouse",
+   "kicker": "LIGHTHOUSES",
+   "region": "Top 5 / Opinion",
+   "hook": "Peggy's Cove is a car park with a light on it.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "Peggy's Cove<br>is a car park<br>with a light<br>on it.",
+    "sub": "Five lighthouses that actually stand somewhere frightening. Opinion.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Fastnet Rock",
+   "where": "County Cork, Ireland",
+   "note": "A granite tower on a rock in the open Atlantic, the last thing emigrants saw leaving Ireland. You do not visit it. You see it from a boat, if the sea allows.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "La Jument",
+   "where": "Finistère, France",
+   "note": "Off the Breton coast in the Fromveur passage, in water that routinely throws itself over the top of the tower. The famous photograph is not an exaggeration.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Les Éclaireurs",
+   "where": "Beagle Channel, Argentina",
+   "note": "A squat red-and-white tower on bare rock near Ushuaia, in a channel where the weather changes while you are looking at it.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Þrídrangaviti",
+   "where": "Vestmannaeyjar, Iceland",
+   "note": "Built on top of a sea stack off the south coast, reached by helicopter because there is no other way. The climb was done with ropes in 1938.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Rubjerg Knude",
+   "where": "North Jutland, Denmark",
+   "note": "A lighthouse being buried by a migrating sand dune. It was moved 70 m inland in 2019 to stop the sea taking it, which is a strange thing to do to a building.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "Peggy's Cove is a car park with a light on it. It is a perfectly nice lighthouse on a perfectly nice bit of Nova Scotian granite, and it is on this many fridge magnets because it is easy to drive to, not because it is remarkable.\n\nFive lighthouses that actually stand somewhere frightening:\n\n01 FASTNET ROCK, Ireland — a granite tower on a rock in the open Atlantic, the last of Ireland that emigrants saw. You do not visit; you look at it from a boat if the sea lets you.\n\n02 LA JUMENT, France — in the Fromveur passage off Brittany, in water that regularly comes over the top of the tower. The famous photograph is not an exaggeration.\n\n03 LES ÉCLAIREURS, Argentina — a small red-and-white tower on bare rock in the Beagle Channel near Ushuaia, where the weather changes while you watch it.\n\n04 ÞRÍDRANGAVITI, Iceland — built on a sea stack off the south coast and reached by helicopter, because there is no other way to get there. The first builders climbed it with ropes in 1938.\n\n05 RUBJERG KNUDE, Denmark — a lighthouse being swallowed by a moving sand dune, shifted 70 m inland in 2019 so the sea would not take it.\n\nThis is opinion. Lighthouses are ranked on how much they frighten you, which is not a number.\n\nWhich one would you not want to be stationed at? And defend Peggy's Cove if you must.",
+ "tags": [
+  "lighthouses",
+  "fastnetrock",
+  "lajument",
+  "iceland",
+  "brittany",
+  "ushuaia",
+  "denmark",
+  "coastal",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

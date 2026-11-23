@@ -1,0 +1,90 @@
+{
+ "slug": "top5-coffee-regions",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-coffee-regions",
+   "archetype": "terraces",
+   "palette": "top5-coffee-regions",
+   "element": "hut",
+   "kicker": "COFFEE REGIONS",
+   "region": "Top 5 / Opinion",
+   "hook": "Blue Mountain is a marketing exercise.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "Blue Mountain<br>is a marketing<br>exercise.",
+    "sub": "Five coffee regions worth the airfare. Opinion, not fact.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Yirgacheffe",
+   "where": "Gedeo, Ethiopia",
+   "note": "Coffee's actual homeland, grown in garden plots under shade at altitude. The floral, tea-like cup people spend a decade chasing is just what grows here.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Huila",
+   "where": "Colombia",
+   "note": "Steep, volcanic, and small-farm to a degree that makes traceability real rather than a label. The washed coffees out of here set the standard everyone copies.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Boquete",
+   "where": "Chiriquí, Panama",
+   "note": "The Gesha varietal that broke every auction record came off these slopes. Expensive, occasionally absurd, and the only one on this list that earns the hype.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Antigua",
+   "where": "Guatemala",
+   "note": "Three volcanoes, volcanic soil, and a valley that traps cloud. Chocolate and spice rather than fruit, and a town you would visit anyway.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Kintamani",
+   "where": "Bali, Indonesia",
+   "note": "Grown between citrus and vegetables on an old caldera rim, which does something to the cup. The one nobody puts on a list, which is why it is on this one.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "Jamaican Blue Mountain is a marketing exercise. It is a protected name attached to a small volume of coffee, sold at four times the price of better coffee from places nobody has made a brand out of, and most people who order it could not pick it out of a line-up.\n\nFive coffee regions actually worth the airfare:\n\n01 YIRGACHEFFE, Ethiopia — coffee's homeland, grown in garden plots under shade. The floral, almost tea-like cup that specialty roasters spend careers chasing is simply what grows here by default.\n\n02 HUILA, Colombia — steep, volcanic, and genuinely small-farm, which makes traceability mean something. The washed coffees out of Huila are the reference point half the industry is trying to match.\n\n03 BOQUETE, Panama — the Gesha that broke every auction record came off these slopes. Expensive to the point of silly, and the one on this list where the hype is deserved.\n\n04 ANTIGUA, Guatemala — a valley ringed by volcanoes that traps the cloud. Chocolate and spice rather than fruit, in a town worth the trip on its own terms.\n\n05 KINTAMANI, Bali — grown between citrus trees and vegetables on an old caldera rim. Nobody puts it on a list like this, which is exactly why it is here.\n\nThis is opinion. Rankings of coffee are always opinion, and anyone who tells you otherwise is selling something.\n\nTell us which region we got wrong — and go on, defend Blue Mountain.",
+ "tags": [
+  "coffee",
+  "specialtycoffee",
+  "yirgacheffe",
+  "huila",
+  "gesha",
+  "boquete",
+  "antiguaguatemala",
+  "coffeetravel",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

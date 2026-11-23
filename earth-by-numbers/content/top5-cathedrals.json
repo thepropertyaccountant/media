@@ -1,0 +1,90 @@
+{
+ "slug": "top5-cathedrals",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-cathedrals",
+   "archetype": "steppe",
+   "palette": "top5-cathedrals",
+   "element": "church",
+   "kicker": "CATHEDRALS",
+   "region": "Top 5 / Opinion",
+   "hook": "The Sagrada Família is a building site.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "The Sagrada<br>Família is a<br>building site.",
+    "sub": "Five cathedrals that are finished and better. Opinion, not fact.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Chartres",
+   "where": "Eure-et-Loir, France",
+   "note": "The glass is the reason. Most of it is original medieval work rather than replacement, which almost nowhere else can say after two world wars.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Durham",
+   "where": "County Durham, England",
+   "note": "Norman, heavy, and the first great building to carry a stone rib vault at that scale. It feels structural rather than decorative, which is rarer than it sounds.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Saint Basil's",
+   "where": "Moscow, Russia",
+   "note": "Not a cathedral in the western sense and all the better for it — nine chapels under nine different roofs, arranged with no interest in symmetry.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Lalibela",
+   "where": "Amhara, Ethiopia",
+   "note": "Eleven churches cut downwards out of solid rock rather than built up from the ground. Still in use, which is the part people forget.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Monreale",
+   "where": "Sicily, Italy",
+   "note": "Norman architecture, Byzantine mosaic, Arab craftsmanship, in one building. The gold interior is the argument against restraint.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "The Sagrada Família is a building site. It has been one for over 140 years, you buy a timed ticket to walk through scaffolding, and a great deal of what you are looking at was designed by people who are not Gaudí working from models that were destroyed in 1936.\n\nFive cathedrals that are finished, and better:\n\n01 CHARTRES, France — the glass. Most of it is original medieval work rather than replacement, which almost nowhere in northern Europe can claim after two wars.\n\n02 DURHAM, England — Norman and heavy, and the first great building to carry a stone rib vault at that scale. It reads as structure rather than decoration.\n\n03 SAINT BASIL'S, Moscow — not a cathedral in the western sense at all. Nine chapels under nine roofs, arranged with no interest whatsoever in symmetry.\n\n04 LALIBELA, Ethiopia — eleven churches cut downward out of solid rock instead of built upward out of blocks. Still in use, which is the part that gets left out.\n\n05 MONREALE, Sicily — Norman architecture, Byzantine mosaic and Arab craftsmanship in one room. The case against restraint.\n\nThis is opinion, and a strong one. Buildings are not rankable and we have done it anyway.\n\nWhich did we leave out? And yes, go ahead and defend the scaffolding.",
+ "tags": [
+  "cathedrals",
+  "chartres",
+  "durhamcathedral",
+  "lalibela",
+  "monreale",
+  "saintbasils",
+  "architecture",
+  "travelinspo",
+  "worldheritage",
+  "earthbynumbers"
+ ]
+}

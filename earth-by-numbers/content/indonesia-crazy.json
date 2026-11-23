@@ -1,0 +1,92 @@
+{
+ "slug": "indonesia-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "indonesia-crazy",
+   "archetype": "volcano",
+   "palette": "indonesia-crazy",
+   "element": "boat",
+   "kicker": "INDONESIA",
+   "region": "Sunda Arc / Southeast Asia",
+   "hook": "Nobody agrees how many islands Indonesia has.",
+   "stats": [
+    [
+     "18,307 islands",
+     "THE HIGHEST FIGURE GIVEN"
+    ],
+    [
+     "400 volcanoes",
+     "AND NOBODY AGREES THERE EITHER"
+    ],
+    [
+     "718",
+     "INDIGENOUS LANGUAGES LISTED"
+    ]
+   ],
+   "was_hook": {
+    "title": "Nobody agrees<br>how many islands<br>Indonesia has.",
+    "sub": "Wikipedia gives five different answers on two pages.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "18,307",
+   "numsize": "s3",
+   "bg": "",
+   "label": "islands — the highest figure given",
+   "title": "A 2002 LAPAN survey. The CIA says 17,508. Bakosurtanal says 17,500.",
+   "size": "h-sm",
+   "source": "Geography of Indonesia. Indonesia's own lead says 'between 13,000 and 17,000'. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "400",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "volcanoes — and nobody agrees there either",
+   "title": "Indonesia says around 130 are active. Geography of Indonesia says 150.",
+   "size": "h-sm",
+   "source": "Indonesia; Geography of Indonesia. The volcanic belt figure is the same on both. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "718",
+   "numsize": "s3",
+   "bg": "",
+   "label": "indigenous languages listed",
+   "title": "The prose says 'more than 700'. The infobox commits to a number.",
+   "size": "h-sm",
+   "source": "Indonesia. The footnote excludes dialects and subdialects. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "Only 922 of them have anyone living on them.",
+   "sub": "That is the one figure both articles agree on. Three land neighbours — Malaysia, Papua New Guinea and Timor-Leste — across a country of 1,904,569 km², the 14th largest on Earth.",
+   "source": "Indonesia; Geography of Indonesia; Borders of Indonesia. Source: Wikipedia. Dataset: mledoze/countries (CC-BY-SA).",
+   "handle": true
+  }
+ ],
+ "caption": "Nobody agrees how many islands Indonesia has. Not roughly — not at all.\n\nWikipedia gives five different answers on two pages. Indonesia's lead says \"between 13,000 and 17,000\". Its geography section says published figures run \"from 13,466 named islands to more than 17,500\". Geography of Indonesia offers 17,500 from Bakosurtanal, 17,508 from the CIA, and 18,307 from an earlier LAPAN survey in 2002.\n\nINDONESIA BY NUMBERS\nIslands — somewhere between 13,000 and 18,307\nPermanently inhabited — 922\nVolcanoes — about 400, of which 130 or 150 are active\nIndigenous languages — 718 listed\nLand area — 1,904,569 km², 14th largest in the world\nLand neighbours — 3: Malaysia, Papua New Guinea, Timor-Leste\n\nThe spread is not sloppiness. It is what happens when you try to count islands: the answer depends entirely on what counts as one, and at what scale you draw the coast. A rock that is an island at low tide is not one at high tide. The tighter your definition, the fewer you find.\n\nThe volcano count has the same problem in miniature. Both articles say the belt holds roughly 400. One says around 130 are active, the other approximately 150. Neither is wrong; \"active\" is a judgement.\n\nWe could have picked a number and looked confident. The honest version is more interesting: the fourth most populous country on Earth does not know how many pieces it is made of.\n\nWhich figure would you have gone with?",
+ "tags": [
+  "indonesia",
+  "java",
+  "sumatra",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "islands",
+  "southeastasia",
+  "earthbynumbers"
+ ]
+}

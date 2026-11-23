@@ -1,0 +1,93 @@
+{
+ "slug": "philippines-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "philippines-crazy",
+   "archetype": "islands",
+   "palette": "philippines-crazy",
+   "element": "boat",
+   "kicker": "PHILIPPINES",
+   "region": "Luzon / Maritime Southeast Asia",
+   "hook": "The Philippines gained 534 islands in 2017.",
+   "stats": [
+    [
+     "7,641 islands",
+     "REVISED UP IN 2017"
+    ],
+    [
+     "36,289",
+     "KM OF COASTLINE"
+    ],
+    [
+     "195 languages",
+     "AT THE TOP OF THE ESTIMATE"
+    ]
+   ],
+   "was_hook": {
+    "title": "The Philippines<br>gained 534 islands<br>in 2017.",
+    "sub": "Nothing rose out of the sea. Somebody looked more carefully.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "7,641",
+   "numsize": "s3",
+   "bg": "",
+   "label": "islands — revised up in 2017",
+   "title": "The 1945 count stood for 72 years. A mapping survey found 400 to 500 more land features.",
+   "size": "h-sm",
+   "source": "Geography of the Philippines, citing NAMRIA. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "36,289",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "km of coastline — fifth longest on Earth",
+   "title": "In a country of about 300,000 km². More than 5,000 of its islands are still unnamed.",
+   "size": "h-sm",
+   "source": "Philippines; Geography of the Philippines; List of islands of the Philippines. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "195",
+   "numsize": "s3",
+   "bg": "",
+   "label": "languages — at the top of the estimate",
+   "title": "'Some 130 to 195 languages, depending on the method of classification.' The range is the fact.",
+   "size": "h-sm",
+   "source": "Languages of the Philippines. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "There is an island, in a lake, on an island, in a lake, on an island.",
+   "sub": "Vulcan Point sits in the Main Crater Lake of Taal Volcano, which sits on Volcano Island, which sits in Taal Lake, which fills a caldera on Luzon. Wikipedia calls it one of only a few in the world.",
+   "source": "Taal Volcano Main Crater Lake; Taal Volcano. Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "The Philippines gained 534 islands in 2017.\n\nNothing rose out of the sea. Somebody looked more carefully. The count of 7,107 was set in 1945 and stood for 72 years, until the national mapping authority identified 400 to 500 additional land features that might qualify, and the official figure became 7,641.\n\nPHILIPPINES BY NUMBERS\nIslands — 7,641, revised up from 7,107 in 2017\nStill officially unnamed — more than 5,000\nInhabited — about 2,000\nCoastline — 36,289 km, fifth longest in the world\nLanguages — some 130 to 195, depending on classification\n\nThe coastline is the figure that explains the country. 36,289 km of it, fifth longest on Earth, wrapped around a land area of roughly 300,000 km². More than five thousand of those islands have no official name.\n\nThe language range is not vagueness, it is the honest answer. Wikipedia says \"some 130 to 195 languages are spoken in the Philippines, depending on the method of classification\". Ethnologue counts 182 native languages. The national language commission counts 135 ethnolinguistic groups. Filipino and English are the official languages, and the 1987 constitution gives regional languages official auxiliary status without naming any of them.\n\nThen there is Taal. Vulcan Point is a rock in the Main Crater Lake on Volcano Island, which sits in Taal Lake, which fills a caldera on Luzon. An island in a lake on an island in a lake on an island.\n\nTwo things we dropped. Emden Deep's depth as a single number — 10,540 m and 10,430 m both appear in one article, so call it about 10,500 m. And Taal as the world's smallest volcano, a label the article itself cites a piece arguing against.\n\nHow many islands does your country have, and does anyone know?",
+ "tags": [
+  "philippines",
+  "luzon",
+  "taal",
+  "palawan",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "islands",
+  "southeastasia",
+  "earthbynumbers"
+ ]
+}

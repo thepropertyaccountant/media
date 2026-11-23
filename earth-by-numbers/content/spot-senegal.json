@@ -1,0 +1,128 @@
+{
+ "slug": "spot-senegal",
+ "kind": "spotlight",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "spot-senegal",
+   "archetype": "coast_cliff",
+   "palette": "spot-senegal",
+   "element": "lighthouse",
+   "kicker": "SENEGAL",
+   "region": "Cap-Vert / West Africa",
+   "hook": "Senegal almost completely surrounds another country.",
+   "stats": [
+    [
+     "196,722 km²",
+     "LAND AREA"
+    ],
+    [
+     "5",
+     "LAND BORDERS"
+    ],
+    [
+     "Dakar",
+     "CAPITAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "Senegal almost<br>completely<br>surrounds<br>another country.",
+    "sub": "The Gambia reaches 320 km inland and Senegal wraps round three sides of it.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "ledger",
+   "kicker": "The basics",
+   "bg": "",
+   "rows": [
+    [
+     "Capital",
+     "Dakar"
+    ],
+    [
+     "Land area",
+     "196,722 km²"
+    ],
+    [
+     "Land borders",
+     "5"
+    ],
+    [
+     "Official language",
+     "French"
+    ],
+    [
+     "Currency",
+     "West African CFA franc"
+    ]
+   ],
+   "source": "Dataset: mledoze/countries (CC-BY-SA)."
+  },
+  {
+   "type": "items",
+   "kicker": "Why go",
+   "title": "Three reasons",
+   "bg": "ink",
+   "items": [
+    {
+     "name": "The end of the continent",
+     "note": "Dakar sits on the Cap-Vert peninsula, the westernmost point of mainland Africa."
+    },
+    {
+     "name": "A pink lake",
+     "note": "Lake Retba is one of very few lakes in the world with naturally pink water, coloured by Dunaliella salina algae."
+    },
+    {
+     "name": "A record almost nobody has",
+     "note": "Wikipedia: Senegal is one of the few African states never to have experienced a coup d'état."
+    }
+   ],
+   "source": "Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "One more thing",
+   "bg": "sun",
+   "title": "395 bird species, and nearly three million birds.",
+   "sub": "The Djoudj sanctuary on the Senegal river covers 16,000 hectares and has recorded 395 species. It has been a Ramsar site since 1977 and World Heritage since 1981, and was on the danger list twice.",
+   "source": "Djoudj National Bird Sanctuary. Source: Wikipedia.",
+   "size": "h-sm"
+  },
+  {
+   "type": "items",
+   "kicker": "Where to go",
+   "title": "Three places",
+   "bg": "",
+   "items": [
+    {
+     "name": "Île de Gorée",
+     "note": "18.2 hectares two kilometres off Dakar, and one of the first twelve World Heritage sites ever designated, in 1978."
+    },
+    {
+     "name": "Saint-Louis",
+     "note": "Capital of the French colony of Senegal from 1673, and of French West Africa from 1895 to 1902. World Heritage since 2000."
+    },
+    {
+     "name": "Bassari Country",
+     "note": "503 km² of Bassari, Fula and Bedik cultural landscape in the south-east, inscribed in 2012."
+    }
+   ],
+   "source": "Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Senegal almost completely surrounds another country.\n\nThe Gambia reaches 320 km inland and Senegal wraps round three sides of it. Geography of Senegal calls it a near-enclave and says The Gambia penetrates more than 320 km into Senegal, from the Atlantic coast to the middle of the country, following its river. The border runs 749 km along both banks. Everything south of it — the Casamance — is Senegalese territory you cannot reach from Dakar without crossing somebody else's country or going round.\n\nSENEGAL BY NUMBERS\nCapital — Dakar\nLand area — 196,722 km²\nLand borders — 5: The Gambia, Guinea, Guinea-Bissau, Mali, Mauritania\nOfficial language — French\nCurrency — West African CFA franc\nBorder with The Gambia — 749 km\n\nDakar sits on the Cap-Vert peninsula, the westernmost point of mainland Africa — Pointe des Almadies, at 17°33′W.\n\nLake Retba is one of very few lakes anywhere with naturally pink water, coloured by Dunaliella salina algae and salty enough to float in. It was often the finish of the Dakar Rally before the race moved to South America in 2009.\n\nAnd one line from Politics of Senegal is worth quoting directly: Senegal is one of the few African states that has never experienced a coup d'état or exceptionally harsh authoritarianism.\n\nWHERE TO GO\nÎle de Gorée — 18.2 hectares two kilometres off Dakar, among the first twelve World Heritage sites designated anywhere, in 1978, and home to the House of Slaves.\nSaint-Louis — capital of the French colony from 1673 and of French West Africa from 1895 to 1902, World Heritage since 2000.\nBassari Country — 503 km² of Bassari, Fula and Bedik cultural landscape in the south-east, inscribed in 2012.\n\nTwo things we dropped. Lake Retba's salinity, where one list says 40% with a citation-needed tag and the article itself says 350 g/L. And any throughput figure for Gorée: the article quotes UNESCO calling it the largest slave-trading centre on the African coast, then historians disputing the usual accounts entirely.\n\nWhich border on a map have you never been able to explain?",
+ "tags": [
+  "senegal",
+  "dakar",
+  "goree",
+  "saintlouis",
+  "lacrose",
+  "casamance",
+  "westafrica",
+  "geographyfacts",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

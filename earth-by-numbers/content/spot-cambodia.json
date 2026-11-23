@@ -1,0 +1,128 @@
+{
+ "slug": "spot-cambodia",
+ "kind": "spotlight",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "spot-cambodia",
+   "archetype": "wetland",
+   "palette": "spot-cambodia",
+   "element": "boat",
+   "kicker": "CAMBODIA",
+   "region": "Tonle Sap / Mekong basin",
+   "hook": "One Cambodian lake reverses its own river every year.",
+   "stats": [
+    [
+     "181,035 km²",
+     "LAND AREA"
+    ],
+    [
+     "3",
+     "LAND BORDERS"
+    ],
+    [
+     "Phnom Penh",
+     "CAPITAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "One Cambodian<br>lake reverses<br>its own river<br>every year.",
+    "sub": "It swells from about 2,500 km² to 16,000 and pushes the water back out.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "ledger",
+   "kicker": "The basics",
+   "bg": "",
+   "rows": [
+    [
+     "Capital",
+     "Phnom Penh"
+    ],
+    [
+     "Land area",
+     "181,035 km²"
+    ],
+    [
+     "Land borders",
+     "3"
+    ],
+    [
+     "Official language",
+     "Khmer"
+    ],
+    [
+     "Currency",
+     "Riel (KHR)"
+    ]
+   ],
+   "source": "Dataset: mledoze/countries (CC-BY-SA)."
+  },
+  {
+   "type": "items",
+   "kicker": "Why go",
+   "title": "Three reasons",
+   "bg": "ink",
+   "items": [
+    {
+     "name": "Angkor Wat",
+     "note": "The largest religious structure in the world according to Guinness, on a site of 162.6 hectares, finished around 1150."
+    },
+    {
+     "name": "Angkor is a city, not a temple",
+     "note": "A 2007 study found urban sprawl of at least 1,000 km² and concluded Angkor was the largest pre-industrial city in the world by area."
+    },
+    {
+     "name": "Tonlé Sap",
+     "note": "The largest freshwater lake in Southeast Asia, and the only one most people have heard of that runs backwards half the year."
+    }
+   ],
+   "source": "Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "One more thing",
+   "bg": "sun",
+   "title": "The lake rises ten metres and the river turns around.",
+   "sub": "As the monsoon raises the Mekong, the Tonlé Sap river reverses and runs inland. The lake goes from about 2,500–3,000 km² and a metre deep to 16,000 km² and 9–14 m, then reverses again and gives it all back.",
+   "source": "Tonlé Sap. Source: Wikipedia.",
+   "size": "h-sm"
+  },
+  {
+   "type": "items",
+   "kicker": "Where to go",
+   "title": "Three places",
+   "bg": "",
+   "items": [
+    {
+     "name": "Koh Ker",
+     "note": "Capital of the whole empire from 928 to 944, with a 36 m seven-tiered pyramid. World Heritage since 2023 — and not fully demined."
+    },
+    {
+     "name": "Preah Vihear",
+     "note": "A Khmer temple on a 525 m cliff in the Dângrêk mountains, awarded to Cambodia by the International Court of Justice in 1962."
+    },
+    {
+     "name": "Kampot",
+     "note": "A river town of 19th-century French colonial architecture, with the abandoned hill station at Bokor above it."
+    }
+   ],
+   "source": "Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "One Cambodian lake reverses its own river every year.\n\nIt swells from about 2,500 km² to 16,000 and pushes the water back out. When the monsoon raises the Mekong, the Tonlé Sap river stops draining the lake and starts filling it, running inland instead of out. The lake goes from roughly 2,500–3,000 km² and a metre deep to 16,000 km² and 9 to 14 m deep. Its level rises about 10 m. Then the rain stops, the flow reverses again, and the lake replenishes the Mekong on the way down.\n\nCAMBODIA BY NUMBERS\nCapital — Phnom Penh\nLand area — 181,035 km²\nLand borders — 3: Laos, Thailand, Vietnam\nOfficial language — Khmer\nCurrency — riel\nAngkor Wat site — 162.6 hectares\n\nAngkor Wat is the largest religious structure in the world according to Guinness World Records, built under Suryavarman II in the 12th century and finished around 1150. But the temple is the small part. A 2007 study found urban sprawl of at least 1,000 km² around it and concluded that Angkor had been the largest pre-industrial city in the world by surface area — in spatial extent, the researchers were careful to say, not population.\n\nCambodia's flag carries Angkor Wat on it. It is one of only four national flags in the world depicting a building, with Portugal, San Marino and Spain.\n\nWHERE TO GO\nKoh Ker — capital of the empire from 928 to 944, with a 36 m seven-tiered pyramid, World Heritage since 2023. The area is not fully demined.\nPreah Vihear — a temple on a 525 m cliff, awarded to Cambodia by the International Court of Justice in 1962 and still contested at the border.\nKampot — a southern river town of 19th-century French colonial architecture, with the abandoned hill station at Bokor on the mountain above.\n\nTwo things we dropped: Angkor's population, which the article itself hedges, and Bokor as a ghost town, since a resort opened there in 2012.\n\nHave you seen a river change direction?",
+ "tags": [
+  "cambodia",
+  "angkorwat",
+  "tonlesap",
+  "kohker",
+  "kampot",
+  "preahvihear",
+  "southeastasia",
+  "geographyfacts",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}

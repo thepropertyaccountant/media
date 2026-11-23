@@ -1,0 +1,92 @@
+{
+ "slug": "australia-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "australia-crazy",
+   "archetype": "dunes",
+   "palette": "australia-crazy",
+   "element": "fence",
+   "kicker": "AUSTRALIA",
+   "region": "Kati Thanda / South Australia",
+   "hook": "Australia's largest lake has filled three times since 1860.",
+   "stats": [
+    [
+     "9,500 km²",
+     "KATI THANDA AT FULL CAPACITY"
+    ],
+    [
+     "478",
+     "KM OF DEAD-STRAIGHT RAILWAY"
+    ],
+    [
+     "330 m",
+     "AVERAGE ELEVATION OF AUSTRALIA"
+    ]
+   ],
+   "was_hook": {
+    "title": "Australia's largest<br>lake has filled<br>three times<br>since 1860.",
+    "sub": "Most of the time it is a salt pan you can drive across.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "9,500",
+   "numsize": "s3",
+   "bg": "",
+   "label": "km² — Kati Thanda at full capacity",
+   "title": "When it fills it is the biggest lake in the country. It is most often empty.",
+   "size": "h-sm",
+   "source": "Kati Thanda-Lake Eyre: completely filled three times between 1860 and June 2025. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "478",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "km of dead-straight railway",
+   "title": "The longest straight stretch of track in the world, across the Nullarbor.",
+   "size": "h-sm",
+   "source": "Trans-Australian Railway: 478.193 km; Nullarbor Plain. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "330",
+   "numsize": "s3",
+   "bg": "",
+   "label": "m — average elevation of Australia",
+   "title": "The lowest, flattest and oldest continental landmass on Earth.",
+   "size": "h-sm",
+   "source": "Geography of Australia, citing Geoscience Australia. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "Western Australia is the second-largest subdivision on Earth.",
+   "sub": "2,527,013 km², beaten only by the Sakha Republic in eastern Russia. One state, and it is larger than all but seven countries. The whole country's highest point is Mount Kosciuszko at 2,228 m.",
+   "source": "Western Australia, citing Geoscience Australia; Mount Kosciuszko. Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Australia's largest lake has filled to capacity three times since 1860.\n\nMost of the time it is a salt pan you can drive across. Kati Thanda–Lake Eyre covers up to 9,500 km² when full, which makes it the biggest lake in the country, and Wikipedia's description of its normal state is one sentence long: the lake is most often empty.\n\nAUSTRALIA BY NUMBERS\nKati Thanda–Lake Eyre at capacity — up to 9,500 km²\nTimes completely filled, 1860 to June 2025 — three\nLowest point — the lake floor, about 15 m below sea level\nLongest dead-straight railway on Earth — 478 km, across the Nullarbor\nAverage elevation of the continent — 330 m\nWestern Australia — 2,527,013 km²\n\nThe flatness is the thing that explains the rest of it. Wikipedia calls Australia the lowest, flattest and oldest continental landmass on Earth, with an average elevation of 330 m. A continent that low drains nowhere in a hurry, which is why its biggest lake is a basin that waits decades for enough rain to matter.\n\nIt is also why you can lay 478 km of railway without a single curve. The Trans-Australian crosses the Nullarbor — from the Latin for \"no tree\" — in one straight line, and it has held that record since it was built.\n\nWestern Australia on its own is 2,527,013 km², the second-largest subdivision of any country on Earth, behind only Sakha in Russia.\n\nOne figure we dropped: Australia's coastline. One article gives 25,760 km, 66,530 km and 59,736 km, and calls it the sixth longest while the list article puts it ninth.\n\nWould you take the train across, or the road?",
+ "tags": [
+  "australia",
+  "lakeeyre",
+  "nullarbor",
+  "outback",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "westernaustralia",
+  "earthbynumbers"
+ ]
+}

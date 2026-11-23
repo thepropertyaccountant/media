@@ -1,0 +1,93 @@
+{
+ "slug": "argentina-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "argentina-crazy",
+   "archetype": "steppe",
+   "palette": "argentina-crazy",
+   "element": "fence",
+   "kicker": "ARGENTINA",
+   "region": "Patagonia / Southern Cone",
+   "hook": "The highest and lowest points of a hemisphere are both here.",
+   "stats": [
+    [
+     "6,961 m",
+     "ACONCAGUA"
+    ],
+    [
+     "-105 m",
+     "LAGUNA DEL CARBON"
+    ],
+    [
+     "3,694 km",
+     "NORTH TO SOUTH"
+    ]
+   ],
+   "was_hook": {
+    "title": "The highest and<br>lowest points of<br>a hemisphere<br>are both here.",
+    "sub": "Argentina holds the ceiling and the floor of the Western Hemisphere.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "6,961",
+   "numsize": "s3",
+   "bg": "",
+   "label": "m — Aconcagua, in Mendoza",
+   "title": "The highest summit outside Asia, and of both the Western and Southern Hemispheres.",
+   "size": "h-sm",
+   "source": "Extreme points of the Americas; Aconcagua, whose own lead gives 6,967.15 m. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "-105",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "m — Laguna del Carbon, in Santa Cruz",
+   "title": "The lowest surface point in the Americas. About 1,500 km from the highest.",
+   "size": "h-sm",
+   "source": "Laguna del Carbon; Extreme points of the Americas. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "3,694",
+   "numsize": "s3",
+   "bg": "",
+   "label": "km — north to south",
+   "title": "2,780,400 km², the eighth-largest country in the world.",
+   "size": "h-sm",
+   "source": "Argentina; Geography of Argentina. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "The southernmost city in the world is an argument, not a fact.",
+   "sub": "Ushuaia claims it on size. Puerto Williams in Chile is further south and was officially recognised as a city in 2019. Wikipedia's own verdict: the title is 'mainly a slogan used for tourism purposes', because city is not a legal designation in either country.",
+   "source": "Ushuaia; Puerto Williams; Southernmost settlements. Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "The highest and lowest points of the Western Hemisphere are both in Argentina.\n\nArgentina holds the ceiling and the floor. Aconcagua, in Mendoza, is the highest summit of the Americas and of both the Western and Southern Hemispheres. Laguna del Carbón, in Santa Cruz, is the lowest surface point in the Americas. They are in the same country, about 1,500 km apart.\n\nARGENTINA BY NUMBERS\nAconcagua — 6,961 m, highest summit outside Asia\nLaguna del Carbón — 105 m below sea level, lowest in the Americas\nNorth–south distance — 3,694 km\nArea — 2,780,400 km², eighth largest in the world\nCoastline — 4,989 km\n\nAconcagua is also the second-most topographically prominent peak on Earth, and the easiest of the Seven Summits to walk up. Its elevation is the one number here that Wikipedia cannot hold still: 6,967.15 m on its own page, 6,961 m on the extreme-points page, 6,959 m in the Argentina article, 6,960 and 6,962 in the same paragraph of Geography of Argentina. We used the figure with the cleanest provenance.\n\nThe southernmost city is a better argument than it looks. Ushuaia has claimed the title for decades on the grounds of being an actual city. Puerto Williams in Chile is further south, and in 2019 Chile's statistics institute changed its criteria so that Puerto Williams, as a provincial capital, officially became one. Wikipedia's own page on southernmost settlements calls the whole title a tourism slogan, pointing out that \"ciudad\" is not a legal designation in either country.\n\nTwo things we cut. Perito Moreno as an advancing glacier — Wikipedia now says retreating, on the northern front since 2020. And Iguazú's number of cascades, which is 275 in the infobox and \"150 to 300\" in the body of the same article.\n\nUshuaia or Puerto Williams?",
+ "tags": [
+  "argentina",
+  "aconcagua",
+  "patagonia",
+  "ushuaia",
+  "santacruz",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "southamerica",
+  "earthbynumbers"
+ ]
+}

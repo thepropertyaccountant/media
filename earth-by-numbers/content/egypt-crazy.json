@@ -1,0 +1,92 @@
+{
+ "slug": "egypt-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "egypt-crazy",
+   "archetype": "delta",
+   "palette": "egypt-crazy",
+   "element": "boat",
+   "kicker": "EGYPT",
+   "region": "Nile Valley / Northeast Africa",
+   "hook": "Almost all of Egypt lives on 3.5% of Egypt.",
+   "stats": [
+    [
+     "35,000 km²",
+     "THE SETTLED PART OF EGYPT"
+    ],
+    [
+     "3,700",
+     "YEARS AS THE TALLEST STRUCTURE"
+    ],
+    [
+     "193.3 km",
+     "THE SUEZ CANAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "Almost all of<br>Egypt lives on<br>3.5% of Egypt.",
+    "sub": "The other 96.5% is there, it is just empty.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "35,000",
+   "numsize": "s3",
+   "bg": "",
+   "label": "km² — the settled part of Egypt",
+   "title": "3.5% of the country, in a valley and a delta, holding about 99% of the people.",
+   "size": "h-sm",
+   "source": "Geography of Egypt. The Egypt article gives 5.5% in one place and 3% in another. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "3,700",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "years as the tallest structure",
+   "title": "The Great Pyramid held the record for more than 3,700 years. It took about 26 to build.",
+   "size": "h-sm",
+   "source": "Great Pyramid of Giza, c. 2600 BC, originally 146.6 m. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "193.3",
+   "numsize": "s3",
+   "bg": "",
+   "label": "km — the Suez Canal",
+   "title": "Dug between 1859 and 1869, opened 17 November 1869, no locks.",
+   "size": "h-sm",
+   "source": "Suez Canal. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "Two temples were cut into 1,036 blocks and moved uphill.",
+   "sub": "Abu Simbel was relocated in 1968 to get it clear of Lake Nasser — 208 m further inland and 65 m higher. The smallest block weighed seven tons. The country also runs from 2,653 m on Mount Catherine down to 133 m below sea level in the Qattara Depression.",
+   "source": "Abu Simbel; Mount Catherine; Qattara Depression. Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Almost everyone in Egypt lives on about 3.5% of Egypt.\n\nThe other 96.5% is there, it is just empty. Geography of Egypt puts the cultivated and permanently settled land at 35,000 km² — a river valley and a delta — and the share of the population living on it at about 99%.\n\nEGYPT BY NUMBERS\nCultivated and settled land — 35,000 km², about 3.5% of the country\nShare of the population living there — about 99%\nGreat Pyramid — tallest structure on Earth for more than 3,700 years\nSuez Canal — 193.3 km, opened 17 November 1869\nHighest point — Mount Catherine, 2,653 m\nLowest point — Qattara Depression, 133 m below sea level\n\nThe pyramid number is worth sitting with. It was built around 2600 BC, over about 26 years, and nothing humans made was taller for the next three and a half millennia. It stood 146.6 m when finished and stands 138.5 m now.\n\nAbu Simbel is the other one. In 1968 the two temples were cut into 1,036 blocks, the smallest weighing seven tons, and rebuilt 208 m further inland and 65 m higher up, to get them above the rising water of Lake Nasser. The project cost $41.7 million at the time.\n\nThree things we dropped. Egypt's desert share as a percentage — it is simply not on the page, only the words \"predominantly desert\". The Suez Canal's share of world trade, because that sentence carries no citation and no date. And Lake Nasser as the world's largest man-made lake, because the reservoir list puts it eleventh, behind Lake Volta.\n\nThe Egypt article itself can't settle on the figure: 99% on 5.5% in one place, 98% on 3% in another.\n\nWhere else does a whole country fit into one valley?",
+ "tags": [
+  "egypt",
+  "nile",
+  "suezcanal",
+  "giza",
+  "abusimbel",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "earthbynumbers"
+ ]
+}

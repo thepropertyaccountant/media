@@ -992,5 +992,285 @@
    "#142428"
   ],
   "accent": "#9CD0AE"
+ },
+ "indonesia-crazy": {
+  "sky": [
+   "#1B3C52",
+   "#8FB8BC"
+  ],
+  "planes": [
+   "#A6C8C4",
+   "#798e7b",
+   "#535f49",
+   "#3e4b38",
+   "#12242A"
+  ],
+  "accent": "#E6A64A"
+ },
+ "brazil-crazy": {
+  "sky": [
+   "#203C4A",
+   "#9BB89A"
+  ],
+  "planes": [
+   "#B0C8A4",
+   "#898b67",
+   "#625c3d",
+   "#4c482b",
+   "#13231B"
+  ],
+  "accent": "#D8C25E"
+ },
+ "australia-crazy": {
+  "sky": [
+   "#35455E",
+   "#D8BFA0"
+  ],
+  "planes": [
+   "#E2CDA8",
+   "#b0815f",
+   "#7f4d33",
+   "#6a321c",
+   "#2A1912"
+  ],
+  "accent": "#F09040"
+ },
+ "switzerland-crazy": {
+  "sky": [
+   "#1E3A58",
+   "#BCCEDE"
+  ],
+  "planes": [
+   "#D0DCE6",
+   "#939796",
+   "#62625d",
+   "#474944",
+   "#161E28"
+  ],
+  "accent": "#D8E4EE"
+ },
+ "egypt-crazy": {
+  "sky": [
+   "#2C4A66",
+   "#CFC4A0"
+  ],
+  "planes": [
+   "#DCD0AA",
+   "#a9976e",
+   "#796743",
+   "#624e2e",
+   "#241C14"
+  ],
+  "accent": "#EFC25C"
+ },
+ "india-crazy": {
+  "sky": [
+   "#26404E",
+   "#9EBC98"
+  ],
+  "planes": [
+   "#B4CA9E",
+   "#869565",
+   "#5d673f",
+   "#47522d",
+   "#15221A"
+  ],
+  "accent": "#CFD468"
+ },
+ "argentina-crazy": {
+  "sky": [
+   "#28445E",
+   "#B4BCA6"
+  ],
+  "planes": [
+   "#C6C8B0",
+   "#999475",
+   "#6e664b",
+   "#575135",
+   "#1C2018"
+  ],
+  "accent": "#DEC070"
+ },
+ "philippines-crazy": {
+  "sky": [
+   "#1A4258",
+   "#88C4C0"
+  ],
+  "planes": [
+   "#A2D2C6",
+   "#8e997e",
+   "#6e684b",
+   "#5a5339",
+   "#102428"
+  ],
+  "accent": "#F0C45E"
+ },
+ "spot-tajikistan": {
+  "sky": [
+   "#244058",
+   "#AEB8C4"
+  ],
+  "planes": [
+   "#C8C6BC",
+   "#a08d74",
+   "#755e44",
+   "#5e492f",
+   "#1C1E1E"
+  ],
+  "accent": "#E8B45A"
+ },
+ "spot-guatemala": {
+  "sky": [
+   "#1D3A4E",
+   "#9CBAA8"
+  ],
+  "planes": [
+   "#B2CAAE",
+   "#91896b",
+   "#6c583d",
+   "#56432a",
+   "#13231C"
+  ],
+  "accent": "#E09A48"
+ },
+ "spot-malawi": {
+  "sky": [
+   "#1E3E5C",
+   "#A0BCC8"
+  ],
+  "planes": [
+   "#B8CCD0",
+   "#959681",
+   "#6e674b",
+   "#575337",
+   "#142428"
+  ],
+  "accent": "#E0BC62"
+ },
+ "spot-cambodia": {
+  "sky": [
+   "#26465A",
+   "#B2BE9A"
+  ],
+  "planes": [
+   "#C4C9A4",
+   "#968d64",
+   "#6c5d3a",
+   "#564827",
+   "#1C2218"
+  ],
+  "accent": "#E2B04E"
+ },
+ "spot-zambia": {
+  "sky": [
+   "#1F3E4C",
+   "#9EB8A8"
+  ],
+  "planes": [
+   "#AEBCB0",
+   "#7d8873",
+   "#545c47",
+   "#3f4a34",
+   "#16201C"
+  ],
+  "accent": "#A8C47A"
+ },
+ "spot-north-macedonia": {
+  "sky": [
+   "#1C3C60",
+   "#A8C2D4"
+  ],
+  "planes": [
+   "#C0D0D8",
+   "#92968b",
+   "#676556",
+   "#4f4e40",
+   "#151F28"
+  ],
+  "accent": "#D4BC7E"
+ },
+ "spot-senegal": {
+  "sky": [
+   "#1E4A60",
+   "#8FB4BE"
+  ],
+  "planes": [
+   "#A4BCC0",
+   "#83766c",
+   "#604639",
+   "#4f2c1d",
+   "#1A1210"
+  ],
+  "accent": "#E08A3C"
+ },
+ "top5-coffee-regions": {
+  "sky": [
+   "#223E46",
+   "#9CB68E"
+  ],
+  "planes": [
+   "#B2C696",
+   "#8a805a",
+   "#624f33",
+   "#4f3820",
+   "#1A1C14"
+  ],
+  "accent": "#D8743E"
+ },
+ "top5-old-towns": {
+  "sky": [
+   "#28425A",
+   "#B8BCB2"
+  ],
+  "planes": [
+   "#C8CAB8",
+   "#968973",
+   "#685844",
+   "#52412e",
+   "#1C1E1A"
+  ],
+  "accent": "#D09A62"
+ },
+ "top5-lighthouses": {
+  "sky": [
+   "#1A3240",
+   "#6E8C98"
+  ],
+  "planes": [
+   "#8CA6AE",
+   "#5d757d",
+   "#3a4e54",
+   "#283d44",
+   "#0E1C22"
+  ],
+  "accent": "#C8DCE2"
+ },
+ "top5-cathedrals": {
+  "sky": [
+   "#2A4668",
+   "#C2C6C0"
+  ],
+  "planes": [
+   "#D2D0BE",
+   "#a89a78",
+   "#7b6b49",
+   "#635231",
+   "#1E1A16"
+  ],
+  "accent": "#E8C070"
+ },
+ "top5-rainforests": {
+  "sky": [
+   "#1C3A40",
+   "#86A888"
+  ],
+  "planes": [
+   "#9EBC94",
+   "#6f8b60",
+   "#4a603b",
+   "#344c2a",
+   "#0F1E16"
+  ],
+  "accent": "#96CC5E"
  }
 }

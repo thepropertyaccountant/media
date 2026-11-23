@@ -1,0 +1,128 @@
+{
+ "slug": "spot-tajikistan",
+ "kind": "spotlight",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "spot-tajikistan",
+   "archetype": "mountains",
+   "palette": "spot-tajikistan",
+   "element": "tent",
+   "kicker": "TAJIKISTAN",
+   "region": "Pamir / Central Asia",
+   "hook": "The tallest dam in the world is an accident.",
+   "stats": [
+    [
+     "143,100 km²",
+     "LAND AREA"
+    ],
+    [
+     "4",
+     "LAND BORDERS"
+    ],
+    [
+     "Dushanbe",
+     "CAPITAL"
+    ]
+   ],
+   "was_hook": {
+    "title": "The tallest dam<br>in the world is<br>an accident.",
+    "sub": "An earthquake built it in 1911 and nobody has moved it since.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "ledger",
+   "kicker": "The basics",
+   "bg": "",
+   "rows": [
+    [
+     "Capital",
+     "Dushanbe"
+    ],
+    [
+     "Land area",
+     "143,100 km²"
+    ],
+    [
+     "Land borders",
+     "4"
+    ],
+    [
+     "Official language",
+     "Tajik"
+    ],
+    [
+     "Currency",
+     "Somoni (TJS)"
+    ]
+   ],
+   "source": "Dataset: mledoze/countries (CC-BY-SA)."
+  },
+  {
+   "type": "items",
+   "kicker": "Why go",
+   "title": "Three reasons",
+   "bg": "ink",
+   "items": [
+    {
+     "name": "The Roof of the World",
+     "note": "The Pamirs have been called that since the Victorian era. Ismoil Somoni Peak tops out at 7,495 m."
+    },
+    {
+     "name": "The Pamir Highway",
+     "note": "The M41 crosses the Ak-Baital pass at 4,655 m, which makes it the second-highest international highway there is."
+    },
+    {
+     "name": "A park the size of a country",
+     "note": "Tajik National Park covers 26,116 km² — a little over 18% of the whole country — and has been World Heritage since 2013."
+    }
+   ],
+   "source": "Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "One more thing",
+   "bg": "sun",
+   "title": "567 metres of rock, dropped by an earthquake.",
+   "sub": "On 18 February 1911 the Sarez earthquake dislodged about 2 cubic kilometres of mountain, burying the village of Usoi and damming the Murghab river. The Usoi Dam is the tallest dam in the world, natural or man-made, and Lake Sarez behind it is 75.8 km long and 505 m deep.",
+   "source": "Usoi Dam; Sarez Lake. Source: Wikipedia.",
+   "size": "h-sm"
+  },
+  {
+   "type": "items",
+   "kicker": "Where to go",
+   "title": "Three places",
+   "bg": "",
+   "items": [
+    {
+     "name": "Iskanderkul",
+     "note": "A lake at 2,195 m in the Fann Mountains, 72 m deep. Iskander is the Persian form of Alexander."
+    },
+    {
+     "name": "Lake Karakul",
+     "note": "At 3,960 m in the eastern Pamirs, sitting in what has been interpreted as a 52 km impact crater. Higher than Titicaca."
+    },
+    {
+     "name": "Khujand",
+     "note": "On the Syr Darya at the mouth of the Fergana valley, about 2,500 years old and renamed by Alexander in 329 BC."
+    }
+   ],
+   "source": "Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "The tallest dam in the world is in Tajikistan, and nobody built it.\n\nAn earthquake built it in 1911 and nobody has moved it since. On 18 February that year the Sarez earthquake dropped roughly 2 cubic kilometres of mountain into the Murghab valley, burying the village of Usoi and blocking the river. The Usoi Dam stands 567 m high, which makes it the tallest dam on Earth, natural or man-made, and Lake Sarez has been filling behind it ever since — 75.8 km long, 505 m deep, 3,263 m above the sea.\n\nTAJIKISTAN BY NUMBERS\nCapital — Dushanbe\nLand area — 143,100 km²\nLand borders — 4: Afghanistan, China, Kyrgyzstan, Uzbekistan\nOfficial language — Tajik\nCurrency — somoni\nHighest point — Ismoil Somoni Peak, 7,495 m\n\nMore than half the country sits above 3,000 m, according to the Library of Congress country study Wikipedia cites. The Pamirs have been called the Roof of the World since the Victorian era, and the M41 — the Pamir Highway — crosses them over the Ak-Baital pass at 4,655 m, the second-highest international highway in the world.\n\nTajik National Park covers 26,116 km², a little over 18% of the country, and has been a World Heritage site since 2013.\n\nWHERE TO GO\nIskanderkul — a lake at 2,195 m in the Fann Mountains, 72 m deep, named for Alexander.\nLake Karakul — 3,960 m up in the eastern Pamirs, in what is interpreted as a 52 km impact crater, higher than Lake Titicaca.\nKhujand — on the Syr Darya at the mouth of the Fergana valley, about 2,500 years of it, renamed Alexandria Eschate in 329 BC.\n\nTwo things we cut: Nurek Dam's height, which is 300 m in its infobox and 304 m in its lead, and the area of the largest non-polar glacier, which Wikipedia is currently mid-rename on.\n\nWould you drive the Pamir Highway?",
+ "tags": [
+  "tajikistan",
+  "pamir",
+  "pamirhighway",
+  "khujand",
+  "centralasia",
+  "fannmountains",
+  "geographyfacts",
+  "travelinspo",
+  "worldfacts",
+  "earthbynumbers"
+ ]
+}

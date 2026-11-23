@@ -1,0 +1,92 @@
+{
+ "slug": "brazil-crazy",
+ "kind": "crazy",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "brazil-crazy",
+   "archetype": "forest_valley",
+   "palette": "brazil-crazy",
+   "element": "boat",
+   "kicker": "BRAZIL",
+   "region": "Amazon basin / South America",
+   "hook": "Brazil borders every country in South America but two.",
+   "stats": [
+    [
+     "10",
+     "NEIGHBOURS"
+    ],
+    [
+     "45.7%",
+     "OF BRAZIL DRAINS INTO THE AMAZON"
+    ],
+    [
+     "20%",
+     "OF THE WORLD'S RIVER DISCHARGE"
+    ]
+   ],
+   "was_hook": {
+    "title": "Brazil borders<br>every country in<br>South America<br>but two.",
+    "sub": "Chile and Ecuador are the only ones that got away.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 02",
+   "number": "10",
+   "numsize": "s2",
+   "bg": "",
+   "label": "neighbours — nine countries and France",
+   "title": "French Guiana is a department of France, so the EU has a land border with Brazil.",
+   "size": "h-sm",
+   "source": "Borders of Brazil: 'terrestrial boundaries with nine countries of South America, and with the French Department of Guiana'. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 03",
+   "number": "45.7%",
+   "numsize": "s3",
+   "bg": "ink",
+   "sea": true,
+   "label": "of Brazil drains into the Amazon",
+   "title": "Not the rainforest — the river basin. Almost half the country runs into one river.",
+   "size": "h-sm",
+   "source": "Geography of Brazil. Source: Wikipedia."
+  },
+  {
+   "type": "bignum",
+   "kicker": "Stat 04",
+   "number": "20%",
+   "numsize": "s3",
+   "bg": "",
+   "label": "of the world's river discharge",
+   "title": "One river. Wikipedia puts its discharge above the next seven largest rivers combined.",
+   "size": "h-sm",
+   "source": "Amazon River. Discharge given as 215,000-230,000 m³/s. Source: Wikipedia."
+  },
+  {
+   "type": "fact",
+   "kicker": "Stat 05",
+   "bg": "sun",
+   "size": "h-sm",
+   "title": "No bridge crosses the main stem of the Amazon.",
+   "sub": "And not because it is too wide. Wikipedia is blunt: for most of its length engineers could build one easily. There is simply no road on the far side worth connecting to. The bridge at Manaus crosses the Rio Negro.",
+   "source": "Amazon River. Source: Wikipedia.",
+   "handle": true
+  }
+ ],
+ "caption": "Brazil has a land border with every country in South America except two.\n\nChile and Ecuador are the only ones that got away. Everything else — Uruguay, Argentina, Paraguay, Bolivia, Peru, Colombia, Venezuela, Guyana, Suriname — touches Brazil, and so does France.\n\nBRAZIL BY NUMBERS\nLand neighbours — 10, nine countries plus French Guiana\nLongest border — with Bolivia\nShare of Brazil draining into the Amazon — 45.7%\nShare of all river water reaching the oceans — about 20%, from the Amazon alone\nArea — about 8.5 million km², fifth largest in the world\nTime zones — 4\n\nFrench Guiana is an overseas department of France, which makes that stretch a border between Brazil and the European Union. It is the same quirk that gives France its longest land border.\n\nThe Amazon numbers are hard to hold in your head. Its basin covers 45.7% of Brazil — not the rainforest, the drainage. Its discharge is given as 215,000 to 230,000 cubic metres a second, which Wikipedia says is more than the next seven largest rivers put together, and roughly a fifth of all the river water arriving in the world's oceans.\n\nAnd no bridge crosses it. Not the main stem, anywhere along its length. The reason is not engineering — Wikipedia says a bridge would be easy for most of the river — it is that there is nothing on the other side to drive to. The famous bridge at Manaus spans the Rio Negro, a tributary, just short of the confluence.\n\nOne figure we cut: Brazil's total land border length. Three Wikipedia articles give three answers about 2,200 km apart.\n\nWhich border surprised you most?",
+ "tags": [
+  "brazil",
+  "amazon",
+  "amazonriver",
+  "frenchguiana",
+  "geographyfacts",
+  "didyouknow",
+  "maps",
+  "worldfacts",
+  "southamerica",
+  "earthbynumbers"
+ ]
+}

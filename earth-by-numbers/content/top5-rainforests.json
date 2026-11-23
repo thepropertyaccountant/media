@@ -1,0 +1,91 @@
+{
+ "slug": "top5-rainforests",
+ "kind": "top5",
+ "slides": [
+  {
+   "type": "poster",
+   "seed": "top5-rainforests",
+   "archetype": "forest_valley",
+   "palette": "top5-rainforests",
+   "element": "hut",
+   "kicker": "RAINFORESTS",
+   "region": "Top 5 / Opinion",
+   "hook": "The Amazon is not the one to visit.",
+   "stats": [
+    [
+     "05",
+     "places ranked"
+    ],
+    [
+     "—",
+     "opinion, not fact"
+    ]
+   ],
+   "was_hook": {
+    "title": "The Amazon is<br>not the one<br>to visit.",
+    "sub": "Five rainforests that show you more. Opinion, not fact.",
+    "size": "h-md"
+   }
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 1",
+   "rank": "01",
+   "place": "Daintree",
+   "where": "Queensland, Australia",
+   "note": "Rainforest running straight into a coral reef, and one of the oldest continuously forested areas anywhere. You can walk it in a day and see the structure.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 2",
+   "rank": "02",
+   "place": "Borneo's Danum Valley",
+   "where": "Sabah, Malaysia",
+   "note": "Old-growth dipterocarp forest with a canopy walkway, in a place where the trees themselves are the spectacle rather than the wildlife list.",
+   "bg": "ink"
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 3",
+   "rank": "03",
+   "place": "Monteverde",
+   "where": "Puntarenas, Costa Rica",
+   "note": "Cloud forest rather than lowland jungle — wind, moss, and visibility measured in metres. Completely different experience and far easier to actually see.",
+   "bg": ""
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 4",
+   "rank": "04",
+   "place": "Cardamom Mountains",
+   "where": "Cambodia",
+   "note": "One of the largest and still mostly unexplored forests in Southeast Asia, holding at least 62 globally threatened animal species and more than 450 birds.",
+   "bg": "ink",
+   "source": "Cardamom Mountains. Source: Wikipedia."
+  },
+  {
+   "type": "rank",
+   "kicker": "No. 5",
+   "rank": "05",
+   "place": "Korup",
+   "where": "Southwest Region, Cameroon",
+   "note": "West African forest that survived the last ice age intact, which is why the diversity is what it is. Almost nobody goes.",
+   "bg": "",
+   "handle": true
+  }
+ ],
+ "caption": "The Amazon is not the one to visit. It is the most important rainforest on Earth and the least rewarding to walk into: the trees are enormous, the sightlines are nil, the wildlife is high up and gone before you look, and most lodge trips are a long boat ride to see a forest you cannot see.\n\nFive rainforests that show you more:\n\n01 DAINTREE, Australia — rainforest running directly into a coral reef, and among the oldest continuously forested areas anywhere. Walkable in a day, and you can read its structure.\n\n02 DANUM VALLEY, Borneo — old-growth dipterocarp forest with a canopy walkway, where the trees are the spectacle rather than a checklist of animals.\n\n03 MONTEVERDE, Costa Rica — cloud forest, not lowland jungle. Wind, moss, visibility of a few metres, and far easier to actually see things in.\n\n04 CARDAMOM MOUNTAINS, Cambodia — one of the largest and still mostly unexplored forests in Southeast Asia, with at least 62 globally threatened animal species and more than 450 bird species.\n\n05 KORUP, Cameroon — West African forest that came through the last ice age intact, which is why its diversity is what it is. Almost nobody goes.\n\nThis is opinion. The one hard number here, the Cardamoms' threatened-species count, is Wikipedia's.\n\nWhere did you go expecting jungle and see nothing? And make the case for the Amazon.",
+ "tags": [
+  "rainforest",
+  "daintree",
+  "danumvalley",
+  "monteverde",
+  "cardamommountains",
+  "korup",
+  "borneo",
+  "cloudforest",
+  "travelinspo",
+  "earthbynumbers"
+ ]
+}
