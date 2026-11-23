@@ -98,7 +98,7 @@ At one post a day the first 22 open rows carry the feed from 22 November to
 | 47 | 1–14 Jan (or last week of Apr) | GST is due on the 28th. Except twice a year. | Agent | bank |
 | 48 | 15 Jan – 6 Feb | The tax on last year's rent is due 7 February | Property | bank |
 | 69 | 1 Jun – 6 Jul | The rental return for the year to 31 March is due 7 July | Property | bank |
-| 23 | open | A room on Airbnb: the first $65 a night is not income | Property | bank |
+| 23 | open | A room on Airbnb: the first $65 a night is not income | Property | posted |
 | 24 | open | Your rental can lose cash and still owe tax | Property | bank |
 | 14 | open | Entertainment is half. Your own lunch is nothing. | Agent (re-angle) | bank |
 | 25 | open | Airbnb collects 15% GST on your listing. You may get 8.5% back. | Property | bank |
