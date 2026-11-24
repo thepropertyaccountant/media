@@ -18,3 +18,4 @@ topic within six months.
 | 2026-11-21 | Mixed-use assets: the bach that sat empty, and the 62-day test that changes the year | queue/11-mixed-use-holiday-home.md |
 | 2026-11-22 | Schedular payments: commission is taxed before GST, and the rate on the IR330C is yours to set | queue/12-schedular-payments.md |
 | 2026-11-23 | Short-stay standard cost: the first $65 a night in your own home is not income (2025-26 rate) | queue/23-short-stay-standard-cost.md |
+| 2026-11-24 | Your rental can lose cash and still owe tax: the principal is not deductible | queue/24-principal-is-not-deductible.md |
