@@ -100,7 +100,7 @@ At one post a day the first 22 open rows carry the feed from 22 November to
 | 69 | 1 Jun – 6 Jul | The rental return for the year to 31 March is due 7 July | Property | bank |
 | 23 | open | A room on Airbnb: the first $65 a night is not income | Property | posted |
 | 24 | open | Your rental can lose cash and still owe tax | Property | posted |
-| 14 | open | Entertainment is half. Your own lunch is nothing. | Agent (re-angle) | bank |
+| 14 | open | Entertainment is half. Your own lunch is nothing. | Agent (re-angle) | posted |
 | 25 | open | Airbnb collects 15% GST on your listing. You may get 8.5% back. | Property | bank |
 | 26 | open | Fixing it is deductible. Making it better is not. | Property | bank |
 | 27 | open | The champagne is half. The tea towels are whole. | Agent | bank |
