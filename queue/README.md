@@ -101,7 +101,7 @@ At one post a day the first 22 open rows carry the feed from 22 November to
 | 23 | open | A room on Airbnb: the first $65 a night is not income | Property | posted |
 | 24 | open | Your rental can lose cash and still owe tax | Property | posted |
 | 14 | open | Entertainment is half. Your own lunch is nothing. | Agent (re-angle) | posted |
-| 25 | open | Airbnb collects 15% GST on your listing. You may get 8.5% back. | Property | bank |
+| 25 | open | Airbnb collects 15% GST on your listing. You may get 8.5% back. | Property | posted |
 | 26 | open | Fixing it is deductible. Making it better is not. | Property | bank |
 | 27 | open | The champagne is half. The tea towels are whole. | Agent | bank |
 | 28 | open | The legal bill for buying the rental may be deductible | Property | bank |

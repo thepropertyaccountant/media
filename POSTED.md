@@ -20,3 +20,4 @@ topic within six months.
 | 2026-11-23 | Short-stay standard cost: the first $65 a night in your own home is not income (2025-26 rate) | queue/23-short-stay-standard-cost.md |
 | 2026-11-24 | Your rental can lose cash and still owe tax: the principal is not deductible | queue/24-principal-is-not-deductible.md |
 | 2026-11-25 | Entertainment is half, your own lunch is nothing: meals and entertaining for a salesperson on commission | queue/14-entertainment-and-your-own-lunch.md |
+| 2026-11-26 | Airbnb collects 15% GST on your listing: the 8.5% flat-rate credit, and who it is not for | queue/25-gst-on-short-stay-marketplaces.md |
