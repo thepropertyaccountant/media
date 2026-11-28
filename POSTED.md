@@ -22,3 +22,4 @@ topic within six months.
 | 2026-11-25 | Entertainment is half, your own lunch is nothing: meals and entertaining for a salesperson on commission | queue/14-entertainment-and-your-own-lunch.md |
 | 2026-11-26 | Airbnb collects 15% GST on your listing: the 8.5% flat-rate credit, and who it is not for | queue/25-gst-on-short-stay-marketplaces.md |
 | 2026-11-27 | Repairs put it back the way it was; improvements go beyond it, and renewing substantially the whole asset is capital | queue/26-repairs-versus-improvements.md |
+| 2026-11-28 | Legal fees on buying a rental: deductible where total legal fees for the income year are $10,000 or less | queue/28-legal-fees-on-purchase.md |
